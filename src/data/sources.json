@@ -38,14 +38,14 @@
   {
     "id": "natural-earth-10m", "institution": "Natural Earth", "title": "1:10m Populated Places and Rivers", "date": null,
     "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/", "type": "Public-domain geographic dataset",
-    "relevance": "Selected city locations and nine major river courses for map orientation", "supports": ["reference-places", "major-rivers"],
+    "relevance": "Selected city locations and fifteen generalized river courses for map orientation", "supports": ["reference-places", "major-rivers", "secondary-rivers"],
     "notes": "Selected from Natural Earth 1:10m populated places, rivers and European river supplement. Present-day place names and generalized river courses do not establish 1939 jurisdiction, battle lines, or crossing locations.", "reuseRights": "Public domain under Natural Earth Terms of Use; selected and simplified for local display."
   },
   {
     "id": "umn-historical-borders-1939", "institution": "University of Minnesota", "title": "Historical National Boundaries, 1939", "date": "1939",
     "url": "https://doi.org/10.13020/146x-1412", "type": "Historical geographic dataset",
-    "relevance": "Fixed outlines of Poland and six surrounding states in the 1939 annual boundary layer", "supports": ["poland-1939-reference", "surrounding-1939-reference"],
-    "notes": "Annual reconstruction without an exact boundary day; linework is generalized and smoothed. Poland and six surrounding states were extracted, with coordinates rounded for display. Its Czechoslovakia polygon was deliberately excluded because it does not represent the March 1939 separation of Slovakia and the Czech protectorate. These outlines do not show later occupation or partition lines.", "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
+    "relevance": "Fixed outlines of Poland and seven surrounding states in the 1939 annual boundary layer", "supports": ["poland-1939-reference", "surrounding-1939-reference"],
+    "notes": "Annual reconstruction without an exact boundary day; linework is generalized and smoothed. Poland and seven surrounding states were extracted, with coordinates rounded for display. Its Czechoslovakia polygon was deliberately excluded because it does not represent the March 1939 separation of Slovakia and the Czech protectorate. These outlines do not show later occupation or partition lines.", "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
   },
   {
     "id": "ushmm-danzig", "institution": "United States Holocaust Memorial Museum", "title": "Danzig", "date": null,
@@ -70,5 +70,59 @@
     "url": "https://history.state.gov/historicaldocuments/frus1943/d366", "type": "Historical reference",
     "relevance": "Confirms Königsberg as the period name for the East Prussian city", "supports": ["reference-places"],
     "notes": "Supports the historical city name only. The mapped coordinates come from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "us-army-polish-campaign", "institution": "U.S. Army historical study, via HyperWar", "title": "The German Campaign in Poland, September 1 to October 5, 1939", "date": null,
+    "url": "https://www.ibiblio.org/hyperwar/Germany/DA-Poland/DA-Poland.html", "type": "Military historical study",
+    "relevance": "German Third, Fourth, Tenth and Fourteenth Army operational directions", "supports": ["advance-axes"],
+    "notes": "The map draws schematic axes from the narrative. It does not reproduce the study's map or claim exact troop paths or positions.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ipn-soviet-invasion-1939", "institution": "Polish Institute of National Remembrance", "title": "Soviet aggression on Poland from 17 September 1939", "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7262,Anniversary-of-the-Soviet-aggression-on-Poland-from-17-September-1939.html", "type": "Historical reference",
+    "relevance": "Soviet invasion date and Belarusian and Ukrainian front context", "supports": ["advance-axes"],
+    "notes": "The map shows only broad schematic directions; this reference does not justify exact unit routes or day-specific control lines.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "romanian-museum-cernauti", "institution": "Virtual Museum of the Union", "title": "Cernăuți", "date": null,
+    "url": "https://mvu.ro/cernauti-2/", "type": "Historical place-name reference",
+    "relevance": "Romanian-period name of present-day Chernivtsi", "supports": ["reference-places"],
+    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "szczecin-city-history", "institution": "City of Szczecin", "title": "History of Szczecin", "date": null,
+    "url": "https://visitszczecin.eu/en/history-szczecin", "type": "Historical place-name reference",
+    "relevance": "Stettin as the period name of present-day Szczecin", "supports": ["reference-places"],
+    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "olsztyn-city-history", "institution": "City of Olsztyn", "title": "History of Olsztyn", "date": null,
+    "url": "https://olsztyn.eu/en/about-olsztyn/tozsamosc-miasta/history.html", "type": "Historical place-name reference",
+    "relevance": "Allenstein as the period name of present-day Olsztyn", "supports": ["reference-places"],
+    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "us-state-east-prussia-1943", "institution": "U.S. Department of State, Office of the Historian", "title": "Tehran conference record and map note", "date": "1943",
+    "url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran/d379", "type": "Historical place-name reference",
+    "relevance": "Tilsit and Königsberg in East Prussia", "supports": ["reference-places"],
+    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ushmm-lithuania", "institution": "United States Holocaust Memorial Museum", "title": "Lithuania", "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/lithuania", "type": "Historical status and place-name reference",
+    "relevance": "Memel name and March 1939 transfer from Lithuania to Germany", "supports": ["reference-places"],
+    "notes": "The 1939 boundary of Memel territory is not yet drawn. The city point does not imply the full extent of the transferred region.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ipn-katyn-investigation", "institution": "Polish Institute of National Remembrance", "title": "Decision to commence investigation into Katyn Massacre", "date": null,
+    "url": "https://eng.ipn.gov.pl/en/news/77,Decision-to-commence-investigation-into-Katyn-Massacre.html", "type": "Historical place-name reference",
+    "relevance": "Contemporary-era Polish spellings Baranowicze and Drohobycz", "supports": ["reference-places"],
+    "notes": "Name reference only; coordinates are from Natural Earth. The text also names other eastern Polish localities.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ipn-kowel-1939", "institution": "Polish Institute of National Remembrance", "title": "September 1939 Kowel military record", "date": null,
+    "url": "https://katyn.ipn.gov.pl/kat/przedmioty-i-relikwie/dokumenty-z-dolow-smier/3620,KOSECKI-Jozef.html", "type": "Historical place-name reference",
+    "relevance": "Kowel spelling in a September 1939 military record", "supports": ["reference-places"],
+    "notes": "Name reference only; coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
   }
 ]
