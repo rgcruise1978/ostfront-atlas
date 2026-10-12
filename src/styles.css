@@ -104,6 +104,10 @@ main{flex:1}
 .swatch.water{background:#d9e4e5}
 .swatch.border{background:#eadfc6;border:2px solid #845137}
 .swatch.neighbor{background:#d9d5c9;border:1px solid #9c978a}
+.swatch.german-control{background:#b45b57;border-color:#90514e}
+.swatch.soviet-control{background:#547fad;border-color:#45698e}
+.swatch.german-axis{height:0;border:0;border-bottom:3px dashed #b45b57}
+.swatch.soviet-axis{height:0;border:0;border-bottom:3px dashed #547fad}
 .swatch.partition{height:0;border:0;border-bottom:3px dashed #a43f4b}
 .swatch.river{background:#f3f0e6;border:0;border-bottom:3px solid #6d9aaa}
 .swatch.place{background:#233c49;border:2px solid #fff;border-radius:50%;box-shadow:0 0 0 1px #233c49}
