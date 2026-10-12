@@ -7,6 +7,7 @@ const sources = read('src/data/sources.json');
 const places = read('public/data/geography/reference-places.geojson');
 const rivers = read('public/data/geography/major-rivers.geojson');
 const secondaryRivers = read('public/data/geography/secondary-rivers.geojson');
+const surroundingRivers = read('public/data/geography/surrounding-rivers.geojson');
 const riverLabels = read('public/data/geography/river-labels.geojson');
 const land = read('public/data/geography/natural-earth-land.geojson');
 const boundary = read('public/data/history/poland-1939-reference.geojson');
@@ -42,7 +43,7 @@ for (const event of timeline) {
   assert(articles.has(event.articleSlug), `Missing article for ${event.id}`);
   assert(articles.get(event.articleSlug).historicalDate === event.date, `Article date differs for ${event.id}`);
 }
-for (const [name, collection] of [['land', land], ['places', places], ['rivers', rivers], ['secondary rivers', secondaryRivers], ['river labels', riverLabels], ['boundary', boundary], ['neighbors', neighbors], ['area labels', areaLabels], ['historical', historical], ['control', control], ['operations', operations]]) {
+for (const [name, collection] of [['land', land], ['places', places], ['rivers', rivers], ['secondary rivers', secondaryRivers], ['surrounding rivers', surroundingRivers], ['river labels', riverLabels], ['boundary', boundary], ['neighbors', neighbors], ['area labels', areaLabels], ['historical', historical], ['control', control], ['operations', operations]]) {
   assert(collection.type === 'FeatureCollection' && Array.isArray(collection.features), `${name} is not a GeoJSON FeatureCollection`);
 }
 for (const place of places.features) {
@@ -51,13 +52,21 @@ for (const place of places.features) {
   assert(sourceIds.has(place.properties.sourceId), `Unknown place source for ${place.properties.name}`);
   if (place.properties.nameSourceId) assert(sourceIds.has(place.properties.nameSourceId), `Unknown historical name source for ${place.properties.name}`);
 }
-assert(places.features.length === 51, 'Expected 51 mapped reference cities');
+assert(places.features.length === 210, 'Expected 210 mapped reference cities');
 assert(new Set(places.features.map(place => place.properties.name)).size === places.features.length, 'Place labels must be unique');
+assert(places.features.every(place => [1, 2, 3].includes(place.properties.priority)), 'Every place needs a supported zoom priority');
 assert(rivers.features.length === 9, 'Expected nine named river courses');
-assert(secondaryRivers.features.length === 6, 'Expected six secondary river courses');
+assert(secondaryRivers.features.length === 4, 'Expected four local secondary river courses');
 for (const river of secondaryRivers.features) {
   assert(river.geometry.type === 'LineString' && river.geometry.coordinates.length > 1, `Invalid secondary river geometry for ${river.properties.name}`);
   assert(sourceIds.has(river.properties.sourceId), `Unknown secondary river source for ${river.properties.name}`);
+}
+assert(surroundingRivers.features.length === 51, 'Expected 51 regional river segments');
+assert(new Set(surroundingRivers.features.map(feature => feature.properties.name)).size === 33, 'Expected 33 named regional rivers');
+for (const river of surroundingRivers.features) {
+  assert(['LineString', 'MultiLineString'].includes(river.geometry.type), `Invalid regional river geometry for ${river.properties.name}`);
+  assert(['major', 'secondary'].includes(river.properties.importance), `Missing regional river importance for ${river.properties.name}`);
+  assert(sourceIds.has(river.properties.sourceId), `Unknown regional river source for ${river.properties.name}`);
 }
 assert(riverLabels.features.length === rivers.features.length, 'Every river needs a map label');
 for (const label of riverLabels.features) {
@@ -115,4 +124,4 @@ for (const feature of operations.features) {
   if (p.actor === 'Soviet Union') assert(p.snapshots.every(date => date >= '1939-09-17'), `Soviet axis appears before 17 September: ${p.id}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown axis source ${id}`);
 }
-console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length + secondaryRivers.features.length} rivers, ${neighbors.features.length} surrounding outlines, ${control.features.length} October sectors, ${operations.features.length} schematic axes.`);
+console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length + secondaryRivers.features.length + new Set(surroundingRivers.features.map(feature => feature.properties.name)).size} named rivers, ${neighbors.features.length} surrounding outlines, ${control.features.length} October sectors, ${operations.features.length} schematic axes.`);
