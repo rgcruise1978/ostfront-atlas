@@ -1,6 +1,6 @@
 # Ostfront Atlas
 
-A developing public historical atlas of the Eastern Front, 1939–1945. Stage one covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, 51 city points, 15 rivers, an approximate date-filtered partition line, a five-date sourced timeline, article placeholders, and a source register. It also shows schematic German and Soviet invasion directions and broad 26 October occupation sectors. Exact day-by-day control limits and unit positions are not mapped.
+A developing public historical atlas of the Eastern Front, 1939–1945. Stage one covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, 210 city points, 46 named rivers, an approximate date-filtered partition line, a five-date sourced timeline, article placeholders, and a source register. Smaller surrounding places and tributaries appear at closer zoom. It also shows schematic German and Soviet invasion directions and broad 26 October occupation sectors. Exact day-by-day control limits and unit positions are not mapped.
 
 ## Run locally
 
