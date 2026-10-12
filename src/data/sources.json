@@ -20,7 +20,7 @@
   {
     "id": "ushmm-1939-dates", "institution": "United States Holocaust Memorial Museum", "title": "1939: Key Dates", "date": null,
     "url": "https://encyclopedia.ushmm.org/content/en/article/1939-key-dates", "type": "Historical chronology",
-    "relevance": "Invasion dates and 26 October annexation and General Government administration", "supports": ["1939-09-01", "1939-10-26"],
+    "relevance": "Invasion dates, 1939 Slovak and Czech political changes, and 26 October administration", "supports": ["1939-09-01", "1939-10-26", "surrounding-area-labels"],
     "notes": "Supports selection of 26 October as the fourth timeline state.", "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
@@ -44,7 +44,25 @@
   {
     "id": "umn-historical-borders-1939", "institution": "University of Minnesota", "title": "Historical National Boundaries, 1939", "date": "1939",
     "url": "https://doi.org/10.13020/146x-1412", "type": "Historical geographic dataset",
-    "relevance": "Fixed reference outline of Poland in the 1939 annual boundary layer", "supports": ["poland-1939-reference"],
-    "notes": "The source is an annual reconstruction without an exact boundary date. Its linework is generalized and smoothed. Only Poland was extracted, with coordinates rounded for display. It does not show the later occupation or partition lines.", "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
+    "relevance": "Fixed outlines of Poland and six surrounding states in the 1939 annual boundary layer", "supports": ["poland-1939-reference", "surrounding-1939-reference"],
+    "notes": "Annual reconstruction without an exact boundary day; linework is generalized and smoothed. Poland and six surrounding states were extracted, with coordinates rounded for display. Its Czechoslovakia polygon was deliberately excluded because it does not represent the March 1939 separation of Slovakia and the Czech protectorate. These outlines do not show later occupation or partition lines.", "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
+  },
+  {
+    "id": "ushmm-danzig", "institution": "United States Holocaust Memorial Museum", "title": "Danzig", "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/danzig", "type": "Historical reference",
+    "relevance": "Free City of Danzig and East Prussia as surrounding area labels", "supports": ["surrounding-area-labels"],
+    "notes": "Area names only; no precise boundary geometry is inferred from the article.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "us-state-frus-1939-border-report", "institution": "U.S. Department of State, Office of the Historian", "title": "September 29, 1939 report on the German–Soviet frontier", "date": "1939-09-29",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d501", "type": "Contemporary diplomatic report",
+    "relevance": "Describes the partition route from Lithuania via the Pisa and Bug rivers to the San", "supports": ["1939-09-28-partition-line"],
+    "notes": "Supports a schematic route only. The line is traced approximately from the reported waypoints; Bug and San portions follow generalized Natural Earth river courses. No surveyed coordinates or detailed border demarcation are claimed.", "reuseRights": "Linked for reference; no map image or text reproduced."
+  },
+  {
+    "id": "ghdi-1939-partition-map", "institution": "German History in Documents and Images", "title": "German–Soviet Boundary and Friendship Treaty map", "date": "1939-09-28",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:image-2005", "type": "Historical map reference",
+    "relevance": "Confirms the final 28 September line along the Narew, Bug and San", "supports": ["1939-09-28-partition-line"],
+    "notes": "Linked to check the general route. The original copyrighted map image is not reproduced.", "reuseRights": "Linked for reference; image rights held by Bildarchiv Preussischer Kulturbesitz."
   }
 ]
