@@ -102,6 +102,8 @@ main{flex:1}
 .swatch{display:inline-block;width:13px;height:13px;border:1px solid #7d8e8d}
 .swatch.land{background:#eee9da}
 .swatch.water{background:#d9e4e5}
+.swatch.border{background:#eadfc6;border:2px solid #845137}
+.swatch.river{background:#f3f0e6;border:0;border-bottom:3px solid #6d9aaa}
 .swatch.place{background:#233c49;border:2px solid #fff;border-radius:50%;box-shadow:0 0 0 1px #233c49}
 .map-disclaimer{font-size:.75rem;color:#637177;line-height:1.55;margin:11px 0 0}
 .atlas-panel{background:#eeeee7;border:1px solid #cbd1cc}
@@ -165,4 +167,3 @@ main{flex:1}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}
 *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
 }
-
