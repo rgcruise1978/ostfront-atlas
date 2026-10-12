@@ -38,8 +38,8 @@
   {
     "id": "natural-earth-10m", "institution": "Natural Earth", "title": "1:10m Populated Places and Rivers", "date": null,
     "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/", "type": "Public-domain geographic dataset",
-    "relevance": "Selected city locations and fifteen generalized river courses for map orientation", "supports": ["reference-places", "major-rivers", "secondary-rivers"],
-    "notes": "Selected from Natural Earth 1:10m populated places, rivers and European river supplement. Present-day place names and generalized river courses do not establish 1939 jurisdiction, battle lines, or crossing locations.", "reuseRights": "Public domain under Natural Earth Terms of Use; selected and simplified for local display."
+    "relevance": "Selected city locations and generalized river courses across Poland and surrounding areas", "supports": ["reference-places", "major-rivers", "secondary-rivers", "surrounding-rivers"],
+    "notes": "Selected from Natural Earth 1:10m populated places, rivers and European river supplement. Contemporary place names and generalized river courses do not establish 1939 names, jurisdiction, battle lines, or crossing locations.", "reuseRights": "Public domain under Natural Earth Terms of Use; selected and simplified for local display."
   },
   {
     "id": "umn-historical-borders-1939", "institution": "University of Minnesota", "title": "Historical National Boundaries, 1939", "date": "1939",

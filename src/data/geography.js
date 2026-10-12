@@ -3,6 +3,7 @@ export const geography = {
   placesUrl: '/data/geography/reference-places.geojson',
   riversUrl: '/data/geography/major-rivers.geojson',
   secondaryRiversUrl: '/data/geography/secondary-rivers.geojson',
+  surroundingRiversUrl: '/data/geography/surrounding-rivers.geojson',
   riverLabelsUrl: '/data/geography/river-labels.geojson',
   boundaryUrl: '/data/history/poland-1939-reference.geojson',
   neighborsUrl: '/data/history/surrounding-1939-reference.geojson',
