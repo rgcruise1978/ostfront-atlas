@@ -10,7 +10,7 @@ const emptyCollection = { type: 'FeatureCollection', features: [] };
 
 maplibregl.setWorkerUrl(workerUrl);
 
-export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, onFeatureSelect }) {
+export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, showNeighbors, onFeatureSelect }) {
   const container = useRef(null);
   const mapRef = useRef(null);
   const [historyData, setHistoryData] = useState(emptyCollection);
@@ -69,9 +69,10 @@ export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, o
       for (const layer of ['places-dot', 'places-major-label', 'places-minor-label']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showPlaces ? 'visible' : 'none');
       for (const layer of ['rivers-line', 'rivers-label']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showRivers ? 'visible' : 'none');
       for (const layer of ['boundary-fill', 'boundary-line']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showBoundary ? 'visible' : 'none');
+      for (const layer of ['neighbors-fill', 'neighbors-line', 'neighbor-labels']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showNeighbors ? 'visible' : 'none');
     };
     if (map.isStyleLoaded()) update(); else map.once('load', update);
-  }, [date, showPlaces, showRivers, showBoundary, historyData]);
+  }, [date, showPlaces, showRivers, showBoundary, showNeighbors, historyData]);
 
-  return <div className="map-frame"><div ref={container} className="atlas-map" role="application" aria-label="Interactive map of Poland with a 1939 border reference, cities, and major rivers; use map controls to zoom or pan" />{error && <p className="map-error" role="alert">{error}</p>}</div>;
+  return <div className="map-frame"><div ref={container} className="atlas-map" role="application" aria-label="Interactive map of Poland and surrounding areas with 1939 boundary references, cities, and major rivers; use map controls to zoom or pan" />{error && <p className="map-error" role="alert">{error}</p>}</div>;
 }
