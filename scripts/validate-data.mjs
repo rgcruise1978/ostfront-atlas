@@ -6,12 +6,15 @@ const timeline = read('src/data/timeline.json');
 const sources = read('src/data/sources.json');
 const places = read('public/data/geography/reference-places.geojson');
 const rivers = read('public/data/geography/major-rivers.geojson');
+const secondaryRivers = read('public/data/geography/secondary-rivers.geojson');
 const riverLabels = read('public/data/geography/river-labels.geojson');
 const land = read('public/data/geography/natural-earth-land.geojson');
 const boundary = read('public/data/history/poland-1939-reference.geojson');
 const neighbors = read('public/data/history/surrounding-1939-reference.geojson');
 const areaLabels = read('public/data/history/surrounding-area-labels.geojson');
 const historical = read('public/data/history/poland-1939.geojson');
+const control = read('public/data/history/control-areas.geojson');
+const operations = read('public/data/history/advance-axes.geojson');
 const sourceIds = new Set(sources.map(source => source.id));
 const expectedDates = ['1939-08-23', '1939-09-01', '1939-09-17', '1939-09-28', '1939-10-26'];
 
@@ -39,16 +42,23 @@ for (const event of timeline) {
   assert(articles.has(event.articleSlug), `Missing article for ${event.id}`);
   assert(articles.get(event.articleSlug).historicalDate === event.date, `Article date differs for ${event.id}`);
 }
-for (const [name, collection] of [['land', land], ['places', places], ['rivers', rivers], ['river labels', riverLabels], ['boundary', boundary], ['neighbors', neighbors], ['area labels', areaLabels], ['historical', historical]]) {
+for (const [name, collection] of [['land', land], ['places', places], ['rivers', rivers], ['secondary rivers', secondaryRivers], ['river labels', riverLabels], ['boundary', boundary], ['neighbors', neighbors], ['area labels', areaLabels], ['historical', historical], ['control', control], ['operations', operations]]) {
   assert(collection.type === 'FeatureCollection' && Array.isArray(collection.features), `${name} is not a GeoJSON FeatureCollection`);
 }
 for (const place of places.features) {
   const [longitude, latitude] = place.geometry.coordinates;
   assert(longitude >= -180 && longitude <= 180 && latitude >= -90 && latitude <= 90, `Invalid longitude/latitude for ${place.properties.name}`);
   assert(sourceIds.has(place.properties.sourceId), `Unknown place source for ${place.properties.name}`);
+  if (place.properties.nameSourceId) assert(sourceIds.has(place.properties.nameSourceId), `Unknown historical name source for ${place.properties.name}`);
 }
-assert(places.features.length >= 20, 'Expected mapped reference cities');
+assert(places.features.length === 51, 'Expected 51 mapped reference cities');
+assert(new Set(places.features.map(place => place.properties.name)).size === places.features.length, 'Place labels must be unique');
 assert(rivers.features.length === 9, 'Expected nine named river courses');
+assert(secondaryRivers.features.length === 6, 'Expected six secondary river courses');
+for (const river of secondaryRivers.features) {
+  assert(river.geometry.type === 'LineString' && river.geometry.coordinates.length > 1, `Invalid secondary river geometry for ${river.properties.name}`);
+  assert(sourceIds.has(river.properties.sourceId), `Unknown secondary river source for ${river.properties.name}`);
+}
 assert(riverLabels.features.length === rivers.features.length, 'Every river needs a map label');
 for (const label of riverLabels.features) {
   assert(label.geometry.type === 'Point', `Invalid label for ${label.properties.name}`);
@@ -65,12 +75,12 @@ for (const feature of boundary.features) {
   for (const key of ['id', 'title', 'category', 'entity', 'startDate', 'sourceIds', 'uncertainty', 'note']) assert(p[key], `Border reference missing ${key}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Border reference cites unknown source ${id}`);
 }
-assert(neighbors.features.length === 6, 'Expected six surrounding state outlines');
+assert(neighbors.features.length === 7, 'Expected seven surrounding state outlines');
 for (const feature of neighbors.features) {
   assert(['Polygon', 'MultiPolygon'].includes(feature.geometry.type), `Invalid surrounding geometry for ${feature.properties.name}`);
   for (const id of feature.properties.sourceIds) assert(sourceIds.has(id), `Unknown surrounding source ${id}`);
 }
-assert(areaLabels.features.length === 11, 'Expected Poland and ten surrounding area labels');
+assert(areaLabels.features.length === 12, 'Expected Poland and eleven surrounding area labels');
 for (const feature of areaLabels.features) {
   assert(feature.geometry.type === 'Point', `Invalid surrounding label for ${feature.properties.name}`);
   for (const id of feature.properties.sourceIds) assert(sourceIds.has(id), `Unknown area label source ${id}`);
@@ -82,4 +92,27 @@ for (const feature of historical.features) {
   for (const key of ['id', 'category', 'startDate', 'entity', 'sourceIds', 'uncertainty']) assert(p[key] !== undefined, `Historical feature missing ${key}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Historical feature cites unknown source ${id}`);
 }
-console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length} rivers, ${boundary.features.length} Poland outline, ${neighbors.features.length} surrounding outlines, ${historical.features.length} dated features.`);
+assert(control.features.length === 2, 'Expected two October occupation sectors');
+assert(new Set(control.features.map(feature => feature.properties.actor)).size === 2, 'October sectors must identify Germany and the Soviet Union');
+for (const feature of control.features) {
+  const p = feature.properties;
+  assert(feature.geometry.type === 'Polygon' && feature.geometry.coordinates.length === 1, `Invalid control geometry for ${p.id}`);
+  const ring = feature.geometry.coordinates[0];
+  assert(ring.length > 3 && JSON.stringify(ring[0]) === JSON.stringify(ring.at(-1)), `Unclosed control polygon ${p.id}`);
+  assert(p.startDate === '1939-10-26' && p.endDate === '1939-10-26', `Control polygon appears on an unsupported date: ${p.id}`);
+  assert(p.accuracy && p.uncertainty && p.legalStatus && p.note, `Missing control metadata for ${p.id}`);
+  for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown control source ${id}`);
+}
+assert(operations.features.length === 6, 'Expected four German and two Soviet schematic operational axes');
+assert(operations.features.filter(feature => feature.properties.actor === 'Germany').length === 4, 'Expected four German axes');
+assert(operations.features.filter(feature => feature.properties.actor === 'Soviet Union').length === 2, 'Expected two Soviet axes');
+for (const feature of operations.features) {
+  const p = feature.properties;
+  assert(feature.geometry.type === 'LineString' && feature.geometry.coordinates.length > 1, `Invalid axis geometry for ${p.id}`);
+  assert(p.accuracy === 'schematic operational axis' && p.uncertainty && p.note, `Missing schematic accuracy note for ${p.id}`);
+  assert(p.snapshots.every(date => expectedDates.includes(date)), `Unsupported axis date for ${p.id}`);
+  assert(!p.snapshots.includes('1939-08-23'), `Invasion axis appears before invasion: ${p.id}`);
+  if (p.actor === 'Soviet Union') assert(p.snapshots.every(date => date >= '1939-09-17'), `Soviet axis appears before 17 September: ${p.id}`);
+  for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown axis source ${id}`);
+}
+console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length + secondaryRivers.features.length} rivers, ${neighbors.features.length} surrounding outlines, ${control.features.length} October sectors, ${operations.features.length} schematic axes.`);
