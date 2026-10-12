@@ -8,21 +8,31 @@ const places = read('public/data/geography/reference-places.geojson');
 const land = read('public/data/geography/natural-earth-land.geojson');
 const historical = read('public/data/history/poland-1939.geojson');
 const sourceIds = new Set(sources.map(source => source.id));
-const expectedDates = ['1939-09-01', '1939-09-17', '1939-09-28', '1939-10-26'];
+const expectedDates = ['1939-08-23', '1939-09-01', '1939-09-17', '1939-09-28', '1939-10-26'];
 
 function assert(condition, message) { if (!condition) throw new Error(message); }
-assert(JSON.stringify(timeline.map(event => event.date)) === JSON.stringify(expectedDates), 'Timeline dates differ from the four verified selections');
+assert(JSON.stringify(timeline.map(event => event.date)) === JSON.stringify(expectedDates), 'Timeline dates differ from the five verified selections');
 assert(sourceIds.size === sources.length, 'Source IDs must be unique');
-for (const event of timeline) {
-  assert(event.sourceIds.length > 0, `Missing sources for ${event.id}`);
-  for (const id of event.sourceIds) assert(sourceIds.has(id), `Unknown source ${id}`);
-}
+const articles = new Map();
 for (const file of fs.readdirSync('src/content/articles')) {
   if (!file.endsWith('.json')) continue;
   const article = read(path.join('src/content/articles', file));
-  for (const key of ['slug', 'title', 'subtitle', 'publicationDate', 'historicalPeriod', 'author', 'body']) assert(article[key], `${file} lacks ${key}`);
+  for (const key of ['slug', 'title', 'subtitle', 'historicalPeriod', 'body']) assert(article[key] !== undefined && article[key] !== null, `${file} lacks ${key}`);
   assert(article.slug === file.slice(0, -5), `${file} slug differs from filename`);
+  assert(!articles.has(article.slug), `Duplicate article slug ${article.slug}`);
+  if (article.status === 'placeholder') {
+    assert(article.historicalDate && !article.publicationDate, `${file} needs a historical date and no publication date`);
+  } else {
+    assert(article.publicationDate && article.author && article.body, `${file} lacks published article content`);
+  }
   for (const id of article.sourceIds) assert(sourceIds.has(id), `${file} references unknown source ${id}`);
+  articles.set(article.slug, article);
+}
+for (const event of timeline) {
+  assert(event.sourceIds.length > 0, `Missing sources for ${event.id}`);
+  for (const id of event.sourceIds) assert(sourceIds.has(id), `Unknown source ${id}`);
+  assert(articles.has(event.articleSlug), `Missing article for ${event.id}`);
+  assert(articles.get(event.articleSlug).historicalDate === event.date, `Article date differs for ${event.id}`);
 }
 for (const [name, collection] of [['land', land], ['places', places], ['historical', historical]]) {
   assert(collection.type === 'FeatureCollection' && Array.isArray(collection.features), `${name} is not a GeoJSON FeatureCollection`);
