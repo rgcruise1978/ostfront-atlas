@@ -1,128 +1,613 @@
 [
   {
-    "id": "ushmm-invasion-poland", "institution": "United States Holocaust Memorial Museum", "title": "Invasion of Poland, Fall 1939", "date": null,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939", "type": "Historical reference",
-    "relevance": "German and Soviet invasions; subsequent occupation of Poland", "supports": ["1939-09-01", "1939-09-17"],
-    "notes": "Dates and historical summary only; no map geometry reproduced.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ushmm-invasion-poland",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Invasion of Poland, Fall 1939",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+    "type": "Historical reference",
+    "relevance": "German and Soviet invasions; subsequent occupation of Poland",
+    "supports": [
+      "1939-09-01",
+      "1939-09-17"
+    ],
+    "notes": "Dates and historical summary only; no map geometry reproduced.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ushmm-german-soviet-pact", "institution": "United States Holocaust Memorial Museum", "title": "German-Soviet Pact", "date": null,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact", "type": "Historical reference",
-    "relevance": "Context for the Soviet invasion and partition agreements", "supports": ["1939-09-17", "1939-09-28"],
-    "notes": "The museum describes the invasion and later territorial division; treaty signature date is supported separately.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ushmm-german-soviet-pact",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German-Soviet Pact",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact",
+    "type": "Historical reference",
+    "relevance": "August pact, strategic context and subsequent invasions",
+    "supports": [
+      "1939-08-23",
+      "1939-09-17",
+      "1939-09-28"
+    ],
+    "notes": "Secondary overview. The article uses the original September treaty for its signature date of 28 September.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "us-state-frus-1939", "institution": "U.S. Department of State, Office of the Historian", "title": "Foreign Relations of the United States, 1939, Volume I: German–Soviet Boundary and Friendship Treaty chapter", "date": "1939-09-28",
-    "url": "https://history.state.gov/historicaldocuments/frus1939v01/ch11", "type": "Archival document collection",
-    "relevance": "Documents the treaty signed at Moscow on 28 September 1939", "supports": ["1939-09-28"],
-    "notes": "Used for treaty date and diplomatic record, not as a precise GIS boundary.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "us-state-frus-1939",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Foreign Relations of the United States, 1939, Volume I: German–Soviet Boundary and Friendship Treaty chapter",
+    "date": "1939-09-28",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/ch11",
+    "type": "Archival document collection",
+    "relevance": "Documents the treaty signed at Moscow on 28 September 1939",
+    "supports": [
+      "1939-09-28"
+    ],
+    "notes": "Used for treaty date and diplomatic record, not as a precise GIS boundary.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ushmm-1939-dates", "institution": "United States Holocaust Memorial Museum", "title": "1939: Key Dates", "date": null,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/1939-key-dates", "type": "Historical chronology",
-    "relevance": "Invasion dates, 1939 Slovak and Czech political changes, and 26 October administration", "supports": ["1939-09-01", "1939-10-26", "surrounding-area-labels"],
-    "notes": "Supports selection of 26 October as the fourth timeline state.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ushmm-1939-dates",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "1939: Key Dates",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/1939-key-dates",
+    "type": "Historical chronology",
+    "relevance": "Invasion dates, 1939 Slovak and Czech political changes, and 26 October administration",
+    "supports": [
+      "1939-09-01",
+      "1939-10-26",
+      "surrounding-area-labels"
+    ],
+    "notes": "Supports selection of 26 October as the fourth timeline state.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ushmm-german-administration", "institution": "United States Holocaust Memorial Museum", "title": "German Administration of Poland", "date": null,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/german-administration-of-poland", "type": "Historical reference",
-    "relevance": "German occupation administration and General Government formation", "supports": ["1939-10-26"],
-    "notes": "Administrative description only; historical district boundaries are not yet mapped.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ushmm-german-administration",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German Administration of Poland",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-administration-of-poland",
+    "type": "Historical reference",
+    "relevance": "German occupation administration and General Government formation",
+    "supports": [
+      "1939-10-26"
+    ],
+    "notes": "Administrative description only; historical district boundaries are not yet mapped.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "natural-earth-50m", "institution": "Natural Earth", "title": "1:50m Land", "date": null,
-    "url": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/", "type": "Public-domain geographic dataset",
-    "relevance": "Contemporary coastline and land reference layer", "supports": ["base-geography"],
-    "notes": "Geographic context only. The land layer contains no political borders and is not a 1939 political map.", "reuseRights": "Public domain under Natural Earth Terms of Use; local subset/format may be modified."
+    "id": "natural-earth-50m",
+    "institution": "Natural Earth",
+    "title": "1:50m Land",
+    "date": null,
+    "url": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/",
+    "type": "Public-domain geographic dataset",
+    "relevance": "Contemporary coastline and land reference layer",
+    "supports": [
+      "base-geography"
+    ],
+    "notes": "Geographic context only. The land layer contains no political borders and is not a 1939 political map.",
+    "reuseRights": "Public domain under Natural Earth Terms of Use; local subset/format may be modified."
   },
   {
-    "id": "natural-earth-10m", "institution": "Natural Earth", "title": "1:10m Populated Places and Rivers", "date": null,
-    "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/", "type": "Public-domain geographic dataset",
-    "relevance": "Selected city locations and generalized river courses across Poland and surrounding areas", "supports": ["reference-places", "major-rivers", "secondary-rivers", "surrounding-rivers"],
-    "notes": "Selected from Natural Earth 1:10m populated places, rivers and European river supplement. Contemporary place names and generalized river courses do not establish 1939 names, jurisdiction, battle lines, or crossing locations.", "reuseRights": "Public domain under Natural Earth Terms of Use; selected and simplified for local display."
+    "id": "natural-earth-10m",
+    "institution": "Natural Earth",
+    "title": "1:10m Populated Places and Rivers",
+    "date": null,
+    "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/",
+    "type": "Public-domain geographic dataset",
+    "relevance": "Selected city locations and generalized river courses across Poland and surrounding areas",
+    "supports": [
+      "reference-places",
+      "major-rivers",
+      "secondary-rivers",
+      "surrounding-rivers"
+    ],
+    "notes": "Selected from Natural Earth 1:10m populated places, rivers and European river supplement. Contemporary place names and generalized river courses do not establish 1939 names, jurisdiction, battle lines, or crossing locations.",
+    "reuseRights": "Public domain under Natural Earth Terms of Use; selected and simplified for local display."
   },
   {
-    "id": "umn-historical-borders-1939", "institution": "University of Minnesota", "title": "Historical National Boundaries, 1939", "date": "1939",
-    "url": "https://doi.org/10.13020/146x-1412", "type": "Historical geographic dataset",
-    "relevance": "Fixed outlines of Poland and seven surrounding states in the 1939 annual boundary layer", "supports": ["poland-1939-reference", "surrounding-1939-reference"],
-    "notes": "Annual reconstruction without an exact boundary day; linework is generalized and smoothed. Poland and seven surrounding states were extracted, with coordinates rounded for display. Its Czechoslovakia polygon was deliberately excluded because it does not represent the March 1939 separation of Slovakia and the Czech protectorate. These outlines do not show later occupation or partition lines.", "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
+    "id": "umn-historical-borders-1939",
+    "institution": "University of Minnesota",
+    "title": "Historical National Boundaries, 1939",
+    "date": "1939",
+    "url": "https://doi.org/10.13020/146x-1412",
+    "type": "Historical geographic dataset",
+    "relevance": "Fixed outlines of Poland and seven surrounding states in the 1939 annual boundary layer",
+    "supports": [
+      "poland-1939-reference",
+      "surrounding-1939-reference"
+    ],
+    "notes": "Annual reconstruction without an exact boundary day; linework is generalized and smoothed. Poland and seven surrounding states were extracted, with coordinates rounded for display. Its Czechoslovakia polygon was deliberately excluded because it does not represent the March 1939 separation of Slovakia and the Czech protectorate. These outlines do not show later occupation or partition lines.",
+    "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
   },
   {
-    "id": "ushmm-danzig", "institution": "United States Holocaust Memorial Museum", "title": "Danzig", "date": null,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/danzig", "type": "Historical reference",
-    "relevance": "Historical context for the Danzig and East Prussia area labels", "supports": ["surrounding-area-labels"],
-    "notes": "Area names only; no precise boundary geometry is inferred from the article.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ushmm-danzig",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Danzig",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/danzig",
+    "type": "Historical reference",
+    "relevance": "Historical context for the Danzig and East Prussia area labels",
+    "supports": [
+      "surrounding-area-labels"
+    ],
+    "notes": "Area names only; no precise boundary geometry is inferred from the article.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "us-state-frus-1939-border-report", "institution": "U.S. Department of State, Office of the Historian", "title": "September 29, 1939 report on the German–Soviet frontier", "date": "1939-09-29",
-    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d501", "type": "Contemporary diplomatic report",
-    "relevance": "Describes the partition route from Lithuania via the Pisa and Bug rivers to the San", "supports": ["1939-09-28-partition-line"],
-    "notes": "Supports a schematic route only. The line is traced approximately from the reported waypoints; Bug and San portions follow generalized Natural Earth river courses. No surveyed coordinates or detailed border demarcation are claimed.", "reuseRights": "Linked for reference; no map image or text reproduced."
+    "id": "us-state-frus-1939-border-report",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "September 29, 1939 report on the German–Soviet frontier",
+    "date": "1939-09-29",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d501",
+    "type": "Contemporary diplomatic report",
+    "relevance": "Describes the partition route from Lithuania via the Pisa and Bug rivers to the San",
+    "supports": [
+      "1939-09-28-partition-line"
+    ],
+    "notes": "Supports a schematic route only. The line is traced approximately from the reported waypoints; Bug and San portions follow generalized Natural Earth river courses. No surveyed coordinates or detailed border demarcation are claimed.",
+    "reuseRights": "Linked for reference; no map image or text reproduced."
   },
   {
-    "id": "ghdi-1939-partition-map", "institution": "German History in Documents and Images", "title": "German–Soviet Boundary and Friendship Treaty map", "date": "1939-09-28",
-    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:image-2005", "type": "Historical map reference",
-    "relevance": "Confirms the final 28 September line along the Narew, Bug and San", "supports": ["1939-09-28-partition-line"],
-    "notes": "Linked to check the general route. The original copyrighted map image is not reproduced.", "reuseRights": "Linked for reference; image rights held by Bildarchiv Preussischer Kulturbesitz."
+    "id": "ghdi-1939-partition-map",
+    "institution": "German History in Documents and Images",
+    "title": "German–Soviet Boundary and Friendship Treaty map",
+    "date": "1939-09-28",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:image-2005",
+    "type": "Historical map reference",
+    "relevance": "Confirms the final 28 September line along the Narew, Bug and San",
+    "supports": [
+      "1939-09-28-partition-line"
+    ],
+    "notes": "Linked to check the general route. The original copyrighted map image is not reproduced.",
+    "reuseRights": "Linked for reference; image rights held by Bildarchiv Preussischer Kulturbesitz."
   },
   {
-    "id": "us-state-koenigsberg", "institution": "U.S. Department of State, Office of the Historian", "title": "East Prussia historical record", "date": "1943",
-    "url": "https://history.state.gov/historicaldocuments/frus1943/d366", "type": "Historical reference",
-    "relevance": "Confirms Königsberg as the period name for the East Prussian city", "supports": ["reference-places"],
-    "notes": "Supports the historical city name only. The mapped coordinates come from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "us-state-koenigsberg",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "East Prussia historical record",
+    "date": "1943",
+    "url": "https://history.state.gov/historicaldocuments/frus1943/d366",
+    "type": "Historical reference",
+    "relevance": "Confirms Königsberg as the period name for the East Prussian city",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Supports the historical city name only. The mapped coordinates come from Natural Earth.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "us-army-polish-campaign", "institution": "U.S. Army historical study, via HyperWar", "title": "The German Campaign in Poland, September 1 to October 5, 1939", "date": null,
-    "url": "https://www.ibiblio.org/hyperwar/Germany/DA-Poland/DA-Poland.html", "type": "Military historical study",
-    "relevance": "German Third, Fourth, Tenth and Fourteenth Army operational directions", "supports": ["advance-axes"],
-    "notes": "The map draws schematic axes from the narrative. It does not reproduce the study's map or claim exact troop paths or positions.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "us-army-polish-campaign",
+    "institution": "U.S. Army historical study, via HyperWar",
+    "title": "The German Campaign in Poland, September 1 to October 5, 1939",
+    "date": null,
+    "url": "https://www.ibiblio.org/hyperwar/Germany/DA-Poland/DA-Poland.html",
+    "type": "Military historical study",
+    "relevance": "German Third, Fourth, Tenth and Fourteenth Army operational directions",
+    "supports": [
+      "advance-axes"
+    ],
+    "notes": "The map draws schematic axes from the narrative. It does not reproduce the study's map or claim exact troop paths or positions.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ipn-soviet-invasion-1939", "institution": "Polish Institute of National Remembrance", "title": "Soviet aggression on Poland from 17 September 1939", "date": null,
-    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7262,Anniversary-of-the-Soviet-aggression-on-Poland-from-17-September-1939.html", "type": "Historical reference",
-    "relevance": "Soviet invasion date and Belarusian and Ukrainian front context", "supports": ["advance-axes"],
-    "notes": "The map shows only broad schematic directions; this reference does not justify exact unit routes or day-specific control lines.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ipn-soviet-invasion-1939",
+    "institution": "Polish Institute of National Remembrance",
+    "title": "Soviet aggression on Poland from 17 September 1939",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7262,Anniversary-of-the-Soviet-aggression-on-Poland-from-17-September-1939.html",
+    "type": "Historical reference",
+    "relevance": "Soviet invasion date and Belarusian and Ukrainian front context",
+    "supports": [
+      "advance-axes"
+    ],
+    "notes": "The map shows only broad schematic directions; this reference does not justify exact unit routes or day-specific control lines.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "romanian-museum-cernauti", "institution": "Virtual Museum of the Union", "title": "Cernăuți", "date": null,
-    "url": "https://mvu.ro/cernauti-2/", "type": "Historical place-name reference",
-    "relevance": "Romanian-period name of present-day Chernivtsi", "supports": ["reference-places"],
-    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "romanian-museum-cernauti",
+    "institution": "Virtual Museum of the Union",
+    "title": "Cernăuți",
+    "date": null,
+    "url": "https://mvu.ro/cernauti-2/",
+    "type": "Historical place-name reference",
+    "relevance": "Romanian-period name of present-day Chernivtsi",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Name reference only; point coordinates are from Natural Earth.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "szczecin-city-history", "institution": "City of Szczecin", "title": "History of Szczecin", "date": null,
-    "url": "https://visitszczecin.eu/en/history-szczecin", "type": "Historical place-name reference",
-    "relevance": "Stettin as the period name of present-day Szczecin", "supports": ["reference-places"],
-    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "szczecin-city-history",
+    "institution": "City of Szczecin",
+    "title": "History of Szczecin",
+    "date": null,
+    "url": "https://visitszczecin.eu/en/history-szczecin",
+    "type": "Historical place-name reference",
+    "relevance": "Stettin as the period name of present-day Szczecin",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Name reference only; point coordinates are from Natural Earth.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "olsztyn-city-history", "institution": "City of Olsztyn", "title": "History of Olsztyn", "date": null,
-    "url": "https://olsztyn.eu/en/about-olsztyn/tozsamosc-miasta/history.html", "type": "Historical place-name reference",
-    "relevance": "Allenstein as the period name of present-day Olsztyn", "supports": ["reference-places"],
-    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "olsztyn-city-history",
+    "institution": "City of Olsztyn",
+    "title": "History of Olsztyn",
+    "date": null,
+    "url": "https://olsztyn.eu/en/about-olsztyn/tozsamosc-miasta/history.html",
+    "type": "Historical place-name reference",
+    "relevance": "Allenstein as the period name of present-day Olsztyn",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Name reference only; point coordinates are from Natural Earth.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "us-state-east-prussia-1943", "institution": "U.S. Department of State, Office of the Historian", "title": "Tehran conference record and map note", "date": "1943",
-    "url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran/d379", "type": "Historical place-name reference",
-    "relevance": "Tilsit and Königsberg in East Prussia", "supports": ["reference-places"],
-    "notes": "Name reference only; point coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "us-state-east-prussia-1943",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Tehran conference record and map note",
+    "date": "1943",
+    "url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran/d379",
+    "type": "Historical place-name reference",
+    "relevance": "Tilsit and Königsberg in East Prussia",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Name reference only; point coordinates are from Natural Earth.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ushmm-lithuania", "institution": "United States Holocaust Memorial Museum", "title": "Lithuania", "date": null,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/lithuania", "type": "Historical status and place-name reference",
-    "relevance": "Memel name and March 1939 transfer from Lithuania to Germany", "supports": ["reference-places"],
-    "notes": "The 1939 boundary of Memel territory is not yet drawn. The city point does not imply the full extent of the transferred region.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ushmm-lithuania",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Lithuania",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/lithuania",
+    "type": "Historical status and place-name reference",
+    "relevance": "Memel name and March 1939 transfer from Lithuania to Germany",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "The 1939 boundary of Memel territory is not yet drawn. The city point does not imply the full extent of the transferred region.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ipn-katyn-investigation", "institution": "Polish Institute of National Remembrance", "title": "Decision to commence investigation into Katyn Massacre", "date": null,
-    "url": "https://eng.ipn.gov.pl/en/news/77,Decision-to-commence-investigation-into-Katyn-Massacre.html", "type": "Historical place-name reference",
-    "relevance": "Contemporary-era Polish spellings Baranowicze and Drohobycz", "supports": ["reference-places"],
-    "notes": "Name reference only; coordinates are from Natural Earth. The text also names other eastern Polish localities.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ipn-katyn-investigation",
+    "institution": "Polish Institute of National Remembrance",
+    "title": "Decision to commence investigation into Katyn Massacre",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/news/77,Decision-to-commence-investigation-into-Katyn-Massacre.html",
+    "type": "Historical place-name reference",
+    "relevance": "Contemporary-era Polish spellings Baranowicze and Drohobycz",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Name reference only; coordinates are from Natural Earth. The text also names other eastern Polish localities.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "ipn-kowel-1939", "institution": "Polish Institute of National Remembrance", "title": "September 1939 Kowel military record", "date": null,
-    "url": "https://katyn.ipn.gov.pl/kat/przedmioty-i-relikwie/dokumenty-z-dolow-smier/3620,KOSECKI-Jozef.html", "type": "Historical place-name reference",
-    "relevance": "Kowel spelling in a September 1939 military record", "supports": ["reference-places"],
-    "notes": "Name reference only; coordinates are from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+    "id": "ipn-kowel-1939",
+    "institution": "Polish Institute of National Remembrance",
+    "title": "September 1939 Kowel military record",
+    "date": null,
+    "url": "https://katyn.ipn.gov.pl/kat/przedmioty-i-relikwie/dokumenty-z-dolow-smier/3620,KOSECKI-Jozef.html",
+    "type": "Historical place-name reference",
+    "relevance": "Kowel spelling in a September 1939 military record",
+    "supports": [
+      "reference-places"
+    ],
+    "notes": "Name reference only; coordinates are from Natural Earth.",
+    "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "avalon-pact-public",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Treaty of Nonaggression between Germany and the USSR",
+    "date": "1939-08-23",
+    "url": "https://avalon.law.yale.edu/20th_century/nonagres.asp",
+    "type": "Article research reference",
+    "relevance": "Public treaty: undertakings, duration, signatures and immediate entry into force.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Public treaty: undertakings, duration, signatures and immediate entry into force.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-pact-secret",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Secret Additional Protocol",
+    "date": "1939-08-23",
+    "url": "https://avalon.law.yale.edu/20th_century/addsepro.asp",
+    "type": "Article research reference",
+    "relevance": "Original spheres of influence; Narew–Vistula–San line; Baltic and Bessarabian clauses.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Original spheres of influence; Narew–Vistula–San line; Baltic and Bessarabian clauses.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "frus-pact-signing",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Steinhardt to Hull: report of the overnight signing, document 335",
+    "date": "1939-08-24",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d335",
+    "type": "Article research reference",
+    "relevance": "Contemporary American report: signed early on 24 August, with Stalin present.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Contemporary American report: signed early on 24 August, with Stalin present.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "riga-borzecki",
+    "institution": "1914–1918 Online, International Encyclopedia of the First World War",
+    "title": "Jerzy Borzęcki, Riga, Treaty of",
+    "date": "2017-01-08",
+    "url": "https://encyclopedia.1914-1918-online.net/wp-content/uploads/2023/01/ams/958793/pdf/1914-1918-Online-riga_treaty_of-2014-10-08.pdf",
+    "type": "Article research reference",
+    "relevance": "Scholarly account of the March 1921 peace and the frontier it established.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Scholarly account of the March 1921 peace and the frontier it established.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "ghdi-berlin-1926",
+    "institution": "German Historical Institute, German History in Documents and Images",
+    "title": "Friendship Treaty between Germany and the Soviet Union (Berlin Treaty)",
+    "date": "1926-04-24",
+    "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/friendship-treaty-between-germany-and-the-soviet-union-berlin-treaty-april-24-1926",
+    "type": "Article research reference",
+    "relevance": "Earlier German–Soviet rapprochement, Rapallo and conditional neutrality.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Earlier German–Soviet rapprochement, Rapallo and conditional neutrality.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "ushmm-lebensraum",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Lebensraum",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/lebensraum",
+    "type": "Article research reference",
+    "relevance": "Racial and imperial content of Nazi expansion into eastern Europe.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Racial and imperial content of Nazi expansion into eastern Europe.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "ushmm-munich",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Munich Agreement",
+    "date": "1938-09-29",
+    "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/munich-agreement",
+    "type": "Article research reference",
+    "relevance": "Participants, exclusion of Czechoslovakia and transfer of the Sudetenland.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Participants, exclusion of Czechoslovakia and transfer of the Sudetenland.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "ghdi-pact-1939",
+    "institution": "German Historical Institute, German History in Documents and Images",
+    "title": "The German–Soviet Non-Aggression Treaty",
+    "date": "1939-08-23",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/the-german-soviet-non-aggression-treaty-august-23-1939",
+    "type": "Article research reference",
+    "relevance": "Treaty text and editorial context: German demands, British guarantee and Case White.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Treaty text and editorial context: German demands, British guarantee and Case White.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "frus-litvinov-1939",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Bullitt to Hull: reactions to Litvinov’s dismissal, document 249",
+    "date": "1939-05-04",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d249",
+    "type": "Article research reference",
+    "relevance": "Contemporary uncertainty about the meaning of Molotov’s appointment; reported views are attributed opinions.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Contemporary uncertainty about the meaning of Molotov’s appointment; reported views are attributed opinions.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "frus-transit-1939",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Steinhardt to Hull: Soviet negotiations and Polish transit, document 296",
+    "date": "1939-08-23",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d296",
+    "type": "Article research reference",
+    "relevance": "French ambassador’s assessment of failed talks and the Soviet military-transit demand.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "French ambassador’s assessment of failed talks and the Soviet military-transit demand.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "frus-kennedy-1939",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Kennedy to Hull: British discussions with Molotov, document 334",
+    "date": "1939-08-23",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d334",
+    "type": "Article research reference",
+    "relevance": "Transit through third states, the aggression clause and British suspicions of a Polish partition.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Transit through third states, the aggression clause and British suspicions of a Polish partition.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-commercial-1939",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Schnurre memorandum on the German–Soviet Commercial Agreement",
+    "date": "1939-08-29",
+    "url": "https://avalon.law.yale.edu/20th_century/ns059.asp",
+    "type": "Article research reference",
+    "relevance": "Retrospective memorandum on the commercial agreement concluded on 19 August; credit and political significance.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Retrospective memorandum on the commercial agreement concluded on 19 August; credit and political significance.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-hitler-1939",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Hitler to Stalin",
+    "date": "1939-08-20",
+    "url": "https://avalon.law.yale.edu/20th_century/ns044.asp",
+    "type": "Article research reference",
+    "relevance": "Request for Ribbentrop’s urgent visit and authority to settle the treaty and protocol. German accusations against Poland are claims, not adopted facts.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Request for Ribbentrop’s urgent visit and authority to settle the treaty and protocol. German accusations against Poland are claims, not adopted facts.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-stalin-1939",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Stalin to Hitler",
+    "date": "1939-08-21",
+    "url": "https://avalon.law.yale.edu/20th_century/ns048.asp",
+    "type": "Article research reference",
+    "relevance": "Acceptance of Ribbentrop’s visit for 23 August.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Acceptance of Ribbentrop’s visit for 23 August.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-ports-request",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Ribbentrop to the German Foreign Office",
+    "date": "1939-08-23",
+    "url": "https://avalon.law.yale.edu/20th_century/ns051.asp",
+    "type": "Article research reference",
+    "relevance": "Report after the first meeting: Soviet demand for the Latvian ports Libau and Windau.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Report after the first meeting: Soviet demand for the Latvian ports Libau and Windau.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-ports-reply",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "German Foreign Office to Ribbentrop",
+    "date": "1939-08-23",
+    "url": "https://avalon.law.yale.edu/20th_century/ns052.asp",
+    "type": "Article research reference",
+    "relevance": "Berlin’s acceptance of the port demand; archival annotation records receipt in Moscow at 11 p.m.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Berlin’s acceptance of the port demand; archival annotation records receipt in Moscow at 11 p.m.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-moscow-conversation",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Hencke memorandum of the German–Soviet conversation",
+    "date": "1939-08-24",
+    "url": "https://avalon.law.yale.edu/20th_century/ns053.asp",
+    "type": "Article research reference",
+    "relevance": "German diplomatic account of the meeting, discussion of Japan and ceremonial toasts; not a verbatim independent transcript.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "German diplomatic account of the meeting, discussion of Japan and ceremonial toasts; not a verbatim independent transcript.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "harvard-polish-pact-1934",
+    "institution": "Harvard Law School Library, Nuremberg Trials Project",
+    "title": "German–Polish agreement to assure peaceful relations",
+    "date": "1934-01-26",
+    "url": "https://nuremberg.law.harvard.edu/documents/2410-german-polish-agreement-to-assure?mode=text",
+    "type": "Article research reference",
+    "relevance": "Text of the earlier ten-year German–Polish nonaggression agreement.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Text of the earlier ten-year German–Polish nonaggression agreement.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "wwii-museum-japan",
+    "institution": "The National WWII Museum",
+    "title": "Jason Dawsey, PhD, The Tripartite Pact of September 1940",
+    "date": "2021-12-10",
+    "url": "https://www.nationalww2museum.org/war/articles/germany-japan-tripartite-pact",
+    "type": "Article research reference",
+    "relevance": "Context for Tokyo’s shock at the August 1939 agreement while fighting Soviet forces at Khalkhin Gol.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Context for Tokyo’s shock at the August 1939 agreement while fighting Soviet forces at Khalkhin Gol.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-boundary-1939",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "German–Soviet Boundary and Friendship Treaty",
+    "date": "1939-09-28",
+    "url": "https://avalon.law.yale.edu/20th_century/gsbound.asp",
+    "type": "Article research reference",
+    "relevance": "Distinct September treaty and attached-map boundary. Claims about Polish statehood are those of the signatories.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Distinct September treaty and attached-map boundary. Claims about Polish statehood are those of the signatories.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "avalon-september-protocol",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Secret Supplementary Protocol revising the spheres of influence",
+    "date": "1939-09-28",
+    "url": "https://avalon.law.yale.edu/20th_century/sesupp.asp",
+    "type": "Article research reference",
+    "relevance": "Lithuanian and Polish territorial changes to the August arrangement.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Lithuanian and Polish territorial changes to the August arrangement.",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "congress-protocols-1989",
+    "institution": "Histdoc: translated Soviet primary document",
+    "title": "Resolution of the Congress of People’s Deputies on the 1939 Soviet–German Non-Aggression Treaty",
+    "date": "1989-12-24",
+    "url": "https://histdoc.net/history/1989-12-24%20Resolution%20of%20the%20Congress%20of%20People%27s%20Deputies.html",
+    "type": "Article research reference",
+    "relevance": "Official acknowledgment and condemnation of the secret protocols. Original published in Pravda, 28 December 1989; English translation credited to Heiki Lindpere (2009).",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Official acknowledgment and condemnation of the secret protocols. Original published in Pravda, 28 December 1989; English translation credited to Heiki Lindpere (2009).",
+    "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
   }
 ]
