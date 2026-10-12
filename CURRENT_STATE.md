@@ -4,7 +4,7 @@
 
 - React, Vite, JavaScript, standard CSS, MapLibre GL JS, local Natural Earth geography, and fixed University of Minnesota 1939 Poland and surrounding-state outlines.
 - Home, interactive Poland 1939 atlas, article index and article route, source library, responsive layout.
-- Five source-linked timeline dates, each with a full-article placeholder, and a dated historical GeoJSON layer.
+- Five source-linked timeline dates, the published 23 August article, four remaining article placeholders, and a dated historical GeoJSON layer.
 - 210 city locations across Poland and surrounding areas, with smaller places appearing at closer zoom; 46 named river courses across the region, seven neighbouring state outlines, additional area labels, and independent visibility switches for geographic layers.
 - Approximate German–Soviet partition line shown from 28 September 1939 onward.
 - Four German and two Soviet sourced, schematic operational axes, date-filtered with a separate toggle and clickable explanations. Soviet axes start on 17 September.
@@ -34,3 +34,5 @@ Research and digitize verified 1939 transportation, terrain, regional boundaries
 - 2026-10-12: Made neighbouring city names visible at the default view and added cities in East Prussia, Slovakia, Hungary, Romania, and Latvia.
 - 2026-10-12: Added more regional cities and rivers, Estonia, schematic invasion axes, October occupation sectors, dated legend/toggles, and feature-level sources and uncertainty notes.
 - 2026-10-12: Expanded surrounding settlement and river coverage, with progressive labeling and local river labels at closer zoom.
+
+- 2026-10-12: Published the 23 August 1939 dossier with approximately 3,550 words, 24 references, six asides, contents navigation, citation return links, a document comparison, and dated atlas links. Later events remain a short epilogue.
