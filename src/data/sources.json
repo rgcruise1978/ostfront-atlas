@@ -50,7 +50,7 @@
   {
     "id": "ushmm-danzig", "institution": "United States Holocaust Memorial Museum", "title": "Danzig", "date": null,
     "url": "https://encyclopedia.ushmm.org/content/en/article/danzig", "type": "Historical reference",
-    "relevance": "Free City of Danzig and East Prussia as surrounding area labels", "supports": ["surrounding-area-labels"],
+    "relevance": "Historical context for the Danzig and East Prussia area labels", "supports": ["surrounding-area-labels"],
     "notes": "Area names only; no precise boundary geometry is inferred from the article.", "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
