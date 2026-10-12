@@ -9,6 +9,8 @@ const rivers = read('public/data/geography/major-rivers.geojson');
 const riverLabels = read('public/data/geography/river-labels.geojson');
 const land = read('public/data/geography/natural-earth-land.geojson');
 const boundary = read('public/data/history/poland-1939-reference.geojson');
+const neighbors = read('public/data/history/surrounding-1939-reference.geojson');
+const areaLabels = read('public/data/history/surrounding-area-labels.geojson');
 const historical = read('public/data/history/poland-1939.geojson');
 const sourceIds = new Set(sources.map(source => source.id));
 const expectedDates = ['1939-08-23', '1939-09-01', '1939-09-17', '1939-09-28', '1939-10-26'];
@@ -37,7 +39,7 @@ for (const event of timeline) {
   assert(articles.has(event.articleSlug), `Missing article for ${event.id}`);
   assert(articles.get(event.articleSlug).historicalDate === event.date, `Article date differs for ${event.id}`);
 }
-for (const [name, collection] of [['land', land], ['places', places], ['rivers', rivers], ['river labels', riverLabels], ['boundary', boundary], ['historical', historical]]) {
+for (const [name, collection] of [['land', land], ['places', places], ['rivers', rivers], ['river labels', riverLabels], ['boundary', boundary], ['neighbors', neighbors], ['area labels', areaLabels], ['historical', historical]]) {
   assert(collection.type === 'FeatureCollection' && Array.isArray(collection.features), `${name} is not a GeoJSON FeatureCollection`);
 }
 for (const place of places.features) {
@@ -63,9 +65,21 @@ for (const feature of boundary.features) {
   for (const key of ['id', 'title', 'category', 'entity', 'startDate', 'sourceIds', 'uncertainty', 'note']) assert(p[key], `Border reference missing ${key}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Border reference cites unknown source ${id}`);
 }
+assert(neighbors.features.length === 6, 'Expected six surrounding state outlines');
+for (const feature of neighbors.features) {
+  assert(['Polygon', 'MultiPolygon'].includes(feature.geometry.type), `Invalid surrounding geometry for ${feature.properties.name}`);
+  for (const id of feature.properties.sourceIds) assert(sourceIds.has(id), `Unknown surrounding source ${id}`);
+}
+assert(areaLabels.features.length === 11, 'Expected Poland and ten surrounding area labels');
+for (const feature of areaLabels.features) {
+  assert(feature.geometry.type === 'Point', `Invalid surrounding label for ${feature.properties.name}`);
+  for (const id of feature.properties.sourceIds) assert(sourceIds.has(id), `Unknown area label source ${id}`);
+}
+assert(historical.features.length === 1, 'Expected the dated partition line');
+assert(historical.features.some(feature => feature.properties.category === 'partition-demarcation' && feature.geometry.type === 'LineString' && feature.properties.startDate === '1939-09-28'), 'Missing dated partition line');
 for (const feature of historical.features) {
   const p = feature.properties || {};
   for (const key of ['id', 'category', 'startDate', 'entity', 'sourceIds', 'uncertainty']) assert(p[key] !== undefined, `Historical feature missing ${key}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Historical feature cites unknown source ${id}`);
 }
-console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length} rivers, ${boundary.features.length} border reference, ${historical.features.length} dated geometries.`);
+console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length} rivers, ${boundary.features.length} Poland outline, ${neighbors.features.length} surrounding outlines, ${historical.features.length} dated features.`);
