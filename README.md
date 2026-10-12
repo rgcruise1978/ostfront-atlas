@@ -1,6 +1,6 @@
 # Ostfront Atlas
 
-A developing public historical atlas of the Eastern Front, 1939–1945. Stage one covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, city labels, major rivers, an approximate date-filtered partition line, a five-date sourced timeline, article placeholders, and a source register. Occupation areas and military positions are not yet mapped.
+A developing public historical atlas of the Eastern Front, 1939–1945. Stage one covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, 51 city points, 15 rivers, an approximate date-filtered partition line, a five-date sourced timeline, article placeholders, and a source register. It also shows schematic German and Soviet invasion directions and broad 26 October occupation sectors. Exact day-by-day control limits and unit positions are not mapped.
 
 ## Run locally
 
@@ -12,7 +12,7 @@ Use Node.js 22 or later. Install dependencies with `npm install`, start with `np
 - Add cited records to `src/data/sources.json` and use their stable IDs in timeline or article files.
 - The five timeline records live in `src/data/timeline.json`.
 - Local Natural Earth land, cities, and rivers are in `public/data/geography/`. Fixed 1939 Poland and surrounding outlines and area labels are in `public/data/history/` and stay visible across all dates.
-- Date-filtered historical geometry belongs in `public/data/history/poland-1939.geojson`. It currently contains the approximate 28 September partition line. Each feature must have a stable `id`, `category`, `startDate`, optional `endDate`, `entity`, `sourceIds`, and `uncertainty` properties. Geometry coordinates use longitude, latitude order. Add only source-supported, clearly qualified features.
+- Date-filtered historical geometry is separated into `public/data/history/poland-1939.geojson` (partition trace), `control-areas.geojson` (26 October occupation sectors), and `advance-axes.geojson` (schematic operational directions). Rebuild the control sectors with `scripts/build-control-areas.mjs` after changing the Poland outline or treaty trace. Every new feature needs stable IDs, dates, source IDs, accuracy and uncertainty notes. Coordinates use longitude, latitude order. Add only source-supported, clearly qualified features.
 
 ## Deployment
 
