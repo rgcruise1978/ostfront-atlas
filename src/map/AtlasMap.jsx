@@ -38,13 +38,13 @@ export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, s
       resizeObserver.observe(container.current);
       map.on('load', () => {
         map.fitBounds(geography.bounds, { padding: 28, duration: 0 });
-        map.on('click', 'places-dot', (event) => {
+        for (const layer of ['places-dot', 'places-local-dot']) map.on('click', layer, (event) => {
           const feature = event.features?.[0];
           if (feature) onFeatureSelect({ kind: 'place', title: feature.properties.name, note: feature.properties.note, coordinates: feature.geometry.coordinates, sourceIds: [feature.properties.sourceId, feature.properties.nameSourceId].filter(Boolean) });
         });
-        for (const layer of ['rivers-line', 'boundary-line']) map.on('click', layer, (event) => {
+        for (const layer of ['rivers-line', 'surrounding-rivers-major-line', 'surrounding-rivers-minor-line', 'boundary-line']) map.on('click', layer, (event) => {
           const feature = event.features?.[0];
-          if (feature) onFeatureSelect({ kind: layer === 'rivers-line' ? 'river' : 'boundary', title: feature.properties.name || feature.properties.title, note: feature.properties.note, sourceIds: feature.properties.sourceId ? [feature.properties.sourceId] : sourceIdsFor(feature.properties.sourceIds) });
+          if (feature) onFeatureSelect({ kind: layer === 'boundary-line' ? 'boundary' : 'river', title: feature.properties.name || feature.properties.title, note: feature.properties.note, sourceIds: feature.properties.sourceId ? [feature.properties.sourceId] : sourceIdsFor(feature.properties.sourceIds) });
         });
         for (const layer of historyLayers) map.on('click', layer, (event) => {
           const feature = event.features?.[0];
@@ -56,7 +56,7 @@ export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, s
           const p = feature.properties;
           onFeatureSelect({ kind: p.category, title: p.title, note: p.note, actor: p.actor, legalStatus: p.legalStatus, period: p.startDate === p.endDate ? p.startDate : `${p.startDate}–${p.endDate}`, accuracy: p.accuracy, uncertainty: p.uncertainty, sourceIds: sourceIdsFor(p.sourceIds) });
         });
-        for (const layer of ['places-dot', 'rivers-line', 'boundary-line', 'control-fill', 'advance-axis-line', 'advance-axis-head', ...historyLayers]) {
+        for (const layer of ['places-dot', 'places-local-dot', 'rivers-line', 'surrounding-rivers-major-line', 'surrounding-rivers-minor-line', 'boundary-line', 'control-fill', 'advance-axis-line', 'advance-axis-head', ...historyLayers]) {
           map.on('mouseenter', layer, () => { map.getCanvas().style.cursor = 'pointer'; });
           map.on('mouseleave', layer, () => { map.getCanvas().style.cursor = ''; });
         }
@@ -95,5 +95,5 @@ export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, s
     if (map.isStyleLoaded()) update(); else map.once('load', update);
   }, [date, showPlaces, showRivers, showBoundary, showNeighbors, showControl, showMovements, historyData, controlData, operationsData]);
 
-  return <div className="map-frame"><div ref={container} className="atlas-map" role="application" aria-label="Interactive map of Poland and surrounding areas with 1939 boundary references, cities, and major rivers; use map controls to zoom or pan" />{error && <p className="map-error" role="alert">{error}</p>}</div>;
+  return <div className="map-frame"><div ref={container} className="atlas-map" role="application" aria-label="Interactive map of Poland and surrounding areas with 1939 boundary references, regional cities, and rivers; use map controls to zoom or pan" />{error && <p className="map-error" role="alert">{error}</p>}</div>;
 }
