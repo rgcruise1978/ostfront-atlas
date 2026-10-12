@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ushmm-invasion-poland", "institution": "United States Holocaust Memorial Museum", "title": "Invasion of Poland, Fall 1939", "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939", "type": "Historical reference",
+    "relevance": "German and Soviet invasions; subsequent occupation of Poland", "supports": ["1939-09-01", "1939-09-17"],
+    "notes": "Dates and historical summary only; no map geometry reproduced.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ushmm-german-soviet-pact", "institution": "United States Holocaust Memorial Museum", "title": "German-Soviet Pact", "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact", "type": "Historical reference",
+    "relevance": "Context for the Soviet invasion and partition agreements", "supports": ["1939-09-17", "1939-09-28"],
+    "notes": "The museum describes the invasion and later territorial division; treaty signature date is supported separately.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "us-state-frus-1939", "institution": "U.S. Department of State, Office of the Historian", "title": "Foreign Relations of the United States, 1939, Volume I: German–Soviet Boundary and Friendship Treaty chapter", "date": "1939-09-28",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/ch11", "type": "Archival document collection",
+    "relevance": "Documents the treaty signed at Moscow on 28 September 1939", "supports": ["1939-09-28"],
+    "notes": "Used for treaty date and diplomatic record, not as a precise GIS boundary.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ushmm-1939-dates", "institution": "United States Holocaust Memorial Museum", "title": "1939: Key Dates", "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/1939-key-dates", "type": "Historical chronology",
+    "relevance": "Invasion dates and 26 October annexation and General Government administration", "supports": ["1939-09-01", "1939-10-26"],
+    "notes": "Supports selection of 26 October as the fourth timeline state.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "ushmm-german-administration", "institution": "United States Holocaust Memorial Museum", "title": "German Administration of Poland", "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-administration-of-poland", "type": "Historical reference",
+    "relevance": "German occupation administration and General Government formation", "supports": ["1939-10-26"],
+    "notes": "Administrative description only; historical district boundaries are not yet mapped.", "reuseRights": "Linked for reference; reproduction rights not assumed."
+  },
+  {
+    "id": "natural-earth-50m", "institution": "Natural Earth", "title": "1:50m Land and Populated Places", "date": null,
+    "url": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/", "type": "Public-domain geographic dataset",
+    "relevance": "Contemporary geographic reference layer and city coordinates", "supports": ["base-geography", "reference-places"],
+    "notes": "Geographic context only. The land layer contains no political borders and is not a 1939 political map.", "reuseRights": "Public domain under Natural Earth Terms of Use; local subset/format may be modified."
+  }
+]

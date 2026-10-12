@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1939-09-01", "date": "1939-09-01", "label": "1 September 1939", "kind": "Invasion",
+    "title": "Germany invades Poland",
+    "summary": "German forces invade Poland, beginning the war in Europe. This date marks the invasion, not a completed occupation or a change in Polish sovereignty.",
+    "sourceIds": ["ushmm-invasion-poland", "ushmm-1939-dates"], "geographicFeatureIds": []
+  },
+  {
+    "id": "1939-09-17", "date": "1939-09-17", "label": "17 September 1939", "kind": "Invasion",
+    "title": "The Soviet Union invades eastern Poland",
+    "summary": "The Red Army invades Poland from the east. Soviet claims that the intervention was protective were official justifications, not a description adopted by this atlas.",
+    "sourceIds": ["ushmm-invasion-poland", "ushmm-german-soviet-pact"], "geographicFeatureIds": []
+  },
+  {
+    "id": "1939-09-28", "date": "1939-09-28", "label": "28 September 1939", "kind": "Treaty",
+    "title": "German–Soviet Boundary and Friendship Treaty",
+    "summary": "Germany and the Soviet Union sign a treaty revising their territorial arrangements for occupied Poland. A treaty line is not represented here as a reconstructed on-the-ground military line.",
+    "sourceIds": ["us-state-frus-1939"], "geographicFeatureIds": []
+  },
+  {
+    "id": "1939-10-26", "date": "1939-10-26", "label": "26 October 1939", "kind": "Occupation administration",
+    "title": "German occupation administration takes shape",
+    "summary": "Germany formally annexes several occupied Polish regions and places other German-occupied areas under the General Government. Soviet-annexed eastern Poland was under a different regime. These acts did not establish recognized Polish consent or sovereignty.",
+    "dateRationale": "The United States Holocaust Memorial Museum identifies 26 October as the date of German annexations and establishment of the General Government civilian administration.",
+    "sourceIds": ["ushmm-1939-dates", "ushmm-german-administration"], "geographicFeatureIds": []
+  }
+]
