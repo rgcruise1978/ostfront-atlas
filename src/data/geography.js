@@ -8,5 +8,5 @@ export const geography = {
   areaLabelsUrl: '/data/history/surrounding-area-labels.geojson',
   historicalUrl: '/data/history/poland-1939.geojson',
   center: [21.0, 52.0],
-  bounds: [[14.2, 47.4], [29.7, 56.3]]
+  bounds: [[14.2, 46.6], [29.7, 56.3]]
 };

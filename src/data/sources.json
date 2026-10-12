@@ -64,5 +64,11 @@
     "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi:image-2005", "type": "Historical map reference",
     "relevance": "Confirms the final 28 September line along the Narew, Bug and San", "supports": ["1939-09-28-partition-line"],
     "notes": "Linked to check the general route. The original copyrighted map image is not reproduced.", "reuseRights": "Linked for reference; image rights held by Bildarchiv Preussischer Kulturbesitz."
+  },
+  {
+    "id": "us-state-koenigsberg", "institution": "U.S. Department of State, Office of the Historian", "title": "East Prussia historical record", "date": "1943",
+    "url": "https://history.state.gov/historicaldocuments/frus1943/d366", "type": "Historical reference",
+    "relevance": "Confirms Königsberg as the period name for the East Prussian city", "supports": ["reference-places"],
+    "notes": "Supports the historical city name only. The mapped coordinates come from Natural Earth.", "reuseRights": "Linked for reference; reproduction rights not assumed."
   }
 ]
