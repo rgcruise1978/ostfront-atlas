@@ -30,9 +30,21 @@
     "notes": "Administrative description only; historical district boundaries are not yet mapped.", "reuseRights": "Linked for reference; reproduction rights not assumed."
   },
   {
-    "id": "natural-earth-50m", "institution": "Natural Earth", "title": "1:50m Land and Populated Places", "date": null,
+    "id": "natural-earth-50m", "institution": "Natural Earth", "title": "1:50m Land", "date": null,
     "url": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/", "type": "Public-domain geographic dataset",
-    "relevance": "Contemporary geographic reference layer and city coordinates", "supports": ["base-geography", "reference-places"],
+    "relevance": "Contemporary coastline and land reference layer", "supports": ["base-geography"],
     "notes": "Geographic context only. The land layer contains no political borders and is not a 1939 political map.", "reuseRights": "Public domain under Natural Earth Terms of Use; local subset/format may be modified."
+  },
+  {
+    "id": "natural-earth-10m", "institution": "Natural Earth", "title": "1:10m Populated Places and Rivers", "date": null,
+    "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/", "type": "Public-domain geographic dataset",
+    "relevance": "Selected city locations and nine major river courses for map orientation", "supports": ["reference-places", "major-rivers"],
+    "notes": "Selected from Natural Earth 1:10m populated places, rivers and European river supplement. Present-day place names and generalized river courses do not establish 1939 jurisdiction, battle lines, or crossing locations.", "reuseRights": "Public domain under Natural Earth Terms of Use; selected and simplified for local display."
+  },
+  {
+    "id": "umn-historical-borders-1939", "institution": "University of Minnesota", "title": "Historical National Boundaries, 1939", "date": "1939",
+    "url": "https://doi.org/10.13020/146x-1412", "type": "Historical geographic dataset",
+    "relevance": "Fixed reference outline of Poland in the 1939 annual boundary layer", "supports": ["poland-1939-reference"],
+    "notes": "The source is an annual reconstruction without an exact boundary date. Its linework is generalized and smoothed. Only Poland was extracted, with coordinates rounded for display. It does not show the later occupation or partition lines.", "reuseRights": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US); University of Minnesota credited on the map."
   }
 ]
