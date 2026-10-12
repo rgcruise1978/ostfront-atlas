@@ -10,7 +10,7 @@ const emptyCollection = { type: 'FeatureCollection', features: [] };
 
 maplibregl.setWorkerUrl(workerUrl);
 
-export default function AtlasMap({ date, showPlaces, showHistory, onFeatureSelect }) {
+export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, onFeatureSelect }) {
   const container = useRef(null);
   const mapRef = useRef(null);
   const [historyData, setHistoryData] = useState(emptyCollection);
@@ -33,11 +33,15 @@ export default function AtlasMap({ date, showPlaces, showHistory, onFeatureSelec
           const feature = event.features?.[0];
           if (feature) onFeatureSelect({ kind: 'place', title: feature.properties.name, note: feature.properties.note, coordinates: feature.geometry.coordinates, sourceIds: [feature.properties.sourceId] });
         });
+        for (const layer of ['rivers-line', 'boundary-line']) map.on('click', layer, (event) => {
+          const feature = event.features?.[0];
+          if (feature) onFeatureSelect({ kind: layer === 'rivers-line' ? 'river' : 'boundary', title: feature.properties.name || feature.properties.title, note: feature.properties.note, sourceIds: feature.properties.sourceId ? [feature.properties.sourceId] : JSON.parse(feature.properties.sourceIds || '[]') });
+        });
         for (const layer of historyLayers) map.on('click', layer, (event) => {
           const feature = event.features?.[0];
           if (feature) onFeatureSelect({ kind: 'historical', title: feature.properties.title, note: feature.properties.note, sourceIds: JSON.parse(feature.properties.sourceIds || '[]') });
         });
-        for (const layer of ['places-dot', ...historyLayers]) {
+        for (const layer of ['places-dot', 'rivers-line', 'boundary-line', ...historyLayers]) {
           map.on('mouseenter', layer, () => { map.getCanvas().style.cursor = 'pointer'; });
           map.on('mouseleave', layer, () => { map.getCanvas().style.cursor = ''; });
         }
@@ -62,11 +66,12 @@ export default function AtlasMap({ date, showPlaces, showHistory, onFeatureSelec
       });
       const source = map.getSource('history');
       if (source) source.setData({ ...emptyCollection, features: eligible });
-      if (map.getLayer('places-dot')) map.setLayoutProperty('places-dot', 'visibility', showPlaces ? 'visible' : 'none');
-      for (const layer of historyLayers) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showHistory ? 'visible' : 'none');
+      for (const layer of ['places-dot', 'places-major-label', 'places-minor-label']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showPlaces ? 'visible' : 'none');
+      for (const layer of ['rivers-line', 'rivers-label']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showRivers ? 'visible' : 'none');
+      for (const layer of ['boundary-fill', 'boundary-line']) if (map.getLayer(layer)) map.setLayoutProperty(layer, 'visibility', showBoundary ? 'visible' : 'none');
     };
     if (map.isStyleLoaded()) update(); else map.once('load', update);
-  }, [date, showPlaces, showHistory, historyData]);
+  }, [date, showPlaces, showRivers, showBoundary, historyData]);
 
-  return <div className="map-frame"><div ref={container} className="atlas-map" role="application" aria-label="Interactive geographic reference map centered on Poland; use map controls to zoom or pan" />{error && <p className="map-error" role="alert">{error}</p>}</div>;
+  return <div className="map-frame"><div ref={container} className="atlas-map" role="application" aria-label="Interactive map of Poland with a 1939 border reference, cities, and major rivers; use map controls to zoom or pan" />{error && <p className="map-error" role="alert">{error}</p>}</div>;
 }
