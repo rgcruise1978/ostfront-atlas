@@ -2,10 +2,11 @@
 
 ## Implemented
 
-- React, Vite, JavaScript, standard CSS, MapLibre GL JS, local Natural Earth geography, and a fixed University of Minnesota 1939 Polish outline.
+- React, Vite, JavaScript, standard CSS, MapLibre GL JS, local Natural Earth geography, and fixed University of Minnesota 1939 Poland and surrounding-state outlines.
 - Home, interactive Poland 1939 atlas, article index and article route, source library, responsive layout.
-- Five source-linked timeline dates, each with a full-article placeholder, and a separate, currently empty historical GeoJSON layer.
-- 25 labelled city locations, nine labelled major rivers, the 1939 Polish border reference, and independent visibility switches for each layer.
+- Five source-linked timeline dates, each with a full-article placeholder, and a dated historical GeoJSON layer.
+- 25 labelled city locations, nine labelled major rivers, six neighbouring state outlines, additional area labels, and independent visibility switches for geographic layers.
+- Approximate German–Soviet partition line shown from 28 September 1939 onward.
 - Netlify build configuration, client-side route fallback, and development `noindex` headers.
 
 ## Operational status
@@ -14,14 +15,15 @@ See the latest commit and Netlify deployment for the verified build and live URL
 
 ## Known limits
 
-The Polish outline is an annual, generalized 1939 reconstruction with no exact day assigned by its source. It stays fixed as a pre-invasion reference across the timeline. No occupation areas, dated partition lines, troop positions, or battle crossings are mapped. A selected date updates historical text and the empty dated-layer filter. Search indexing is discouraged with `noindex`; the Netlify URL remains publicly reachable.
+The Poland and neighbouring outlines are annual, generalized 1939 reconstructions without an exact day. They stay fixed as references across the timeline. The source's obsolete 1939 Czechoslovakia polygon is excluded; Slovakia and the Czech protectorate are labelled without precise borders. The partition trace is schematic, guided by a contemporary report and generalized river courses. No occupation areas, troop positions, or battle crossings are mapped. Search indexing is discouraged with `noindex`; the Netlify URL remains publicly reachable.
 
 ## Next objective
 
-Research and prepare a dated occupation or partition boundary for Poland 1939, with explicit provenance and uncertainty notes.
+Research and prepare precise occupation areas and verified southern 1939 boundaries, with explicit provenance and uncertainty notes.
 
 ## Change log
 
 - 2026-10-12: Initial website foundation and Poland 1939 timeline.
 - 2026-10-12: Added the 23 August Pact date and five date-article placeholders.
 - 2026-10-12: Added a fixed 1939 Poland outline, 25 cities, and nine rivers with source and uncertainty notes.
+- 2026-10-12: Added surrounding areas and an approximate 28 September partition line.
