@@ -5,6 +5,14 @@ export const controlColors = Object.freeze({
   Romania: '#927044', Finland: '#4D806B', Contested: '#8B718A', Neutral: '#D2D9D6'
 });
 
+export const countryColors = Object.freeze({
+  Germany: controlColors.Germany,
+  'Soviet Union': controlColors['Soviet Union'],
+  Hungary: '#d5c4a4', Romania: '#d5c7b3',
+  Lithuania: '#d9dfd2', Latvia: '#d4ded7', Estonia: '#d2dedb',
+  Other: '#d9d5c9'
+});
+
 export const historicalLayerGroups = Object.freeze({
   capitals: ['capital-stars', 'capital-labels'],
   control: ['control-fill', 'control-line'],

@@ -109,6 +109,8 @@ main{flex:1}
 .swatch.german-axis{height:0;border:0;border-bottom:3px dashed #b45b57}
 .swatch.soviet-axis{height:0;border:0;border-bottom:3px dashed #547fad}
 .swatch.partition{height:0;border:0;border-bottom:3px dashed #a43f4b}
+.swatch.opening-frontier{height:0;border:0;border-bottom:3px solid #403e38}
+.swatch.former-border{background:transparent;border:2px dashed #8c806d}
 .swatch.river{background:#f3f0e6;border:0;border-bottom:3px solid #6d9aaa}
 .swatch.place{background:#233c49;border:2px solid #fff;border-radius:50%;box-shadow:0 0 0 1px #233c49}
 .map-disclaimer{font-size:.75rem;color:#637177;line-height:1.55;margin:11px 0 0}
