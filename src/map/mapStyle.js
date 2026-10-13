@@ -1,5 +1,5 @@
 import { geography } from '../data/geography.js';
-import { controlColors } from './cartography.js';
+import { controlColors, countryColors } from './cartography.js';
 import capitals from '../data/capitals.json';
 
 export const mapStyle = {
@@ -22,11 +22,11 @@ export const mapStyle = {
   layers: [
     { id: 'water', type: 'background', paint: { 'background-color': '#d9e4e5' } },
     { id: 'land', type: 'fill', source: 'land', paint: { 'fill-color': '#eee9da', 'fill-outline-color': '#a9b4ae' } },
-    { id: 'neighbors-fill', type: 'fill', source: 'neighbors', paint: { 'fill-color': ['match', ['get', 'name'], 'Germany', '#d2d9d6', 'Soviet Union', '#dcd9cb', 'Hungary', '#e0d7cd', 'Lithuania', '#d9dfd2', 'Latvia', '#d4ded7', 'Romania', '#dfd5d4', 'Estonia', '#d2dedb', '#d9d5c9'], 'fill-opacity': 0.88 } },
+    { id: 'neighbors-fill', type: 'fill', source: 'neighbors', paint: { 'fill-color': ['match', ['get', 'name'], 'Germany', countryColors.Germany, 'Soviet Union', countryColors['Soviet Union'], 'Hungary', countryColors.Hungary, 'Lithuania', countryColors.Lithuania, 'Latvia', countryColors.Latvia, 'Romania', countryColors.Romania, 'Estonia', countryColors.Estonia, countryColors.Other], 'fill-opacity': ['case', ['in', ['get', 'name'], ['literal', ['Germany', 'Soviet Union']]], 0.55, 0.88] } },
     { id: 'neighbors-border-halo', type: 'line', source: 'neighbors', paint: { 'line-color': '#f7f3e9', 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 4, 7, 5], 'line-opacity': 0.95 } },
     { id: 'neighbors-line', type: 'line', source: 'neighbors', paint: { 'line-color': '#615b51', 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 2, 7, 2.7], 'line-opacity': 0.96 } },
     { id: 'boundary-fill', type: 'fill', source: 'boundary', paint: { 'fill-color': controlColors.Poland, 'fill-opacity': 0.35 } },
-    { id: 'control-fill', type: 'fill', source: 'control', paint: { 'fill-color': ['match', ['get', 'actor'], 'Germany', controlColors.Germany, 'Soviet Union', controlColors['Soviet Union'], '#8c8780'], 'fill-opacity': 0.38 } },
+    { id: 'control-fill', type: 'fill', source: 'control', paint: { 'fill-color': ['match', ['get', 'actor'], 'Germany', controlColors.Germany, 'Soviet Union', controlColors['Soviet Union'], '#8c8780'], 'fill-opacity': 0.55 } },
     { id: 'control-line', type: 'line', source: 'control', paint: { 'line-color': ['match', ['get', 'actor'], 'Germany', controlColors.Germany, 'Soviet Union', controlColors['Soviet Union'], '#8c8780'], 'line-width': 1, 'line-opacity': 0.75, 'line-dasharray': [2, 2] } },
     { id: 'rivers-line', type: 'line', source: 'rivers', paint: { 'line-color': '#6d9aaa', 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 1.3, 7, 2.4], 'line-opacity': 0.9 } },
     { id: 'secondary-rivers-line', type: 'line', source: 'secondaryRivers', minzoom: 5.5, paint: { 'line-color': '#83a7b2', 'line-width': 1.1, 'line-opacity': 0.82 } },
@@ -65,6 +65,15 @@ export function makeMapStyle(geographicConfig) {
   style.sources.capitals = {type:'geojson',data:{type:'FeatureCollection',features:capitals.map(capital=>({type:'Feature',properties:{id:capital.id,name:capital.name,capitalOf:capital.capitalOf},geometry:{type:'Point',coordinates:capital.coordinates}}))}};
   const ordinaryCities = ['!', ['in', ['get','name'], ['literal', capitals.map(capital=>capital.name)]]];
   for (const layer of style.layers.filter(layer=>layer.source==='places')) layer.filter = ['all',layer.filter,ordinaryCities];
+  if (geographicConfig.referencePeriod === '1941-opening') {
+    const byId = id => style.layers.find(layer => layer.id === id);
+    byId('boundary-fill').paint['fill-opacity'] = 0;
+    Object.assign(byId('boundary-line').paint, {'line-color':'#8c806d','line-width':1.4,'line-dasharray':[3,2]});
+    Object.assign(byId('history-line').paint, {'line-color':'#403e38','line-width':['interpolate',['linear'],['zoom'],4,2.6,7,3.6],'line-dasharray':[1,0]});
+    Object.assign(byId('control-line').paint, {'line-color':'#5a5650','line-width':1.1,'line-opacity':0.48,'line-dasharray':[2,2]});
+    Object.assign(byId('neighbors-line').paint, {'line-color':'#71695e','line-width':1.6});
+    byId('neighbors-border-halo').paint['line-width'] = 2.5;
+  }
   style.layers.push(
     {id:'capital-stars',type:'symbol',source:'capitals',layout:{'text-field':'★','text-font':['Arial','Helvetica','sans-serif'],'text-size':22,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#233c49','text-halo-color':'#fff9ec','text-halo-width':2}},
     {id:'capital-labels',type:'symbol',source:'capitals',layout:{'text-field':['get','name'],'text-font':['Arial','Helvetica','sans-serif'],'text-size':13,'text-anchor':'top','text-offset':[0,1],'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#233c49','text-halo-color':'#fff9ec','text-halo-width':2}}
