@@ -16,7 +16,7 @@ from shapely.validation import make_valid
 ROOT = Path(__file__).resolve().parents[1]
 HISTORY = ROOT / 'public/data/history'
 GEOGRAPHY = ROOT / 'public/data/geography'
-THEATRE = box(14, 43, 43, 64)
+THEATRE = box(5, 43, 43, 64)
 DATES = {'startDate': '1941-06-21', 'endDate': '1941-07-09'}
 
 
@@ -98,7 +98,7 @@ frontier = [
 write('barbarossa-1941-opening-frontier.geojson', frontier)
 
 labels = [
-    ('Germany', 'main', 17.2, 51.5), ('East Prussia', 'region', 20.5, 54.35),
+    ('Germany', 'main', 10.5, 51.2), ('East Prussia', 'region', 20.5, 54.35),
     ('German-held former Poland', 'region', 20.6, 51.5),
     ('Soviet Union', 'main', 37.1, 54.2), ('Soviet-held former Poland', 'region', 25.2, 51.7),
     ('Lithuanian SSR', 'region', 24.2, 55.25), ('Latvian SSR', 'region', 25.3, 57.2),
