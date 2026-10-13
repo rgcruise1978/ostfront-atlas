@@ -4,10 +4,10 @@
 
 - React, Vite, JavaScript, standard CSS, MapLibre GL JS, local Natural Earth geography, and fixed University of Minnesota 1939 Poland and surrounding-state outlines.
 - Home, interactive Poland 1939 atlas, article index and article route, source library, responsive layout.
-- Five source-linked timeline dates, published 23 August and 1 September chapters, three remaining article placeholders, and a dated historical GeoJSON layer.
+- Five source-linked timeline dates, published 23 August, 1 September and 17 September chapters, two remaining article placeholders, and a dated historical GeoJSON layer.
 - 210 city locations across Poland and surrounding areas, with smaller places appearing at closer zoom; 46 named river courses across the region, seven neighbouring state outlines, additional area labels, and independent visibility switches for geographic layers.
 - Approximate German–Soviet partition line shown from 28 September 1939 onward.
-- Five German and two Soviet sourced, schematic operational axes, date-filtered with a separate toggle and clickable explanations. Soviet axes start on 17 September.
+- Five German axes, seven Soviet planned group directions for 17 September, and two broad Soviet axes for 28 September. Date-filtered Soviet front/group labels identify commanders; click explanations give forces, deadlines and source limitations.
 - Broad German and Soviet occupation-sector polygons for 26 October only, with consistent colours, separate toggle, legal-status/accuracy notes, and source links.
 - Netlify build configuration, client-side route fallback, and development `noindex` headers.
 
@@ -38,3 +38,5 @@ Research and digitize verified 1939 transportation, terrain, regional boundaries
 - 2026-10-12: Published the 23 August 1939 dossier with approximately 3,550 words, 24 references, six asides, contents navigation, citation return links, a document comparison, and dated atlas links. Later events remain a short epilogue.
 
 - 2026-10-12: Published the 1 September chapter (about 4,450 words, 22 references), with connected chapter navigation, three asides and an expandable command table. Added opening-day Army Group North/South labels, the Eighth Army axis, individual army labels at closer zoom, and four clickable engagement localities. All opening-day annotations are date-filtered; no exact headquarters or daily advance limits are asserted.
+
+- 2026-10-13: Published the 17 September chapter (about 4,740 words, 27 references), four asides, seven-group command table, linked chronology/research downloads, and previous/next chapter navigation. Added seven planned Soviet directions and nine Soviet command labels on 17 September only. Orders are explicitly distinguished from observed positions. Research notes and a full source backup are saved in the project outputs directory.
