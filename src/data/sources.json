@@ -909,5 +909,369 @@
     ],
     "notes": "The Western Allies’ reliance on blockade and the absence of a major offensive that could relieve Poland.",
     "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "frus-soviet-note",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Steinhardt to the Secretary of State, 17 September 1939",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d438",
+    "type": "Historical document or research",
+    "relevance": "Contemporary translation of the Soviet note; cited as the official justification, not accepted as fact.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "frus-paris-sept17-morning",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Bullitt to the Secretary of State, 17 September 1939, 11 a.m.",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d439",
+    "type": "Historical document or research",
+    "relevance": "Early Polish reports of resistance conveyed in Paris. The report misidentifies the Soviet official who delivered the note; it is used only for the resistance report.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "frus-paris-sept17-evening",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Bullitt to the Secretary of State, 17 September 1939, 6 p.m.",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d440",
+    "type": "Historical document or research",
+    "relevance": "Polish diplomatic protest and the ambassador’s assessment of allied and Romanian assistance.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "frus-london-sept18",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Kennedy to the Secretary of State, 18 September 1939",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d450",
+    "type": "Historical document or research",
+    "relevance": "Cadogan’s private explanation of British policy and the Polish request for a protest.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "frus-paris-sept20",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Bullitt to the Secretary of State, 20 September 1939",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d458",
+    "type": "Historical document or research",
+    "relevance": "Reported French strategic expectations and internment of Polish officials. These are contemporary perceptions, not forecasts adopted by the atlas.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "avalon-sept10",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Schulenburg telegram No. 317, 10 September 1939",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/20th_century/ns069.asp",
+    "type": "Historical document or research",
+    "relevance": "Molotov discusses readiness, a protective explanation and the difficulty an armistice would create.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "German diplomatic records published in Nazi–Soviet Relations, 1939–1941. These are German accounts of the conversations, not verbatim transcripts of every participant.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "avalon-sept14",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Schulenburg telegram, 14 September 1939",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/20th_century/ns071.asp",
+    "type": "Historical document or research",
+    "relevance": "Readiness, Warsaw’s continued resistance and preparation of the public explanation.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "German diplomatic records published in Nazi–Soviet Relations, 1939–1941. These are German accounts of the conversations, not verbatim transcripts of every participant.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "avalon-sept15",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Ribbentrop telegram No. 360, 15 September 1939",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/20th_century/ns072.asp",
+    "type": "Historical document or research",
+    "relevance": "German objections to being portrayed as a threat and requests for operational coordination.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "German diplomatic records published in Nazi–Soviet Relations, 1939–1941. These are German accounts of the conversations, not verbatim transcripts of every participant.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "avalon-sept17",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Schulenburg telegram, 17 September 1939",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/20th_century/ns074.asp",
+    "type": "Historical document or research",
+    "relevance": "Meeting with Stalin, proposed aircraft limit, crossing time and three changes to the Polish note; the discarded wording is not supplied.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "German diplomatic records published in Nazi–Soviet Relations, 1939–1941. These are German accounts of the conversations, not verbatim transcripts of every participant.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "avalon-hilger-sept18",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Hilger memorandum, 18 September 1939",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/20th_century/ns078.asp",
+    "type": "Historical document or research",
+    "relevance": "Separate negotiation of the joint communiqué; distinguishes it from revisions of the note to Poland.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "German diplomatic records published in Nazi–Soviet Relations, 1939–1941. These are German accounts of the conversations, not verbatim transcripts of every participant.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "avalon-sept19",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Schulenburg telegram No. 395, 19 September 1939",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/20th_century/ns080.asp",
+    "type": "Historical document or research",
+    "relevance": "Molotov’s preference for partition; transmitted on 20 September.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "German diplomatic records published in Nazi–Soviet Relations, 1939–1941. These are German accounts of the conversations, not verbatim transcripts of every participant.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "soviet-directive-north",
+    "institution": "Soviet military directive; transcription at Istorychna Pravda",
+    "title": "Directive 16633, 14 September 1939",
+    "date": null,
+    "url": "https://www.istpravda.com.ua/articles/2014/09/16/144720/",
+    "type": "Historical document or research",
+    "relevance": "Northern groups, commanders, assigned forces and planned objectives. TsAMO, fond 148a, opis 3763, delo 69, leaves 1–3.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Russian transcription consulted; editorial commentary is not used. The archive catalogue was unavailable. This order establishes intention, not actual positions.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "soviet-directive-south",
+    "institution": "Soviet military directive; transcription at Istorychna Pravda",
+    "title": "Directive 16634, 14 September 1939",
+    "date": null,
+    "url": "https://www.istpravda.com.ua/articles/2013/09/16/136396/",
+    "type": "Historical document or research",
+    "relevance": "Southern groups, commanders, assigned forces and planned objectives. TsAMO, fond 148a, opis 3763, delo 69, leaves 4–6.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Russian transcription cross-checked against the 2014 republication. Orders establish intention, not actual positions.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "wysocki-soviet-fronts",
+    "institution": "Wiesław Jan Wysocki, Saeculum Christianum",
+    "title": "Were We at the State of War with the Soviets?!",
+    "date": null,
+    "url": "https://czasopisma.uksw.edu.pl/index.php/sc/article/download/8518/7593/14420",
+    "type": "Historical document or research",
+    "relevance": "PDF page 2, note 8: the two Soviet fronts and their commanders.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Used for command identification only, not the author’s disputed intelligence claims or aggregate strength estimates.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-september-aggression",
+    "institution": "Institute of National Remembrance",
+    "title": "Anniversary of the Soviet aggression on Poland from 17 September 1939",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7262,Anniversary-of-the-Soviet-aggression-on-Poland-from-17-September-1939.html",
+    "type": "Historical document or research",
+    "relevance": "Grzybowski’s refusal, the Polish withdrawal order and resistance at Wilno and Grodno.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Its 20–21 September dating of Grodno describes the main fighting; the withdrawal continued into 22 September. No disputed casualty totals or broad legal claims are adopted.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-invasion-east",
+    "institution": "Institute of National Remembrance",
+    "title": "September 1939 exhibition: Invasion from the East; Struggle Continues",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/download/2/38666/A3.pdf",
+    "type": "Historical document or research",
+    "relevance": "PDF panels 10 and 15: Brest ceremony, evacuation of the government on the night of 17–18 September and continuation of Polish institutions.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "PDF downloaded and read. Its Szack dates differ from specialist accounts; the chapter uses the Polish Army Museum chronology for that battle.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "pz-grodno-1939",
+    "institution": "Polska Zbrojna, Military Publishing Institute",
+    "title": "The defence of Grodno, September 1939",
+    "date": null,
+    "url": "https://www.polska-zbrojna.pl/home/articleshow/44733",
+    "type": "Historical document or research",
+    "relevance": "Weak garrison, Serafin’s preparations, the 27th Tank Brigade, street fighting and withdrawal.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Vehicle-loss totals vary and are omitted. The main fighting on 20–21 September is distinguished from the withdrawal into 22 September.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-kodziowce",
+    "institution": "Marek Kozak, Institute of National Remembrance",
+    "title": "Kodziowce – miejsce pamięci na Grodzieńszczyźnie",
+    "date": null,
+    "url": "https://ipn.gov.pl/pl/historia-z-ipn/168652,Marek-Kozak-Kodziowce-miejsce-pamieci-na-Grodzienszczyznie.html",
+    "type": "Historical document or research",
+    "relevance": "Polish 101st Reserve Uhlan Regiment and the Soviet detachment in the fighting of 21–22 September.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Battle date cross-checked with the dated Łazarewicz diary. No uncorroborated tank-loss total reproduced.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-september-documents",
+    "institution": "Institute of National Remembrance",
+    "title": "Agresja sowiecka: 17 września 1939 — source packet",
+    "date": null,
+    "url": "https://edukacja.ipn.gov.pl/download/210/472823/17wrzesnia.pdf",
+    "type": "Historical document or research",
+    "relevance": "PDF pages 8 and 10: the 16 September administration directive and Piotr Łazarewicz’s diary entry for 22 September.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "The diary is reproduced from A. C. Dobroński, Rocznik Augustowsko-Suwalski (2010), p. 161. Its casualty claims are second-hand and omitted. The political directive is reproduced from W. Śleszyński (2000), pp. 49–50.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "mwp-szack-wytyczno",
+    "institution": "Piotr Kolanek, Polish Army Museum",
+    "title": "Szack–Wytyczno, 28 September–1 October 1939",
+    "date": null,
+    "url": "https://muzeumwp.pl/2026/10/01/szack-wytyczno-28-09-1-10-1939-zwycieski-boj-korpusu-ochrony-pogranicza-z-sowieckimi-czolgami/",
+    "type": "Historical document or research",
+    "relevance": "Border Protection Corps concentration, antitank defence, the Bug crossing, exhaustion and dissolution after Wytyczno.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Loss estimates differ; precise tallies are omitted.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-lwow-1939",
+    "institution": "Ryszard Sodel, Institute of National Remembrance",
+    "title": "Kapitulacja Lwowa. Przeciw dwóm wrogom",
+    "date": null,
+    "url": "https://przystanekhistoria.pl/pa2/teksty/128652,Kapitulacja-Lwowa-Przeciw-dwom-wrogom.html",
+    "type": "Historical document or research",
+    "relevance": "Armoured trains, Soviet attacks, German withdrawal, the 22 September surrender and breached guarantees.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-soviet-repressions",
+    "institution": "Institute of National Remembrance",
+    "title": "Soviet crimes and repressions against Polish citizens after September 17th 1939",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/8876,Soviet-crimes-and-repressions-against-Polish-citizens-after-September-17th-1939.html",
+    "type": "Historical document or research",
+    "relevance": "Violence against prisoners, arrests and the developing system of captivity.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Later Katyn killings are identified as a subsequent event, not a September occurrence; uncertain local victim totals are omitted.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ipn-soviet-perspectives",
+    "institution": "Institute of National Remembrance",
+    "title": "The Mirror Cracked from Side to Side: Poland from the perspective of Soviet authorities and society",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7258,The-Mirror-Cracked-from-Side-to-Side-Poland-from-the-perspective-of-Soviet-autho.html",
+    "type": "Historical document or research",
+    "relevance": "Political reports of uncertainty and Simonov’s retrospective recollection.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Police and political reports are not representative opinion surveys. Simonov was in Mongolia, not witnessing the Polish campaign.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "boridczenko-borderlands",
+    "institution": "Stanisław Boridczenko, The Historical Journal",
+    "title": "Three Identity Types Shaping Popular Attitudes towards the Army in the Polish Eastern Borderlands during the September Campaign",
+    "date": null,
+    "url": "https://www.cambridge.org/core/journals/historical-journal/article/three-identity-types-shaping-popular-attitudes-towards-the-army-in-the-polish-eastern-borderlands-during-the-september-campaign/CC47BB8F38F3ECD6557EE5C747E28FDB",
+    "type": "Historical document or research",
+    "relevance": "Peer-reviewed analysis of contrasting local reactions and the limitations of Polish military testimony. DOI: 10.1017/S0018246X26101678.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Published 8 September 2026. Used for local responses and source criticism, not its imprecise account of the formation date of SGO Polesie.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "mick-lviv",
+    "institution": "Christoph Mick, Journal of Contemporary History",
+    "title": "Incompatible Experiences: Poles, Ukrainians and Jews in Lviv under Soviet and German Occupation, 1939–44",
+    "date": null,
+    "url": "https://journals.sagepub.com/doi/10.1177/0022009410392409",
+    "type": "Historical document or research",
+    "relevance": "The published abstract explains the study’s comparison of conflicting experiences and memories. DOI: 10.1177/0022009410392409.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Only the openly accessible abstract was consulted. No specific incident is attributed to inaccessible full text.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ushmm-refugees-1939",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German Invasion of Poland: Jewish Refugees, 1939",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-invasion-of-poland-jewish-refugees-1939",
+    "type": "Historical document or research",
+    "relevance": "Eastward flight, family separation, later deportation and difficult choices about return.",
+    "supports": [
+      "1939-09-17"
+    ],
+    "notes": "Later events are clearly distinguished from September; its compressed government-in-exile chronology is not reproduced.",
+    "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
   }
 ]
