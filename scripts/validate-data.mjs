@@ -112,11 +112,13 @@ for (const feature of control.features) {
   assert(p.accuracy && p.uncertainty && p.legalStatus && p.note, `Missing control metadata for ${p.id}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown control source ${id}`);
 }
-const axes = operations.features.filter(feature => feature.properties.category === 'advance_axis');
-const annotations = operations.features.filter(feature => feature.properties.category !== 'advance_axis');
-assert(axes.length === 7, 'Expected five German and two Soviet axes');
+const axes = operations.features.filter(feature => ['advance_axis', 'planned_axis'].includes(feature.properties.category));
+const annotations = operations.features.filter(feature => !['advance_axis', 'planned_axis'].includes(feature.properties.category));
+assert(axes.length === 14, 'Expected five German, two later Soviet and seven Soviet planned axes');
+assert(axes.filter(f => f.properties.category === 'planned_axis').length === 7, 'Expected seven planned Soviet directions');
+assert(new Set(operations.features.map(f => f.properties.id)).size === operations.features.length, 'Operation IDs must be unique');
 assert(axes.filter(feature => feature.properties.actor === 'Germany').length === 5, 'Expected five German axes');
-assert(annotations.filter(feature => feature.properties.category === 'army_group').length === 2, 'Expected two army-group labels');
+assert(annotations.filter(feature => feature.properties.category === 'army_group').length === 4, 'Expected two German army groups and two Soviet fronts');
 assert(annotations.filter(feature => feature.properties.category === 'engagement').length === 4, 'Expected four engagement localities');
 for (const feature of operations.features) {
   const p = feature.properties;
@@ -124,11 +126,12 @@ for (const feature of operations.features) {
   assert(p.snapshots.every(date => expectedDates.includes(date)), `Unsupported date for ${p.id}`);
   assert(!p.snapshots.includes('1939-08-23'), `Invasion feature appears before invasion: ${p.id}`);
   if (p.actor === 'Soviet Union') assert(p.snapshots.every(date => date >= '1939-09-17'), `Premature Soviet axis: ${p.id}`);
-  if (p.category === 'advance_axis') assert(feature.geometry.type === 'LineString' && feature.geometry.coordinates.length > 1, `Invalid axis ${p.id}`);
+  if (['advance_axis', 'planned_axis'].includes(p.category)) assert(feature.geometry.type === 'LineString' && feature.geometry.coordinates.length > 1, `Invalid axis ${p.id}`);
   else {
     assert(feature.geometry.type === 'Point' && feature.geometry.coordinates.every(Number.isFinite), `Invalid annotation ${p.id}`);
-    assert(JSON.stringify(p.snapshots) === '["1939-09-01"]', `Opening annotation leaks to another date: ${p.id}`);
+    assert(JSON.stringify(p.snapshots) === (p.actor === 'Soviet Union' ? '["1939-09-17"]' : '["1939-09-01"]'), `Annotation leaks to another date: ${p.id}`);
   }
+  if (p.category === 'planned_axis') assert(p.movementStatus === 'planned' && p.orderDate === '1939-09-14' && JSON.stringify(p.snapshots) === '["1939-09-17"]', `Unqualified planned direction ${p.id}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown map source ${id}`);
 }
 for (const article of articles.values()) {
@@ -137,3 +140,15 @@ for (const article of articles.values()) {
   for (const id of article.sourceIds) assert(article.body.includes(`id="cite-${id}"`), `Missing citation return target ${id}`);
 }
 console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${axes.length} axes, ${annotations.length} dated annotations and all chapter citation anchors.`);
+
+const sovietResearch = read('public/data/history/soviet-operations-research.json');
+assert(sovietResearch.groups.length === 7, 'Expected seven research records');
+for (const group of sovietResearch.groups) {
+  assert(group.actualPositionOn17September === null, 'Planned objectives must not become observed positions');
+  assert(operations.features.some(f => f.properties.id === group.mapFeatureId), 'Missing research-to-map link');
+  for (const id of group.sourceIds) assert(sourceIds.has(id), `Unknown research source ${id}`);
+}
+for (const event of read('public/data/history/soviet-campaign-events.json').events) {
+  assert(event.startDate >= '1939-09-17' && event.endDate >= event.startDate, 'Invalid campaign chronology');
+  for (const id of event.sourceIds) assert(sourceIds.has(id), `Unknown chronology source ${id}`);
+}
