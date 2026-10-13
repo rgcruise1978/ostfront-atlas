@@ -457,6 +457,163 @@
           50.97
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "german-third-army-axis-label",
+        "title": "German Third Army: northern operational axis",
+        "category": "army_label",
+        "actor": "Germany",
+        "operation": "Invasion of Poland",
+        "startDate": "1939-09-01",
+        "endDate": "1939-09-01",
+        "snapshots": [
+          "1939-09-01"
+        ],
+        "accuracy": "schematic command label",
+        "sourceIds": [
+          "us-army-polish-campaign",
+          "ushmm-invasion-poland",
+          "kennedy-poland-planning"
+        ],
+        "note": "3rd Army · Küchler. The documented northern pincer advanced from East Prussia toward the Narew and the area east of Warsaw. This arrow shows the broad direction, not a unit route or its position on either selected day.",
+        "uncertainty": "Waypoints are cartographic guides, not surveyed troop positions.",
+        "armyLabel": "3rd Army · Küchler",
+        "label": "3rd Army\nKüchler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45,
+          53.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "german-fourth-army-axis-label",
+        "title": "German Fourth Army: Pomeranian Corridor axis",
+        "category": "army_label",
+        "actor": "Germany",
+        "operation": "Invasion of Poland",
+        "startDate": "1939-09-01",
+        "endDate": "1939-09-01",
+        "snapshots": [
+          "1939-09-01"
+        ],
+        "accuracy": "schematic command label",
+        "sourceIds": [
+          "us-army-polish-campaign",
+          "kennedy-poland-planning"
+        ],
+        "note": "4th Army · Kluge. Fourth Army attacked from Pomerania to cut the Polish Corridor and link with forces from East Prussia. The arrow indicates the documented strategic direction only.",
+        "uncertainty": "No exact route or date-specific unit position is asserted.",
+        "armyLabel": "4th Army · Kluge",
+        "label": "4th Army\nKluge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2,
+          53.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "german-tenth-army-axis-label",
+        "title": "German Tenth Army: southern pincer axis",
+        "category": "army_label",
+        "actor": "Germany",
+        "operation": "Invasion of Poland",
+        "startDate": "1939-09-01",
+        "endDate": "1939-09-01",
+        "snapshots": [
+          "1939-09-01"
+        ],
+        "accuracy": "schematic command label",
+        "sourceIds": [
+          "us-army-polish-campaign",
+          "ushmm-invasion-poland",
+          "kennedy-poland-planning"
+        ],
+        "note": "10th Army · Reichenau. Tenth Army was assigned the main thrust from Silesia toward Warsaw. This arrow depicts the planned and executed broad axis, not a continuous unit track.",
+        "uncertainty": "Endpoints indicate direction, not occupied ground on the selected date.",
+        "armyLabel": "10th Army · Reichenau",
+        "label": "10th Army\nReichenau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8,
+          51.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "german-fourteenth-army-axis-label",
+        "title": "German Fourteenth Army: southern approach",
+        "category": "army_label",
+        "actor": "Germany",
+        "operation": "Invasion of Poland",
+        "startDate": "1939-09-01",
+        "endDate": "1939-09-01",
+        "snapshots": [
+          "1939-09-01"
+        ],
+        "accuracy": "schematic command label",
+        "sourceIds": [
+          "us-army-polish-campaign",
+          "ushmm-invasion-poland",
+          "kennedy-poland-planning"
+        ],
+        "note": "14th Army · List. Fourteenth Army attacked from the southern approaches, including Slovakia, toward Polish territory. This is a generalized direction, not a verified road or troop route.",
+        "uncertainty": "The line is schematic and must not be read as a daily front.",
+        "armyLabel": "14th Army · List",
+        "label": "14th Army\nList"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9,
+          49.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "german-eighth-army-axis-label",
+        "title": "German Eighth Army: Łódź approach",
+        "armyLabel": "8th Army · Blaskowitz",
+        "category": "army_label",
+        "actor": "Germany",
+        "operation": "Invasion of Poland",
+        "startDate": "1939-09-01",
+        "endDate": "1939-09-01",
+        "snapshots": [
+          "1939-09-01"
+        ],
+        "accuracy": "schematic command label",
+        "sourceIds": [
+          "kennedy-poland-planning"
+        ],
+        "note": "Johannes Blaskowitz’s Eighth Army belonged to Army Group South. Its opening assignment was to advance towards Łódź and protect the northern flank of Tenth Army’s principal thrust.",
+        "uncertainty": "This arrow represents the opening operational direction, not a road, daily advance limit or troop position.",
+        "label": "8th Army\nBlaskowitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8,
+          51.6
+        ]
+      }
     }
   ]
 }
