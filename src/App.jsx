@@ -43,9 +43,8 @@ export default function App() {
     <main id="main-content">
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/atlases/poland-1939" element={<Suspense fallback={<div className="page narrow" role="status">Loading atlas…</div>}><Atlas key="poland-1939" campaignId="poland-1939" /></Suspense>} />
+        {campaigns.map(campaign => <Route key={campaign.id} path={campaign.mapPath} element={<Suspense fallback={<div className="page narrow" role="status">Loading atlas…</div>}><Atlas key={campaign.id} campaignId={campaign.id} /></Suspense>} />)}
         <Route path="/campaigns/barbarossa-1941" element={<Campaign />} />
-        <Route path="/atlases/barbarossa-1941" element={<Suspense fallback={<div className="page narrow" role="status">Loading atlas…</div>}><Atlas key="barbarossa-1941" campaignId="barbarossa-1941" /></Suspense>} />
         <Route path="/articles" element={<Articles />} />
         <Route path="/articles/:slug" element={<Article />} />
         <Route path="/sources" element={<Sources />} />
