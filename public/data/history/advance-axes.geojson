@@ -179,7 +179,6 @@
         "startDate": "1939-09-17",
         "endDate": "1939-09-28",
         "snapshots": [
-          "1939-09-17",
           "1939-09-28"
         ],
         "accuracy": "schematic operational axis",
@@ -219,7 +218,6 @@
         "startDate": "1939-09-17",
         "endDate": "1939-09-28",
         "snapshots": [
-          "1939-09-17",
           "1939-09-28"
         ],
         "accuracy": "schematic operational axis",
@@ -612,6 +610,552 @@
         "coordinates": [
           17.8,
           51.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-polotsk",
+        "title": "A · Polotsk group — Vasily Kuznetsov",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "A · Polotsk group — Vasily Kuznetsov. Assigned direction: Święciany; later Wilno. Planned end of 17 September: Sharkovshchizna–Dunilovichi–Kurenets; end of 18 September: Święciany–Mikhalishki. Selected forces: 5th, 27th and 50th Rifle Divisions; 24th Cavalry Division; 22nd and 25th Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "A · Polotsk\nKuznetsov"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.3,
+            55.25
+          ],
+          [
+            27.1,
+            55.12
+          ],
+          [
+            25.75,
+            54.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-polotsk-label",
+        "title": "A · Polotsk group — Vasily Kuznetsov",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "A · Polotsk group — Vasily Kuznetsov. Assigned direction: Święciany; later Wilno. Planned end of 17 September: Sharkovshchizna–Dunilovichi–Kurenets; end of 18 September: Święciany–Mikhalishki. Selected forces: 5th, 27th and 50th Rifle Divisions; 24th Cavalry Division; 22nd and 25th Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "A · Polotsk\nKuznetsov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2,
+          55.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-minsk",
+        "title": "B · Minsk group — Yakov Cherevichenko",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "B · Minsk group — Yakov Cherevichenko. Assigned direction: Oszmiana–Lida; later Grodno and assistance towards Wilno. Planned end of 17 September: Molodechno–Volozhin; end of 18 September: Oszmiana–Ivye. Selected forces: 2nd and 100th Rifle Divisions; 7th and 36th Cavalry Divisions; 6th Tank Brigade.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "B · Minsk\nCherevichenko"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.5,
+            54.2
+          ],
+          [
+            26.5,
+            54.1
+          ],
+          [
+            25.35,
+            53.92
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-minsk-label",
+        "title": "B · Minsk group — Yakov Cherevichenko",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "B · Minsk group — Yakov Cherevichenko. Assigned direction: Oszmiana–Lida; later Grodno and assistance towards Wilno. Planned end of 17 September: Molodechno–Volozhin; end of 18 September: Oszmiana–Ivye. Selected forces: 2nd and 100th Rifle Divisions; 7th and 36th Cavalry Divisions; 6th Tank Brigade.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "B · Minsk\nCherevichenko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.25,
+          54.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-dzerzhinsky",
+        "title": "C · Dzerzhinsky group — Ivan Boldin",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "C · Dzerzhinsky group — Ivan Boldin. Assigned direction: Nowogródek–Wołkowysk. Planned end of 17 September: Delyatichi–Turets; end of 18 September: Molchad River line. Selected forces: 4th and 13th Rifle Divisions; 4th, 6th and 11th Cavalry Divisions; 15th Tank Corps.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "C · Dzerzhinsky\nBoldin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.15,
+            53.65
+          ],
+          [
+            25.8,
+            53.55
+          ],
+          [
+            24.6,
+            53.2
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-dzerzhinsky-label",
+        "title": "C · Dzerzhinsky group — Ivan Boldin",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "C · Dzerzhinsky group — Ivan Boldin. Assigned direction: Nowogródek–Wołkowysk. Planned end of 17 September: Delyatichi–Turets; end of 18 September: Molchad River line. Selected forces: 4th and 13th Rifle Divisions; 4th, 6th and 11th Cavalry Divisions; 15th Tank Corps.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "C · Dzerzhinsky\nBoldin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.65,
+          53.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-slutsk",
+        "title": "D · Slutsk group — Vasily Chuikov",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "D · Slutsk group — Vasily Chuikov. Assigned direction: Baranowicze. Planned end of 17 September: Snov–Zhilichi; end of 18 September: No separate 18 September objective specified. Selected forces: 8th Rifle Division; 29th and 32nd Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "D · Slutsk\nChuikov"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.55,
+            52.95
+          ],
+          [
+            26.85,
+            53.0
+          ],
+          [
+            26.05,
+            53.14
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-slutsk-label",
+        "title": "D · Slutsk group — Vasily Chuikov",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-north"
+        ],
+        "note": "D · Slutsk group — Vasily Chuikov. Assigned direction: Baranowicze. Planned end of 17 September: Snov–Zhilichi; end of 18 September: No separate 18 September objective specified. Selected forces: 8th Rifle Division; 29th and 32nd Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "D · Slutsk\nChuikov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.35,
+          52.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-shepetovka",
+        "title": "E · Shepetovka group — Ivan Sovetnikov",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-south"
+        ],
+        "note": "E · Shepetovka group — Ivan Sovetnikov. Assigned direction: Równe–Dubno; later Łuck and Włodzimierz Wołyński. Planned end of 17 September: Równe–Dubno; end of 18 September: Łuck. Selected forces: 44th, 45th and 81st Rifle Divisions; 36th Tank Brigade.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "E · Shepetovka\nSovetnikov"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.45,
+            50.45
+          ],
+          [
+            26.25,
+            50.62
+          ],
+          [
+            25.4,
+            50.75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-shepetovka-label",
+        "title": "E · Shepetovka group — Ivan Sovetnikov",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-south"
+        ],
+        "note": "E · Shepetovka group — Ivan Sovetnikov. Assigned direction: Równe–Dubno; later Łuck and Włodzimierz Wołyński. Planned end of 17 September: Równe–Dubno; end of 18 September: Łuck. Selected forces: 44th, 45th and 81st Rifle Divisions; 36th Tank Brigade.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "E · Shepetovka\nSovetnikov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0,
+          50.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-volochysk",
+        "title": "F · Volochysk group — Filipp Golikov",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-south"
+        ],
+        "note": "F · Volochysk group — Filipp Golikov. Assigned direction: Tarnopol; later Lwów. Planned end of 17 September: Yezernaya; end of 18 September: Busk–Peremyshlyany–Bibrka. Selected forces: 96th and 97th Rifle Divisions; 3rd, 5th and 14th Cavalry Divisions; 24th and 38th Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "F · Volochysk\nGolikov"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.6,
+            49.6
+          ],
+          [
+            25.58,
+            49.54
+          ],
+          [
+            24.25,
+            49.8
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-volochysk-label",
+        "title": "F · Volochysk group — Filipp Golikov",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-south"
+        ],
+        "note": "F · Volochysk group — Filipp Golikov. Assigned direction: Tarnopol; later Lwów. Planned end of 17 September: Yezernaya; end of 18 September: Busk–Peremyshlyany–Bibrka. Selected forces: 96th and 97th Rifle Divisions; 3rd, 5th and 14th Cavalry Divisions; 24th and 38th Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "F · Volochysk\nGolikov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1,
+          50.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-kamianets",
+        "title": "G · Kamianets-Podilskyi group — Ivan Tyulenev",
+        "category": "planned_axis",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-south"
+        ],
+        "note": "G · Kamianets-Podilskyi group — Ivan Tyulenev. Assigned direction: Stanisławów; later Stryj–Drohobycz and routes towards Romania. Planned end of 17 September: Strypa River; end of 18 September: Stanisławów. Selected forces: 72nd and 99th Rifle Divisions; 9th, 16th, 32nd and 34th Cavalry Divisions; 25th Tank Corps; 23rd and 26th Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "G · Kamianets-Podilskyi\nTyulenev"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.7,
+            48.9
+          ],
+          [
+            25.75,
+            48.95
+          ],
+          [
+            24.8,
+            48.9
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-plan-kamianets-label",
+        "title": "G · Kamianets-Podilskyi group — Ivan Tyulenev",
+        "category": "army_label",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "schematic planned direction · order of 14 September",
+        "sourceIds": [
+          "soviet-directive-south"
+        ],
+        "note": "G · Kamianets-Podilskyi group — Ivan Tyulenev. Assigned direction: Stanisławów; later Stryj–Drohobycz and routes towards Romania. Planned end of 17 September: Strypa River; end of 18 September: Stanisławów. Selected forces: 72nd and 99th Rifle Divisions; 9th, 16th, 32nd and 34th Cavalry Divisions; 25th Tank Corps; 23rd and 26th Tank Brigades.",
+        "uncertainty": "The arrow is an editorial sketch of a documented direction, not a surveyed route, a headquarters location, a confirmed position or the ground occupied on 17 September.",
+        "orderDate": "1939-09-14",
+        "movementStatus": "planned",
+        "label": "G · Kamianets-Podilskyi\nTyulenev"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9,
+          48.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-front-north",
+        "title": "Byelorussian Front — Mikhail Kovalyov",
+        "category": "army_group",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "command-sector label, not headquarters",
+        "sourceIds": [
+          "wysocki-soviet-fronts"
+        ],
+        "note": "A Soviet front directed multiple armies. The map’s lettered groups follow the operational assignments in the 14 September orders.",
+        "uncertainty": "Label placement does not identify the commander’s physical location.",
+        "label": "BYELORUSSIAN FRONT\nMikhail Kovalyov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8,
+          54.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "soviet-front-south",
+        "title": "Ukrainian Front — Semyon Timoshenko",
+        "category": "army_group",
+        "actor": "Soviet Union",
+        "startDate": "1939-09-17",
+        "endDate": "1939-09-17",
+        "snapshots": [
+          "1939-09-17"
+        ],
+        "accuracy": "command-sector label, not headquarters",
+        "sourceIds": [
+          "wysocki-soviet-fronts"
+        ],
+        "note": "A Soviet front directed multiple armies. The map’s lettered groups follow the operational assignments in the 14 September orders.",
+        "uncertainty": "Label placement does not identify the commander’s physical location.",
+        "label": "UKRAINIAN FRONT\nSemyon Timoshenko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4,
+          49.6
         ]
       }
     }

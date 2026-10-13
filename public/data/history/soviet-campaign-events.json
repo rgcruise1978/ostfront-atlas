@@ -1,0 +1,81 @@
+{
+  "title": "Soviet invasion: selected subsequent events",
+  "note": "Chronology for the chapter, not features shown as completed events on the 17 September map.",
+  "events": [
+    {
+      "startDate": "1939-09-17",
+      "endDate": "1939-09-17",
+      "place": "Eastern frontier",
+      "description": "Soviet invasion and Polish frontier resistance",
+      "sourceIds": [
+        "ipn-september-aggression",
+        "frus-paris-sept17-morning"
+      ]
+    },
+    {
+      "startDate": "1939-09-18",
+      "endDate": "1939-09-19",
+      "place": "Wilno",
+      "description": "Soviet attack and Polish resistance",
+      "sourceIds": [
+        "ipn-september-aggression"
+      ]
+    },
+    {
+      "startDate": "1939-09-20",
+      "endDate": "1939-09-22",
+      "place": "Grodno",
+      "description": "Main fighting 20–21 September; withdrawal continues into 22 September",
+      "sourceIds": [
+        "pz-grodno-1939"
+      ]
+    },
+    {
+      "startDate": "1939-09-21",
+      "endDate": "1939-09-22",
+      "place": "Kodziowce",
+      "description": "Night fighting during the Polish withdrawal",
+      "sourceIds": [
+        "ipn-kodziowce",
+        "ipn-september-documents"
+      ]
+    },
+    {
+      "startDate": "1939-09-22",
+      "endDate": "1939-09-22",
+      "place": "Lwów",
+      "description": "Surrender under guarantees subsequently violated",
+      "sourceIds": [
+        "ipn-lwow-1939"
+      ]
+    },
+    {
+      "startDate": "1939-09-22",
+      "endDate": "1939-09-22",
+      "place": "Brest",
+      "description": "German–Soviet military ceremony during transfer to Soviet occupation",
+      "sourceIds": [
+        "ipn-invasion-east"
+      ]
+    },
+    {
+      "startDate": "1939-09-28",
+      "endDate": "1939-09-29",
+      "place": "Szack",
+      "description": "Border Protection Corps fights through Soviet opposition",
+      "sourceIds": [
+        "mwp-szack-wytyczno",
+        "ipn-september-aggression"
+      ]
+    },
+    {
+      "startDate": "1939-10-01",
+      "endDate": "1939-10-01",
+      "place": "Wytyczno",
+      "description": "Fighting followed by dispersal of the Border Protection Corps formation",
+      "sourceIds": [
+        "mwp-szack-wytyczno"
+      ]
+    }
+  ]
+}

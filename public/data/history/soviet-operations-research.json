@@ -1,0 +1,224 @@
+{
+  "title": "Soviet operational groups in the 14 September 1939 directives",
+  "historicalSnapshot": "1939-09-17",
+  "prepared": "2026-10-13",
+  "method": "Planned directions only. Front assignments and commanders cross-checked; no exact first-day control or positions reconstructed.",
+  "groups": [
+    {
+      "mapKey": "A",
+      "group": "Polotsk",
+      "commander": "Vasily Kuznetsov",
+      "front": "Byelorussian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-north"
+      ],
+      "assemblyRegion": "Orekhovno–Vetrino and Berezino–Lepel",
+      "assignedForces": [
+        "5th, 27th and 50th Rifle Divisions",
+        "24th Cavalry Division",
+        "22nd and 25th Tank Brigades"
+      ],
+      "plannedDirection": "Święciany; later Wilno",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Sharkovshchizna–Dunilovichi–Kurenets"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "Święciany–Mikhalishki"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-polotsk"
+    },
+    {
+      "mapKey": "B",
+      "group": "Minsk",
+      "commander": "Yakov Cherevichenko",
+      "front": "Byelorussian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-north"
+      ],
+      "assemblyRegion": "Izyaslavl–Gorodok",
+      "assignedForces": [
+        "2nd and 100th Rifle Divisions",
+        "7th and 36th Cavalry Divisions",
+        "6th Tank Brigade"
+      ],
+      "plannedDirection": "Oszmiana–Lida; later Grodno and assistance towards Wilno",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Molodechno–Volozhin"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "Oszmiana–Ivye"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-minsk"
+    },
+    {
+      "mapKey": "C",
+      "group": "Dzerzhinsky",
+      "commander": "Ivan Boldin",
+      "front": "Byelorussian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-north"
+      ],
+      "assemblyRegion": "Koidanov–Uzda–Fanipol",
+      "assignedForces": [
+        "4th and 13th Rifle Divisions",
+        "4th, 6th and 11th Cavalry Divisions",
+        "15th Tank Corps"
+      ],
+      "plannedDirection": "Nowogródek–Wołkowysk",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Delyatichi–Turets"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "Molchad River line"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-dzerzhinsky"
+    },
+    {
+      "mapKey": "D",
+      "group": "Slutsk",
+      "commander": "Vasily Chuikov",
+      "front": "Byelorussian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-north"
+      ],
+      "assemblyRegion": "Grozov–Timkovichi–Gresk",
+      "assignedForces": [
+        "8th Rifle Division",
+        "29th and 32nd Tank Brigades"
+      ],
+      "plannedDirection": "Baranowicze",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Snov–Zhilichi"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "No separate 18 September objective specified"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-slutsk"
+    },
+    {
+      "mapKey": "E",
+      "group": "Shepetovka",
+      "commander": "Ivan Sovetnikov",
+      "front": "Ukrainian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-south"
+      ],
+      "assemblyRegion": "Novohrad-Volynsk–Slavuta–Shepetovka",
+      "assignedForces": [
+        "44th, 45th and 81st Rifle Divisions",
+        "36th Tank Brigade"
+      ],
+      "plannedDirection": "Równe–Dubno; later Łuck and Włodzimierz Wołyński",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Równe–Dubno"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "Łuck"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-shepetovka"
+    },
+    {
+      "mapKey": "F",
+      "group": "Volochysk",
+      "commander": "Filipp Golikov",
+      "front": "Ukrainian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-south"
+      ],
+      "assemblyRegion": "Volochysk–Solomna–Cherny Ostrov",
+      "assignedForces": [
+        "96th and 97th Rifle Divisions",
+        "3rd, 5th and 14th Cavalry Divisions",
+        "24th and 38th Tank Brigades"
+      ],
+      "plannedDirection": "Tarnopol; later Lwów",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Yezernaya"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "Busk–Peremyshlyany–Bibrka"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-volochysk"
+    },
+    {
+      "mapKey": "G",
+      "group": "Kamianets-Podilskyi",
+      "commander": "Ivan Tyulenev",
+      "front": "Ukrainian",
+      "orderDate": "1939-09-14",
+      "sourceIds": [
+        "soviet-directive-south"
+      ],
+      "assemblyRegion": "Husiatyn–Kamianets-Podilskyi–Yarmolyntsi",
+      "assignedForces": [
+        "72nd and 99th Rifle Divisions",
+        "9th, 16th, 32nd and 34th Cavalry Divisions",
+        "25th Tank Corps",
+        "23rd and 26th Tank Brigades"
+      ],
+      "plannedDirection": "Stanisławów; later Stryj–Drohobycz and routes towards Romania",
+      "plannedObjectives": [
+        {
+          "date": "1939-09-17",
+          "objective": "Strypa River"
+        },
+        {
+          "date": "1939-09-18",
+          "objective": "Stanisławów"
+        }
+      ],
+      "actualPositionOn17September": null,
+      "actualPositionNote": "Not established by this planning order; no exact position asserted.",
+      "mapGeometryStatus": "Editorial schematic: broadly placed against reference geography; vertices are drawing coordinates, not historical observations.",
+      "mapFeatureId": "soviet-plan-kamianets"
+    }
+  ]
+}
