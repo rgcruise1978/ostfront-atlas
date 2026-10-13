@@ -171,6 +171,12 @@ const openingPlaces = read('public/data/geography/barbarossa-reference-places.ge
 assert(openingControl.features.length === 8 && openingFrontier.features.length === 3 && openingNeighbors.features.length === 2, 'Opening territorial reference is incomplete');
 assert(openingLabels.features.length === 15 && openingPlaces.features.length === 213, 'Opening geographic context is incomplete');
 assert(new Set(openingControl.features.map(feature=>feature.properties.id)).size === 8, 'Opening control IDs must be unique');
+const longitudes = coordinates => typeof coordinates[0] === 'number' ? [coordinates[0]] : coordinates.flatMap(longitudes);
+const germanSource = neighbors.features.find(feature => feature.properties.name === 'Germany');
+const germanOpening = openingControl.features.find(feature => feature.properties.id === 'barbarossa-germany-1939-core');
+assert(germanSource && germanOpening, 'German boundary reference is missing');
+assert(Math.min(...longitudes(germanOpening.geometry.coordinates)) <= Math.min(...longitudes(germanSource.geometry.coordinates)) + 0.05, 'Barbarossa map cuts off western Germany');
+assert(Math.max(...longitudes(germanOpening.geometry.coordinates)) >= Math.max(...longitudes(germanSource.geometry.coordinates)) - 0.05, 'Barbarossa map cuts off eastern Germany');
 for (const collection of [openingControl, openingFrontier, openingNeighbors]) for (const feature of collection.features) {
   assert(feature.properties.startDate === '1941-06-21' && feature.properties.endDate === '1941-07-09', 'Opening reference has an unexpected date span');
   assert(feature.properties.sourceIds?.every(id=>sourceIds.has(id)), `Unknown 1941 map source for ${feature.properties.id}`);
