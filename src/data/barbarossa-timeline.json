@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1941-06-21",
+    "date": "1941-06-21",
+    "label": "21 June 1941",
+    "kind": "Pre-invasion",
+    "title": "Before the Storm",
+    "summary": "Chapter research focus: German and Soviet preparations before the invasion.",
+    "articleSlug": "barbarossa-before-the-storm-1941-06-21",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "theatre"
+  },
+  {
+    "id": "1941-06-22",
+    "date": "1941-06-22",
+    "label": "22 June 1941",
+    "kind": "Campaign",
+    "title": "Barbarossa Begins",
+    "summary": "Chapter research focus: The opening attacks, border resistance and the first consequences for civilians.",
+    "articleSlug": "barbarossa-begins-1941-06-22",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "theatre"
+  },
+  {
+    "id": "1941-06-25",
+    "date": "1941-06-25",
+    "label": "25 June 1941",
+    "kind": "Campaign",
+    "title": "The First Counterattacks",
+    "summary": "Chapter research focus: Armoured counterattacks in Lithuania and western Ukraine.",
+    "articleSlug": "barbarossa-the-first-counterattacks-1941-06-25",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "north"
+  },
+  {
+    "id": "1941-06-28",
+    "date": "1941-06-28",
+    "label": "28 June 1941",
+    "kind": "Campaign",
+    "title": "The Encirclement of Minsk",
+    "summary": "Chapter research focus: The developing encirclements and the fate of Soviet forces in western Belarus.",
+    "articleSlug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "center"
+  },
+  {
+    "id": "1941-07-01",
+    "date": "1941-07-01",
+    "label": "1 July 1941",
+    "kind": "Campaign",
+    "title": "The War Moves East",
+    "summary": "Chapter research focus: The southern offensive, events in Lwów and developments in the Baltic region.",
+    "articleSlug": "barbarossa-the-war-moves-east-1941-07-01",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "south"
+  },
+  {
+    "id": "1941-07-03",
+    "date": "1941-07-03",
+    "label": "3 July 1941",
+    "kind": "Campaign",
+    "title": "The Soviet Union Responds",
+    "summary": "Chapter research focus: Soviet political and military responses, including the southern theatre.",
+    "articleSlug": "barbarossa-the-soviet-union-responds-1941-07-03",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "theatre"
+  },
+  {
+    "id": "1941-07-06",
+    "date": "1941-07-06",
+    "label": "6 July 1941",
+    "kind": "Campaign",
+    "title": "The Battle Beyond Minsk",
+    "summary": "Chapter research focus: The planned chapter on the Lepel counterstroke and the battles towards Orsha.",
+    "articleSlug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "lepel"
+  },
+  {
+    "id": "1941-07-09",
+    "date": "1941-07-09",
+    "label": "9 July 1941",
+    "kind": "Campaign",
+    "title": "Eighteen Days of War",
+    "summary": "Chapter research focus: An assessment of the opening campaign and the limits of German success.",
+    "articleSlug": "barbarossa-eighteen-days-of-war-1941-07-09",
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "research-pending",
+    "defaultView": "theatre"
+  }
+]
