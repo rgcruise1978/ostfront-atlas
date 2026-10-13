@@ -17,11 +17,13 @@ export default function Article() {
   if (!article) return <div className="page narrow"><h1>Article not found</h1><Link to="/articles">Return to articles</Link></div>;
   const cited = article.sourceIds.map(id => sources.find(source => source.id === id)).filter(Boolean);
   const dossier = Boolean(article.sections?.length);
+  const previous = article.previousArticleSlug && articleBySlug(article.previousArticleSlug);
   const next = article.nextArticleSlug && articleBySlug(article.nextArticleSlug);
   const minutes = Math.ceil(article.body.replace(/<[^>]*>/g, ' ').split(/\s+/).length / 220);
   const atlasLink = `/atlases/poland-1939${article.historicalDate ? `?date=${article.historicalDate}` : ''}`;
   return <article className={`page reading-page${dossier ? ' dossier-page' : ''}`} id="article-top">
     <Link className="back-link" to="/articles">← All articles</Link>
+    {previous && <p className="previous-chapter"><Link to={`/articles/${previous.slug}`}>← Previous chapter · {previous.historicalPeriod}</Link></p>}
     <header className="article-header">
       <p className="eyebrow">{dossier && `Historical dossier ${article.dossierNumber} · `}{article.historicalPeriod}</p>
       <h1>{article.title}</h1><p className="section-lead">{article.subtitle}</p>
@@ -35,7 +37,7 @@ export default function Article() {
         {article.status === 'placeholder' ? <div className="empty-state"><p>The full article for this date is in preparation. The linked sources and atlas entry are available now.</p></div> : <div className="article-body" dangerouslySetInnerHTML={{ __html: marked.parse(article.body) }} />}
         {next && <nav className="next-chapter" aria-label="Continue the chronology"><p className="eyebrow">Continue the chronology · {next.historicalPeriod}</p><h2>{next.title}</h2><p>{next.status === 'placeholder' ? 'The next full article is in preparation. Its dated atlas entry and sources are available now.' : next.subtitle}</p><div><Link to={`/articles/${next.slug}`}>{next.status === 'placeholder' ? 'View the next date' : 'Read the next article'} →</Link><Link to={`/atlases/poland-1939?date=${next.historicalDate}`}>Open this date in the atlas ↗</Link></div></nav>}
         <section className="article-sources" id="article-sources"><h2>{dossier ? 'Sources & reading notes' : 'Source links'}</h2>
-          {dossier && <p className="source-method">The narrative draws on the treaty texts, contemporary diplomatic correspondence and historical scholarship. Diplomatic reports record their authors’ perceptions and claims; they are read with that limitation. The August protocol and the September boundary treaty are treated separately. Follow a numbered citation to its source below; “Return to text” takes you to its first use.</p>}
+          {dossier && <p className="source-method">{article.sourceMethod || "The narrative draws on the treaty texts, contemporary diplomatic correspondence and historical scholarship. Diplomatic reports record their authors\u2019 perceptions and claims; they are read with that limitation. The August protocol and the September boundary treaty are treated separately. Follow a numbered citation to its source below; \u201cReturn to text\u201d takes you to its first use."}</p>}
           <ol>{cited.map(source => <li key={source.id} id={`source-${source.id}`}><a href={source.url} target="_blank" rel="noreferrer">{source.institution}, {source.title}</a>{dossier && <><p>{source.relevance}</p><a className="citation-return" href={`#cite-${source.id}`}>↩ Return to text</a></>}</li>)}</ol>
           {article.relatedAtlasIds.includes('poland-1939') && <p><Link to={atlasLink}>Explore the related atlas →</Link></p>}
         </section>
