@@ -4,10 +4,10 @@
 
 - React, Vite, JavaScript, standard CSS, MapLibre GL JS, local Natural Earth geography, and fixed University of Minnesota 1939 Poland and surrounding-state outlines.
 - Home, interactive Poland 1939 atlas, article index and article route, source library, responsive layout.
-- Five source-linked timeline dates, the published 23 August article, four remaining article placeholders, and a dated historical GeoJSON layer.
+- Five source-linked timeline dates, published 23 August and 1 September chapters, three remaining article placeholders, and a dated historical GeoJSON layer.
 - 210 city locations across Poland and surrounding areas, with smaller places appearing at closer zoom; 46 named river courses across the region, seven neighbouring state outlines, additional area labels, and independent visibility switches for geographic layers.
 - Approximate German–Soviet partition line shown from 28 September 1939 onward.
-- Four German and two Soviet sourced, schematic operational axes, date-filtered with a separate toggle and clickable explanations. Soviet axes start on 17 September.
+- Five German and two Soviet sourced, schematic operational axes, date-filtered with a separate toggle and clickable explanations. Soviet axes start on 17 September.
 - Broad German and Soviet occupation-sector polygons for 26 October only, with consistent colours, separate toggle, legal-status/accuracy notes, and source links.
 - Netlify build configuration, client-side route fallback, and development `noindex` headers.
 
@@ -17,7 +17,7 @@ See the latest commit and Netlify deployment for the verified build and live URL
 
 ## Known limits
 
-The Poland and neighbouring outlines are annual, generalized 1939 reconstructions without an exact day. They stay fixed as references across the timeline. The source's obsolete 1939 Czechoslovakia polygon is excluded; Slovakia and the Czech protectorate are labelled without precise borders. The partition trace and October sector edge are generalized, guided by a contemporary report and river courses. No day-specific September control polygons, actual troop positions, or battle crossings are mapped. The arrows show operational directions, not exact routes or advance limits. Roads, railways, bridges, terrain, woodland/wetland extent, internal administrative boundaries, and precise Danzig and southern political borders remain unmapped. Search indexing is discouraged with `noindex`; the Netlify URL remains publicly reachable.
+The Poland and neighbouring outlines are annual, generalized 1939 reconstructions without an exact day. They stay fixed as references across the timeline. The source's obsolete 1939 Czechoslovakia polygon is excluded; Slovakia and the Czech protectorate are labelled without precise borders. The partition trace and October sector edge are generalized, guided by a contemporary report and river courses. No day-specific September control polygons, actual troop positions, or precise battle extents are mapped. The arrows show operational directions, not exact routes or advance limits. Roads, railways, bridges, terrain, woodland/wetland extent, internal administrative boundaries, and precise Danzig and southern political borders remain unmapped. Search indexing is discouraged with `noindex`; the Netlify URL remains publicly reachable.
 
 The new surrounding settlement labels use contemporary Natural Earth names where no period-name source has been checked. The added rivers are generalized physical references, not surveyed 1939 channels.
 
@@ -36,3 +36,5 @@ Research and digitize verified 1939 transportation, terrain, regional boundaries
 - 2026-10-12: Expanded surrounding settlement and river coverage, with progressive labeling and local river labels at closer zoom.
 
 - 2026-10-12: Published the 23 August 1939 dossier with approximately 3,550 words, 24 references, six asides, contents navigation, citation return links, a document comparison, and dated atlas links. Later events remain a short epilogue.
+
+- 2026-10-12: Published the 1 September chapter (about 4,450 words, 22 references), with connected chapter navigation, three asides and an expandable command table. Added opening-day Army Group North/South labels, the Eighth Army axis, individual army labels at closer zoom, and four clickable engagement localities. All opening-day annotations are date-filtered; no exact headquarters or daily advance limits are asserted.
