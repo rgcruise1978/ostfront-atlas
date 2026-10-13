@@ -1,0 +1,39 @@
+{
+  "slug": "barbarossa-begins-1941-06-22",
+  "title": "Barbarossa Begins",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-06-22",
+  "historicalPeriod": "22 June 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "The opening attacks, border resistance and the first consequences for civilians.",
+  "outlineTopics": [
+    "Opening German bombardments and air attacks.",
+    "Timing and geography of the initial border crossings.",
+    "German army group objectives and their initial operations.",
+    "Army Group North's advance into Soviet-held Lithuania.",
+    "Army Group Center's crossings and assaults around Brest.",
+    "Army Group South's initial attacks into Soviet-held western Ukraine.",
+    "Soviet border defense and immediate command reactions.",
+    "Soviet air force losses and resistance.",
+    "The operational role of the Luftwaffe.",
+    "German propaganda and false claims of a preventive war.",
+    "The initial consequences for civilians and border communities.",
+    "German security operations accompanying the invasion.",
+    "The beginning of Nazi mass violence in the occupied Soviet territories."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=5",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-before-the-storm-1941-06-21",
+  "nextArticleSlug": "barbarossa-the-first-counterattacks-1941-06-25"
+}

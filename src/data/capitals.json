@@ -1,0 +1,46 @@
+[
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "capitalOf": "Germany",
+    "coordinates": [
+      13.399603,
+      52.523764
+    ],
+    "sourceIds": [
+      "natural-earth-10m"
+    ],
+    "accuracy": "Modern geographic city centre; no headquarters location asserted.",
+    "note": "National capital designation is separate from the government or military authority controlling the city."
+  },
+  {
+    "id": "moscow",
+    "name": "Moscow",
+    "capitalOf": "Soviet Union",
+    "coordinates": [
+      37.613577,
+      55.75411
+    ],
+    "sourceIds": [
+      "natural-earth-10m"
+    ],
+    "accuracy": "Modern geographic city centre; no headquarters location asserted.",
+    "note": "National capital designation is separate from the government or military authority controlling the city."
+  },
+  {
+    "id": "warsaw",
+    "name": "Warsaw",
+    "capitalOf": "Poland",
+    "coordinates": [
+      21.005347,
+      52.230872
+    ],
+    "sourceIds": [
+      "natural-earth-10m",
+      "ushmm-invasion-poland",
+      "ushmm-german-administration"
+    ],
+    "accuracy": "Modern geographic city centre; no headquarters location asserted.",
+    "note": "National capital designation is separate from the government or military authority controlling the city."
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+  "title": "Eighteen Days of War",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-07-09",
+  "historicalPeriod": "9 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "An assessment of the opening campaign and the limits of German success.",
+  "outlineTopics": [
+    "The military situation after the opening eighteen days.",
+    "Army Group North's progress through the Baltic region.",
+    "Army Group Center's advances and the conclusion of the main Białystok–Minsk operation.",
+    "Army Group South's more difficult advance into Ukraine.",
+    "Soviet counterattacks and continuing resistance.",
+    "German operational successes and their limitations.",
+    "The condition of Soviet formations and continuing mobilization.",
+    "German and Soviet casualties and equipment losses, using carefully verified figures.",
+    "The status and treatment of Soviet prisoners of war.",
+    "German logistical problems and the growing distance from supply bases.",
+    "Occupation policies, atrocities, and mass shootings during the opening campaign.",
+    "The developing strategic importance of Smolensk.",
+    "The German expectation of Soviet collapse compared with the military situation actually emerging."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=22",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-the-battle-beyond-minsk-1941-07-06"
+}

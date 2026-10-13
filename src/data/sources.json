@@ -1273,5 +1273,47 @@
     ],
     "notes": "Later events are clearly distinguished from September; its compressed government-in-exile chronology is not reproduced.",
     "reuseRights": "Linked and paraphrased; no images or facsimiles reproduced."
+  },
+  {
+    "id": "ushmm-barbarossa",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Invasion of the Soviet Union, June 1941",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-the-soviet-union-june-1941",
+    "type": "Historical overview",
+    "relevance": "Starting reference for the Barbarossa chapter briefs. No unit positions or operational geometry have been derived from this overview.",
+    "supports": [
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09"
+    ],
+    "notes": "The eight briefs are editorial research outlines, not completed historical chapters.",
+    "reuseRights": "Linked for research; no imagery reproduced."
+  },
+  {
+    "id": "loc-barbarossa-atlas",
+    "institution": "Library of Congress",
+    "title": "German General Staff operational atlas — research collection",
+    "date": null,
+    "url": "https://www.loc.gov/item/map51000141/",
+    "type": "Contemporary operational map collection",
+    "relevance": "Candidate reference collection supplied for the eight Phase I map situations. Printed sheet dates, reporting perspective and reproduction permissions remain to be checked.",
+    "supports": [
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09"
+    ],
+    "notes": "German operational reporting requires critical reading and corroboration. No historical military geometry or map imagery reproduced at this checkpoint.",
+    "reuseRights": "Research link only; reproduction permission not assumed."
   }
 ]

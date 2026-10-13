@@ -29,7 +29,7 @@ for (const file of fs.readdirSync('src/content/articles')) {
   for (const key of ['slug', 'title', 'subtitle', 'historicalPeriod', 'body']) assert(article[key] !== undefined && article[key] !== null, `${file} lacks ${key}`);
   assert(article.slug === file.slice(0, -5), `${file} slug differs from filename`);
   assert(!articles.has(article.slug), `Duplicate article slug ${article.slug}`);
-  if (article.status === 'placeholder') {
+  if (article.status === 'placeholder' || article.status === 'research-brief') {
     assert(article.historicalDate && !article.publicationDate, `${file} needs a historical date and no publication date`);
   } else {
     assert(article.publicationDate && article.author && article.body, `${file} lacks published article content`);
@@ -152,3 +152,22 @@ for (const event of read('public/data/history/soviet-campaign-events.json').even
   assert(event.startDate >= '1939-09-17' && event.endDate >= event.startDate, 'Invalid campaign chronology');
   for (const id of event.sourceIds) assert(sourceIds.has(id), `Unknown chronology source ${id}`);
 }
+
+const barbarossa = read('src/data/barbarossa-timeline.json');
+const phaseDates = ['1941-06-21','1941-06-22','1941-06-25','1941-06-28','1941-07-01','1941-07-03','1941-07-06','1941-07-09'];
+assert(JSON.stringify(barbarossa.map(event=>event.date)) === JSON.stringify(phaseDates), 'Barbarossa Phase I dates differ from the fixed brief');
+for (const event of barbarossa) {
+  const article = articles.get(event.articleSlug);
+  assert(article && article.historicalDate === event.date && article.campaignId === 'barbarossa-1941', 'Broken campaign/date/article connection');
+  assert(article.status === 'research-brief' && !article.publicationDate && article.body === '' && article.outlineTopics.length > 0, 'Brief must not claim publication');
+  assert(event.snapshotStatus === 'research-pending' && event.geographicFeatureIds.length === 0, 'An unverified military situation must not be claimed');
+  for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Barbarossa source');
+}
+for (const article of articles.values()) assert(article.author === 'R.G. Cruise', 'Original atlas author credit is inconsistent');
+const capitals = read('src/data/capitals.json');
+assert(capitals.map(c=>c.id).sort().join(',') === 'berlin,moscow,warsaw', 'Missing primary capital');
+for (const capital of capitals) {
+  assert(capital.coordinates.length === 2 && capital.coordinates.every(Number.isFinite), 'Invalid capital coordinate');
+  for (const id of capital.sourceIds) assert(sourceIds.has(id), 'Unknown capital source');
+}
+console.log('Validated eight unpublished Barbarossa briefs and three capital records.');

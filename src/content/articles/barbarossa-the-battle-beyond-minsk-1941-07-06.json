@@ -1,0 +1,37 @@
+{
+  "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+  "title": "The Battle Beyond Minsk",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-07-06",
+  "historicalPeriod": "6 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "The planned chapter on the Lepel counterstroke and the battles towards Orsha.",
+  "outlineTopics": [
+    "German movement beyond Minsk.",
+    "The importance of the Western Dvina and Dnieper.",
+    "Soviet efforts to reorganize defenses.",
+    "The Soviet Lepel counterstroke.",
+    "Soviet 5th and 7th Mechanized Corps.",
+    "Fighting around Lepel, Senno, and nearby operational centers.",
+    "Soviet armored objectives and counterattack planning.",
+    "German reactions to the Soviet attacks.",
+    "Equipment losses, maintenance problems, and supply limitations.",
+    "The developing German advance toward Smolensk.",
+    "The importance of these operations for understanding why Soviet resistance continued despite the disasters farther west."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=19",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-the-soviet-union-responds-1941-07-03",
+  "nextArticleSlug": "barbarossa-eighteen-days-of-war-1941-07-09"
+}

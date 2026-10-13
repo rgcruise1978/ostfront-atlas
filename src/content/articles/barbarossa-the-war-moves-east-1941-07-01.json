@@ -1,0 +1,39 @@
+{
+  "slug": "barbarossa-the-war-moves-east-1941-07-01",
+  "title": "The War Moves East",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-07-01",
+  "historicalPeriod": "1 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "The southern offensive, events in Lwów and developments in the Baltic region.",
+  "outlineTopics": [
+    "Army Group South's operational objectives.",
+    "German 1st Panzer Group.",
+    "German 6th and 17th Armies.",
+    "Soviet Southwestern Front.",
+    "The developing outcome of the Brody–Dubno–Lutsk battles.",
+    "German movement through territories annexed by the Soviet Union in 1939.",
+    "The capture of Lwów on June 30.",
+    "Soviet NKVD prison massacres in western Ukraine.",
+    "The Lwów pogrom of July 1.",
+    "German exploitation of Soviet crimes for antisemitic propaganda.",
+    "German capture of Riga on July 1.",
+    "Civilian displacement and emerging occupation systems.",
+    "The historical relationship between the Soviet occupation of eastern Poland and the new German invasion."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=14",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+  "nextArticleSlug": "barbarossa-the-soviet-union-responds-1941-07-03"
+}

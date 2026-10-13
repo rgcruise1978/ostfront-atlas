@@ -1,0 +1,38 @@
+{
+  "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+  "title": "The First Counterattacks",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-06-25",
+  "historicalPeriod": "25 June 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "Armoured counterattacks in Lithuania and western Ukraine.",
+  "outlineTopics": [
+    "Army Group North's progress through Lithuania.",
+    "The role of 4th Panzer Group.",
+    "The German 16th and 18th Armies.",
+    "Soviet Northwestern Front.",
+    "The Battle of Raseiniai.",
+    "Soviet armored formations and mechanized counterattacks.",
+    "German antitank operations and armored combat.",
+    "Soviet command, communications, maintenance, and logistics.",
+    "Fighting around Brody, Dubno, and Lutsk in Ukraine.",
+    "German movement toward important crossings of the Daugava.",
+    "Finland's entry into open war with the Soviet Union on June 25, with the relevant preceding events and political context.",
+    "The first days of German occupation in the Baltic region."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=8",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-begins-1941-06-22",
+  "nextArticleSlug": "barbarossa-the-encirclement-of-minsk-1941-06-28"
+}

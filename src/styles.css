@@ -240,3 +240,38 @@ html:has(.dossier-page){scroll-behavior:auto}
 .command-guide thead { background: #e3dfd0; }
 .opening-command-key { margin: 22px 0; padding: 16px; background: #f1eee3; border-left: 3px solid #9c4749; }
 .opening-command-key p:last-child { font-size: .88rem; }
+
+/* Shared campaign navigation, capital locators and research briefs. */
+.site-header nav a{white-space:normal;max-width:270px;line-height:1.4}
+.header-inner{gap:24px}.site-header nav{gap:10px 20px}
+.campaign-switch{display:flex;flex-wrap:wrap;gap:12px 24px;margin:0 0 20px;font-size:.88rem}
+.campaign-switch a[aria-current="page"]{font-weight:700;color:#744a32}
+.atlas-status{white-space:normal;max-width:340px;line-height:1.5}
+.snapshot-notice,.capital-view-note{padding:14px 18px;background:#eee8dc;border-left:3px solid #936c43;font-size:.9rem;line-height:1.6}
+.map-navigation{display:flex;flex-wrap:wrap;gap:12px;padding:14px 16px;background:#eeeede;border:1px solid #bdc6be;border-bottom:0;align-items:end}
+.map-navigation label{display:flex;flex-direction:column;gap:5px;font-size:.73rem;font-weight:700;color:#3d4e54;min-width:0}
+.map-navigation select{background:#faf8f0;color:#243844;border:1px solid #9ba9a7;border-radius:3px;font:inherit;font-size:.85rem;padding:9px;max-width:100%;min-height:42px}
+.date-navigation,.capital-navigation{display:flex;gap:7px;align-items:end;flex-wrap:wrap}
+.map-navigation button{background:#faf8f0;border:1px solid #9ba9a7;border-radius:3px;padding:10px 12px;min-height:42px;color:#243844;cursor:pointer;font-size:.82rem}
+.map-navigation button:disabled{opacity:.4;cursor:default}
+.map-tools{display:block}.map-tools summary{cursor:pointer;font-weight:700;font-size:.84rem;min-height:26px}
+.map-tools-content{display:flex;justify-content:space-between;gap:24px;margin-top:16px}
+.legend span{white-space:normal}.capital-key{font-size:18px;line-height:1}
+.campaign-page>.lead{max-width:850px}.campaign-chapters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin:30px 0}
+.campaign-chapters article{padding:24px;background:#f0ede3;border-top:3px solid #9d7854}.campaign-chapters h2{font-size:1.5rem;margin:12px 0}.campaign-chapters p{line-height:1.65}
+.chapter-actions{display:flex;flex-wrap:wrap;gap:12px 24px}.article-collection{margin-top:40px}.article-list h3{font-size:1.7rem;margin:12px 0}
+.chapter-campaign{color:#78583e;font-size:.83rem;letter-spacing:.03em}.research-brief{line-height:1.75}.research-brief li{margin-bottom:9px}.research-brief small{color:#59665f}
+@media(max-width:750px){.site-header nav a{max-width:none;overflow-wrap:anywhere}.site-header nav{grid-template-columns:repeat(2,minmax(0,1fr));width:100%}.site-header nav a:nth-child(2),.site-header nav a:nth-child(3){grid-column:1/-1}.campaign-chapters{grid-template-columns:1fr}.campaign-switch{gap:10px;font-size:.8rem}.map-navigation{padding:10px;gap:10px}.date-navigation{width:100%;flex-wrap:nowrap}.date-navigation label{flex:1}.map-navigation>label{width:100%}.map-tools-content{flex-direction:column;gap:20px}.atlas-panel .timeline-panel{display:none}.atlas-status{max-width:none}.capital-navigation button{padding:9px;font-size:.78rem}.map-frame,.atlas-map{min-height:420px;height:420px}.capital-view-note{font-size:.82rem}}
+
+/* The collection list grows inside one accessible top-level disclosure. */
+.site-header nav{position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:10px 22px}
+.site-header nav>a{max-width:none;white-space:nowrap}
+.atlas-menu{position:static;color:#dce2df;font-size:.84rem;font-weight:600}
+.atlas-menu summary{cursor:pointer;padding:10px 0;border-bottom:2px solid transparent;min-height:42px;display:list-item;list-style-position:inside}
+.atlas-menu summary.active,.atlas-menu[open] summary,.atlas-menu summary:hover{color:#fff;border-color:#c68d5c}
+.atlas-menu-items{position:absolute;top:calc(100% + 8px);left:0;z-index:30;width:350px;max-width:calc(100vw - 32px);background:#202f35;border:1px solid #6d7773;box-shadow:0 8px 24px #0004;padding:7px}
+.site-header .atlas-menu-items a{display:block;white-space:normal;max-width:none;padding:13px 15px;border:0;border-radius:2px}
+.atlas-menu-items a:hover,.atlas-menu-items a.active{background:#34484e}.atlas-menu-items strong{display:block;line-height:1.4}.atlas-menu-items small{display:block;color:#c2ceca;font-size:.72rem;font-weight:400;line-height:1.6;margin-top:5px}
+@media(max-width:750px){.site-header nav{display:flex;width:100%;gap:5px 16px}.site-header nav>a{font-size:.76rem}.atlas-menu{font-size:.76rem}.atlas-menu-items{top:calc(100% + 5px)}}
+.atlas-menu-items{max-height:min(70vh,540px);overflow-y:auto}
+.campaign-switch{align-items:end}.campaign-switch label{display:flex;flex-direction:column;gap:5px;font-size:.74rem;font-weight:700;max-width:100%}.campaign-switch select{max-width:100%;min-height:42px;padding:9px;background:#faf8f0;color:#243844;border:1px solid #9ba9a7;border-radius:3px;font-size:.85rem}
