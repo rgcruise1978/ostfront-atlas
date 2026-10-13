@@ -50,13 +50,13 @@ export default function AtlasMap({ date, showPlaces, showRivers, showBoundary, s
           const feature = event.features?.[0];
           if (feature) onFeatureSelect({ kind: 'historical', title: feature.properties.title, note: feature.properties.note, sourceIds: sourceIdsFor(feature.properties.sourceIds), uncertainty: feature.properties.uncertainty });
         });
-        for (const layer of ['control-fill', 'advance-axis-line', 'advance-axis-head']) map.on('click', layer, (event) => {
+        for (const layer of ['control-fill', 'advance-axis-line', 'advance-axis-head', 'army-axis-label', 'army-group-label', 'engagement-dot', 'engagement-label']) map.on('click', layer, (event) => {
           const feature = event.features?.[0];
           if (!feature) return;
           const p = feature.properties;
           onFeatureSelect({ kind: p.category, title: p.title, note: p.note, actor: p.actor, legalStatus: p.legalStatus, period: p.startDate === p.endDate ? p.startDate : `${p.startDate}–${p.endDate}`, accuracy: p.accuracy, uncertainty: p.uncertainty, sourceIds: sourceIdsFor(p.sourceIds) });
         });
-        for (const layer of ['places-dot', 'places-local-dot', 'rivers-line', 'surrounding-rivers-major-line', 'surrounding-rivers-minor-line', 'boundary-line', 'control-fill', 'advance-axis-line', 'advance-axis-head', ...historyLayers]) {
+        for (const layer of ['places-dot', 'places-local-dot', 'rivers-line', 'surrounding-rivers-major-line', 'surrounding-rivers-minor-line', 'boundary-line', 'control-fill', 'advance-axis-line', 'advance-axis-head', 'army-axis-label', 'army-group-label', 'engagement-dot', 'engagement-label', ...historyLayers]) {
           map.on('mouseenter', layer, () => { map.getCanvas().style.cursor = 'pointer'; });
           map.on('mouseleave', layer, () => { map.getCanvas().style.cursor = ''; });
         }
