@@ -1,5 +1,6 @@
 import { geography } from '../data/geography.js';
 import { controlColors } from './cartography.js';
+import capitals from '../data/capitals.json';
 
 export const mapStyle = {
   version: 8,
@@ -53,3 +54,20 @@ export const mapStyle = {
     { id: 'army-group-label', type: 'symbol', source: 'operations', filter: ['==', ['get', 'category'], 'army_group'], layout: { 'text-field': ['get', 'label'], 'text-font': ['Arial', 'Helvetica', 'sans-serif'], 'text-size': 13, 'text-max-width': 22, 'text-line-height': 1.35, 'text-allow-overlap': true }, paint: { 'text-color': ['match', ['get', 'actor'], 'Soviet Union', '#285c87', '#7b292c'], 'text-halo-color': '#fff8e9', 'text-halo-width': 2.5 } }
   ]
 };
+
+const empty = { type: 'FeatureCollection', features: [] };
+export function makeMapStyle(geographicConfig) {
+  const style = structuredClone(mapStyle);
+  for (const [source, key] of Object.entries({land:'landUrl',places:'placesUrl',rivers:'riversUrl',secondaryRivers:'secondaryRiversUrl',surroundingRivers:'surroundingRiversUrl',riverLabels:'riverLabelsUrl',boundary:'boundaryUrl',neighbors:'neighborsUrl',areaLabels:'areaLabelsUrl'})) {
+    style.sources[source].data = geographicConfig[key] || empty;
+    if (!geographicConfig[key]) delete style.sources[source].attribution;
+  }
+  style.sources.capitals = {type:'geojson',data:{type:'FeatureCollection',features:capitals.map(capital=>({type:'Feature',properties:{id:capital.id,name:capital.name,capitalOf:capital.capitalOf},geometry:{type:'Point',coordinates:capital.coordinates}}))}};
+  const ordinaryCities = ['!', ['in', ['get','name'], ['literal', capitals.map(capital=>capital.name)]]];
+  for (const layer of style.layers.filter(layer=>layer.source==='places')) layer.filter = ['all',layer.filter,ordinaryCities];
+  style.layers.push(
+    {id:'capital-stars',type:'symbol',source:'capitals',layout:{'text-field':'★','text-font':['Arial','Helvetica','sans-serif'],'text-size':22,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#233c49','text-halo-color':'#fff9ec','text-halo-width':2}},
+    {id:'capital-labels',type:'symbol',source:'capitals',layout:{'text-field':['get','name'],'text-font':['Arial','Helvetica','sans-serif'],'text-size':13,'text-anchor':'top','text-offset':[0,1],'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#233c49','text-halo-color':'#fff9ec','text-halo-width':2}}
+  );
+  return style;
+}
