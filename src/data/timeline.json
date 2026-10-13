@@ -24,7 +24,7 @@
     "id": "1939-09-28", "date": "1939-09-28", "label": "28 September 1939", "kind": "Treaty",
     "title": "German–Soviet Boundary and Friendship Treaty",
     "summary": "Germany and the Soviet Union sign a treaty revising their territorial arrangements for occupied Poland. The map shows an approximate trace of the agreed partition, not a reconstructed military front.",
-    "sourceIds": ["us-state-frus-1939", "us-state-frus-1939-border-report", "ghdi-1939-partition-map"], "geographicFeatureIds": ["german-soviet-partition-line-1939-09-28"],
+    "sourceIds": ["avalon-boundary-1939", "avalon-september-protocol", "boundary-potocki", "us-state-frus-1939-border-report", "ghdi-1939-partition-map"], "geographicFeatureIds": ["german-soviet-partition-line-1939-09-28"],
     "articleSlug": "german-soviet-boundary-treaty-1939-09-28"
   },
   {
