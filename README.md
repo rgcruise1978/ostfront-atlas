@@ -1,6 +1,6 @@
 # Ostfront Atlas
 
-A developing public historical atlas of the Eastern Front, 1939–1945. Stage one covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, 210 city points, 46 named rivers, an approximate date-filtered partition line, a five-date sourced timeline, published 23 August and 1 September chapters, three article placeholders, and a source register. Smaller surrounding places and tributaries appear at closer zoom. It also shows schematic German and Soviet invasion directions and broad 26 October occupation sectors. Exact day-by-day control limits and unit positions are not mapped.
+A developing public historical atlas of the Eastern Front, 1939–1945. Stage one covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, 210 city points, 46 named rivers, an approximate date-filtered partition line, a five-date sourced timeline, published 23 August, 1 September and 17 September chapters, two article placeholders, and a source register. Smaller surrounding places and tributaries appear at closer zoom. It also shows schematic German and Soviet invasion directions and broad 26 October occupation sectors. Exact day-by-day control limits and unit positions are not mapped.
 
 ## Run locally
 
@@ -8,7 +8,7 @@ Use Node.js 22 or later. Install dependencies with `npm install`, start with `np
 
 ## Content and geography
 
-- Add articles as JSON files in `src/content/articles/`; the filename and `slug` must match. The `body` field accepts Markdown and trusted local HTML. Optional `sections` (id/label pairs matching body headings), `dossierNumber`, `location`, `summary`, `previousArticleSlug`, `sourceMethod`, and `nextArticleSlug` fields enable the long-form dossier layout. Numbered citations link to source IDs; use matching first-use `cite-<sourceId>` anchors for return links. New files appear automatically in the index and at `/articles/<slug>`. The three remaining date pages are marked `"status": "placeholder"`; when an article is ready, replace its empty `body` with Markdown, add `author` and `publicationDate`, and remove `status`. The atlas links already point to these pages.
+- Add articles as JSON files in `src/content/articles/`; the filename and `slug` must match. The `body` field accepts Markdown and trusted local HTML. Optional `sections` (id/label pairs matching body headings), `dossierNumber`, `location`, `summary`, `previousArticleSlug`, `sourceMethod`, and `nextArticleSlug` fields enable the long-form dossier layout. Numbered citations link to source IDs; use matching first-use `cite-<sourceId>` anchors for return links. New files appear automatically in the index and at `/articles/<slug>`. The two remaining date pages are marked `"status": "placeholder"`; when an article is ready, replace its empty `body` with Markdown, add `author` and `publicationDate`, and remove `status`. The atlas links already point to these pages.
 - Add cited records to `src/data/sources.json` and use their stable IDs in timeline or article files.
 - The five timeline records live in `src/data/timeline.json`.
 - Local Natural Earth land, cities, and rivers are in `public/data/geography/`. Fixed 1939 Poland and surrounding outlines and area labels are in `public/data/history/` and stay visible across all dates.
