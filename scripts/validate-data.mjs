@@ -112,16 +112,28 @@ for (const feature of control.features) {
   assert(p.accuracy && p.uncertainty && p.legalStatus && p.note, `Missing control metadata for ${p.id}`);
   for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown control source ${id}`);
 }
-assert(operations.features.length === 6, 'Expected four German and two Soviet schematic operational axes');
-assert(operations.features.filter(feature => feature.properties.actor === 'Germany').length === 4, 'Expected four German axes');
-assert(operations.features.filter(feature => feature.properties.actor === 'Soviet Union').length === 2, 'Expected two Soviet axes');
+const axes = operations.features.filter(feature => feature.properties.category === 'advance_axis');
+const annotations = operations.features.filter(feature => feature.properties.category !== 'advance_axis');
+assert(axes.length === 7, 'Expected five German and two Soviet axes');
+assert(axes.filter(feature => feature.properties.actor === 'Germany').length === 5, 'Expected five German axes');
+assert(annotations.filter(feature => feature.properties.category === 'army_group').length === 2, 'Expected two army-group labels');
+assert(annotations.filter(feature => feature.properties.category === 'engagement').length === 4, 'Expected four engagement localities');
 for (const feature of operations.features) {
   const p = feature.properties;
-  assert(feature.geometry.type === 'LineString' && feature.geometry.coordinates.length > 1, `Invalid axis geometry for ${p.id}`);
-  assert(p.accuracy === 'schematic operational axis' && p.uncertainty && p.note, `Missing schematic accuracy note for ${p.id}`);
-  assert(p.snapshots.every(date => expectedDates.includes(date)), `Unsupported axis date for ${p.id}`);
-  assert(!p.snapshots.includes('1939-08-23'), `Invasion axis appears before invasion: ${p.id}`);
-  if (p.actor === 'Soviet Union') assert(p.snapshots.every(date => date >= '1939-09-17'), `Soviet axis appears before 17 September: ${p.id}`);
-  for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown axis source ${id}`);
+  assert(p.accuracy && p.uncertainty && p.note, `Missing accuracy note for ${p.id}`);
+  assert(p.snapshots.every(date => expectedDates.includes(date)), `Unsupported date for ${p.id}`);
+  assert(!p.snapshots.includes('1939-08-23'), `Invasion feature appears before invasion: ${p.id}`);
+  if (p.actor === 'Soviet Union') assert(p.snapshots.every(date => date >= '1939-09-17'), `Premature Soviet axis: ${p.id}`);
+  if (p.category === 'advance_axis') assert(feature.geometry.type === 'LineString' && feature.geometry.coordinates.length > 1, `Invalid axis ${p.id}`);
+  else {
+    assert(feature.geometry.type === 'Point' && feature.geometry.coordinates.every(Number.isFinite), `Invalid annotation ${p.id}`);
+    assert(JSON.stringify(p.snapshots) === '["1939-09-01"]', `Opening annotation leaks to another date: ${p.id}`);
+  }
+  for (const id of p.sourceIds) assert(sourceIds.has(id), `Unknown map source ${id}`);
 }
-console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${rivers.features.length + secondaryRivers.features.length + new Set(surroundingRivers.features.map(feature => feature.properties.name)).size} named rivers, ${neighbors.features.length} surrounding outlines, ${control.features.length} October sectors, ${operations.features.length} schematic axes.`);
+for (const article of articles.values()) {
+  if (!article.sections) continue;
+  for (const section of article.sections) assert(article.body.includes(`id="${section.id}"`), `Missing chapter anchor ${section.id}`);
+  for (const id of article.sourceIds) assert(article.body.includes(`id="cite-${id}"`), `Missing citation return target ${id}`);
+}
+console.log(`Validated ${timeline.length} dates, ${sources.length} sources, ${places.features.length} cities, ${axes.length} axes, ${annotations.length} dated annotations and all chapter citation anchors.`);
