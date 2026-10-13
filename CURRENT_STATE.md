@@ -1,42 +1,24 @@
-# Current state
+# Current state — launch expansion checkpoint
 
-## Implemented
+## Completed
 
-- React, Vite, JavaScript, standard CSS, MapLibre GL JS, local Natural Earth geography, and fixed University of Minnesota 1939 Poland and surrounding-state outlines.
-- Home, interactive Poland 1939 atlas, article index and article route, source library, responsive layout.
-- Five source-linked timeline dates, published 23 August, 1 September and 17 September chapters, two remaining article placeholders, and a dated historical GeoJSON layer.
-- 210 city locations across Poland and surrounding areas, with smaller places appearing at closer zoom; 46 named river courses across the region, seven neighbouring state outlines, additional area labels, and independent visibility switches for geographic layers.
-- Approximate German–Soviet partition line shown from 28 September 1939 onward.
-- Five German axes, seven Soviet planned group directions for 17 September, and two broad Soviet axes for 28 September. Date-filtered Soviet front/group labels identify commanders; click explanations give forces, deadlines and source limitations.
-- Broad German and Soviet occupation-sector polygons for 26 October only, with consistent colours, separate toggle, legal-status/accuracy notes, and source links.
-- Netlify build configuration, client-side route fallback, and development `noindex` headers.
+- Increment 1: scalable Atlases drop-down navigation with Poland’s supported 1 September–26 October 1939 range; the 23 August Pact prelude remains selectable. All original articles credit R.G. Cruise. Existing article bodies, dates and URLs are preserved.
+- Shared capital registry and star markers for Berlin, Moscow and Warsaw. Locator buttons work in both collections, preserve the date and return to the prior region. Warsaw’s historic capital designation is distinguished from German occupation on later dates.
+- Increment 2: Barbarossa Phase I introduction, eight fixed dates (21, 22, 25, 28 June; 1, 3, 6, 9 July 1941), eight unpublished research briefs, previous/next chapter links and correct dated map links.
+- Both collections use the same Atlas page, MapLibre component, style factory and faction palette. North/Center/South, theatre, Lepel and Prut camera presets preserve the selected date. Mobile legends and information panels start collapsed.
+- Poland retains its five dates, 210 reference cities, river data, seven surrounding outlines, dated partition line, German/Soviet operational annotations and 26 October occupation sectors. The three historical chapters and foundation introduction remain published.
 
-## Operational status
+## Outstanding / historical research pending
 
-See the latest commit and Netlify deployment for the verified build and live URL. Run `npm run validate` and `npm run build` locally. Map geometry loads from local files, without external map tiles.
+- Barbarossa currently displays a geographic reference, explicitly labelled as awaiting dated military situations. It has no verified 1941 borders, formations, movements, battle markers or control polygons. The 1939 historical layers are excluded.
+- Geographic coverage and place labels need extension and verification for 1941. Current physical references contain mixed 1939 and modern names. Bucharest, Helsinki and Riga capital treatment remains for the geographic increment.
+- Eight full Barbarossa chapters remain unwritten; briefs are not presented as published articles. The two remaining Poland date chapters remain placeholders.
+- Library of Congress candidate sheets from the user’s brief are research links only. Verify their printed dates, perspective and reuse status before digitizing. No imagery copied or operational positions inferred.
 
-## Known limits
+## Next action
 
-The Poland and neighbouring outlines are annual, generalized 1939 reconstructions without an exact day. They stay fixed as references across the timeline. The source's obsolete 1939 Czechoslovakia polygon is excluded; Slovakia and the Czech protectorate are labelled without precise borders. The partition trace and October sector edge are generalized, guided by a contemporary report and river courses. No day-specific September control polygons, actual troop positions, or precise battle extents are mapped. The arrows show operational directions, not exact routes or advance limits. Roads, railways, bridges, terrain, woodland/wetland extent, internal administrative boundaries, and precise Danzig and southern political borders remain unmapped. Search indexing is discouraged with `noindex`; the Netlify URL remains publicly reachable.
+Complete the June 21 pre-invasion geographic foundation: verify and add the 1941 German–Soviet frontier and related political/occupation distinctions, then extend relevant city and river coverage using licensed data. Add supported deployments only after this foundation is checked.
 
-The new surrounding settlement labels use contemporary Natural Earth names where no period-name source has been checked. The added rivers are generalized physical references, not surveyed 1939 channels.
+## Verification and repository
 
-## Next objective
-
-Research and digitize verified 1939 transportation, terrain, regional boundaries, and date-specific September control/front geometry. Keep their provenance, date, precision, and legal status distinct.
-
-## Change log
-
-- 2026-10-12: Initial website foundation and Poland 1939 timeline.
-- 2026-10-12: Added the 23 August Pact date and five date-article placeholders.
-- 2026-10-12: Added a fixed 1939 Poland outline, 25 cities, and nine rivers with source and uncertainty notes.
-- 2026-10-12: Added surrounding areas and an approximate 28 September partition line.
-- 2026-10-12: Made neighbouring city names visible at the default view and added cities in East Prussia, Slovakia, Hungary, Romania, and Latvia.
-- 2026-10-12: Added more regional cities and rivers, Estonia, schematic invasion axes, October occupation sectors, dated legend/toggles, and feature-level sources and uncertainty notes.
-- 2026-10-12: Expanded surrounding settlement and river coverage, with progressive labeling and local river labels at closer zoom.
-
-- 2026-10-12: Published the 23 August 1939 dossier with approximately 3,550 words, 24 references, six asides, contents navigation, citation return links, a document comparison, and dated atlas links. Later events remain a short epilogue.
-
-- 2026-10-12: Published the 1 September chapter (about 4,450 words, 22 references), with connected chapter navigation, three asides and an expandable command table. Added opening-day Army Group North/South labels, the Eighth Army axis, individual army labels at closer zoom, and four clickable engagement localities. All opening-day annotations are date-filtered; no exact headquarters or daily advance limits are asserted.
-
-- 2026-10-13: Published the 17 September chapter (about 4,740 words, 27 references), four asides, seven-group command table, linked chronology/research downloads, and previous/next chapter navigation. Added seven planned Soviet directions and nine Soviet command labels on 17 September only. Orders are explicitly distinguished from observed positions. Research notes and a full source backup are saved in the project outputs directory.
+Local build/data validation, unchanged-body checks, capital navigation, dated article links and 390px mobile layout passed. The final preview/production commit and deployment are recorded in outputs/launch-expansion-checkpoint.md at the project base. Source backups are saved there as well. Continue from this checkpoint; do not repeat the full project audit.
