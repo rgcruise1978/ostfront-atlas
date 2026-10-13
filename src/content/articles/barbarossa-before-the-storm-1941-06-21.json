@@ -1,0 +1,36 @@
+{
+  "slug": "barbarossa-before-the-storm-1941-06-21",
+  "title": "Before the Storm",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-06-21",
+  "historicalPeriod": "21 June 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "German and Soviet preparations before the invasion.",
+  "outlineTopics": [
+    "Deterioration of German–Soviet relations after the 1939 pact.",
+    "Hitler's strategic objectives and the ideological foundations of the invasion.",
+    "Führer Directive No. 21 and the operational planning process.",
+    "German military concentrations and the three principal army groups.",
+    "Army Group North, Center, and South commanders and principal formations.",
+    "Soviet western military districts and forward military deployments.",
+    "Soviet intelligence warnings and Stalin's response.",
+    "Soviet readiness, command arrangements, and mobilization problems.",
+    "German cooperation with Finland and Romania.",
+    "Logistics, supply preparation, railway considerations, and assumptions about a short campaign.",
+    "The Commissar Order, Barbarossa Decree, and preparations for a war of annihilation."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=4",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "nextArticleSlug": "barbarossa-begins-1941-06-22"
+}

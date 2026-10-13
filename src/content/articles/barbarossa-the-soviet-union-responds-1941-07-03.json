@@ -1,0 +1,38 @@
+{
+  "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+  "title": "The Soviet Union Responds",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-07-03",
+  "historicalPeriod": "3 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "Soviet political and military responses, including the southern theatre.",
+  "outlineTopics": [
+    "Stalin's July 3 radio address.",
+    "Soviet recognition of the scale of the invasion.",
+    "Stavka and the emergency command system.",
+    "Soviet mobilization and attempts to reorganize military resistance.",
+    "Formation and deployment of reserves.",
+    "Military industrial and evacuation preparations.",
+    "Soviet scorched-earth directives and their implementation.",
+    "Conditions across the northern, central, and southern fronts.",
+    "The German–Romanian offensive across the Prut beginning July 2.",
+    "The struggle for Bessarabia and northern Bukovina.",
+    "Romanian territorial objectives and the background of Soviet annexations in 1940.",
+    "German supply difficulties as advancing armored formations moved farther from their initial bases."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=16",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-the-war-moves-east-1941-07-01",
+  "nextArticleSlug": "barbarossa-the-battle-beyond-minsk-1941-07-06"
+}

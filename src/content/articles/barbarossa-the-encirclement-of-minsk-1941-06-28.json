@@ -1,0 +1,38 @@
+{
+  "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+  "title": "The Encirclement of Minsk",
+  "subtitle": "Research brief · full chapter in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phase": "I — The Opening Assault",
+  "historicalDate": "1941-06-28",
+  "historicalPeriod": "28 June 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "ushmm-barbarossa",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "The developing encirclements and the fate of Soviet forces in western Belarus.",
+  "outlineTopics": [
+    "Army Group Center's operational plan.",
+    "Heinz Guderian's 2nd Panzer Group.",
+    "Hermann Hoth's 3rd Panzer Group.",
+    "German infantry formations following the armored breakthroughs.",
+    "Soviet Western Front under Dmitry Pavlov.",
+    "Soviet armies operating around Białystok and Minsk.",
+    "The German armored advances and the formation of encirclements.",
+    "The capture of Minsk on June 28.",
+    "Soviet attempts to withdraw or break out.",
+    "German logistical and communications challenges.",
+    "Distinguishing encircled territory from securely occupied territory.",
+    "Soviet prisoners of war and the beginning of German occupation in Belarus."
+  ],
+  "body": "",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=11",
+  "referenceMapStatus": "Candidate sheet from the research brief; its printed date and contents must be checked before tracing military features.",
+  "previousArticleSlug": "barbarossa-the-first-counterattacks-1941-06-25",
+  "nextArticleSlug": "barbarossa-the-war-moves-east-1941-07-01"
+}
