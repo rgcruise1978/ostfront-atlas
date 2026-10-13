@@ -163,6 +163,21 @@ for (const event of barbarossa) {
   assert(event.snapshotStatus === 'research-pending' && event.geographicFeatureIds.length === 0, 'An unverified military situation must not be claimed');
   for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Barbarossa source');
 }
+const openingControl = read('public/data/history/barbarossa-1941-opening-control.geojson');
+const openingFrontier = read('public/data/history/barbarossa-1941-opening-frontier.geojson');
+const openingNeighbors = read('public/data/history/barbarossa-1941-neighbors.geojson');
+const openingLabels = read('public/data/history/barbarossa-1941-area-labels.geojson');
+const openingPlaces = read('public/data/geography/barbarossa-reference-places.geojson');
+assert(openingControl.features.length === 8 && openingFrontier.features.length === 3 && openingNeighbors.features.length === 2, 'Opening territorial reference is incomplete');
+assert(openingLabels.features.length === 15 && openingPlaces.features.length === 213, 'Opening geographic context is incomplete');
+assert(new Set(openingControl.features.map(feature=>feature.properties.id)).size === 8, 'Opening control IDs must be unique');
+for (const collection of [openingControl, openingFrontier, openingNeighbors]) for (const feature of collection.features) {
+  assert(feature.properties.startDate === '1941-06-21' && feature.properties.endDate === '1941-07-09', 'Opening reference has an unexpected date span');
+  assert(feature.properties.sourceIds?.every(id=>sourceIds.has(id)), `Unknown 1941 map source for ${feature.properties.id}`);
+  assert(feature.properties.uncertainty, `Missing uncertainty note for ${feature.properties.id}`);
+}
+assert(openingControl.features.some(feature=>feature.properties.id === 'barbarossa-soviet-bessarabia-bukovina'), 'The 1940 Romanian territorial change is missing');
+for (const name of ['Brest-Litovsk','Vilnius','Leningrad','Helsinki']) assert(openingPlaces.features.some(feature=>feature.properties.name===name), `Missing 1941 place ${name}`);
 for (const article of articles.values()) assert(article.author === 'R.G. Cruise', 'Original atlas author credit is inconsistent');
 const capitals = read('src/data/capitals.json');
 assert(capitals.map(c=>c.id).sort().join(',') === 'berlin,moscow,warsaw', 'Missing primary capital');
