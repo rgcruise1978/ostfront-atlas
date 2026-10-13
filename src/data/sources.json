@@ -609,5 +609,305 @@
     ],
     "notes": "Official acknowledgment and condemnation of the secret protocols. Original published in Pravda, 28 December 1989; English translation credited to Heiki Lindpere (2009).",
     "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
+  },
+  {
+    "id": "kennedy-poland-planning",
+    "institution": "U.S. Department of the Army; HyperWar transcription",
+    "title": "Robert M. Kennedy, The German Campaign in Poland (1939), Part II, pp. 45–77",
+    "date": "1956",
+    "url": "https://www.ibiblio.org/hyperwar/USA/DAP-Poland/Campaign-II.html",
+    "type": "Historical article and map reference",
+    "relevance": "Army-group command structure, campaign plans, Polish geography and mobilization. An older official study based heavily on captured German records; used critically, not as authority for every interpretation.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Army-group command structure, campaign plans, Polish geography and mobilization. An older official study based heavily on captured German records; used critically, not as authority for every interpretation.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "kennedy-poland-operations",
+    "institution": "U.S. Department of the Army; HyperWar transcription",
+    "title": "Robert M. Kennedy, The German Campaign in Poland (1939), Part III, especially pp. 79–89 and 101–103",
+    "date": "1956",
+    "url": "https://www.ibiblio.org/hyperwar/USA/DAP-Poland/Campaign-III.html",
+    "type": "Historical article and map reference",
+    "relevance": "Reported first-day advances, Brda supply interruption, army-group operations and subsequent milestones. Its cavalry-charge myth and claims about the early elimination of Polish aviation are rejected; German reports are identified as such.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Reported first-day advances, Brda supply interruption, army-group operations and subsequent milestones. Its cavalry-charge myth and claims about the early elimination of Polish aviation are rejected; German reports are identified as such.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "avalon-war-directive-1",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Directive No. 1 for the Conduct of the War",
+    "date": "1939-08-31",
+    "url": "https://avalon.law.yale.edu/imt/wardir1.asp",
+    "type": "Historical article and map reference",
+    "relevance": "The prior order for the invasion: 1 September, 4:45 a.m.; instructions concerning the Western powers. The opening justification is a Nazi claim.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "The prior order for the invasion: 1 September, 4:45 a.m.; instructions concerning the Western powers. The opening justification is a Nazi claim.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "ushmm-public-deception",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Deceiving the Public",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/deceiving-the-public",
+    "type": "Historical article and map reference",
+    "relevance": "The staged Gleiwitz incident and instructions to portray the invasion as a response to Polish aggression.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "The staged Gleiwitz incident and instructions to portray the invasion as a response to Polish aggression.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "ipn-jablonkow",
+    "institution": "Institute of National Remembrance, Poland",
+    "title": "The commemoration of the defenders of the tunnel and railway station near Jabłonków",
+    "date": "2022-08-23",
+    "url": "https://eng.ipn.gov.pl/en/news/9794,The-commemoration-of-the-defenders-of-the-tunnel-and-railway-station-near-Jablon.html",
+    "type": "Historical article and map reference",
+    "relevance": "The postponed 26 August invasion and the premature German commando attack on the railway route.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "The postponed 26 August invasion and the premature German commando attack on the railway route.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "frus-lipski-september",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Kirk to Hull: conversation with Polish ambassador Józef Lipski, document 411",
+    "date": "1939-09-01",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d411",
+    "type": "Historical article and map reference",
+    "relevance": "Lipski’s statement that he had not been furnished with the German proposals. The report records his account, rather than independent access to German intentions.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Lipski’s statement that he had not been furnished with the German proposals. The report records his account, rather than independent access to German intentions.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "bbn-tczew",
+    "institution": "Polish National Security Bureau",
+    "title": "“Nigdy więcej wojny; nigdy więcej rozdarcia” — Tczew historical account",
+    "date": "2018-09-01",
+    "url": "https://www.bbn.gov.pl/pl/wydarzenia/8288,Nigdy-wiecej-wojny-nigdy-wiecej-rozdarcia.html",
+    "type": "Historical article and map reference",
+    "relevance": "The approximately 4:34 a.m. attack on Tczew’s demolition installations and the failure to capture the bridges intact. Its separate Wieluń timing is not adopted.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "The approximately 4:34 a.m. attack on Tczew’s demolition installations and the failure to capture the bridges intact. Its separate Wieluń timing is not adopted.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "tczew-history-1939",
+    "institution": "Dawny Tczew historical portal",
+    "title": "Okupacja (1939–1945)",
+    "date": null,
+    "url": "https://www.dawnytczew.pl/pl/historia/46-okupacja-1939-1945.html",
+    "type": "Historical article and map reference",
+    "relevance": "Local account of the air and train operation, warning by railway workers and bridge demolition. Location markers represent the locality, not surveyed battle positions.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Local account of the air and train operation, warning by railway workers and bridge demolition. Location markers represent the locality, not surveyed battle positions.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "raf-poland-1939",
+    "institution": "Royal Air Force Museum",
+    "title": "Poles and Czechoslovaks in the Battle of Britain",
+    "date": null,
+    "url": "https://www.rafmuseum.org.uk/blog/poles-and-czechoslovaks-in-the-battle-of-britain/",
+    "type": "Historical article and map reference",
+    "relevance": "Approximately 300 Polish aircraft against more than 1,300 German fighters and bombers in its comparison; pre-war dispersal preserved Polish squadrons from destruction on their main airfields.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Approximately 300 Polish aircraft against more than 1,300 German fighters and bombers in its comparison; pre-war dispersal preserved Polish squadrons from destruction on their main airfields.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "tym-mokra-1939",
+    "institution": "Military Publishing Institute, Polska Zbrojna",
+    "title": "Col. Prof. Juliusz S. Tym, Nie było szarży na czołgi",
+    "date": "2019-11-25",
+    "url": "https://www.polska-zbrojna.pl/home/articleshow/29769",
+    "type": "Historical article and map reference",
+    "relevance": "Specialist analysis of the Wołyńska Brigade’s mission, railway terrain, German divisional strength and combined-arms fighting. Establishment figures do not imply simultaneous commitment of all tanks.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Specialist analysis of the Wołyńska Brigade’s mission, railway terrain, German divisional strength and combined-arms fighting. Establishment figures do not imply simultaneous commitment of all tanks.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "lydka-mokra-1939",
+    "institution": "Military Publishing Institute, Polska Zbrojna",
+    "title": "Andrzej Łydka, Na koniach przeciwko czołgom",
+    "date": null,
+    "url": "https://polska-zbrojna.pl/home/articleshow/16998?t=Na-koniach-przeciwko-czolgom",
+    "type": "Historical article and map reference",
+    "relevance": "Dismounted cavalry, 37 mm anti-tank guns, successive German attacks and the support of the armoured train Śmiały. Exact German loss totals are not adopted.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Dismounted cavalry, 37 mm anti-tank guns, successive German attacks and the support of the armoured train Śmiały. Exact German loss totals are not adopted.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "zalewski-mlawa-1939",
+    "institution": "Military Publishing Institute, Polska Zbrojna",
+    "title": "Wojciech Zalewski, W okrążeniu — bitwa pod Mławą",
+    "date": "2019-09-04",
+    "url": "https://www.polska-zbrojna.pl/home/articleshow/20555",
+    "type": "Historical article and map reference",
+    "relevance": "20th Infantry Division’s fortified defence, failed frontal attacks, later outflanking and withdrawal. Cross-checked against the German operational reconstruction.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "20th Infantry Division’s fortified defence, failed frontal attacks, later outflanking and withdrawal. Cross-checked against the German operational reconstruction.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "mww-krojanty",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Kawaleria przeciw czołgom — kłamstwo, które stało się mitem",
+    "date": null,
+    "url": "https://www.muzeum1939.pl/aktualnosci/kawaleria-przeciw-czolgom--klamstwo-ktore-stalo-sie-mitem-m2wswirtualnie-11310",
+    "type": "Historical article and map reference",
+    "relevance": "Polish campaign manpower estimate and the distinction between the attack on infantry at Krojanty and the propaganda story of charges against tanks. Search-index text was accessible; direct page access was intermittent.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Polish campaign manpower estimate and the distinction between the attack on infantry at Krojanty and the propaganda story of charges against tanks. Search-index text was accessible; direct page access was intermittent.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "mww-westerplatte",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Zakończenie walk na Westerplatte",
+    "date": "2021-09-07",
+    "url": "https://www.muzeum1939.pl/aktualnosci/-wojennydzien-zakonczenie-walk-na-westerplatte-11859",
+    "type": "Historical article and map reference",
+    "relevance": "Garrison of over 200 people, command of Major Henryk Sucharski and resistance through 7 September.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Garrison of over 200 people, command of Major Henryk Sucharski and resistance through 7 September.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "mww-slovakia-1939",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Udział Słowacji w rozbiorze ziem polskich w 1939 r.",
+    "date": null,
+    "url": "https://www.muzeum1939.pl/aktualnosci/-wojennydzien-udzial-slowacji-w-rozbiorze-ziem-polskich-w-1939-r--11530",
+    "type": "Historical article and map reference",
+    "relevance": "Slovak participation from 1 September and the southern approaches. Subsequent territorial transfers are not projected onto the opening-day map.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Slovak participation from 1 September and the southern approaches. Subsequent territorial transfers are not projected onto the opening-day map.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "ipn-wielun-investigation",
+    "institution": "Institute of National Remembrance, Łódź",
+    "title": "Wieluń: account of the investigation reproduced for the 78th anniversary",
+    "date": "2017-09-01",
+    "url": "https://lodz.ipn.gov.pl/pl6/aktualnosci/41509,Ogolnopolskie-obchody-78-rocznicy-wybuchu-II-wojny-swiatowej-i-Dnia-Weterana-Wie.html",
+    "type": "Historical article and map reference",
+    "relevance": "Investigation found no Polish military units in the town and documented civilian and hospital victims; it could not establish a complete death toll.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Investigation found no Polish military units in the town and documented civilian and hospital victims; it could not establish a complete death toll.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "dwot-wielun-time",
+    "institution": "Polish Territorial Defence Forces, press office",
+    "title": "1 września 1939. Dzień, w którym rozpoczęła się wojna",
+    "date": "2026-09-01",
+    "url": "https://media.terytorialsi.wp.mil.pl/informacje/876074/1-wrzesnia-1939-roku-dzien-w-ktorym-rozpoczela-sie-wojna",
+    "type": "Historical article and map reference",
+    "relevance": "Acknowledges differing scholarly accounts of the first Wieluń raid’s time; supports avoiding an unqualified first-bomb claim.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Acknowledges differing scholarly accounts of the first Wieluń raid’s time; supports avoiding an unqualified first-bomb claim.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "ipn-parzymiechy",
+    "institution": "Institute of National Remembrance, Poland",
+    "title": "Paweł Żołądek, Pacyfikacje wsi Parzymiechy i Zimnowoda",
+    "date": null,
+    "url": "https://archiwum.ipn.gov.pl/pl/historia-z-ipn/187153,Pawel-Zoladek-Pacyfikacje-wsi-Parzymiechy-i-Zimnowoda.html",
+    "type": "Historical article and map reference",
+    "relevance": "Combat on 1 September and civilian killings during the German advance, reconstructed largely from witness testimony.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Combat on 1 September and civilian killings during the German advance, reconstructed largely from witness testimony.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "hansard-september-1",
+    "institution": "UK Parliament, Hansard",
+    "title": "British Note to Germany",
+    "date": "1939-09-01",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1939/sep/01/british-note-to-germany",
+    "type": "Historical article and map reference",
+    "relevance": "Contemporary parliamentary record of the British and French demands for cessation and withdrawal.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "Contemporary parliamentary record of the British and French demands for cessation and withdrawal.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
+  },
+  {
+    "id": "nam-western-response",
+    "institution": "National Army Museum",
+    "title": "Defeat in the West, 1940",
+    "date": null,
+    "url": "https://www.nam.ac.uk/explore/defeat-west",
+    "type": "Historical article and map reference",
+    "relevance": "The Western Allies’ reliance on blockade and the absence of a major offensive that could relieve Poland.",
+    "supports": [
+      "1939-09-01-article",
+      "1939-09-01-map"
+    ],
+    "notes": "The Western Allies’ reliance on blockade and the absence of a major offensive that could relieve Poland.",
+    "reuseRights": "Linked and paraphrased; no third-party images reproduced."
   }
 ]
