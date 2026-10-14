@@ -1,0 +1,44 @@
+{
+  "slug": "barbarossa-the-war-widens-1941-08-12",
+  "title": "The War Widens",
+  "subtitle": "Luga, Staraya Russa and the defence of Odessa",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-08-12",
+  "historicalPeriod": "12 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: The Luga fighting, Soviet operations near Staraya Russa, Romanian operations around Odessa and competing German priorities.",
+  "body": "",
+  "location": "Leningrad approaches, Odessa and the central front",
+  "outlineTopics": [
+    "The German effort to resume major advances toward Leningrad.",
+    "Army Group North's operations around the Luga defensive system.",
+    "Soviet defensive formations protecting the approaches to Leningrad.",
+    "The German advance toward Novgorod and the Lake Ilmen region.",
+    "The Soviet counteroffensive around Staraya Russa, beginning August 8.",
+    "Soviet operational objectives and the pressure placed on German formations.",
+    "Romanian operations against Odessa.",
+    "The Soviet defense of Odessa and the importance of its port and maritime supply connections.",
+    "The role of Romanian forces and their command structure.",
+    "The continued German operations in Ukraine.",
+    "Hitler's August 12 supplement to Directive No. 34.",
+    "The expanding disagreement over priorities between Leningrad, Moscow, Ukraine, and the southern economic objectives."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-the-uman-encirclement-1941-08-06",
+  "chronologyNotes": [
+    "Leningrad was not fully encircled and Odessa was not captured on this date. Events after 25 August belong outside this phase."
+  ],
+  "nextArticleSlug": "barbarossa-the-fight-for-gomel-1941-08-19"
+}

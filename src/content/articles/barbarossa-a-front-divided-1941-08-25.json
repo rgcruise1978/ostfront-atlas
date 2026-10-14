@@ -1,0 +1,46 @@
+{
+  "slug": "barbarossa-a-front-divided-1941-08-25",
+  "title": "A Front Divided",
+  "subtitle": "The campaign’s situation at the close of Phase II",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-08-25",
+  "historicalPeriod": "25 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: The three sectors, Soviet resistance, supply and replacement problems, occupation violence and the developing southward operations.",
+  "body": "",
+  "location": "The Eastern Front",
+  "outlineTopics": [
+    "Army Group North's position and progress toward Leningrad.",
+    "Soviet resistance and defensive preparations in the northern sector.",
+    "The status of the Baltic campaign and continuing fighting around Tallinn.",
+    "Army Group Center's advances and the operational consequences of the Smolensk fighting.",
+    "The continued existence of organized Soviet resistance east of Smolensk.",
+    "German and Soviet losses, using verifiable figures with properly defined date ranges.",
+    "Army Group South's position following Uman.",
+    "The Soviet defensive situation in Ukraine.",
+    "Continuing operations around Odessa.",
+    "The German decision to redirect operational effort toward the south.",
+    "The developing German movement toward the Desna and the next stages of the Ukraine campaign.",
+    "Logistical problems, supply distances, repair requirements, and replacement shortages.",
+    "Soviet mobilization, reserve formations, and operational adaptation.",
+    "The expansion of German occupation administrations and the escalating murder of civilians, particularly Jewish communities.",
+    "Why the invasion had not achieved its original objective of destroying Soviet resistance within a short campaign."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+  "chronologyNotes": [
+    "This is the editorial endpoint of Phase II; it does not end the broader Battle of Smolensk or import September operations."
+  ]
+}
