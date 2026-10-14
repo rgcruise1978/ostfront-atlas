@@ -24,7 +24,7 @@ export function makeMapStyle() {
   {id:'neighbors-pattern',type:'fill',source:'neighbors',filter:['!=',['get','pattern'],''],paint:{'fill-pattern':['get','pattern'],'fill-opacity':0.48}},
   {id:'neighbors-border-halo',filter:['!=',['get','visualCategory'],'unresolved'],type:'line',source:'neighbors',paint:{'line-color':'#F8F4E8','line-width':['interpolate',['linear'],['zoom'],3,2.2,7,3.6],'line-opacity':0.9}},
   {id:'neighbors-line',filter:['!=',['get','visualCategory'],'unresolved'],type:'line',source:'neighbors',paint:{'line-color':'#4A4C49','line-width':['interpolate',['linear'],['zoom'],3,0.85,7,1.5]}},
-  {id:'control-fill',type:'fill',source:'control',paint:{'fill-color':['coalesce',['get','color'],'#BFC3C8'],'fill-opacity':0.88}},
+  {id:'control-fill',type:'fill',source:'control',paint:{'fill-color':['match',['get','visualCategory'],'contested','#BAA1AD','soviet-occupation','#CA8583','#BFC3C8'],'fill-opacity':0.88}},
   {id:'control-pattern',type:'fill',source:'control',paint:{'fill-pattern':['coalesce',['get','pattern'],'occupation-hatch'],'fill-opacity':0.65}},
   {id:'control-line',type:'line',source:'control',paint:{'line-color':['case',['==',['get','visualCategory'],'contested'],'#77586B','#343C44'],'line-width':1.7,'line-dasharray':[3,2]}},
   {id:'lakes-fill',type:'fill',source:'lakes',paint:{'fill-color':'#BFD4DD','fill-outline-color':'#7B9DAE'}},

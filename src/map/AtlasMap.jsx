@@ -20,7 +20,7 @@ function addPatterns(map) {
   map.addImage(name,{width:12,height:12,data:pixels});
  }
 }
-const anchors={'German Reich':[10.2,52],'Soviet Union':[34.5,55.3],'Poland':[22,52.7],'Slovak Republic':[19.2,48.75],'Protectorate of Bohemia and Moravia':[15.0,49.5],'France':[2.1,46.5],'United Kingdom':[-3,55.4],'Norway':[9,62.3],'Sweden':[15.8,62.7],'Finland':[25.5,64],'Italy':[12.8,42.8],'Romania':[25.2,45.5],'Hungary':[19.7,47.1]};
+const anchors={'German Reich':[9,51.2],'Soviet Union':[36,53.4],'Poland':[22,52.7],'Slovak Republic':[19.2,48.75],'Protectorate of Bohemia and Moravia':[15.0,49.5],'France':[2.1,46.5],'United Kingdom':[-3,55.4],'Norway':[9,62.3],'Sweden':[15.8,62.7],'Finland':[25.5,64],'Italy':[12.8,42.8],'Romania':[25.2,45.5],'Hungary':[19.7,47.1]};
 export default function AtlasMap({campaign,viewRequest,date,operationRegion='theatre',showCapitals,showPlaces,showRivers,showBoundary,showNeighbors,showControl,showMovements,showChanges,showRelief,onFeatureSelect}) {
  const node=useRef(null),mapRef=useRef(null),current=useRef({date,onFeatureSelect});current.current={date,onFeatureSelect};
  const [data,setData]=useState(null),[error,setError]=useState('');
@@ -47,6 +47,7 @@ export default function AtlasMap({campaign,viewRequest,date,operationRegion='the
    current.current.onFeatureSelect({...p,kind:p.category||'territory',title:p.title||p.displayName||p.name,note:p.note,selectedDate:d,sourceIds:ids(p.sourceIds||(p.sourceId?[p.sourceId]:[])),coordinates:chosen.geometry.type==='Point'?chosen.geometry.coordinates:null});
   });
   map.on('mousemove',event=>{map.getCanvas().style.cursor=map.queryRenderedFeatures(event.point,{layers:clickLayers.filter(id=>map.getLayer(id))}).length?'pointer':'';});
+
   map.on('error',event=>{if(event.error)setError('A map layer could not be loaded. Please reload the page.');});
   return()=>{observer.disconnect();map.remove();mapRef.current=null;};
  },[campaign]);
@@ -64,13 +65,13 @@ export default function AtlasMap({campaign,viewRequest,date,operationRegion='the
    map.setFilter('capital-stars',['all',['<=',['get','startDate'],date],['>=',['get','endDate'],date]]);map.setFilter('capital-labels',['all',['<=',['get','startDate'],date],['>=',['get','endDate'],date]]);
    for(const [group,visible] of [['capitals',showCapitals],['places',showPlaces],['rivers',showRivers],['boundary',showBoundary],['neighbors',showNeighbors],['control',showControl],['movements',showMovements],['changes',showChanges],['relief',showRelief]])for(const id of historicalLayerGroups[group])if(map.getLayer(id))map.setLayoutProperty(id,'visibility',visible?'visible':'none');
   };
-  if(map.isStyleLoaded())update();else map.once('load',update);
+  if(map.getSource('neighbors'))update();else map.once('load',update);
   return()=>map.off('load',update);
  },[data,date,operationRegion,showCapitals,showPlaces,showRivers,showBoundary,showNeighbors,showControl,showMovements,showChanges,showRelief]);
  useEffect(()=>{
   const map=mapRef.current;if(!map||!viewRequest)return;
   const move=()=>viewRequest.coordinates?map.flyTo({center:viewRequest.coordinates,zoom:6.4,duration:0}):map.fitBounds(viewRequest.bounds||campaign.map.bounds,{padding:28,duration:0});
-  if(map.isStyleLoaded())move();else map.once('load',move);return()=>map.off('load',move);
+  if(map.getLayer('water'))move();else map.once('load',move);return()=>map.off('load',move);
  },[viewRequest,campaign]);
  return <div className="map-frame"><div ref={node} className="atlas-map" role="application" aria-label={`Interactive ${campaign.title} map; use region controls or zoom and pan`} />{error&&<p className="map-error" role="alert">{error}</p>}</div>;
 }
