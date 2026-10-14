@@ -1744,7 +1744,9 @@
     "url": "https://encyclopedia.ushmm.org/content/en/map/soviet-annexations-in-eastern-europe-1939-1940",
     "type": "Historical map",
     "relevance": "Identifies Soviet occupation and annexation of the Baltic states and eastern Poland before the June 1941 invasion.",
-    "supports": ["1941-06-21"],
+    "supports": [
+      "1941-06-21"
+    ],
     "notes": "Used for the political status of the opening territorial reference, not as a digitized boundary or legal endorsement of annexation.",
     "reuseRights": "Linked for verification; no museum image reproduced."
   },
@@ -1756,8 +1758,318 @@
     "url": "https://encyclopedia.ushmm.org/content/en/map/romania-1941",
     "type": "Historical map",
     "relevance": "Shows the Romanian–Soviet territorial division after the 1940 loss of Bessarabia and northern Bukovina.",
-    "supports": ["1941-06-21"],
+    "supports": [
+      "1941-06-21"
+    ],
     "notes": "The site uses its own approximate geometry; the museum map is a historical check, not copied imagery. The Hungary and Bulgaria changes are not yet digitized.",
     "reuseRights": "Linked for verification; no museum image reproduced."
+  },
+  {
+    "id": "occ-hitler-keitel",
+    "institution": "Harvard Law School Library, Nuremberg Trials Project",
+    "title": "Record of the Hitler–Keitel conference, October 17, 1939 (864-PS; memorandum dated October 20)",
+    "date": null,
+    "url": "https://nuremberg.law.harvard.edu/documents/583-record-of-a-meeting?mode=text",
+    "type": "Historical article research reference",
+    "relevance": "Contemporary internal record of planned labor exploitation, political suppression, resettlement, and military use. English text from the U.S. government’s 1946 Nazi Conspiracy and Aggression; not a verbatim speech transcript.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Contemporary internal record of planned labor exploitation, political suppression, resettlement, and military use. English text from the U.S. government’s 1946 Nazi Conspiracy and Aggression; not a verbatim speech transcript.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-goering-economy",
+    "institution": "Harvard Law School Library, Nuremberg Trials Project",
+    "title": "Göring’s economic instructions, October 19, 1939 (EC-410)",
+    "date": null,
+    "url": "https://nuremberg.law.harvard.edu/documents/2126-instructions-to-ministries-and-offices?mode=text",
+    "type": "Historical article research reference",
+    "relevance": "Different economic assignments for annexed territory and the General Government; trustee administration, confiscation, and the exception allowing production in place. Instructions establish intentions and powers, not completed implementation.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Different economic assignments for annexed territory and the General Government; trustee administration, confiscation, and the exception allowing production in place. Instructions establish intentions and powers, not completed implementation.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-himmler-decree",
+    "institution": "Harvard Law School Library, Nuremberg Trials Project",
+    "title": "Decree on strengthening German nationhood, October 7, 1939 (686-PS)",
+    "date": null,
+    "url": "https://nuremberg.law.harvard.edu/documents/536-decree-on-strengthening-german?mode=text",
+    "type": "Historical article research reference",
+    "relevance": "Himmler’s mandate for ethnic German resettlement, coercive population measures, and settlement administration. Racial categories and alleged threats are the regime’s claims.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Himmler’s mandate for ethnic German resettlement, coercive population measures, and settlement administration. Racial categories and alleged threats are the regime’s claims.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-administrative-chronology",
+    "institution": "Instytut Zachodni / Institute for Western Affairs",
+    "title": "Karol Marian Pospieszalski, Nazi Occupation “Law” in Poland, Part II: General Government (1959; English edition 2019), pp. 23–24, 31–37",
+    "date": null,
+    "url": "https://www.iz.poznan.pl/archiwum/wp-content/uploads/2019/12/DOCUMENTA-OCCUPATIONIS-VI_ENG.pdf#page=40",
+    "type": "Historical article research reference",
+    "relevance": "Effective dates and the October 20 amendment bringing annexation forward from November 1; the distinction between Kraków’s designated status and Frank’s subsequent move from Łódź. The October 12 date is the date borne by the decree; the editor discusses evidence of later signing. The population section documents Ukrainian inhabitants.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Effective dates and the October 20 amendment bringing annexation forward from November 1; the distinction between Kraków’s designated status and Frank’s subsequent move from Łódź. The October 12 date is the date borne by the decree; the editor discusses evidence of later signing.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-gg-documents",
+    "institution": "Instytut Zachodni / Institute for Western Affairs",
+    "title": "German occupation decrees reproduced in Documenta Occupationis VI, Part II (English edition 2019)",
+    "date": null,
+    "url": "https://www.iz.poznan.pl/archiwum/wp-content/uploads/2019/12/DOCUMENTA-OCCUPATIONIS-VI_ENG.pdf#page=98",
+    "type": "Primary document collection",
+    "relevance": "Original German texts: founding decree, pp. 81–84; organizational ordinance, pp. 84–88; municipalities, pp. 108–111 (November 28); police, pp. 124–125; courts, pp. 144–146; Polish labor, pp. 425–427; identity cards, p. 516; schools, pp. 566–567 (October 31); printing, p. 595; Jewish badges, p. 744 (November 23); Jewish labor, pp. 774–775. Printed page numbers differ from PDF pages. The narrative paraphrases the decrees and distinguishes orders from their implementation.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Original German texts: founding decree, pp. 81–84; organizational ordinance, pp. 84–88; municipalities, pp. 108–111 (November 28); police, pp. 124–125; courts, pp. 144–146; Polish labor, pp. 425–427; identity cards, p. 516; schools, pp. 566–567 (October 31); printing, p. 595; Jewish badges, p. 744 (November 23); Jewish labor, pp. 774–775. Printed page numbers differ from PDF pages. The narrative paraphrases the decrees and distinguishes orders from their implementation.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-grochowina",
+    "institution": "Foundation of General Elżbieta Zawacka",
+    "title": "Sylwia Grochowina, Cultural Policy of the Nazi Occupying Forces … 1939–1945 (2017), pp. 76–79",
+    "date": null,
+    "url": "https://zawacka.pl/uploads/dokumenty/Grochowina_KulturalPolicy1939_19.pdf#page=77",
+    "type": "Historical article research reference",
+    "relevance": "Administrative geography, Forster and Greiser, November 2 and January 29 naming changes, and the November 9 incorporation of Łódź. Selected pages of the scholarly monograph, not a claim to have consulted every work in its footnotes.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Administrative geography, Forster and Greiser, November 2 and January 29 naming changes, and the November 9 incorporation of Łódź. Selected pages of the scholarly monograph, not a claim to have consulted every work in its footnotes.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-danzig",
+    "institution": "UK Parliament, Historic Hansard",
+    "title": "Germany and Poland, Italian Proposals, September 2, 1939",
+    "date": null,
+    "url": "https://api.parliament.uk/historic-hansard/commons/1939/sep/02/germany-and-poland-italian-proposals",
+    "type": "Historical article research reference",
+    "relevance": "Contemporary statement distinguishing the Free City’s treaty status and League protection from Poland’s defined rights in Danzig.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Contemporary statement distinguishing the Free City’s treaty status and League protection from Poland’s defined rights in Danzig.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-lodz",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Łódź",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/lodz",
+    "type": "Historical article research reference",
+    "relevance": "Occupation history and the later renaming as Litzmannstadt in 1940; precise annexation chronology is checked against Grochowina.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Occupation history and the later renaming as Litzmannstadt in 1940; precise annexation chronology is checked against Grochowina.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-hull-recognition",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Polish Territory Annexed by Germany in 1939 (Potsdam briefing paper, July 3, 1945, document 512)",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1945Berlinv01/d512",
+    "type": "Historical article research reference",
+    "relevance": "Reproduces Hull’s October 2, 1939 recognition statement and describes the economic significance of annexed territory beyond pre-1914 Germany. Its compressed administrative geography is not used in place of the detailed territorial sources.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Reproduces Hull’s October 2, 1939 recognition statement and describes the economic significance of annexed territory beyond pre-1914 Germany. Its compressed administrative geography is not used in place of the detailed territorial sources.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-ss-policy",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "SS and Nazi Policy",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/ss-and-nazi-policy",
+    "type": "Historical article research reference",
+    "relevance": "SS and police command structures and their role in Nazi racial policy; read alongside Frank’s October 26 police ordinance.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. SS and police command structures and their role in Nazi racial policy; read alongside Frank’s October 26 police ordinance.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-hitler-speech",
+    "institution": "German Historical Institute, German History Intersections",
+    "title": "Speech by Reich Chancellor Adolf Hitler before the Reichstag, October 6, 1939",
+    "date": null,
+    "url": "https://germanhistory-intersections.org/en/migration/ghis:document-63",
+    "type": "Historical article research reference",
+    "relevance": "Contemporary public proposals for territorial reorganization, population transfers, and a restricted Polish state. The speech supplies propaganda and stated intentions, not evidence of Polish agreement.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Contemporary public proposals for territorial reorganization, population transfers, and a restricted Polish state. The speech supplies propaganda and stated intentions, not evidence of Polish agreement.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-krakow-academics",
+    "institution": "Pontifical University of John Paul II in Kraków",
+    "title": "History and mission",
+    "date": null,
+    "url": "https://upjp2.edu.pl/en/university/history-and-mission",
+    "type": "Historical article research reference",
+    "relevance": "Institutional account of the November 6 arrest of academics summoned for a German official’s lecture. The event is explicitly later than October 26.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Institutional account of the November 6 arrest of academics summoned for a German official’s lecture. The event is explicitly later than October 26.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-gdynia-expulsions",
+    "institution": "Institute of National Remembrance",
+    "title": "Conclusion of the investigation into deportations of Gdynia inhabitants during the early German occupation",
+    "date": null,
+    "url": "https://ipn.gov.pl/pl/dla-mediow/komunikaty/44006,Zakonczenie-sledztwa-w-sprawie-deportacji-mieszkancow-Gdyni-w-pierwszych-latach-.html",
+    "type": "Historical article research reference",
+    "relevance": "Polish-language investigation summary locating the beginning of deportations on October 12, 1939; later deportation totals are not attributed to the October snapshot.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Polish-language investigation summary locating the beginning of deportations on October 12, 1939; later deportation totals are not attributed to the October snapshot.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-gdynia-arrivals",
+    "institution": "Institute of National Remembrance",
+    "title": "Monika Tomkiewicz, Wysiedlenia Polaków z Gdyni w latach II wojny światowej",
+    "date": null,
+    "url": "https://ipn.gov.pl/pl/historia-z-ipn/231458,Monika-Tomkiewicz-Wysiedlenia-Polakow-z-Gdyni-w-latach-II-wojny-swiatowej.html",
+    "type": "Historical article research reference",
+    "relevance": "Baltic German arrivals at Gdańsk and Gdynia in October and the local autumn Intelligenzaktion. No demographic total or conflation of arrival and permanent settlement is adopted. Also preserves Jadwiga Kocuniak’s later recollection of German orders in the first days of occupation.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Baltic German arrivals at Gdańsk and Gdynia in October and the local autumn Intelligenzaktion. No demographic total or conflation of arrival and permanent settlement is adopted.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-gg-reference",
+    "institution": "Yad Vashem, Shoah Resource Center",
+    "title": "Generalgouvernement",
+    "date": null,
+    "url": "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%206246.pdf",
+    "type": "Historical article research reference",
+    "relevance": "Reference account of the General Government’s population, administration, and racial hierarchy. Later occupation developments are not treated as completed on October 26.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Reference account of the General Government’s population, administration, and racial hierarchy. Later occupation developments are not treated as completed on October 26.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-occupation-violence",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Occupation of Poland: photographs and historical captions",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/gallery/occupation-of-poland",
+    "type": "Historical article research reference",
+    "relevance": "Documented perpetrators and local executions, including teachers near Fordon and SS/Selbstschutz actions near Tuchola in autumn 1939. Images are linked as evidence, not reproduced.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Documented perpetrators and local executions, including teachers near Fordon and SS/Selbstschutz actions near Tuchola in autumn 1939. Images are linked as evidence, not reproduced.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-badge",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Jewish Badge: During the Nazi Era",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/jewish-badge-during-the-nazi-era",
+    "type": "Historical article research reference",
+    "relevance": "Local badge measures and Frank’s November 23 general order; its December 1 effective date is also verified in the original text reproduced in Documenta Occupationis VI.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Local badge measures and Frank’s November 23 general order; its December 1 effective date is also verified in the original text reproduced in Documenta Occupationis VI.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-underground",
+    "institution": "Institute of National Remembrance",
+    "title": "The Polish Underground State, 1939–1945",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/news/4673,The-Polish-Underground-State-1939-1945.html",
+    "type": "Historical article research reference",
+    "relevance": "Raczkiewicz, Sikorski, the government in France, and the organizational sequence from the September 27 Service for Poland’s Victory to the November Union of Armed Struggle and the Home Army name in 1942. Later institutions are not projected backward.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Raczkiewicz, Sikorski, the government in France, and the organizational sequence from the September 27 Service for Poland’s Victory to the November Union of Armed Struggle and the Home Army name in 1942. Later institutions are not projected backward.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-ukraine-assembly",
+    "institution": "Canadian Institute of Ukrainian Studies, Internet Encyclopedia of Ukraine",
+    "title": "People’s Assembly of Western Ukraine",
+    "date": null,
+    "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CE%5CPeoplesAssemblyofWesternUkraine.htm",
+    "type": "Historical article research reference",
+    "relevance": "Controlled elections of October 22 and the assembly’s Lviv meetings of October 26–28; its actions are distinguished from subsequent formal incorporation.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Controlled elections of October 22 and the assembly’s Lviv meetings of October 26–28; its actions are distinguished from subsequent formal incorporation.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-soviet-declaration",
+    "institution": "Michigan State University, Seventeen Moments in Soviet History",
+    "title": "Declaration on State Power in Western Ukraine, October 27, 1939",
+    "date": null,
+    "url": "https://soviethistory.msu.edu/1939/soviet-territorial-annexations/soviet-territorial-annexations-texts/on-state-power-in-the-western-ukraine/",
+    "type": "Historical article research reference",
+    "relevance": "Published declaration claiming unanimous consent and proclaiming Soviet power. A primary source for official claims, not confirmation of a free electoral process.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Published declaration claiming unanimous consent and proclaiming Soviet power. A primary source for official claims, not confirmation of a free electoral process.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-soviet-jewish-citizens",
+    "institution": "Institute of National Remembrance",
+    "title": "The attitude of the USSR towards Polish citizens of Jewish nationality",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7187,The-attitude-of-the-USSR-towards-Polish-citizens-of-Jewish-nationality.html",
+    "type": "Historical article research reference",
+    "relevance": "Different experiences among Jewish citizens under Soviet occupation, political and economic repression, and the NKVD’s targeting of alleged counterrevolutionaries. The 1939–1941 account is not used to place later mass deportations in October 1939.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Different experiences among Jewish citizens under Soviet occupation, political and economic repression, and the NKVD’s targeting of alleged counterrevolutionaries. The 1939–1941 account is not used to place later mass deportations in October 1939.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "occ-economic-moscow",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Steinhardt to the Secretary of State, October 9, 1939 (document 504)",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d504",
+    "type": "Historical article research reference",
+    "relevance": "Contemporary report, based on press announcements, of German economic and frontier representatives arriving in Moscow. Evidence of continuing practical cooperation, not a military alliance.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 14, 2026. Contemporary report, based on press announcements, of German economic and frontier representatives arriving in Moscow. Evidence of continuing practical cooperation, not a military alliance.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
   }
 ]
