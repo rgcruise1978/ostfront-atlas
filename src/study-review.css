@@ -1,0 +1,13 @@
+.study-review-notice {
+  padding: 0.8rem 1rem;
+  border-left: 3px solid currentColor;
+  background: rgba(148, 124, 86, 0.08);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.article-sources .source-locators {
+  font-size: 0.85rem;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}

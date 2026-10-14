@@ -1,0 +1,202 @@
+/* Ostfront Atlas visual system: an editorial record with restrained cartographic cues. */
+:root {
+  --paper: #f2eddf;
+  --paper-light: #faf7ef;
+  --ink: #252a27;
+  --muted: #5d635d;
+  --rule: #c9c1ad;
+  --red: #923e32;
+  --blue: #344f61;
+  --olive: #67705a;
+  --gold: #b89a62;
+  font-family: "Avenir Next", Avenir, "Helvetica Neue", Arial, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+body { background: var(--paper); }
+h1, h2, h3 { font-family: "Iowan Old Style", Baskerville, Georgia, serif; color: var(--ink); }
+a { color: var(--blue); }
+a:hover { color: var(--red); }
+:focus-visible { outline-color: var(--red); }
+.site-header { background: var(--ink); border-bottom: 4px solid var(--red); }
+.archive-strip { min-height: 29px; padding: 5px max(32px, calc((100vw - 1480px)/2)); display: flex; justify-content: space-between; gap: 20px; border-bottom: 1px solid #ffffff30; color: #d2c7ae; text-transform: uppercase; letter-spacing: .17em; font-size: .59rem; font-weight: 700; }
+.header-inner { min-height: 91px; }
+.brand { display: flex; align-items: center; gap: 14px; }
+.brand-mark { display: grid; place-items: center; width: 46px; height: 46px; border: 1px solid var(--gold); border-radius: 50%; font: 700 .95rem/.9 "Iowan Old Style", Baskerville, Georgia, serif; letter-spacing: -.11em; padding-right: 3px; color: var(--paper-light); }
+.brand-wordmark { display: grid; gap: 5px; }
+.brand strong { font-size: 1.35rem; letter-spacing: .095em; }
+.brand strong span { color: #d5b581; }
+.brand small { font-size: .66rem; color: #d2c9b8; }
+.site-header nav a, .atlas-menu summary { font-size: .74rem; text-transform: uppercase; letter-spacing: .065em; }
+.site-header nav a.active, .site-header nav a:hover, .atlas-menu summary.active, .atlas-menu[open] summary, .atlas-menu summary:hover { border-color: #c6a36b; }
+.site-footer { margin-top: 0; background: var(--ink); border-top: 4px solid var(--red); }
+.footer-inner { color: #c5c4b8; }
+.footer-inner span:first-child { color: #f5eddc; }
+.page { padding-top: 54px; }
+.eyebrow { color: var(--red); letter-spacing: .17em; }
+.lead, .section-lead { color: #4d5753; }
+.button-link { background: var(--red); color: #fff; letter-spacing: .02em; }
+.button-link:hover { background: #6f2d25; }
+
+/* Home: folio masthead and physical index, rather than a row of cards. */
+.home-page { padding-top: 0; }
+.record-hero { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(430px, .95fr); min-height: 620px; margin-inline: calc((min(100vw - 64px, 1480px) - 100vw)/2); background: var(--paper-light); border-bottom: 1px solid var(--rule); }
+.record-intro { padding: clamp(65px, 7vw, 112px) clamp(38px, 5vw, 84px) 66px max(32px, calc((100vw - 1480px)/2)); display: flex; flex-direction: column; align-items: flex-start; }
+.record-intro .eyebrow { margin-bottom: 26px; }
+.record-intro h1 { font-size: clamp(3.8rem, 5.3vw, 6.2rem); max-width: 830px; line-height: .99; letter-spacing: -.056em; margin-bottom: 15px; }
+.record-intro h1 span { display: block; color: var(--red); font-weight: 400; font-style: italic; }
+.record-years { font-family: "Iowan Old Style", Baskerville, Georgia, serif; font-size: clamp(1.55rem, 2.2vw, 2.5rem); letter-spacing: .08em; color: var(--olive); margin-bottom: 23px; }
+.record-years span { color: var(--gold); padding-inline: .23em; }
+.record-intro .lead { max-width: 570px; font-size: 1.16rem; line-height: 1.65; margin-bottom: 30px; }
+.record-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 19px 26px; }
+.record-actions .button-link { min-height: 52px; }
+.text-link { font-size: .84rem; font-weight: 700; text-decoration-thickness: 1px; text-underline-offset: 5px; }
+.record-caution { max-width: 570px; margin: auto 0 0; padding-top: 36px; font-size: .72rem; color: #69716b; border-top: 1px solid var(--rule); line-height: 1.5; }
+.record-plate { position: relative; overflow: hidden; min-width: 0; background: #344a4b; color: #f8f0df; padding: 34px clamp(30px, 4.5vw, 76px) 28px; display: flex; flex-direction: column; isolation: isolate; }
+.record-plate::before { content: ""; position: absolute; inset: 0; z-index: -1; opacity: .3; background: repeating-linear-gradient(0deg, transparent 0 53px, #d7d9ba45 54px 55px), repeating-linear-gradient(90deg, transparent 0 60px, #d7d9ba45 61px 62px); }
+.record-plate::after { content: ""; position: absolute; width: 440px; height: 440px; border: 1px solid #e4dcbf35; border-radius: 50%; top: 60px; right: -145px; box-shadow: 0 0 0 52px #ffffff08, 0 0 0 105px #ffffff07; z-index: -1; }
+.plate-head { display: flex; justify-content: space-between; gap: 20px; padding-bottom: 17px; border-bottom: 1px solid #f5efd464; color: #e8dabb; font-size: .61rem; letter-spacing: .15em; text-transform: uppercase; font-weight: 700; }
+.plate-title { max-width: 560px; margin-top: 67px; font: 400 clamp(2.2rem, 3.6vw, 4.1rem)/1.09 "Iowan Old Style", Baskerville, Georgia, serif; letter-spacing: -.035em; }
+.plate-title em { color: #e0bb85; }
+.plate-grid { height: 72px; position: relative; }
+.plate-cross { position: absolute; color: #e7d8ae; font: 300 1.8rem Georgia, serif; }
+.plate-cross-one { top: -4px; left: 34%; }
+.plate-cross-two { top: 32px; right: 19%; }
+.plate-route { position: absolute; width: 47%; height: 44px; left: 37%; top: 9px; border-top: 2px dashed #c59e6b; transform: rotate(-14deg); opacity: .8; }
+.plate-entries { margin-top: auto; border-top: 1px solid #f5efd464; }
+.plate-entries a { display: grid; grid-template-columns: 95px minmax(0,1fr) 20px; align-items: center; gap: 12px; padding: 20px 0; border-bottom: 1px solid #f5efd464; text-decoration: none; color: #fff9ea; }
+.plate-entries a:hover { color: #ffdbad; }
+.plate-entries strong { display: block; font: 400 1.28rem/1.2 "Iowan Old Style", Baskerville, Georgia, serif; }
+.plate-entries small { display: block; color: #d6dfd5; font-size: .71rem; margin-top: 5px; line-height: 1.4; }
+.plate-number { color: #e0bc87; font: 700 .65rem/1.4 "Avenir Next", Avenir, Arial, sans-serif; letter-spacing: .11em; }
+.plate-foot { margin: 23px 0 0; color: #d0d8cf; font-size: .6rem; letter-spacing: .11em; text-transform: uppercase; }
+.archive-index { padding: 80px 0 88px; }
+.section-heading { display: grid; grid-template-columns: 1fr 1fr; gap: 0 60px; align-items: end; padding-bottom: 29px; }
+.section-heading .eyebrow { grid-column: 1 / -1; margin-bottom: 12px; }
+.section-heading h2 { font-size: clamp(2.2rem, 3vw, 3.5rem); margin-bottom: 0; }
+.section-heading p:last-child { max-width: 510px; margin: 0 0 4px auto; color: #5d645e; font-size: .91rem; }
+.index-list { border-top: 2px solid var(--ink); }
+.index-row { display: grid; grid-template-columns: 70px minmax(0, 1fr) minmax(190px, .33fr) 32px; gap: 22px; align-items: center; min-height: 156px; padding: 24px 15px 25px 5px; border-bottom: 1px solid var(--rule); text-decoration: none; color: var(--ink); transition: background .2s, padding-left .2s; }
+.index-row:hover { background: #eae2cf; padding-left: 16px; color: var(--ink); }
+.index-no { align-self: start; color: var(--red); font: 400 1.65rem "Iowan Old Style", Baskerville, Georgia, serif; }
+.index-main { display: grid; gap: 5px; }
+.index-main small { color: var(--red); text-transform: uppercase; letter-spacing: .15em; font-size: .61rem; font-weight: 700; }
+.index-main strong { font: 400 clamp(1.48rem, 2.1vw, 2.25rem)/1.2 "Iowan Old Style", Baskerville, Georgia, serif; }
+.index-main > span { color: #5f655f; font-size: .84rem; line-height: 1.5; }
+.index-status { justify-self: end; max-width: 230px; border-left: 2px solid var(--olive); padding-left: 12px; font-size: .71rem; line-height: 1.5; color: #4f5c53; }
+.index-arrow { font-size: 1.5rem; color: var(--red); }
+.record-bottom { display: grid; grid-template-columns: 1fr 1fr; margin-bottom: 84px; }
+.record-feature, .source-feature { min-height: 340px; padding: 42px clamp(30px,4vw,66px); }
+.record-feature { background: var(--red); color: #fff8e8; }
+.record-feature .eyebrow { color: #f3d6ac; }
+.source-feature .eyebrow { color: var(--red); }
+.record-feature h2, .source-feature h2 { font-size: clamp(2rem, 2.8vw, 3rem); line-height: 1.15; margin-bottom: 18px; }
+.record-feature h2 { color: #fff8e8; }
+.record-feature p:not(.eyebrow) { max-width: 460px; color: #f1dfd0; font-size: .91rem; }
+.record-feature a, .source-feature a { font-size: .82rem; font-weight: 700; text-underline-offset: 6px; }
+.record-feature a { color: #fff4db; }
+.record-feature a:hover { color: #fff; }
+.feature-rule { display: block; width: 66px; height: 1px; margin: 29px 0 24px; background: #f4dfbd; }
+.source-feature { position: relative; background: #e6dfcd; border: 1px solid var(--rule); }
+.source-feature p:not(.eyebrow) { max-width: 480px; font-size: .91rem; color: #4e5751; }
+.source-feature-foot { margin-top: 46px; padding-top: 14px; border-top: 1px solid #bfb49f; color: #6a6b5f; font-size: .65rem; letter-spacing: .08em; text-transform: uppercase; }
+
+/* Shared record treatment for the atlas, articles, collections and evidence. */
+.atlas-heading, .article-header, .campaign-page > h1, .narrow > h1 { position: relative; }
+.atlas-heading h1, .article-header h1, .campaign-page > h1, .narrow > h1 { letter-spacing: -.04em; }
+.atlas-page > .atlas-heading { padding-bottom: 25px; border-bottom: 2px solid var(--ink); }
+.atlas-heading .eyebrow, .campaign-page > .eyebrow, .narrow > .eyebrow { margin-bottom: 13px; }
+.atlas-status { border-left: 3px solid var(--red); background: #e6ddc8; color: #633b31; }
+.map-navigation { background: #e3dbc9; border-color: #b8ae99; }
+.map-navigation button, .map-navigation select, .campaign-switch select { border-radius: 0; background: var(--paper-light); }
+.map-frame { border: 3px double #9b937f; }
+.atlas-panel { background: #e6dfcf; border-color: #b9ad97; }
+.timeline-panel { border-top: 4px solid var(--red); }
+.date-list button { border-color: #c4b8a4; background: #f9f5eb; }
+.date-list button.active { background: var(--blue); border-color: var(--blue); }
+.info-panel { background: var(--paper-light); }
+.map-tools { background: #ece5d6; border-color: #b8ae99; }
+.source-clarification, .empty-state, .snapshot-notice, .capital-view-note, .history-aside { background: #e7ddc8; border-color: var(--red); }
+.article-facts, .campaign-chapters article { background: #e9e1d0; }
+.campaign-chapters article { border-top-color: var(--red); }
+.article-list article, .source-list article { border-color: var(--rule); }
+.article-list h2 a, .source-list h2 a { color: var(--ink); }
+.article-list h2 a:hover, .source-list h2 a:hover { color: var(--red); }
+.dossier-page .article-header .section-lead { color: var(--red); }
+.article-contents { border-color: var(--red); }
+.next-chapter { background: var(--blue); }
+.archive-page, .evidence-page { padding-bottom: 90px; }
+.archive-page > h1, .evidence-page > h1 { font-size: clamp(3rem, 5vw, 4.7rem); margin-bottom: 18px; }
+.archive-page > .section-lead, .evidence-page > .section-lead { max-width: 760px; }
+.article-collection { margin-top: 67px; }
+.collection-head { display: grid; grid-template-columns: 70px 1fr; gap: 20px; align-items: start; border-top: 3px solid var(--ink); padding: 21px 0 2px; }
+.collection-head > span { color: var(--red); font: 400 2rem "Iowan Old Style", Baskerville, Georgia, serif; }
+.collection-head h2 { font-size: 2rem; margin: 0 0 5px; }
+.collection-head p { color: var(--olive); font-size: .77rem; letter-spacing: .08em; text-transform: uppercase; }
+.archive-page .article-list { margin-top: 21px; }
+.archive-page .article-list article { padding: 23px 16px 25px 90px; }
+.archive-page .article-list article:hover { background: #eae2cf; }
+.archive-page .article-list h3 { margin: 8px 0 7px; }
+.archive-page .article-list h3 a { color: var(--ink); text-decoration: none; }
+.archive-page .article-list h3 a:hover { color: var(--red); text-decoration: underline; }
+.archive-page .article-list article > a { font-size: .79rem; font-weight: 700; }
+.evidence-page .source-clarification { margin: 39px 0 42px; }
+.evidence-page .source-list { border-top: 3px solid var(--ink); margin-top: 0; counter-reset: source; }
+.evidence-page .source-list article { counter-increment: source; position: relative; padding: 27px 15px 32px 72px; }
+.evidence-page .source-list article::before { content: counter(source, decimal-leading-zero); position: absolute; top: 27px; left: 5px; color: var(--red); font: 400 1.4rem "Iowan Old Style", Baskerville, Georgia, serif; }
+.evidence-page .source-list article:target { background: #e9dfc7; }
+.evidence-page .source-list h2 { font-size: 1.55rem; }
+.campaign-page > h1 { font-size: clamp(3rem, 5vw, 4.7rem); }
+.campaign-page > .lead { border-top: 2px solid var(--ink); padding-top: 22px; }
+.campaign-chapters { gap: 0; border-top: 3px solid var(--ink); }
+.campaign-chapters article { border-top: 0; border-bottom: 1px solid var(--rule); background: transparent; padding: 28px 24px; }
+.campaign-chapters article:nth-child(4n + 2), .campaign-chapters article:nth-child(4n + 3) { background: #e9e1d0; }
+.campaign-chapters article h2 { font-size: 1.65rem; }
+.campaign-chapters article h2 a { color: var(--ink); text-decoration: none; }
+.campaign-chapters article h2 a:hover { color: var(--red); text-decoration: underline; }
+
+@media (max-width: 1080px) {
+  .record-hero { grid-template-columns: minmax(0,1fr) minmax(350px,.85fr); }
+  .record-intro h1 { font-size: clamp(3.3rem,5vw,5rem); }
+  .archive-strip { padding-inline: 32px; }
+  .index-row { grid-template-columns: 55px minmax(0,1fr) 165px 28px; }
+}
+@media (max-width: 750px) {
+  .archive-strip { padding-inline: 16px; justify-content: center; }
+  .archive-strip span:not(:first-child) { display: none; }
+  .header-inner { min-height: 0; padding: 18px 0; }
+  .brand-mark { width: 39px; height: 39px; font-size: .8rem; }
+  .brand strong { font-size: 1.1rem; }
+  .record-hero { grid-template-columns: 1fr; margin-inline: -16px; }
+  .record-intro { padding: 53px 28px 40px; }
+  .record-intro h1 { font-size: clamp(3.1rem,10vw,4.5rem); }
+  .record-intro .lead { font-size: 1.03rem; }
+  .record-caution { margin-top: 42px; }
+  .record-plate { min-height: 525px; padding: 30px 28px; }
+  .plate-title { margin-top: 52px; }
+  .archive-index { padding: 59px 0 65px; }
+  .section-heading { display: block; }
+  .section-heading h2 { margin-bottom: 14px; }
+  .section-heading p:last-child { margin: 0; }
+  .index-row { grid-template-columns: 44px minmax(0,1fr) 25px; gap: 12px; min-height: 0; }
+  .index-status { grid-column: 2; justify-self: start; max-width: none; }
+  .index-arrow { grid-column: 3; grid-row: 1; }
+  .record-bottom { grid-template-columns: 1fr; margin-bottom: 60px; }
+  .record-feature, .source-feature { min-height: 0; padding: 34px 28px; }
+  .collection-head { grid-template-columns: 46px 1fr; gap: 12px; }
+  .collection-head h2 { font-size: 1.6rem; }
+  .archive-page .article-list article { padding-left: 16px; }
+  .evidence-page .source-list article { padding-left: 54px; }
+}
+@media (max-width: 430px) {
+  .plate-head { font-size: .54rem; }
+  .plate-head span:last-child { text-align: right; }
+  .plate-entries a { grid-template-columns: 63px minmax(0,1fr) 17px; gap: 7px; }
+  .plate-entries strong { font-size: 1.12rem; }
+  .plate-number { font-size: .58rem; }
+  .record-actions { align-items: stretch; }
+}
+@media print {
+  .record-plate::before, .record-plate::after { display: none; }
+  .record-hero { display: block; }
+}
