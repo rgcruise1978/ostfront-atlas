@@ -159,7 +159,7 @@ assert(JSON.stringify(barbarossa.map(event=>event.date)) === JSON.stringify(phas
 for (const event of barbarossa) {
   const article = articles.get(event.articleSlug);
   assert(article && article.historicalDate === event.date && article.campaignId === 'barbarossa-1941', 'Broken campaign/date/article connection');
-  assert(article.status === 'research-brief' && !article.publicationDate && article.body === '' && article.outlineTopics.length > 0, 'Brief must not claim publication');
+  assert(article.status === 'published' && article.publicationDate && article.body && article.sections.length >= 7 && article.sections.length <= 10, 'Expected a complete published Barbarossa study');
   assert(event.snapshotStatus === 'research-pending' && event.geographicFeatureIds.length === 0, 'An unverified military situation must not be claimed');
   for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Barbarossa source');
 }
@@ -191,4 +191,4 @@ for (const capital of capitals) {
   assert(capital.coordinates.length === 2 && capital.coordinates.every(Number.isFinite), 'Invalid capital coordinate');
   for (const id of capital.sourceIds) assert(sourceIds.has(id), 'Unknown capital source');
 }
-console.log('Validated eight unpublished Barbarossa briefs and three capital records.');
+console.log('Validated eight published Barbarossa studies and three capital records.');
