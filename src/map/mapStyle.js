@@ -44,7 +44,7 @@ export function makeMapStyle() {
   {id:'rivers-label',type:'symbol',source:'rivers',minzoom:4.6,layout:{'symbol-placement':'line','symbol-spacing':450,'text-field':['get','name'],'text-font':fonts,'text-size':10,'text-max-angle':30},paint:{'text-color':'#2E6685','text-halo-color':'#F7F4E9','text-halo-width':1.5}},
   pointLabel('lakes-label','lakes',['get','name'],10,5),
   pointLabel('army-axis-label','operations',['get','label'],11,5.5,['==',['get','category'],'army_label']),
-  pointLabel('army-group-label','operations',['get','label'],12,3,['==',['get','category'],'army_group']),
+  {...pointLabel('army-group-label','operations',['get','label'],12,3,['==',['get','category'],'army_group']),layout:{...pointLabel('x','operations','',12).layout,'text-field':['get','label'],'text-size':12,'text-allow-overlap':true}},
   pointLabel('engagement-label','operations',['get','label'],11,5,['==',['get','category'],'engagement']),
   {...pointLabel('neighbor-country-labels','areaLabels',['get','label'],['interpolate',['linear'],['zoom'],3,12,6,16],0,['all',['==',['get','minor'],false],['==',['get','primary'],false]]),layout:{...pointLabel('x','areaLabels','',12).layout,'text-field':['get','label'],'text-size':['interpolate',['linear'],['zoom'],3,12,6,16],'text-allow-overlap':false,'text-letter-spacing':0.06}},
   {...pointLabel('neighbor-primary-labels','areaLabels',['get','label'],['interpolate',['linear'],['zoom'],3,13,6,17],0,['==',['get','primary'],true]),layout:{...pointLabel('x','areaLabels','',13).layout,'text-field':['get','label'],'text-size':['interpolate',['linear'],['zoom'],3,13,6,17],'text-allow-overlap':true,'text-letter-spacing':0.06}},
