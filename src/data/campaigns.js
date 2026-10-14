@@ -9,17 +9,18 @@ export const campaigns = [
     mapPath: '/atlases/poland-1939', timeline: polandTimeline, map: geography,
     status: 'Historical coverage in development',
     description: 'Explore 1939 boundaries, cities and rivers across the surrounding region, invasion directions, and the September partition line.',
-    views: [{ id: 'theatre', label: 'Poland and surrounding areas', bounds: geography.bounds }]
+    views: [{ id: 'theatre', label: 'Poland and surrounding areas', bounds: geography.bounds },{id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]}]
   },
   {
     id: 'barbarossa-1941', title: 'Operation Barbarossa', phase: 'Phase I: The Opening Assault',
     range: '21 June–9 July 1941', startDate: '1941-06-21', endDate: '1941-07-09',
     introPath: '/campaigns/barbarossa-1941', mapPath: '/atlases/barbarossa-1941', timeline: barbarossaTimeline,
     map: { ...geography, center: [24, 54], bounds: [[5, 43], [43, 63]], referencePeriod: '1941-opening', placesUrl: '/data/geography/barbarossa-reference-places.geojson', boundaryUrl: geography.boundaryUrl, neighborsUrl: '/data/history/barbarossa-1941-neighbors.geojson', areaLabelsUrl: '/data/history/barbarossa-1941-area-labels.geojson', historicalUrl: '/data/history/barbarossa-1941-opening-frontier.geojson', controlUrl: '/data/history/barbarossa-1941-opening-control.geojson', operationsUrl: null },
-    status: '21 June 1941 territory · dated frontlines in preparation',
-    description: 'Eight dated entries organize the opening campaign. The map now shows the opening territorial division, cities and rivers; later daily frontlines remain under research.',
+    status: 'Dated territory and source-qualified operational areas',
+    description: 'Follow eight dated situations using shared historical geography, source-qualified military areas, rivers and cities.',
     views: [
       { id: 'theatre', label: 'Full invasion theatre', bounds: [[5, 43], [43, 63]] },
+      {id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]},
       { id: 'north', label: 'Army Group North · Baltic region', bounds: [[20, 54], [31, 61]] },
       { id: 'center', label: 'Army Group Center · Belarus', bounds: [[21, 50], [36, 56.5]] },
       { id: 'south', label: 'Army Group South · western Ukraine', bounds: [[21, 45], [34, 52]] },
