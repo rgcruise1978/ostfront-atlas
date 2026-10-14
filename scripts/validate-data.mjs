@@ -160,7 +160,7 @@ for (const event of barbarossa) {
   const article = articles.get(event.articleSlug);
   assert(article && article.historicalDate === event.date && article.campaignId === 'barbarossa-1941', 'Broken campaign/date/article connection');
   assert(article.status === 'research-brief' && !article.publicationDate && article.body === '' && article.outlineTopics.length > 0, 'Brief must not claim publication');
-  assert(event.snapshotStatus === 'research-pending' && event.geographicFeatureIds.length === 0, 'An unverified military situation must not be claimed');
+  assert(event.snapshotStatus === 'source-qualified-operational-reference' && event.geographicFeatureIds.length > 0, 'Dated operational reference is missing');
   for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Barbarossa source');
 }
 const openingControl = read('public/data/history/barbarossa-1941-opening-control.geojson');
@@ -186,9 +186,9 @@ assert(openingControl.features.some(feature=>feature.properties.id === 'barbaros
 for (const name of ['Brest-Litovsk','Vilnius','Leningrad','Helsinki']) assert(openingPlaces.features.some(feature=>feature.properties.name===name), `Missing 1941 place ${name}`);
 for (const article of articles.values()) assert(article.author === 'R.G. Cruise', 'Original atlas author credit is inconsistent');
 const capitals = read('src/data/capitals.json');
-assert(capitals.map(c=>c.id).sort().join(',') === 'berlin,moscow,warsaw', 'Missing primary capital');
+assert(['berlin','moscow','warsaw','bratislava'].every(id=>capitals.some(c=>c.id===id)), 'Missing primary capital');
 for (const capital of capitals) {
   assert(capital.coordinates.length === 2 && capital.coordinates.every(Number.isFinite), 'Invalid capital coordinate');
   for (const id of capital.sourceIds) assert(sourceIds.has(id), 'Unknown capital source');
 }
-console.log('Validated eight unpublished Barbarossa briefs and three capital records.');
+console.log('Validated eight unpublished Barbarossa briefs, dated map references and expanded capital records.');
