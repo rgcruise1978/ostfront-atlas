@@ -1,5 +1,16 @@
 # Current state — launch expansion checkpoint
 
+## 14 October 2026 — all collections and completed work published
+
+LIVE: https://ostfront-atlas.netlify.app/ now exposes the Partition of Poland and both Barbarossa phases. Collection hub /collections, Poland landing page /campaigns/poland-1939, shared phase navigation, breadcrumbs, searchable study and source indexes, accurate status labels and /guide are deployed. The revised Poland introduction is first and cited. Completed Poland revisions, shared geography and qualified Phase I military detail are live. All 23 article records are accessible: fourteen published articles and nine Phase II research briefs. All 22 map dates are selectable. Phase II retains the labelled June 21 opening reference while its military snapshots remain in preparation.
+
+VERIFIED: GitHub PR #7 merged as 7322dbe1f292f620421ebbcea3526e2dfe4a3250. Netlify production deploy 6acff09d61a5bea9bf5d2295 is ready, published 14 October at 17:14 Toronto time. All 31 main/study pages and all 22 map dates were checked publicly; no map errors or missing citation anchors. Local and hosted 390px layouts have no overflow. Build/data checks, 392 internal destinations, search/reset/filter behavior, source fragments, phase continuity and saved camera return pass. All 66 uploaded file hashes matched the tested release. All article text, publication dates and research statuses matched the latest completed local records. Evidence and recoverable source archives: ../../outputs/site-navigation-release/.
+
+CONTINUITY: Latest source is synchronized into this working project. The older draft map PR #5 is superseded by the map content included in PR #7; do not merge its older article/source state into the current release. Older local-only and unpublished notes below are historical checkpoints. Repository deployment configuration and established article URLs are preserved.
+
+RESEARCH PENDING: The nine Phase II full studies and military snapshots; documented fine boundary limits, historical transport, Mshaga/Sinyukha geometry and remaining period names. NEXT: Complete the Phase II river and period-place audit, beginning with Smolensk and Luga.
+
+
 ## 14 October 2026 — consolidated collection release
 
 Completed source: shared map and historical publication updates, all 14 completed articles and nine Phase II research briefs, three equally discoverable homepage collections, /collections and the Poland landing page, grouped phase navigation, breadcrumbs, searchable study/source indexes and /guide. The Poland introduction leads its reading sequence; its revised cited text is included. Source IDs, publication dates and all 23 article bodies match the latest completed workspace records. Phase II retains its explicit June 21 reference and research status.
