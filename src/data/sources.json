@@ -1302,7 +1302,7 @@
     "date": null,
     "url": "https://www.loc.gov/item/map51000141/",
     "type": "Contemporary operational map collection",
-    "relevance": "Candidate reference collection supplied for the eight Phase I map situations. Printed sheet dates, reporting perspective and reproduction permissions remain to be checked.",
+    "relevance": "Printed dates verified on sheets 4, 5, 8, 11, 14, 16, 19 and 22 for the eight existing snapshots.",
     "supports": [
       "1941-06-21",
       "1941-06-22",
@@ -1313,7 +1313,7 @@
       "1941-07-06",
       "1941-07-09"
     ],
-    "notes": "German operational reporting requires critical reading and corroboration. No historical military geometry or map imagery reproduced at this checkpoint.",
+    "notes": "Original scans inspected. German reported positions are generalized as forward operational areas; continued resistance is retained. No source artwork redistributed.",
     "reuseRights": "Research link only; reproduction permission not assumed."
   },
   {
@@ -2071,5 +2071,397 @@
     ],
     "notes": "Checked October 14, 2026. Contemporary report, based on press announcements, of German economic and frontier representatives arriving in Moscow. Evidence of continuing practical cooperation, not a military alliance.",
     "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "europe-vector-1939",
+    "institution": "Goran tek-en, Alphathon, maix and contributors",
+    "title": "Blank map of Europe, March–September 1939",
+    "date": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Blank_map_of_Europe_March_-_September_1939.svg",
+    "type": "Historical vector reference",
+    "relevance": "Adapted regional masks: Central European subdivisions, Danzig and Memel. Registered to EPSG:3035 using six small-territory controls; control-point RMS about 2.8 km is not total border accuracy. UMN coastlines remain the foundation.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Adapted regional masks: Central European subdivisions, Danzig and Memel. Registered to EPSG:3035 using six small-territory controls; control-point RMS about 2.8 km is not total border accuracy. UMN coastlines remain the foundation.",
+    "reuseRights": "CC BY-SA 4.0; attribution, modification notice and share-alike license supplied for derived geometry."
+  },
+  {
+    "id": "europe-vector-1942",
+    "institution": "Alphathon, maix and contributors",
+    "title": "Europe 1942 — selected boundary comparison",
+    "date": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Europe_1942.svg",
+    "type": "Historical vector reference",
+    "relevance": "A later reference only. No 1942 eastern front is backdated; use of a particular administrative outline requires separate evidence that it applied by June 1941.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. A later reference only. No 1942 eastern front is backdated; use of a particular administrative outline requires separate evidence that it applied by June 1941.",
+    "reuseRights": "CC BY-SA 3.0; adaptations distributed under compatible CC BY-SA 4.0, with attribution."
+  },
+  {
+    "id": "map-europe-baseline",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Europe, 1939",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/map/europe-1939",
+    "type": "Historical geography reference",
+    "relevance": "Baseline status and period divisions; reference only, artwork not reproduced.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Baseline status and period divisions; reference only, artwork not reproduced.",
+    "reuseRights": "Linked for verification; no museum imagery redistributed."
+  },
+  {
+    "id": "map-europe-expansion",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German Wartime Expansion",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-wartime-expansion",
+    "type": "Historical reference",
+    "relevance": "Dated occupation in Western Europe and the Balkans; distinguishes German expansion from independent allies.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Dated occupation in Western Europe and the Balkans; distinguishes German expansion from independent allies.",
+    "reuseRights": "Linked and paraphrased; no museum imagery redistributed."
+  },
+  {
+    "id": "map-slovak-campaign",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Slovakia and the partition of Polish territory, 1939",
+    "date": null,
+    "url": "https://www.muzeum1939.pl/aktualnosci/-wojennydzien-udzial-slowacji-w-rozbiorze-polskich-ziem-w-1939-r--11956",
+    "type": "Historical reference",
+    "relevance": "Slovak participation and the 21 November 1939 transfer of Polish border districts. The transfer is not applied to October 26.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Slovak participation and the 21 November 1939 transfer of Polish border districts. The transfer is not applied to October 26.",
+    "reuseRights": "Linked and paraphrased; no museum imagery redistributed."
+  },
+  {
+    "id": "map-natural-earth-physical",
+    "institution": "Natural Earth / Tom Patterson and contributors",
+    "title": "Natural Earth physical geography and shaded relief",
+    "date": null,
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "type": "Physical geographic dataset",
+    "relevance": "Natural lakes, rivers, populated-place coordinates, and Natural Earth II relief. Modern reservoirs excluded. Relief cropped and reprojected to Mercator; city display ranks are not wartime population claims.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Natural lakes, rivers, populated-place coordinates, and Natural Earth II relief. Modern reservoirs excluded. Relief cropped and reprojected to Mercator; city display ranks are not wartime population claims.",
+    "reuseRights": "Public domain. Natural Earth attribution retained; raster cropped, desaturated and compressed."
+  },
+  {
+    "id": "map-axis-alignment",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Axis alliance, 1939–1941",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/map/axis-alliance-1939-1941",
+    "type": "Historical reference",
+    "relevance": "Axis membership is distinguished from occupation and from Finland’s co-belligerency.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Axis membership is distinguished from occupation and from Finland’s co-belligerency.",
+    "reuseRights": "Linked for verification; no museum imagery redistributed."
+  },
+  {
+    "id": "map-balkans-partition",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Axis Invasion of Yugoslavia",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/axis-invasion-of-yugoslavia",
+    "type": "Historical reference",
+    "relevance": "April 1941 destruction of Yugoslavia and differing occupation authorities and client administrations.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. April 1941 destruction of Yugoslavia and differing occupation authorities and client administrations.",
+    "reuseRights": "Linked and paraphrased; no museum imagery redistributed."
+  },
+  {
+    "id": "map-greece-zones",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Occupation of Greece, 1941",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/map/occupation-of-greece-1941",
+    "type": "Historical map reference",
+    "relevance": "German, Italian and Bulgarian occupation zones; artwork not reproduced.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. German, Italian and Bulgarian occupation zones; artwork not reproduced.",
+    "reuseRights": "Linked for verification; no museum imagery redistributed."
+  },
+  {
+    "id": "map-finland-peace",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Steinhardt’s report of the Soviet–Finnish peace treaty, 13 March 1940",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1940v01/d287",
+    "type": "Contemporary diplomatic document",
+    "relevance": "March 12 treaty terms, cessions, Hanko lease and continued Finnish sovereignty over Petsamo. Geographic precision requires the treaty map.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. March 12 treaty terms, cessions, Hanko lease and continued Finnish sovereignty over Petsamo. Geographic precision requires the treaty map.",
+    "reuseRights": "Public-domain U.S. government document; linked and paraphrased."
+  },
+  {
+    "id": "map-france-armistice",
+    "institution": "French Ministry of Armed Forces · Chemins de mémoire",
+    "title": "La ligne de démarcation",
+    "date": null,
+    "url": "https://www.cheminsdememoire.gouv.fr/fr/la-ligne-de-demarcation-0",
+    "type": "Historical geographic reference",
+    "relevance": "The armistice line divided occupied and unoccupied France from June 25, 1940. Regional city anchors; local line accuracy is limited.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. The armistice line divided occupied and unoccupied France from June 25, 1940. Regional city anchors; local line accuracy is limited.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-baltic-nonrecognition",
+    "institution": "U.S. Department of State · FRUS",
+    "title": "Welles declaration, July 23, 1940",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1940v01/d412",
+    "type": "Historical geographic reference",
+    "relevance": "Contemporary statement rejecting imposed destruction of Baltic independence; supports distinction between Soviet control and recognized sovereignty.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Contemporary statement rejecting imposed destruction of Baltic independence; supports distinction between Soviet control and recognized sovereignty.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-finland-cobelligerency",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Axis Powers in World War II",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/axis-powers-in-world-war-ii",
+    "type": "Historical geographic reference",
+    "relevance": "Finland fought as a co-belligerent and was not a Tripartite Pact member. June 25–26 entry is distinguished from prior military cooperation.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Finland fought as a co-belligerent and was not a Tripartite Pact member. June 25–26 entry is distinguished from prior military cooperation.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-slovak-operations",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Slovakia’s participation in the 1939 invasion",
+    "date": null,
+    "url": "https://www.muzeum1939.pl/aktualnosci/-wojennydzien-udzial-slowacji-w-rozbiorze-ziem-polskich-w-1939-r--11530",
+    "type": "Historical geographic reference",
+    "relevance": "Army Bernolák under Ferdinand Čatloš; first two divisions’ opening directions and later third-division participation.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Army Bernolák under Ferdinand Čatloš; first two divisions’ opening directions and later third-division participation.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-poland-september-17",
+    "institution": "U.S. Army Office of the Chief of Military History · via HyperWar",
+    "title": "The German Campaign in Poland · Part III and map 10",
+    "date": null,
+    "url": "https://www.ibiblio.org/hyperwar/USA/DAP-Poland/Campaign-III.html",
+    "type": "Historical geographic reference",
+    "relevance": "Map 10 explicitly shows the early morning of September 17. Its operational reach and surviving Polish resistance inform a generalized area, not the final partition frontier.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Map 10 explicitly shows the early morning of September 17. Its operational reach and surviving Polish resistance inform a generalized area, not the final partition frontier.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "loc-lage-1941-06-21",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Deployment on 1941-06-21 · sheet 4",
+    "date": "1941-06-21",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=4",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-06-21"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-06-22",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-06-22 · sheet 5",
+    "date": "1941-06-22",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=5",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-06-22"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-06-25",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-06-25 · sheet 8",
+    "date": "1941-06-25",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=8",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-06-25"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-06-28",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-06-28 · sheet 11",
+    "date": "1941-06-28",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=11",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-06-28"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-07-01",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-07-01 · sheet 14",
+    "date": "1941-07-01",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=14",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-07-01"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-07-03",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-07-03 · sheet 16",
+    "date": "1941-07-03",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=16",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-07-03"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-07-06",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-07-06 · sheet 19",
+    "date": "1941-07-06",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=19",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-07-06"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "loc-lage-1941-07-09",
+    "institution": "German General Staff · Library of Congress collection",
+    "title": "Evening situation on 1941-07-09 · sheet 22",
+    "date": "1941-07-09",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=22",
+    "type": "Primary military situation map, compiled in 1942",
+    "relevance": "Printed date inspected on sheet. German operational reporting, including assessed Soviet positions; forward activity is not consolidated occupation.",
+    "supports": [
+      "1941-07-09"
+    ],
+    "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
+    "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "ushmm-czechoslovakia",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Czechoslovakia",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/czechoslovakia",
+    "type": "Historical reference",
+    "relevance": "March 1939 occupation, protectorate, Slovak state and earlier territorial losses.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Distinguishes Slovak client state from German-controlled Czech protectorate. Linked and paraphrased.",
+    "reuseRights": "No museum artwork redistributed."
+  },
+  {
+    "id": "map-north-africa",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Labor and Internment Camps in North Africa",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/labor-and-internment-camps-in-north-africa",
+    "type": "Historical contextual reference",
+    "relevance": "French colonial / protectorate administration and Vichy authority in 1941.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "French colonial / protectorate administration and Vichy authority in 1941.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "map-iceland",
+    "institution": "U.S. Department of State",
+    "title": "Iceland · recognition and diplomatic history",
+    "date": null,
+    "url": "https://history.state.gov/countries/iceland",
+    "type": "Historical contextual reference",
+    "relevance": "British entry in 1940 and U.S. protection beginning July 7, 1941; Icelandic sovereignty remains separate.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "British entry in 1940 and U.S. protection beginning July 7, 1941; Icelandic sovereignty remains separate.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "map-channel-islands",
+    "institution": "Jersey Heritage",
+    "title": "Island at War",
+    "date": null,
+    "url": "https://www.jerseyheritage.org/history/island-at-war/",
+    "type": "Historical contextual reference",
+    "relevance": "German occupation of the Channel Islands from June–July 1940.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "German occupation of the Channel Islands from June–July 1940.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "map-british-dependencies",
+    "institution": "Heritage Malta; UK National Archives",
+    "title": "Malta War Papers; colonial administration records",
+    "date": null,
+    "url": "https://heritagemalta.mt/news/the-malta-war-papers-chronicles-of-courage/",
+    "type": "Historical contextual reference",
+    "relevance": "Malta’s fortress-colony status in 1939. For Cyprus: UK National Archives, migrated-archives-guidance.pdf, Crown Colony from 1925. Annual outlines retain dependency identity; no modern Sovereign Base Areas are backdated.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Malta’s fortress-colony status in 1939. For Cyprus: UK National Archives, migrated-archives-guidance.pdf, Crown Colony from 1925. Annual outlines retain dependency identity; no modern Sovereign Base Areas are backdated.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
   }
 ]
