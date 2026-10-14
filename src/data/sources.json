@@ -347,7 +347,7 @@
   {
     "id": "riga-borzecki",
     "institution": "1914–1918 Online, International Encyclopedia of the First World War",
-    "title": "Jerzy Borzęcki, Riga, Treaty of",
+    "title": "Jerzy Borzęcki, “Riga, Treaty of,” 1914–1918 Online (8 October 2014; updated 8 January 2017)",
     "date": "2017-01-08",
     "url": "https://encyclopedia.1914-1918-online.net/wp-content/uploads/2023/01/ams/958793/pdf/1914-1918-Online-riga_treaty_of-2014-10-08.pdf",
     "type": "Article research reference",
@@ -355,7 +355,7 @@
     "supports": [
       "1939-08-23-article"
     ],
-    "notes": "Scholarly account of the March 1921 peace and the frontier it established.",
+    "notes": "Scholarly account of the March 1921 peace and the frontier it established. The publisher’s PDF identifies 8 January 2017 as its update date; this is distinct from the original 2014 publication. Automated downloads may encounter the publisher’s access check.",
     "reuseRights": "Linked for reference; the article paraphrases and attributes the evidence."
   },
   {
@@ -1137,8 +1137,8 @@
   {
     "id": "pz-grodno-1939",
     "institution": "Polska Zbrojna, Military Publishing Institute",
-    "title": "The defence of Grodno, September 1939",
-    "date": null,
+    "title": "Radosław Wiśniewski, “W poszukiwaniu majora Serafina” [In search of Major Serafin]",
+    "date": "2025-09-17",
     "url": "https://www.polska-zbrojna.pl/home/articleshow/44733",
     "type": "Historical document or research",
     "relevance": "Weak garrison, Serafin’s preparations, the 27th Tank Brigade, street fighting and withdrawal.",
@@ -1253,7 +1253,7 @@
     "date": null,
     "url": "https://journals.sagepub.com/doi/10.1177/0022009410392409",
     "type": "Historical document or research",
-    "relevance": "The published abstract explains the study’s comparison of conflicting experiences and memories. DOI: 10.1177/0022009410392409.",
+    "relevance": "The published abstract explains the study’s comparison of conflicting experiences and memories. DOI: 10.1177/0022009410392409. The accessible publisher abstract supports the discussion of divergent experiences and memories; full-text access is restricted, and no unverified page-specific finding is attributed to it.",
     "supports": [
       "1939-09-17"
     ],
@@ -1302,7 +1302,7 @@
     "date": null,
     "url": "https://www.loc.gov/item/map51000141/",
     "type": "Contemporary operational map collection",
-    "relevance": "Candidate reference collection supplied for the eight Phase I map situations. Printed sheet dates, reporting perspective and reproduction permissions remain to be checked.",
+    "relevance": "Printed dates verified on sheets 4, 5, 8, 11, 14, 16, 19 and 22 for the eight existing snapshots.",
     "supports": [
       "1941-06-21",
       "1941-06-22",
@@ -1313,7 +1313,7 @@
       "1941-07-06",
       "1941-07-09"
     ],
-    "notes": "German operational reporting requires critical reading and corroboration. No historical military geometry or map imagery reproduced at this checkpoint.",
+    "notes": "Original scans inspected. German reported positions are generalized as forward operational areas; continued resistance is retained. No source artwork redistributed.",
     "reuseRights": "Research link only; reproduction permission not assumed."
   },
   {
@@ -1855,7 +1855,7 @@
     "date": null,
     "url": "https://api.parliament.uk/historic-hansard/commons/1939/sep/02/germany-and-poland-italian-proposals",
     "type": "Historical article research reference",
-    "relevance": "Contemporary statement distinguishing the Free City’s treaty status and League protection from Poland’s defined rights in Danzig.",
+    "relevance": "Contemporary statement distinguishing the Free City’s treaty status and League protection from Poland’s defined rights in Danzig. Also records Italy’s conference proposal and Britain’s insistence on German withdrawal before participation (2 September 1939).",
     "supports": [
       "1939-10-26-article"
     ],
@@ -2073,6 +2073,216 @@
     "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
   },
   {
+    "id": "europe-vector-1939",
+    "institution": "Goran tek-en, Alphathon, maix and contributors",
+    "title": "Blank map of Europe, March–September 1939",
+    "date": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Blank_map_of_Europe_March_-_September_1939.svg",
+    "type": "Historical vector reference",
+    "relevance": "Adapted regional masks: Central European subdivisions, Danzig and Memel. Registered to EPSG:3035 using six small-territory controls; control-point RMS about 2.8 km is not total border accuracy. UMN coastlines remain the foundation.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Adapted regional masks: Central European subdivisions, Danzig and Memel. Registered to EPSG:3035 using six small-territory controls; control-point RMS about 2.8 km is not total border accuracy. UMN coastlines remain the foundation.",
+    "reuseRights": "CC BY-SA 4.0; attribution, modification notice and share-alike license supplied for derived geometry."
+  },
+  {
+    "id": "europe-vector-1942",
+    "institution": "Alphathon, maix and contributors",
+    "title": "Europe 1942 — selected boundary comparison",
+    "date": null,
+    "url": "https://commons.wikimedia.org/wiki/File:Europe_1942.svg",
+    "type": "Historical vector reference",
+    "relevance": "A later reference only. No 1942 eastern front is backdated; use of a particular administrative outline requires separate evidence that it applied by June 1941.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. A later reference only. No 1942 eastern front is backdated; use of a particular administrative outline requires separate evidence that it applied by June 1941.",
+    "reuseRights": "CC BY-SA 3.0; adaptations distributed under compatible CC BY-SA 4.0, with attribution."
+  },
+  {
+    "id": "map-europe-baseline",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Europe, 1939",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/map/europe-1939",
+    "type": "Historical geography reference",
+    "relevance": "Baseline status and period divisions; reference only, artwork not reproduced.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Baseline status and period divisions; reference only, artwork not reproduced.",
+    "reuseRights": "Linked for verification; no museum imagery redistributed."
+  },
+  {
+    "id": "map-europe-expansion",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German Wartime Expansion",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-wartime-expansion",
+    "type": "Historical reference",
+    "relevance": "Dated occupation in Western Europe and the Balkans; distinguishes German expansion from independent allies.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Dated occupation in Western Europe and the Balkans; distinguishes German expansion from independent allies.",
+    "reuseRights": "Linked and paraphrased; no museum imagery redistributed."
+  },
+  {
+    "id": "map-slovak-campaign",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Slovakia and the partition of Polish territory, 1939",
+    "date": null,
+    "url": "https://www.muzeum1939.pl/aktualnosci/-wojennydzien-udzial-slowacji-w-rozbiorze-polskich-ziem-w-1939-r--11956",
+    "type": "Historical reference",
+    "relevance": "Slovak participation and the 21 November 1939 transfer of Polish border districts. The transfer is not applied to October 26.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Slovak participation and the 21 November 1939 transfer of Polish border districts. The transfer is not applied to October 26.",
+    "reuseRights": "Linked and paraphrased; no museum imagery redistributed."
+  },
+  {
+    "id": "map-natural-earth-physical",
+    "institution": "Natural Earth / Tom Patterson and contributors",
+    "title": "Natural Earth physical geography and shaded relief",
+    "date": null,
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "type": "Physical geographic dataset",
+    "relevance": "Natural lakes, rivers, populated-place coordinates, and Natural Earth II relief. Modern reservoirs excluded. Relief cropped and reprojected to Mercator; city display ranks are not wartime population claims.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Natural lakes, rivers, populated-place coordinates, and Natural Earth II relief. Modern reservoirs excluded. Relief cropped and reprojected to Mercator; city display ranks are not wartime population claims.",
+    "reuseRights": "Public domain. Natural Earth attribution retained; raster cropped, desaturated and compressed."
+  },
+  {
+    "id": "map-axis-alignment",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Axis alliance, 1939–1941",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/map/axis-alliance-1939-1941",
+    "type": "Historical reference",
+    "relevance": "Axis membership is distinguished from occupation and from Finland’s co-belligerency.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. Axis membership is distinguished from occupation and from Finland’s co-belligerency.",
+    "reuseRights": "Linked for verification; no museum imagery redistributed."
+  },
+  {
+    "id": "map-balkans-partition",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Axis Invasion of Yugoslavia",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/axis-invasion-of-yugoslavia",
+    "type": "Historical reference",
+    "relevance": "April 1941 destruction of Yugoslavia and differing occupation authorities and client administrations.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. April 1941 destruction of Yugoslavia and differing occupation authorities and client administrations.",
+    "reuseRights": "Linked and paraphrased; no museum imagery redistributed."
+  },
+  {
+    "id": "map-greece-zones",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Occupation of Greece, 1941",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/map/occupation-of-greece-1941",
+    "type": "Historical map reference",
+    "relevance": "German, Italian and Bulgarian occupation zones; artwork not reproduced.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. German, Italian and Bulgarian occupation zones; artwork not reproduced.",
+    "reuseRights": "Linked for verification; no museum imagery redistributed."
+  },
+  {
+    "id": "map-finland-peace",
+    "institution": "U.S. Department of State, Foreign Relations of the United States",
+    "title": "Steinhardt’s report of the Soviet–Finnish peace treaty, 13 March 1940",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1940v01/d287",
+    "type": "Contemporary diplomatic document",
+    "relevance": "March 12 treaty terms, cessions, Hanko lease and continued Finnish sovereignty over Petsamo. Geographic precision requires the treaty map.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked 14 October 2026. March 12 treaty terms, cessions, Hanko lease and continued Finnish sovereignty over Petsamo. Geographic precision requires the treaty map.",
+    "reuseRights": "Public-domain U.S. government document; linked and paraphrased."
+  },
+  {
+    "id": "map-france-armistice",
+    "institution": "French Ministry of Armed Forces · Chemins de mémoire",
+    "title": "La ligne de démarcation",
+    "date": null,
+    "url": "https://www.cheminsdememoire.gouv.fr/fr/la-ligne-de-demarcation-0",
+    "type": "Historical geographic reference",
+    "relevance": "The armistice line divided occupied and unoccupied France from June 25, 1940. Regional city anchors; local line accuracy is limited.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. The armistice line divided occupied and unoccupied France from June 25, 1940. Regional city anchors; local line accuracy is limited.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-baltic-nonrecognition",
+    "institution": "U.S. Department of State · FRUS",
+    "title": "Welles declaration, July 23, 1940",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1940v01/d412",
+    "type": "Historical geographic reference",
+    "relevance": "Contemporary statement rejecting imposed destruction of Baltic independence; supports distinction between Soviet control and recognized sovereignty.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Contemporary statement rejecting imposed destruction of Baltic independence; supports distinction between Soviet control and recognized sovereignty.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-finland-cobelligerency",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Axis Powers in World War II",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/axis-powers-in-world-war-ii",
+    "type": "Historical geographic reference",
+    "relevance": "Finland fought as a co-belligerent and was not a Tripartite Pact member. June 25–26 entry is distinguished from prior military cooperation.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Finland fought as a co-belligerent and was not a Tripartite Pact member. June 25–26 entry is distinguished from prior military cooperation.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-slovak-operations",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Slovakia’s participation in the 1939 invasion",
+    "date": null,
+    "url": "https://www.muzeum1939.pl/aktualnosci/-wojennydzien-udzial-slowacji-w-rozbiorze-ziem-polskich-w-1939-r--11530",
+    "type": "Historical geographic reference",
+    "relevance": "Army Bernolák under Ferdinand Čatloš; first two divisions’ opening directions and later third-division participation.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Army Bernolák under Ferdinand Čatloš; first two divisions’ opening directions and later third-division participation.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
+    "id": "map-poland-september-17",
+    "institution": "U.S. Army Office of the Chief of Military History · via HyperWar",
+    "title": "The German Campaign in Poland · Part III and map 10",
+    "date": null,
+    "url": "https://www.ibiblio.org/hyperwar/USA/DAP-Poland/Campaign-III.html",
+    "type": "Historical geographic reference",
+    "relevance": "Map 10 explicitly shows the early morning of September 17. Its operational reach and surviving Polish resistance inform a generalized area, not the final partition frontier.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Checked October 14, 2026. Map 10 explicitly shows the early morning of September 17. Its operational reach and surviving Polish resistance inform a generalized area, not the final partition frontier.",
+    "reuseRights": "Linked and paraphrased; no source map artwork redistributed."
+  },
+  {
     "id": "loc-lage-1941-06-21",
     "institution": "German General Staff · Library of Congress collection",
     "title": "Deployment on 1941-06-21 · sheet 4",
@@ -2183,6 +2393,274 @@
     ],
     "notes": "Examined original sheet scan through Wikimedia Commons mirror of LOC map51000141. A regional interpretation supplies approximate areas and operational directions; no daily interpolation. Source perspective and intelligence limitations remain explicit. No map artwork redistributed.",
     "reuseRights": "Research reference only. Adaptation geometry uses the separately licensed historic territorial foundation; copied source artwork is not included."
+  },
+  {
+    "id": "ushmm-czechoslovakia",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Czechoslovakia",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/czechoslovakia",
+    "type": "Historical reference",
+    "relevance": "March 1939 occupation, protectorate, Slovak state and earlier territorial losses.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Distinguishes Slovak client state from German-controlled Czech protectorate. Linked and paraphrased.",
+    "reuseRights": "No museum artwork redistributed."
+  },
+  {
+    "id": "map-north-africa",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Labor and Internment Camps in North Africa",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/labor-and-internment-camps-in-north-africa",
+    "type": "Historical contextual reference",
+    "relevance": "French colonial / protectorate administration and Vichy authority in 1941.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "French colonial / protectorate administration and Vichy authority in 1941.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "map-iceland",
+    "institution": "U.S. Department of State",
+    "title": "Iceland · recognition and diplomatic history",
+    "date": null,
+    "url": "https://history.state.gov/countries/iceland",
+    "type": "Historical contextual reference",
+    "relevance": "British entry in 1940 and U.S. protection beginning July 7, 1941; Icelandic sovereignty remains separate.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "British entry in 1940 and U.S. protection beginning July 7, 1941; Icelandic sovereignty remains separate.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "map-channel-islands",
+    "institution": "Jersey Heritage",
+    "title": "Island at War",
+    "date": null,
+    "url": "https://www.jerseyheritage.org/history/island-at-war/",
+    "type": "Historical contextual reference",
+    "relevance": "German occupation of the Channel Islands from June–July 1940.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "German occupation of the Channel Islands from June–July 1940.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "map-british-dependencies",
+    "institution": "Heritage Malta; UK National Archives",
+    "title": "Malta War Papers; colonial administration records",
+    "date": null,
+    "url": "https://heritagemalta.mt/news/the-malta-war-papers-chronicles-of-courage/",
+    "type": "Historical contextual reference",
+    "relevance": "Malta’s fortress-colony status in 1939. For Cyprus: UK National Archives, migrated-archives-guidance.pdf, Crown Colony from 1925. Annual outlines retain dependency identity; no modern Sovereign Base Areas are backdated.",
+    "supports": [
+      "shared-europe-geography"
+    ],
+    "notes": "Malta’s fortress-colony status in 1939. For Cyprus: UK National Archives, migrated-archives-guidance.pdf, Crown Colony from 1925. Annual outlines retain dependency identity; no modern Sovereign Base Areas are backdated.",
+    "reuseRights": "Linked and paraphrased; no original artwork reproduced."
+  },
+  {
+    "id": "studies-british-alliance",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "Agreement of Mutual Assistance between the United Kingdom and Poland, 25 August 1939; British War Blue Book, no. 19",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/wwii/blbk19.asp",
+    "type": "Historical study research reference",
+    "relevance": "Public treaty, especially articles 1–3. Its broad public wording must be read separately from the confidential protocol identifying Germany.",
+    "notes": "Public treaty, especially articles 1–3. Its broad public wording must be read separately from the confidential protocol identifying Germany.",
+    "supports": [
+      "molotov-ribbentrop-pact-1939-08-23"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-moscicki",
+    "institution": "Yale Law School, Avalon Project",
+    "title": "President Ignacy Mościcki to President Franklin D. Roosevelt, 25 August 1939; British War Blue Book, no. 126",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/wwii/blbk126.asp",
+    "type": "Historical study research reference",
+    "relevance": "Poland’s official response to the American peace appeal. Evidence of the position its president communicated, rather than an independent account of every negotiation.",
+    "notes": "Poland’s official response to the American peace appeal. Evidence of the position its president communicated, rather than an independent account of every negotiation.",
+    "supports": [
+      "molotov-ribbentrop-pact-1939-08-23"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-imt-poland",
+    "institution": "International Military Tribunal; Yale Law School, Avalon Project",
+    "title": "Judgment: The Aggression against Poland, 30 September–1 October 1946",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/imt/judpolan.asp",
+    "type": "Historical study research reference",
+    "relevance": "Retrospective judicial reconstruction using captured German records: the postponement of the planned 26 August attack, Britain’s commitment, Italy’s position and Daladier’s appeal.",
+    "notes": "Retrospective judicial reconstruction using captured German records: the postponement of the planned 26 August attack, Britain’s commitment, Italy’s position and Daladier’s appeal.",
+    "supports": [
+      "molotov-ribbentrop-pact-1939-08-23"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-roberts",
+    "institution": "History News Network",
+    "title": "Geoffrey Roberts, “Interviewed about Joseph Stalin, Warlord” (2007), discussion of Stalin’s Wars",
+    "date": null,
+    "url": "https://www.historynewsnetwork.org/article/geoffrey-roberts-interviewed-about-joseph-stalin-w",
+    "type": "Historical study research reference",
+    "relevance": "Roberts explains his revised interpretation of Stalin’s expectations of a longer relationship with Germany. Cited as evidence of the historian’s interpretation, not as a contemporary record of Stalin’s intentions.",
+    "notes": "Roberts explains his revised interpretation of Stalin’s expectations of a longer relationship with Germany. Cited as evidence of the historian’s interpretation, not as a contemporary record of Stalin’s intentions.",
+    "supports": [
+      "molotov-ribbentrop-pact-1939-08-23"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-bzura",
+    "institution": "Polish Army Museum",
+    "title": "“Początek bitwy nad Bzurą” [The beginning of the Battle of the Bzura], historical timeline entry for 9 September 1939",
+    "date": null,
+    "url": "https://muzeumwp.pl/timeline/poczatek-bitwy-nad-bzura/",
+    "type": "Historical study research reference",
+    "relevance": "Kutrzeba’s attack on the German Eighth Army, reinforcement by Army Pomorze, renewed attacks, German concentration and Polish attempts to reach Kampinos, Warsaw and Modlin. Disputed casualty totals are not adopted.",
+    "notes": "Kutrzeba’s attack on the German Eighth Army, reinforcement by Army Pomorze, renewed attacks, German concentration and Polish attempts to reach Kampinos, Warsaw and Modlin. Disputed casualty totals are not adopted.",
+    "supports": [
+      "german-invasion-poland-1939-09-01"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-war-announcement",
+    "institution": "UK Parliament, Historic Hansard",
+    "title": "Neville Chamberlain, “Prime Minister’s Announcement,” House of Commons, 3 September 1939, vol. 351, cols. 291–302",
+    "date": null,
+    "url": "https://api.parliament.uk/historic-hansard/commons/1939/sep/03/prime-ministers-announcement",
+    "type": "Historical study research reference",
+    "relevance": "Contemporary announcement of the expiry of Britain’s ultimatum at 11 a.m. and the state of war with Germany.",
+    "notes": "Contemporary announcement of the expiry of Britain’s ultimatum at 11 a.m. and the state of war with Germany.",
+    "supports": [
+      "german-invasion-poland-1939-09-01"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-us-neutrality",
+    "institution": "US Department of State, Office of the Historian",
+    "title": "President Franklin D. Roosevelt, neutrality proclamation, 5 September 1939; Foreign Relations of the United States, 1939, vol. I, document 729",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d729",
+    "type": "Historical study research reference",
+    "relevance": "American non-belligerency and duties of neutrality, distinguished from public opinion, diplomatic recognition and later legislative changes.",
+    "notes": "American non-belligerency and duties of neutrality, distinguished from public opinion, diplomatic recognition and later legislative changes.",
+    "supports": [
+      "german-invasion-poland-1939-09-01",
+      "soviet-invasion-poland-1939-09-17"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-roosevelt-embargo",
+    "institution": "The American Presidency Project, University of California, Santa Barbara",
+    "title": "Franklin D. Roosevelt, “Message to Congress Urging Repeal of the Embargo Provisions of the Neutrality Law,” 21 September 1939",
+    "date": null,
+    "url": "https://www.presidency.ucsb.edu/documents/message-congress-urging-repeal-the-embargo-provisions-the-neutrality-law",
+    "type": "Historical study research reference",
+    "relevance": "Presidential proposal for legislation, not a law already enacted on 21 September or a declaration of American belligerency.",
+    "notes": "Presidential proposal for legislation, not a law already enacted on 21 September or a declaration of American belligerency.",
+    "supports": [
+      "german-invasion-poland-1939-09-01"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-hungary",
+    "institution": "Institute of National Remembrance, Poland",
+    "title": "“Hungarians towards the German aggression on Poland,” 11 March 2021",
+    "date": null,
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7396,Hungarians-towards-the-German-aggression-on-Poland.html",
+    "type": "Historical study research reference",
+    "relevance": "Hungary’s refusal to participate in the attack or permit the requested German transit, and assistance to Polish refugees and onward military evacuation. Its sympathetic commemorative framing is distinguished from the specific actions documented.",
+    "notes": "Hungary’s refusal to participate in the attack or permit the requested German transit, and assistance to Polish refugees and onward military evacuation. Its sympathetic commemorative framing is distinguished from the specific actions documented.",
+    "supports": [
+      "german-invasion-poland-1939-09-01",
+      "soviet-invasion-poland-1939-09-17"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-romania",
+    "institution": "US Department of State, Office of the Historian",
+    "title": "Anthony J. Drexel Biddle, report transmitted by Franklin Mott Gunther to the Secretary of State, 20 September 1939; Foreign Relations of the United States, 1939, vol. II, document 630, pp. 678–679",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1939v02/d630",
+    "type": "Historical study research reference",
+    "relevance": "Contemporary report of restrictions on the interned Polish leadership, German pressure and plans for a constitutionally valid successor government in France. Diplomatic reporting, not a full account of Romanian motives.",
+    "notes": "Contemporary report of restrictions on the interned Polish leadership, German pressure and plans for a constitutionally valid successor government in France. Diplomatic reporting, not a full account of Romanian motives.",
+    "supports": [
+      "soviet-invasion-poland-1939-09-17"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-donaldson",
+    "institution": "American Journal of International Law; University College London repository",
+    "title": "Megan Donaldson, “The Survival of the Secret Treaty: Publicity, Secrecy, and Legality in the International Order,” American Journal of International Law 111, no. 3 (2017): 575–627, at 601 n. 149",
+    "date": null,
+    "url": "https://discovery.ucl.ac.uk/10081527/1/Donaldson_VoR_survival_of_the_secret_treaty_publicity_secrecy_and_legality_in_the_international_order.pdf#page=27",
+    "type": "Historical study research reference",
+    "relevance": "Peer-reviewed discussion of the Anglo-Polish agreement’s secret protocol, its identification of Germany, and publication only in 1945. This is the British agreement; it is not treated as the text of a French obligation.",
+    "notes": "Peer-reviewed discussion of the Anglo-Polish agreement’s secret protocol, its identification of Germany, and publication only in 1945. This is the British agreement; it is not treated as the text of a French obligation.",
+    "supports": [
+      "soviet-invasion-poland-1939-09-17"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-slovakia",
+    "institution": "Institute of National Remembrance, Poland",
+    "title": "“Trzeci najeźdźca we wrześniu 1939 roku” [The third invader in September 1939], 20 November 2023",
+    "date": null,
+    "url": "https://ipn.gov.pl/pl/dla-mediow/komunikaty/194125,Trzeci-najezdzca-we-wrzesniu-1939-roku.html",
+    "type": "Historical study research reference",
+    "relevance": "Slovak participation in the invasion and the separate German–Slovak territorial agreement of 21 November. The later formal transfer is not backdated to the October German administrative settlement.",
+    "notes": "Slovak participation in the invasion and the separate German–Slovak territorial agreement of 21 November. The later formal transfer is not backdated to the October German administrative settlement.",
+    "supports": [
+      "german-occupation-administration-1939-10-26"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-heydrich",
+    "institution": "Yad Vashem",
+    "title": "Reinhard Heydrich, “Instructions on Policy and Operations Concerning Jews in the Occupied Territories,” 21 September 1939, sections I–III; PS-3363; Documents on the Holocaust (Jerusalem: Yad Vashem, 1981), document 73",
+    "date": null,
+    "url": "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%201984.pdf",
+    "type": "Historical study research reference",
+    "relevance": "Primary directive on population concentration, councils, censuses, transport and economic exceptions (PDF pp. 1–3). It does not itself establish a uniform system of sealed ghettos or specify the later extermination programme.",
+    "notes": "Primary directive on population concentration, councils, censuses, transport and economic exceptions (PDF pp. 1–3). It does not itself establish a uniform system of sealed ghettos or specify the later extermination programme.",
+    "supports": [
+      "german-occupation-administration-1939-10-26"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
+  },
+  {
+    "id": "studies-ghettos",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "“Ghettos,” Holocaust Encyclopedia, section on the establishment of ghettos in occupied Poland",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/ghettos",
+    "type": "Historical study research reference",
+    "relevance": "Piotrków Trybunalski in October 1939 as the first ghetto established in occupied Poland. Local timing and forms varied; later ghetto arrangements are not projected backwards onto every town in October 1939.",
+    "notes": "Piotrków Trybunalski in October 1939 as the first ghetto established in occupied Poland. Local timing and forms varied; later ghetto arrangements are not projected backwards onto every town in October 1939.",
+    "supports": [
+      "german-occupation-administration-1939-10-26"
+    ],
+    "reuseRights": "Linked and paraphrased with attribution; no third-party artwork reproduced."
   },
   {
     "id": "cmh-opening",
@@ -3061,5 +3539,43 @@
     ],
     "notes": "Primary Soviet military document in the General Staff collection, Voenizdat 1957. Checked Wikisource transcription of the published document, not a Wikipedia account. Orders establish intended action; reports contain contemporary estimates and omissions. Original archival identifiers are reproduced with the text.",
     "reuseRights": "Linked and cited; no reproduction licence for third-party editorial material is assumed."
+  },
+  {
+    "id": "glantz-barbarossa-derailed-v1",
+    "institution": "David M. Glantz · Helion",
+    "title": "Barbarossa Derailed, Volume 1: The German Advance to Smolensk, the Encirclement Battle, and the First and Second Soviet Counteroffensives, 10 July–24 August 1941",
+    "date": "2010",
+    "url": "https://books.google.com/books/about/Barbarossa_Derailed_The_German_advance_t.html?id=SDfInc6Gb40C",
+    "type": "Scholarly monograph · catalogue reference",
+    "relevance": "Starting bibliography for the Smolensk campaign, Soviet counteroffensives and central-front operations.",
+    "supports": [
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "notes": "Catalogue and publisher description checked 14 October 2026. Specific pages and underlying archival records still require examination before mapping formations or writing the full studies.",
+    "reuseRights": "Bibliographic link only; no reproduction of copyrighted text or maps.",
+    "verificationStatus": "catalogue-verified; detailed reading pending"
+  },
+  {
+    "id": "dhm-uman-1941",
+    "institution": "Arnulf Scriba · Deutsches Historisches Museum",
+    "title": "Die Schlacht bei Uman 1941",
+    "date": "2015-05-19",
+    "url": "https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/schlacht-bei-uman-1941",
+    "type": "Museum historical account",
+    "relevance": "Starting chronology for the Uman encirclement; its fighting continued beyond the atlas snapshot of 6 August.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Museum page checked 14 October 2026. Its aggregate formation and prisoner totals need comparison with operational records before use; no daily position geometry inferred.",
+    "reuseRights": "Page text labelled CC BY-NC-SA 4.0; linked here, with no text or imagery reproduced.",
+    "verificationStatus": "page-checked; map reconstruction pending"
   }
 ]
