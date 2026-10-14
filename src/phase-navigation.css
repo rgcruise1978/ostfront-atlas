@@ -1,0 +1,16 @@
+.atlas-menu-campaign { border-top: 1px solid #cbd1cc; }
+.atlas-menu-campaign > p { padding: 12px 16px 0; margin: 0; font-weight: 700; }
+.atlas-menu-campaign > a { padding-left: 28px; }
+.phase-navigation { display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0; }
+.phase-navigation a { border-bottom: 2px solid transparent; padding: 8px 0; }
+.phase-navigation a[aria-current="page"] { border-color: #9b603e; font-weight: 700; }
+.phase-selector select { max-width: min(100%, 430px); }
+.phase-date-details > summary { cursor: pointer; padding: 12px 0; font-weight: 700; }
+.research-chronology { border-left: 3px solid #9b603e; padding: 10px 16px; margin: 20px 0; }
+.research-chronology p { margin-bottom: 0; }
+@media (max-width: 750px) {
+  .campaign-switch { flex-wrap: wrap; }
+  .campaign-switch label, .phase-selector { min-width: 0; width: 100%; }
+  .campaign-switch select { width: 100%; max-width: 100%; }
+  .atlas-menu-campaign > a { padding-left: 22px; }
+}

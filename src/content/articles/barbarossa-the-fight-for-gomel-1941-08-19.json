@@ -1,0 +1,44 @@
+{
+  "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+  "title": "The Fight for Gomel",
+  "subtitle": "A river city and the central army group’s southern flank",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-08-19",
+  "historicalPeriod": "19 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: German and Soviet operations around Gomel, Sozh crossings and simultaneous fighting near Novgorod.",
+  "body": "",
+  "location": "Gomel, the Sozh and the northern front",
+  "outlineTopics": [
+    "German operations against Soviet positions around Gomel.",
+    "German 2nd Army and the relevant formations involved in the fighting.",
+    "Soviet 21st Army and the defensive situation.",
+    "The operational importance of the Sozh River.",
+    "German attempts to defeat Soviet formations threatening Army Group Center's southern flank.",
+    "Soviet withdrawal and resistance.",
+    "Fighting within and around Gomel.",
+    "The relationship between these operations and the developing German plans against Soviet forces defending Ukraine.",
+    "German advances around Novgorod.",
+    "Army Group North's continued effort to approach Leningrad.",
+    "Soviet resistance near the approaches to Lake Ilmen and the Volkhov.",
+    "Continuing Soviet military operations around Smolensk."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-the-war-widens-1941-08-12",
+  "chronologyNotes": [
+    "Distinguish the attack on the city from subsequent capture and clearance; verify the daily sequence against contemporary records."
+  ],
+  "nextArticleSlug": "barbarossa-the-decision-to-turn-south-1941-08-21"
+}

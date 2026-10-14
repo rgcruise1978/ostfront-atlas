@@ -1,0 +1,44 @@
+{
+  "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+  "title": "A Strategy Under Strain",
+  "subtitle": "Operational exhaustion and competing strategic objectives",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-07-30",
+  "historicalPeriod": "30 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: Directive No. 34, German supply and repair problems, Soviet reserves and continuing fighting across all three sectors.",
+  "body": "",
+  "location": "The Eastern Front",
+  "outlineTopics": [
+    "The condition of Army Group Center after weeks of heavy fighting.",
+    "Continuing Soviet resistance around Smolensk.",
+    "Increasing German supply and transportation problems.",
+    "Armored vehicle attrition and maintenance difficulties.",
+    "The growing distance between armored spearheads and their supporting formations.",
+    "Soviet mobilization and the continued arrival of new forces.",
+    "Hitler's Directive No. 34, issued July 30.",
+    "The postponement of further major objectives for Army Group Center and the need to rehabilitate its panzer formations.",
+    "The differing operational priorities of the German high command.",
+    "Army Group North's difficulties on the Leningrad approaches.",
+    "The developing encirclement battle around Uman.",
+    "Why Germany's rapid advances had not resulted in the anticipated destruction of Soviet resistance."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+  "chronologyNotes": [
+    "Directive No. 34 is a command decision, not an immediate territorial change or a halt across the entire Eastern Front."
+  ],
+  "nextArticleSlug": "barbarossa-the-uman-encirclement-1941-08-06"
+}

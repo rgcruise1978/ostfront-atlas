@@ -1,0 +1,44 @@
+{
+  "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+  "title": "The Decision to Turn South",
+  "subtitle": "A command decision before its military consequences",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-08-21",
+  "historicalPeriod": "21 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: The German decision to redirect effort toward Ukraine, Guderian’s forces and the continuing Soviet defence of Kiev.",
+  "body": "",
+  "location": "The central and southern sectors",
+  "outlineTopics": [
+    "The German operational situation in late August.",
+    "Continuing Soviet resistance and the condition of Army Group Center.",
+    "The competing German priorities of Moscow, Leningrad, and Ukraine.",
+    "Hitler's August 21 instructions rejecting the proposed immediate concentration on Moscow.",
+    "The strategic importance attached to Crimea, the Donbas, and Soviet oil supplies.",
+    "The desire to eliminate Soviet forces threatening Army Group South's northern flank.",
+    "The developing plan to use forces associated with Army Group Center in operations toward Ukraine.",
+    "The military implications for Guderian's 2nd Panzer Group.",
+    "The continued Soviet defense of Kiev and the surrounding region.",
+    "German operational coordination between the central and southern sectors.",
+    "The implications for the Moscow direction.",
+    "Soviet command decisions and attempts to preserve the Southwestern Front."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-the-fight-for-gomel-1941-08-19",
+  "chronologyNotes": [
+    "The command decision precedes the later Kiev encirclement. Intended movements must be distinguished from executed advances."
+  ],
+  "nextArticleSlug": "barbarossa-a-front-divided-1941-08-25"
+}

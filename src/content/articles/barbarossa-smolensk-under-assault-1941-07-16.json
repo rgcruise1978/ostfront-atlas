@@ -1,0 +1,42 @@
+{
+  "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+  "title": "Smolensk Under Assault",
+  "subtitle": "The struggle for the city and Soviet resistance beyond it",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-07-16",
+  "historicalPeriod": "16 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: The German entry into Smolensk, continuing Soviet positions and the northern counterstroke at Soltsy.",
+  "body": "",
+  "location": "Smolensk and Soltsy",
+  "outlineTopics": [
+    "The German advance into Smolensk.",
+    "Fighting within and around the city.",
+    "The roles of German 2nd and 3rd Panzer Groups.",
+    "Soviet formations defending the city and surrounding region.",
+    "The distinction between German entry into the city and the continued fighting in surrounding Soviet positions.",
+    "The developing Smolensk encirclement.",
+    "Soviet attempts to maintain communications and escape routes.",
+    "German difficulties maintaining the momentum of the armored advance.",
+    "The Soviet counterattack around Soltsy, beginning July 14.",
+    "Soviet resistance against Army Group North and its significance for the approach toward Leningrad."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-beyond-the-dnieper-1941-07-10",
+  "chronologyNotes": [
+    "German entry into Smolensk does not establish the destruction or surrender of all surrounding Soviet forces."
+  ],
+  "nextArticleSlug": "barbarossa-the-red-army-strikes-back-1941-07-23"
+}

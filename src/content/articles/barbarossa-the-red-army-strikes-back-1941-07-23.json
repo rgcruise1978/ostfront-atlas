@@ -1,0 +1,43 @@
+{
+  "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+  "title": "The Red Army Strikes Back",
+  "subtitle": "Soviet counteroffensives and the limits of German momentum",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-07-23",
+  "historicalPeriod": "23 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: Soviet counteroffensives, relief attempts, Mogilev’s resistance and the developing Yelnya salient.",
+  "body": "",
+  "location": "Smolensk, Yelnya and Mogilev",
+  "outlineTopics": [
+    "The situation around Smolensk after the German initial breakthrough.",
+    "Soviet attempts to counterattack German armored and infantry formations.",
+    "The commitment of reserve formations.",
+    "Soviet operational coordination and command difficulties.",
+    "The beginning of the July 23–31 phase of Soviet counterattacks around Smolensk.",
+    "Fighting around Yelnya and surrounding areas.",
+    "Soviet efforts to relieve encircled formations.",
+    "German defensive responses.",
+    "The continuing Soviet resistance around Mogilev.",
+    "The simultaneous development of the Uman campaign in Ukraine.",
+    "German command assessments of Soviet military resilience."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-smolensk-under-assault-1941-07-16",
+  "chronologyNotes": [
+    "Keep Soviet attack orders distinct from movements achieved; Mogilev and Yelnya fighting must retain their actual date ranges."
+  ],
+  "nextArticleSlug": "barbarossa-a-strategy-under-strain-1941-07-30"
+}

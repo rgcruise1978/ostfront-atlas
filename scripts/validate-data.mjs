@@ -31,6 +31,8 @@ for (const file of fs.readdirSync('src/content/articles')) {
   assert(!articles.has(article.slug), `Duplicate article slug ${article.slug}`);
   if (article.status === 'placeholder' || article.status === 'research-brief') {
     assert(article.historicalDate && !article.publicationDate, `${file} needs a historical date and no publication date`);
+  } else if (article.status === 'ready-for-review') {
+    assert(article.preparedDate && article.author && article.body && !article.publicationDate, `${file} needs complete unpublished review content`);
   } else {
     assert(article.publicationDate && article.author && article.body, `${file} lacks published article content`);
   }
@@ -160,7 +162,7 @@ for (const event of barbarossa) {
   const article = articles.get(event.articleSlug);
   assert(article && article.historicalDate === event.date && article.campaignId === 'barbarossa-1941', 'Broken campaign/date/article connection');
   assert(article.status === 'published' && article.publicationDate && article.body && article.sections.length >= 7 && article.sections.length <= 10, 'Expected a complete published Barbarossa study');
-  assert(event.snapshotStatus === 'research-pending' && event.geographicFeatureIds.length === 0, 'An unverified military situation must not be claimed');
+  assert(event.snapshotStatus === 'source-qualified-operational-reference' && event.geographicFeatureIds.length > 0, 'Dated operational reference is missing');
   for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Barbarossa source');
 }
 const openingControl = read('public/data/history/barbarossa-1941-opening-control.geojson');
@@ -186,9 +188,30 @@ assert(openingControl.features.some(feature=>feature.properties.id === 'barbaros
 for (const name of ['Brest-Litovsk','Vilnius','Leningrad','Helsinki']) assert(openingPlaces.features.some(feature=>feature.properties.name===name), `Missing 1941 place ${name}`);
 for (const article of articles.values()) assert(article.author === 'R.G. Cruise', 'Original atlas author credit is inconsistent');
 const capitals = read('src/data/capitals.json');
-assert(capitals.map(c=>c.id).sort().join(',') === 'berlin,moscow,warsaw', 'Missing primary capital');
+assert(['berlin','moscow','warsaw','bratislava'].every(id=>capitals.some(c=>c.id===id)), 'Missing primary capital');
 for (const capital of capitals) {
   assert(capital.coordinates.length === 2 && capital.coordinates.every(Number.isFinite), 'Invalid capital coordinate');
   for (const id of capital.sourceIds) assert(sourceIds.has(id), 'Unknown capital source');
 }
-console.log('Validated eight published Barbarossa studies and three capital records.');
+console.log('Validated eight complete published Barbarossa studies, dated map references and expanded capital records.');
+
+const phaseTwo = read('src/data/barbarossa-phase-ii-timeline.json');
+const phaseTwoDates = ['1941-07-10','1941-07-16','1941-07-23','1941-07-30','1941-08-06','1941-08-12','1941-08-19','1941-08-21','1941-08-25'];
+assert(JSON.stringify(phaseTwo.map(event=>event.date)) === JSON.stringify(phaseTwoDates), 'Phase II dates differ from the fixed brief');
+const wholeCampaign = [...barbarossa, ...phaseTwo];
+assert(new Set(wholeCampaign.map(event=>event.id)).size === 17, 'Barbarossa dates must remain unique');
+const phaseOneLast = articles.get(barbarossa.at(-1).articleSlug);
+assert(phaseOneLast.nextArticleSlug === phaseTwo[0].articleSlug, 'Missing July 9 to July 10 study transition');
+const militaryLayers = [read('public/data/history/military-control.geojson'), read('public/data/history/military-operations.geojson')];
+for (const [index,event] of phaseTwo.entries()) {
+  const article = articles.get(event.articleSlug);
+  assert(article && article.historicalDate === event.date && article.phaseId === '2' && article.campaignId === 'barbarossa-1941', 'Broken Phase II article identity');
+  assert(article.status === 'research-brief' && !article.publicationDate && article.body === '' && article.outlineTopics.length >= 10, 'Phase II outline must remain unpublished');
+  assert(article.previousArticleSlug === wholeCampaign[7+index].articleSlug, 'Broken previous-study chronology');
+  assert(article.nextArticleSlug === phaseTwo[index+1]?.articleSlug, 'Broken next-study chronology');
+  assert(event.snapshotStatus === 'military-research-pending' && event.geographicFeatureIds.length === 0, 'Unresearched military snapshot presented as completed');
+  for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Phase II reference');
+  for (const layer of militaryLayers) assert(!layer.features.some(({properties:p}) => p.snapshots ? p.snapshots.includes(event.date) : (!p.startDate || p.startDate <= event.date) && (!p.endDate || p.endDate >= event.date)), 'Phase I military features leak into an unresearched Phase II date');
+}
+assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id && c.endDate >= '1941-08-25')), 'Primary capital markers expire before the end of Phase II');
+console.log('Validated nine unpublished Phase II briefs, continuous study links, extended capitals and no inherited military positions.');

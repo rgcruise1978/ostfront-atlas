@@ -1,0 +1,42 @@
+{
+  "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+  "title": "Beyond the Dnieper",
+  "subtitle": "The crossing battles and the opening of the Smolensk campaign",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-07-10",
+  "historicalPeriod": "10 July 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1"
+  ],
+  "summary": "Planned study: German river crossings, the two panzer groups and the Soviet Western Front’s developing defence.",
+  "body": "",
+  "location": "Smolensk and the central front",
+  "outlineTopics": [
+    "The military situation inherited from July 9.",
+    "Army Group Center's objectives beyond Minsk.",
+    "The German crossings and advances across the Dnieper and Western Dvina.",
+    "The operations of 2nd and 3rd Panzer Groups.",
+    "Soviet Western Front and the organization of new defensive forces.",
+    "Marshal Semyon Timoshenko's command responsibilities.",
+    "The importance of Smolensk as a communications and transportation center.",
+    "Soviet counterattacks and defensive preparations.",
+    "The developing operational difficulties confronting German forces.",
+    "Simultaneous fighting in the north near the Luga defensive positions and continuing operations in Ukraine."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-eighteen-days-of-war-1941-07-09",
+  "chronologyNotes": [
+    "Smolensk’s wider fighting continued beyond this phase’s endpoint."
+  ],
+  "nextArticleSlug": "barbarossa-smolensk-under-assault-1941-07-16"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+  "title": "The Uman Encirclement",
+  "subtitle": "The southern campaign and the armies inside the pocket",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "2",
+  "phase": "II — The Drive into the Soviet Interior",
+  "historicalDate": "1941-08-06",
+  "historicalPeriod": "6 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "loc-barbarossa-atlas",
+    "glantz-barbarossa-derailed-v1",
+    "dhm-uman-1941"
+  ],
+  "summary": "Planned study: The Uman pocket, Soviet breakout attempts, participating German and Soviet formations and prisoners of war.",
+  "body": "",
+  "location": "Central Ukraine and the Uman region",
+  "outlineTopics": [
+    "Army Group South's operational objectives.",
+    "Field Marshal Gerd von Rundstedt's command.",
+    "The role of 1st Panzer Group.",
+    "German 17th Army and other participating formations.",
+    "The Soviet Southwestern and Southern Fronts.",
+    "Soviet 6th and 12th Armies.",
+    "The developing encirclement around Uman during July.",
+    "The closing of the pocket in early August.",
+    "Soviet breakout attempts and continued fighting.",
+    "The operational consequences of the encirclement.",
+    "Prisoner-of-war treatment and the fate of captured soldiers.",
+    "German movement toward the Dnieper and deeper into Ukraine.",
+    "Simultaneous Soviet operations around Smolensk.",
+    "The different operational conditions facing Army Groups Center and South."
+  ],
+  "researchStatus": "Editorial outline established; full narrative, document locators and the dated military situation require research.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
+  "previousArticleSlug": "barbarossa-a-strategy-under-strain-1941-07-30",
+  "chronologyNotes": [
+    "The fighting continued beyond 6 August; do not present the battle as completed on this snapshot."
+  ],
+  "nextArticleSlug": "barbarossa-the-war-widens-1941-08-12"
+}
