@@ -1,0 +1,50 @@
+{
+  "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+  "title": "The Drive on Moscow",
+  "subtitle": "The principal opening of Operation Typhoon.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-10-02",
+  "historicalPeriod": "2 October 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "Army Group Center begins its main offensive toward Moscow, seeking to encircle the Western, Reserve and Bryansk Fronts.",
+  "body": "",
+  "location": "Western approaches to Moscow",
+  "outlineTopics": [
+    "German strategic objectives for the Moscow offensive.",
+    "Hitler's expectations and German command assessments.",
+    "Army Group Center's operational organization.",
+    "The roles of the German field armies and panzer groups.",
+    "The planned double encirclement of major Soviet forces.",
+    "Soviet Western Front.",
+    "Soviet Reserve Front.",
+    "Soviet Bryansk Front.",
+    "Soviet command structures and defensive preparations.",
+    "The beginning of the main German assault on October 2.",
+    "German breakthroughs and the role of mechanized formations.",
+    "Luftwaffe operations.",
+    "The importance of Vyazma and Bryansk.",
+    "The railway and road networks leading toward Moscow.",
+    "The initial Soviet military response.",
+    "German operational strengths and developing logistical weaknesses.",
+    "Why capturing Moscow was considered strategically and politically significant.",
+    "Simultaneous fighting near Leningrad and in Ukraine."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=107",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-the-offensive-begins-1941-09-30",
+  "chronologyNotes": [
+    "The intended Vyazma–Bryansk encirclements were plans on 2 October, not completed results."
+  ],
+  "nextArticleSlug": "barbarossa-armies-in-the-trap-1941-10-07"
+}

@@ -5973,5 +5973,43 @@
     ],
     "notes": "Supports the equivalence of geographic names, not wartime control or precise historical shoreline geometry. Physical geometry remains Natural Earth.",
     "reuseRights": "Linked reference; no source map or artwork reproduced."
+  },
+  {
+    "id": "p4-loc-atlas",
+    "institution": "German Army General Staff · Library of Congress Geography and Map Division",
+    "title": "Der Feldzug gegen Sowjet-Russland: Band I, operational situation maps, June–December 1941",
+    "date": "1942?",
+    "url": "https://www.loc.gov/item/map51000141/",
+    "type": "Contemporary German operational map atlas, compiled after the mapped events",
+    "relevance": "Research catalogue for Phase IV situation sheets. Individual proposed plate dates and content require inspection before any dated front or movement is reconstructed. German reporting does not establish all Soviet positions or secure occupation.",
+    "supports": [
+      "1941-09-30",
+      "1941-10-02",
+      "1941-10-07",
+      "1941-10-13",
+      "1941-10-16",
+      "1941-10-19",
+      "1941-10-24",
+      "1941-11-02",
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "The Library of Congress catalogue and its 30 September sheet title were checked. Proposed sheet numbers in the brief remain candidate references until independently inspected. The 14 November entry has no matching 14 November plate in the supplied sequence; the 12 November sheet is background only.",
+    "reuseRights": "Linked research reference only; no artwork reproduced or rights beyond the catalogue assumed."
+  },
+  {
+    "id": "p4-ushmm-odessa",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Odessa",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/odessa",
+    "type": "Scholarly historical encyclopedia",
+    "relevance": "Documents Romanian control of Odessa from 16 October, subsequent persecution, the 22–26 October massacres, and the distinct role of a German security detachment.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-24"
+    ],
+    "notes": "Page checked for the October 16 occupation date and the later dates of mass killing; these events must not be compressed into the occupation day.",
+    "reuseRights": "Linked and paraphrased; no media reproduced."
   }
 ]

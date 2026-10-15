@@ -20,14 +20,14 @@ export function territorialState(date,geometries) {
 }
 const easternReferenceIds=['soviet-union','soviet-poland-1941','soviet-estonia','finnish-cessions'];
 export function easternPoliticalReference(date,geometries) {
-  if(date<'1941-08-26'||date>'1941-09-29')return emptyCollection;
+  if(date<'1941-08-26'||date>'1941-11-14')return emptyCollection;
   const byId=new Map(geometries.features.map(f=>[f.properties.id,f.geometry]));
   return {type:'FeatureCollection',features:easternReferenceIds.map(id=>states.find(record=>record.id===id)).filter(Boolean).map(record=>({
     type:'Feature',geometry:byId.get(record.geometryRef),properties:{
       id:`preinvasion-${record.id}`,name:`${record.name} · preinvasion reference`,countryName:['soviet-union','soviet-estonia'].includes(record.id)?record.countryName:`${record.countryName} · PREINVASION REFERENCE`,subtitle:'Preinvasion reference',
       title:`${record.name} · preinvasion political reference`,referenceOnly:true,referencePeriod:record.id==='soviet-union'?'1939 annual territorial outline':'Territorial situation before 22 June 1941',
       sourceIds:[...new Set([...record.sourceIds,'europe-vector-1939'])],accuracy:record.accuracy,uncertainty:record.uncertainty,
-      note:'This faint hatched area identifies preinvasion political geography. It does not claim Soviet military control on the selected Phase III date.',
+      note:'This faint hatched area identifies preinvasion political geography. It does not claim Soviet military control on the selected map date.',
       color:'#E6D1CD',pattern:'reference-hatch',labelCoordinates:record.id==='soviet-union'?[38,54]:record.labelCoordinates,labelAnchors:record.id==='soviet-union'?[[38,54],...(record.labelAnchors||[])]:record.labelAnchors
     }
   })).filter(feature=>feature.geometry)};

@@ -1,0 +1,48 @@
+{
+  "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+  "title": "Armies in the Trap",
+  "subtitle": "The Vyazma–Bryansk encirclement operations.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-10-07",
+  "historicalPeriod": "7 October 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "The Vyazma and Bryansk encirclements develop while Soviet units resist, withdraw and attempt to escape.",
+  "body": "",
+  "location": "Vyazma and Bryansk",
+  "outlineTopics": [
+    "German advances since October 2.",
+    "The operational movements of 3rd and 4th Panzer Groups.",
+    "German 2nd Panzer Group operations around Orel and Bryansk.",
+    "Soviet Western Front formations.",
+    "Soviet Reserve Front formations.",
+    "Soviet Bryansk Front formations.",
+    "The developing Vyazma encirclement.",
+    "The separate Bryansk encirclement operations.",
+    "Soviet command and communications breakdowns.",
+    "German efforts to isolate Soviet forces.",
+    "Soviet attempts to escape encirclement.",
+    "The distinction between encirclement and the destruction of an army.",
+    "The role of German infantry formations following armored breakthroughs.",
+    "Soviet resistance delaying the German advance.",
+    "The first severe autumn weather and its impact.",
+    "Casualty and prisoner estimates, distinguishing claims from later research."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=110",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-the-drive-on-moscow-1941-10-02",
+  "chronologyNotes": [
+    "Verify the closure dates of the Vyazma and Bryansk pockets separately; encirclement is not the destruction or surrender of all surrounded forces."
+  ],
+  "nextArticleSlug": "barbarossa-the-road-to-moscow-1941-10-13"
+}

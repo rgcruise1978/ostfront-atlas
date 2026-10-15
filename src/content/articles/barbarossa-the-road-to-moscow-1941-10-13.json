@@ -1,0 +1,47 @@
+{
+  "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+  "title": "The Road to Moscow",
+  "subtitle": "Soviet defensive reorganization and the Mozhaisk line.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-10-13",
+  "historicalPeriod": "13 October 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "Soviet commanders assemble a defence along the Mozhaisk approaches as German formations press toward Moscow.",
+  "body": "",
+  "location": "The Mozhaisk line and Moscow approaches",
+  "outlineTopics": [
+    "The condition of Soviet forces following the encirclements.",
+    "Georgy Zhukov and the reorganization of the Western Front.",
+    "The Mozhaisk defensive line.",
+    "Soviet military formations assigned to defend the capital.",
+    "The roles of the Soviet 5th, 16th, 43rd, and 49th Armies, with exact command arrangements verified.",
+    "German advances toward Kalinin, Volokolamsk, Mozhaisk, and Kaluga.",
+    "Soviet defensive positions around important road junctions.",
+    "The importance of the Moscow highway and railway corridors.",
+    "Soviet reserve commitments.",
+    "Civilian labor mobilized for fortification construction.",
+    "German armored losses and maintenance problems.",
+    "German supply difficulties and worsening road conditions.",
+    "Soviet attempts to delay German advances through local defenses and counterattacks.",
+    "The operational significance of the distances remaining to Moscow.",
+    "The relationship between the German central offensive and continuing fighting elsewhere."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=112",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-armies-in-the-trap-1941-10-07",
+  "chronologyNotes": [
+    "The Mozhaisk line consisted of sectors and incomplete works, not a continuous finished wall."
+  ],
+  "nextArticleSlug": "barbarossa-crisis-at-the-capital-1941-10-16"
+}

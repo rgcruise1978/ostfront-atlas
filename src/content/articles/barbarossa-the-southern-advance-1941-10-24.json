@@ -1,0 +1,50 @@
+{
+  "slug": "barbarossa-the-southern-advance-1941-10-24",
+  "title": "The Southern Advance",
+  "subtitle": "Kharkov, Crimea, and the continuing German offensive in Ukraine.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-10-24",
+  "historicalPeriod": "24 October 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning",
+    "p4-ushmm-odessa"
+  ],
+  "summary": "The capture of Kharkov, fighting in Crimea and occupation of Odessa show the southern war continuing beyond the Moscow offensive.",
+  "body": "",
+  "location": "Eastern Ukraine and Crimea",
+  "outlineTopics": [
+    "Army Group South's position following the Kiev campaign.",
+    "German operations east of the Dnieper.",
+    "The strategic importance of Kharkov.",
+    "Soviet industrial evacuation from Kharkov.",
+    "German 6th Army and the formations involved in the city's capture.",
+    "The Soviet defense of Kharkov.",
+    "German capture of the city on October 24.",
+    "The significance of the city's railway and industrial infrastructure.",
+    "The advance toward the Donbas.",
+    "Soviet Southwestern and Southern Front operations.",
+    "German and Romanian operations in Crimea.",
+    "The fighting around Perekop and the Ishun positions.",
+    "The operational importance of Sevastopol.",
+    "German logistics and supply challenges.",
+    "Civilian experiences in newly occupied urban areas.",
+    "The developing Romanian occupation system in Odessa.",
+    "Continuing atrocities and persecution in German- and Romanian-controlled territories."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=115",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-moscow-under-siege-1941-10-19",
+  "chronologyNotes": [
+    "Kharkov fell on 24 October; Sevastopol had not fallen. Distinguish Romanian authority in Odessa from German occupation elsewhere."
+  ],
+  "nextArticleSlug": "barbarossa-the-offensive-slows-1941-11-02"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+  "title": "Crisis at the Capital",
+  "subtitle": "Moscow's evacuation emergency and simultaneous operations elsewhere.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-10-16",
+  "historicalPeriod": "16 October 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning",
+    "p4-ushmm-odessa"
+  ],
+  "summary": "The emergency in Moscow coincides with Romanian control of Odessa and the opening of the German Tikhvin offensive.",
+  "body": "",
+  "location": "Moscow, Odessa and Tikhvin",
+  "outlineTopics": [
+    "The military situation facing Moscow.",
+    "The defeats of Soviet formations west of the capital.",
+    "The emergency reorganization of Soviet defenses.",
+    "The October 15 Soviet government evacuation decision.",
+    "The panic and disorder in Moscow on October 16.",
+    "Soviet industrial evacuation and the movement of government institutions.",
+    "Stalin's decision to remain in Moscow.",
+    "Civilian reactions and efforts to maintain public order.",
+    "The German advance and the emerging limits of Operation Typhoon.",
+    "The Romanian occupation of Odessa on October 16.",
+    "The Soviet evacuation of Odessa by sea.",
+    "Romanian military operations and the role of the Soviet Black Sea Fleet.",
+    "The beginning of the German offensive toward Tikhvin on October 16.",
+    "The continuing blockade of Leningrad.",
+    "The increasingly different operational situations facing the three German army groups."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=113",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-the-road-to-moscow-1941-10-13",
+  "chronologyNotes": [
+    "The Moscow evacuation decision was issued on 15 October; panic followed on 16 October. Romanian authorities took control of Odessa on 16 October; later massacres retain their own dates."
+  ],
+  "nextArticleSlug": "barbarossa-moscow-under-siege-1941-10-19"
+}

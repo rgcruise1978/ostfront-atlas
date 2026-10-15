@@ -1,0 +1,46 @@
+{
+  "slug": "barbarossa-the-offensive-begins-1941-09-30",
+  "title": "The Offensive Begins",
+  "subtitle": "Opening operations of Operation Typhoon.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-09-30",
+  "historicalPeriod": "30 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "Guderian’s southern thrust opens Operation Typhoon as Army Group Center prepares its wider assault on the Soviet forces defending Moscow.",
+  "body": "",
+  "location": "Army Group Center, southern sector",
+  "outlineTopics": [
+    "The conclusion of the major Kiev encirclement.",
+    "German strategic priorities after the Ukraine campaign.",
+    "The objectives and planning of Operation Typhoon.",
+    "Field Marshal Fedor von Bock and Army Group Center.",
+    "The roles of 2nd, 3rd, and 4th Panzer Groups, including the transition in the designation of Guderian's formation.",
+    "German infantry armies participating in the offensive.",
+    "Soviet Western, Reserve, and Bryansk Fronts.",
+    "Soviet defensive preparations west of Moscow.",
+    "German intelligence estimates of remaining Soviet strength.",
+    "Guderian's southern offensive beginning September 30.",
+    "The importance of the Orel–Bryansk operational direction.",
+    "German logistics, fuel, ammunition, and vehicle maintenance.",
+    "Soviet attempts to reconstruct defensive formations after the September defeats.",
+    "The relationship between the opening southern thrust and the main offensive beginning October 2."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=105",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-victory-and-catastrophe-1941-09-29",
+  "chronologyNotes": [
+    "Guderian’s southern thrust began on 30 September; the main Typhoon offensive began on 2 October."
+  ],
+  "nextArticleSlug": "barbarossa-the-drive-on-moscow-1941-10-02"
+}

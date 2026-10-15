@@ -1,4 +1,4 @@
-"""31-date checks tied to the actual baseline, including all review chapters."""
+"""Dated map checks tied to the actual baseline, including all review chapters."""
 import json,hashlib,os
 from pathlib import Path
 from shapely.geometry import shape,Point,box
@@ -6,8 +6,10 @@ from shapely.ops import unary_union,transform
 from pyproj import Transformer
 ROOT=Path(__file__).resolve().parents[1];OUT=Path(os.environ.get('OSTFRONT_AUDIT_DIR', str(ROOT.parents[1]/'outputs/phase-iii-military-maps')))
 read=lambda p:json.loads((ROOT/p).read_text())
-dates=[e['date'] for n in ['timeline','barbarossa-timeline','barbarossa-phase-ii-timeline','barbarossa-phase-iii-timeline'] for e in read('src/data/'+n+'.json')]
-assert len(dates)==len(set(dates))==31
+mappedDates=[e['date'] for n in ['timeline','barbarossa-timeline','barbarossa-phase-ii-timeline','barbarossa-phase-iii-timeline'] for e in read('src/data/'+n+'.json')]
+referenceDates=[e['date'] for e in read('src/data/barbarossa-phase-iv-timeline.json')]
+dates=mappedDates+referenceDates
+assert len(dates)==len(set(dates))==41 and len(mappedDates)==31 and len(referenceDates)==10
 sources={s['id'] for s in read('src/data/sources.json')};records=read('src/data/territorial-states.json')
 G={f['properties']['id']:shape(f['geometry']) for f in read('public/data/history/europe-geometries.geojson')['features']}
 assert len({r['id'] for r in records})==len(records)
@@ -29,7 +31,7 @@ projection=Transformer.from_crs(4326,6933,always_xy=True).transform
 area=lambda g:transform(projection,g).area/1e6
 land=shape(read('public/data/geography/europe-land.geojson')['features'][0]['geometry'])
 rows=[]
-for d in dates:
+for d in mappedDates:
  active=[r for r in records if r['startDate']<=d<=r['endDate']];gs=[G[r['geometryRef']] for r in active]
  assert active,d
  gap=area(land.difference(unary_union(gs+[shape(f['geometry']) for f in collections['military-control'] if d in f['properties']['snapshots']])).intersection(box(-12,35,45,69)))
@@ -50,7 +52,7 @@ assert any(f['properties']['movementType']=='planned' for f in collections['mili
 
 # Preserve earlier geography and chronology regression gates.
 at=lambda d,xy:[r for r in records if r['startDate']<=d<=r['endDate'] and G[r['geometryRef']].covers(Point(xy))]
-for d in dates:
+for d in mappedDates:
  assert any(r['name']=='Hungary' for r in at(d,(21.26,48.72))),d
  assert any(r['visualCategory']=='soviet-core' for r in at(d,(37.62,55.75))),d
 assert any(r['name']=='Poland' for r in at('1939-09-01',(24,49.84)))
@@ -68,9 +70,15 @@ for c in read('src/data/territorial-changes.json'):
  assert c['eventDate']<=c['effectiveVisualizationDate'] and all(i in sources for i in c['sourceIds']),c['id']
  assert all(k in c for k in ['previousControl','newControl','previousAdministration','newAdministration','sovereigntyOrClaim','featureIds','uncertainty'])
 
+# Phase IV is a geographic reference, not a claimed dated military reconstruction.
+for d in referenceDates:
+ assert any(d in f['properties']['snapshots'] for f in collections['reference-borders']),d
+ for name in ['military-control','military-operations','formation-positions','dated-fronts','historical-logistics']:
+  assert not any(d in f['properties']['snapshots'] for f in collections[name]),(d,name)
+
 protected={p:h for p,h in json.loads((OUT/'before-hashes.json').read_text()).items() if p.startswith('src/content/articles/')}
 for p,h in protected.items():assert hashlib.sha256((ROOT/p).read_bytes()).hexdigest()==h,('Article changed',p)
 report=dict(result='passed',dates=rows,articlesUnchanged=len(protected),features={n:len(f) for n,f in collections.items()},precisionLimits=['Forward edges are regional syntheses, not surveyed continuous fronts','Several daily German sheets inaccessible: dated documentary synthesis and lower-confidence connecting sectors explicitly identified','Fine administrative boundaries retain documented limits','Modern natural river courses are a separately licensed physical reference'])
 (OUT/'data-validation.json').write_text(json.dumps(report,indent=2)+'\n')
-print('Passed 31 dates, shared country coverage, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
+print('Passed 31 military map dates and 10 reference-only dates, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
 print(report['features'])
