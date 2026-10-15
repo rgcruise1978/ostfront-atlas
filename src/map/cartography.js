@@ -38,6 +38,7 @@ export const territorialCategories = Object.freeze({
   'italian-occupation': {label:'Italian occupation / incorporation claim',color:'#B4AF8D',pattern:'civil-dots'},
   'romanian-military': {label:'Romanian military authority / return claim',color:'#B19B72',pattern:'occupation-hatch'},
   'bulgarian-occupation': {label:'Bulgarian occupation / annexation claim',color:'#B6AD82',pattern:'claim-hatch'},
+  'finnish-operational': {label:'Finnish reported forward reach',color:'#9BB29D',pattern:'occupation-hatch'},
   'operational': {label:'German forward operational area · consolidation unresolved',color:'#BFC3C8',pattern:'occupation-hatch'},
   'contested': {label:'Continued resistance / contested area',color:'#BAA1AD',pattern:'contested-cross'},
   'unresolved': {label:'Unresolved status / boundary detail',color:'#CEBFC9',pattern:'contested-cross'}
@@ -51,7 +52,7 @@ export function territoryColor(record) {
 
 export const historicalLayerGroups = Object.freeze({
   capitals: ['capital-stars', 'capital-labels'],
-  control: ['eastern-reference-fill', 'eastern-reference-hatch', 'neighbors-fill', 'neighbors-pattern', 'control-fill', 'control-pattern', 'control-line'],
+  control: ['neighbors-fill', 'neighbors-pattern', 'control-fill', 'control-pattern', 'control-line'],
   movements: ['advance-axis-line', 'advance-axis-head', 'army-axis-label', 'army-group-label', 'engagement-dot', 'engagement-label'],
   places: ['places-dot', 'places-local-dot', 'places-major-label', 'places-minor-label', 'places-local-label'],
   rivers: ['rivers-line', 'rivers-label', 'lakes-label'],
@@ -63,5 +64,7 @@ export const historicalLayerGroups = Object.freeze({
   fronts:['front-halo','front-line'],
   logistics:['logistics-route','logistics-point','logistics-label'],
   relief: ['relief'],
+  civilian:['civilian-point','civilian-label','civilian-route'],
+  reference:['eastern-reference-fill','eastern-reference-hatch'],
   changes: ['changes-outline']
 });
