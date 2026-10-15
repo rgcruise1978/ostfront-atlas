@@ -1,0 +1,49 @@
+{
+  "slug": "barbarossa-the-offensive-slows-1941-11-02",
+  "title": "The Offensive Slows",
+  "subtitle": "German operational difficulties and Soviet resistance around Moscow, Tula, and Crimea.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-11-02",
+  "historicalPeriod": "2 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "German operations falter near Moscow and Tula while fighting continues around Tikhvin and in Crimea.",
+  "body": "",
+  "location": "Moscow, Tula and Crimea",
+  "outlineTopics": [
+    "The German military situation entering November.",
+    "The consequences of the October encirclement battles.",
+    "Army Group Center's reduced operational strength.",
+    "Vehicle and armored equipment losses.",
+    "Fuel, ammunition, and maintenance problems.",
+    "The effects of damaged roads and autumn mud.",
+    "The Soviet defense of Tula.",
+    "German attacks against the city's approaches beginning in late October.",
+    "The role of Soviet 50th Army and local defensive formations.",
+    "Tula's industrial and geographical importance.",
+    "Soviet defensive operations along the central front.",
+    "Soviet reserve movements and reorganization.",
+    "German preparations for further offensive operations.",
+    "Army Group North's continuing campaign toward Tikhvin.",
+    "The German invasion of Crimea.",
+    "Soviet defensive preparations around Sevastopol.",
+    "The contrast between German strategic ambitions and the practical condition of the army."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=116",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-the-southern-advance-1941-10-24",
+  "chronologyNotes": [
+    "Tula and Sevastopol remained under Soviet control on 2 November. Do not project later Axis advances backward."
+  ],
+  "nextArticleSlug": "barbarossa-the-battle-for-tikhvin-1941-11-09"
+}

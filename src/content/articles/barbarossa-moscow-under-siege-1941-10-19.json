@@ -1,0 +1,47 @@
+{
+  "slug": "barbarossa-moscow-under-siege-1941-10-19",
+  "title": "Moscow Under Siege",
+  "subtitle": "Emergency defense measures and the continuing crisis around Moscow.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-10-19",
+  "historicalPeriod": "19 October 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "Moscow’s emergency decree and the Soviet defence are set against the German army’s worsening transport and supply position.",
+  "body": "",
+  "location": "Moscow and its approaches",
+  "outlineTopics": [
+    "The continuing German attempt to advance toward Moscow.",
+    "Soviet defensive positions after the loss of the western formations.",
+    "Georgy Zhukov's operational responsibilities.",
+    "The State Defense Committee's October 19 emergency decree.",
+    "The declaration of a state of siege effective October 20.",
+    "Soviet measures to maintain public order.",
+    "Military command and civilian administration in the capital.",
+    "Reinforcements and reserve formations defending the Moscow region.",
+    "Soviet efforts to maintain transportation and supply.",
+    "The effects of mud, damaged roads, fuel shortages, and mechanical attrition.",
+    "German operational assessments.",
+    "The status of German armored forces.",
+    "Continued fighting around Mozhaisk and neighboring defensive sectors.",
+    "Developments on the northern and southern approaches to Moscow.",
+    "The wider political significance of defending the Soviet capital."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=114",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-crisis-at-the-capital-1941-10-16",
+  "chronologyNotes": [
+    "The Moscow emergency decree was issued on 19 October; the state of siege took effect on 20 October."
+  ],
+  "nextArticleSlug": "barbarossa-the-southern-advance-1941-10-24"
+}

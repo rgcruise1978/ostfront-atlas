@@ -1,0 +1,54 @@
+{
+  "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+  "title": "The Edge of Winter",
+  "subtitle": "Conclusion of Phase IV and the German military situation before the renewed offensive toward Moscow.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-11-14",
+  "historicalPeriod": "14 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "The front on 14 November reveals German operational strain, continued Soviet resistance and preparations for another offensive.",
+  "body": "",
+  "location": "The Eastern Front",
+  "outlineTopics": [
+    "Army Group North's position.",
+    "The continuing blockade of Leningrad.",
+    "The operational consequences of the German capture of Tikhvin.",
+    "Soviet counteroffensive preparations and actions in the Tikhvin sector.",
+    "Army Group Center's position in front of Moscow.",
+    "The consequences of the Vyazma–Bryansk encirclements.",
+    "The status of the Mozhaisk defensive sectors.",
+    "The continued Soviet defense of Tula.",
+    "The condition of German armored formations.",
+    "German supply, fuel, ammunition, and repair problems.",
+    "The effects of autumn weather and changing ground conditions.",
+    "Soviet reserve formations and military reorganization.",
+    "The November 7 military parade in Moscow and its political significance.",
+    "The Soviet military and industrial evacuation effort.",
+    "Army Group South's position in eastern Ukraine.",
+    "The continuing German advance toward Rostov.",
+    "The military situation in Crimea and around Sevastopol.",
+    "Soviet resistance in the southern theater.",
+    "The continuing consequences of the Romanian occupation of Odessa.",
+    "The expansion of occupation violence, forced labor, persecution, and mass murder.",
+    "German operational expectations for the approaching winter.",
+    "The changing balance between German offensive capacity and Soviet defensive strength.",
+    "The decisions and preparations leading to the renewed German offensive beginning in mid-November."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=119",
+  "referenceMapStatus": "Candidate 12 November situation sheet for background only; no 14 November sheet is identified in the supplied sequence.",
+  "previousArticleSlug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+  "chronologyNotes": [
+    "The supplied Library of Congress sequence has a 12 November sheet, but no sheet dated 14 November. Do not relabel the earlier map or depict movements from 15 November onward as complete."
+  ]
+}

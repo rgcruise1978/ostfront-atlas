@@ -1,0 +1,50 @@
+{
+  "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+  "title": "The Battle for Tikhvin",
+  "subtitle": "The German northern offensive and its consequences for Leningrad.",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "4",
+  "phase": "IV — The Autumn Offensive",
+  "historicalDate": "1941-11-09",
+  "historicalPeriod": "9 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p4-loc-atlas",
+    "blau-planning"
+  ],
+  "summary": "German forces hold Tikhvin after its capture on 8 November, threatening Leningrad’s already strained supply network.",
+  "body": "",
+  "location": "Leningrad, Volkhov and Tikhvin",
+  "outlineTopics": [
+    "The military situation surrounding Leningrad.",
+    "The German advance toward the Volkhov River.",
+    "The objectives of the Tikhvin offensive.",
+    "German 16th Army and relevant mobile formations.",
+    "Soviet defensive forces east of Leningrad.",
+    "German operations beginning October 16.",
+    "The importance of the Volkhov River.",
+    "German capture of Tikhvin on November 8.",
+    "The consequences for Leningrad's remaining supply network.",
+    "The importance of Lake Ladoga.",
+    "Soviet efforts to maintain communications and supply.",
+    "The threat posed by German movement toward the Svir River.",
+    "Finnish military positions north and northeast of Leningrad.",
+    "The geographical limitations of German operations in forested and marshy terrain.",
+    "German supply and transportation problems.",
+    "Soviet preparations for counterattacks.",
+    "Civilian food shortages and the worsening humanitarian situation in Leningrad.",
+    "The relationship between the northern campaign and the broader German invasion."
+  ],
+  "researchStatus": "Research brief. Full study and dated military reconstruction in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=118",
+  "referenceMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation.",
+  "previousArticleSlug": "barbarossa-the-offensive-slows-1941-11-02",
+  "chronologyNotes": [
+    "Tikhvin was captured on 8 November, one day before this entry. Lake Ladoga remained a possible supply route."
+  ],
+  "nextArticleSlug": "barbarossa-the-edge-of-winter-1941-11-14"
+}
