@@ -1,0 +1,214 @@
+[
+  {
+    "id": "1941-09-30",
+    "date": "1941-09-30",
+    "label": "30 September 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Offensive Begins",
+    "summary": "Guderian’s southern thrust opens Operation Typhoon as Army Group Center prepares its wider assault on the Soviet forces defending Moscow.",
+    "articleSlug": "barbarossa-the-offensive-begins-1941-09-30",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow-west",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=105",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-10-02",
+    "date": "1941-10-02",
+    "label": "2 October 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Drive on Moscow",
+    "summary": "Army Group Center begins its main offensive toward Moscow, seeking to encircle the Western, Reserve and Bryansk Fronts.",
+    "articleSlug": "barbarossa-the-drive-on-moscow-1941-10-02",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow-west",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=107",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-10-07",
+    "date": "1941-10-07",
+    "label": "7 October 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "Armies in the Trap",
+    "summary": "The Vyazma and Bryansk encirclements develop while Soviet units resist, withdraw and attempt to escape.",
+    "articleSlug": "barbarossa-armies-in-the-trap-1941-10-07",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow-west",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=110",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-10-13",
+    "date": "1941-10-13",
+    "label": "13 October 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Road to Moscow",
+    "summary": "Soviet commanders assemble a defence along the Mozhaisk approaches as German formations press toward Moscow.",
+    "articleSlug": "barbarossa-the-road-to-moscow-1941-10-13",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=112",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-10-16",
+    "date": "1941-10-16",
+    "label": "16 October 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "Crisis at the Capital",
+    "summary": "The emergency in Moscow coincides with Romanian control of Odessa and the opening of the German Tikhvin offensive.",
+    "articleSlug": "barbarossa-crisis-at-the-capital-1941-10-16",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning",
+      "p4-ushmm-odessa"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "theatre",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=113",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-10-19",
+    "date": "1941-10-19",
+    "label": "19 October 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "Moscow Under Siege",
+    "summary": "Moscow’s emergency decree and the Soviet defence are set against the German army’s worsening transport and supply position.",
+    "articleSlug": "barbarossa-moscow-under-siege-1941-10-19",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=114",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-10-24",
+    "date": "1941-10-24",
+    "label": "24 October 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Southern Advance",
+    "summary": "The capture of Kharkov, fighting in Crimea and occupation of Odessa show the southern war continuing beyond the Moscow offensive.",
+    "articleSlug": "barbarossa-the-southern-advance-1941-10-24",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning",
+      "p4-ushmm-odessa"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "ukraine-crimea",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=115",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-11-02",
+    "date": "1941-11-02",
+    "label": "2 November 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Offensive Slows",
+    "summary": "German operations falter near Moscow and Tula while fighting continues around Tikhvin and in Crimea.",
+    "articleSlug": "barbarossa-the-offensive-slows-1941-11-02",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "tula",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=116",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-11-09",
+    "date": "1941-11-09",
+    "label": "9 November 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Battle for Tikhvin",
+    "summary": "German forces hold Tikhvin after its capture on 8 November, threatening Leningrad’s already strained supply network.",
+    "articleSlug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "tikhvin",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=118",
+    "candidateMapStatus": "Candidate German General Staff situation sheet. Verify its date, content and reuse rights before reconstructing this military situation."
+  },
+  {
+    "id": "1941-11-14",
+    "date": "1941-11-14",
+    "label": "14 November 1941",
+    "kind": "Geographic reference · dated military reconstruction pending",
+    "title": "The Edge of Winter",
+    "summary": "The front on 14 November reveals German operational strain, continued Soviet resistance and preparations for another offensive.",
+    "articleSlug": "barbarossa-the-edge-of-winter-1941-11-14",
+    "phaseId": "4",
+    "sourceIds": [
+      "p4-loc-atlas",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "theatre",
+    "dateRationale": "Editorial anchor for the specified date. Reconstruct the military situation from evidence for this date; multi-day events retain their original intervals.",
+    "mapAccuracy": "Physical geography and explicitly earlier political reference only. No dated front, territorial-control polygon, formation or movement is asserted for this Phase IV date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=119",
+    "candidateMapStatus": "Candidate 12 November situation sheet for background only; no 14 November sheet is identified in the supplied sequence."
+  }
+]
