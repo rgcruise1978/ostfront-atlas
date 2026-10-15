@@ -70,15 +70,15 @@ for c in read('src/data/territorial-changes.json'):
  assert c['eventDate']<=c['effectiveVisualizationDate'] and all(i in sources for i in c['sourceIds']),c['id']
  assert all(k in c for k in ['previousControl','newControl','previousAdministration','newAdministration','sovereigntyOrClaim','featureIds','uncertainty'])
 
-# Phase IV is a geographic reference, not a claimed dated military reconstruction.
+# Phase IV is now a dated regional reconstruction with independent gates.
 for d in referenceDates:
  assert any(d in f['properties']['snapshots'] for f in collections['reference-borders']),d
  for name in ['military-control','military-operations','formation-positions','dated-fronts','historical-logistics']:
-  assert not any(d in f['properties']['snapshots'] for f in collections[name]),(d,name)
+  assert any(d in f['properties']['snapshots'] for f in collections[name]),(d,name)
 
 protected={p:h for p,h in json.loads((OUT/'before-hashes.json').read_text()).items() if p.startswith('src/content/articles/')}
 for p,h in protected.items():assert hashlib.sha256((ROOT/p).read_bytes()).hexdigest()==h,('Article changed',p)
 report=dict(result='passed',dates=rows,articlesUnchanged=len(protected),features={n:len(f) for n,f in collections.items()},precisionLimits=['Forward edges are regional syntheses, not surveyed continuous fronts','Several daily German sheets inaccessible: dated documentary synthesis and lower-confidence connecting sectors explicitly identified','Fine administrative boundaries retain documented limits','Modern natural river courses are a separately licensed physical reference'])
 (OUT/'data-validation.json').write_text(json.dumps(report,indent=2)+'\n')
-print('Passed 31 military map dates and 10 reference-only dates, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
+print('Passed 41 military map dates, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
 print(report['features'])

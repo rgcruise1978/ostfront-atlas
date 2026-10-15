@@ -1,0 +1,113 @@
+[
+  {
+    "date": "1941-09-30",
+    "paragraphs": 35,
+    "sentences": 200,
+    "military-control": 3,
+    "military-operations": 10,
+    "formation-positions": 40,
+    "dated-fronts": 3,
+    "historical-logistics": 17,
+    "territorial-changes": 0
+  },
+  {
+    "date": "1941-10-02",
+    "paragraphs": 34,
+    "sentences": 197,
+    "military-control": 3,
+    "military-operations": 9,
+    "formation-positions": 40,
+    "dated-fronts": 3,
+    "historical-logistics": 17,
+    "territorial-changes": 1
+  },
+  {
+    "date": "1941-10-07",
+    "paragraphs": 33,
+    "sentences": 186,
+    "military-control": 6,
+    "military-operations": 13,
+    "formation-positions": 36,
+    "dated-fronts": 3,
+    "historical-logistics": 17,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-10-13",
+    "paragraphs": 33,
+    "sentences": 191,
+    "military-control": 7,
+    "military-operations": 15,
+    "formation-positions": 30,
+    "dated-fronts": 3,
+    "historical-logistics": 17,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-10-16",
+    "paragraphs": 34,
+    "sentences": 212,
+    "military-control": 6,
+    "military-operations": 22,
+    "formation-positions": 34,
+    "dated-fronts": 3,
+    "historical-logistics": 17,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-10-19",
+    "paragraphs": 33,
+    "sentences": 188,
+    "military-control": 6,
+    "military-operations": 26,
+    "formation-positions": 39,
+    "dated-fronts": 3,
+    "historical-logistics": 16,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-10-24",
+    "paragraphs": 33,
+    "sentences": 198,
+    "military-control": 3,
+    "military-operations": 28,
+    "formation-positions": 39,
+    "dated-fronts": 3,
+    "historical-logistics": 16,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-11-02",
+    "paragraphs": 36,
+    "sentences": 204,
+    "military-control": 3,
+    "military-operations": 32,
+    "formation-positions": 39,
+    "dated-fronts": 4,
+    "historical-logistics": 16,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-11-09",
+    "paragraphs": 35,
+    "sentences": 203,
+    "military-control": 3,
+    "military-operations": 36,
+    "formation-positions": 39,
+    "dated-fronts": 4,
+    "historical-logistics": 17,
+    "territorial-changes": 2
+  },
+  {
+    "date": "1941-11-14",
+    "paragraphs": 35,
+    "sentences": 205,
+    "military-control": 3,
+    "military-operations": 39,
+    "formation-positions": 38,
+    "dated-fronts": 4,
+    "historical-logistics": 17,
+    "territorial-changes": 2
+  }
+]
+Coverage sentences 1984

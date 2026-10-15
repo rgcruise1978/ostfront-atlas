@@ -46,3 +46,9 @@ The optional transport overlay contains schematic communications corridors and s
 ## Verification
 
 `validate-data.mjs` checks all 32 study routes, citations and authors, plus five Polish and 26 Barbarossa selections. `validate-map-geography.py` checks polygon validity, adjacent-region overlap, source references, date ranges, primary city membership, chronology, operational changes and byte-identical article files against the start-of-task backup. Those tests establish technical and chronology coherence; they do not certify the unresolved fine boundaries above.
+
+## Phase IV — 30 September–14 November 1941
+
+Ten dated regional reconstructions extend the existing shared schema and exact palette. Feature-specific dates, source locators and uncertainty distinguish achieved movement, unachieved plans, resistance, representative formation sectors and schematic communications. Original regional fronts are locality-anchored interpretations, not digitized daily staff maps. CMH Map 2 is dated 12 November, and Map 3's dotted starting line is 15 November; neither is relabelled as 14 November. Candidate LOC sheets were not accessible and were not digitized.
+
+`phase-iv-study-context.json` accounts for every published paragraph, including asides and details unsuitable for precise plotting. Five additional natural river courses are a separate ODbL OSM dataset; their modern geometry does not assert 1941 water levels. Romanian Transnistria, German-occupied Estonia/eastern Poland, defended pockets and the Estonian island chronology have distinct current records; small Osmussaar uses a sourced point because its geometry is absent. See the release research record and feature panels for qualifications.

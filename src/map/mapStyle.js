@@ -11,7 +11,7 @@ export function makeMapStyle(){
   relief:{type:'image',url:'/data/geography/europe-relief.jpg',coordinates:[[-25,73],[60,73],[60,32],[-25,32]]},
   neighbors:{type:'geojson',data:empty,attribution:'Historical geometry: <a href="/sources#europe-vector-1939">Goran tek-en, Alphathon, maix and contributors · adapted CC BY-SA 4.0</a>'},
   easternReference:{type:'geojson',data:empty},
-  areaLabels:{type:'geojson',data:empty},countryCallouts:{type:'geojson',data:empty},places:{type:'geojson',data:'/data/geography/europe-places.geojson',attribution:'Natural Earth · public domain'},
+  areaLabels:{type:'geojson',data:empty},countryCallouts:{type:'geojson',data:empty},focusPlaces:{type:'geojson',data:empty},places:{type:'geojson',data:'/data/geography/europe-places.geojson',attribution:'Natural Earth · public domain'},
   rivers:{type:'geojson',data:'/data/geography/europe-rivers.geojson'},
   riverDetails:{type:'geojson',data:'/data/geography/additional-natural-rivers.geojson',attribution:'Additional river courses © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors · ODbL</a>'},
   lakes:{type:'geojson',data:'/data/geography/europe-lakes.geojson'},
@@ -55,7 +55,7 @@ export function makeMapStyle(){
   point('lakes-label','lakes',['get','name'],10,5,['!=',['get','name'],'Natural lake']),
   {id:'country-callout-lines',type:'line',source:'countryCallouts',maxzoom:5.2,filter:['==',['geometry-type'],'LineString'],paint:{'line-color':'#4F5E64','line-width':.8,'line-opacity':.8}},
   {...point('country-callout-labels','countryCallouts',['get','label'],9,2.3,['==',['geometry-type'],'Point']),maxzoom:5.2,layout:{...point('x','countryCallouts','',9).layout,'text-field':['get','label'],'text-size':9,'text-allow-overlap':true,'text-ignore-placement':true}},
-  {id:'neighbor-country-labels',type:'symbol',source:'areaLabels',filter:['==',['get','minor'],false],layout:{'text-field':['get','label'],'text-font':fonts,'text-size':['interpolate',['linear'],['zoom'],2.4,10,4,13,6,18],'text-max-width':7,'text-letter-spacing':.065,'text-allow-overlap':true,'text-ignore-placement':false,'text-padding':5},paint:{'text-color':['case',['boolean',['get','referenceOnly'],false],'#705E63','#26323A'],'text-halo-color':'#FFF9E9','text-halo-width':2,'text-opacity':['case',['boolean',['get','referenceOnly'],false],.82,.98]}},
+  {id:'neighbor-country-labels',type:'symbol',source:'areaLabels',filter:['==',['get','minor'],false],layout:{'text-field':['get','label'],'text-font':fonts,'text-size':['interpolate',['linear'],['zoom'],2.4,10,4,13,6,['case',['==',['get','phaseId'],'4'],14,18]],'text-max-width':7,'text-letter-spacing':.065,'text-allow-overlap':true,'text-ignore-placement':false,'text-padding':5},paint:{'text-color':['case',['boolean',['get','referenceOnly'],false],'#705E63','#26323A'],'text-halo-color':'#FFF9E9','text-halo-width':2,'text-opacity':['case',['boolean',['get','referenceOnly'],false],.82,.98]}},
   point('neighbor-primary-labels','areaLabels','',1,24),
   {...point('neighbor-minor-labels','areaLabels',['get','label'],10,5.2,['==',['get','minor'],true]),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','label'],'text-size':10,'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.7}},
   {...point('country-subtitle','areaLabels',['get','subtitle'],10,5.2),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','subtitle'],'text-anchor':'top','text-offset':[0,1.8],'text-max-width':18}},
@@ -73,6 +73,10 @@ export function makeMapStyle(){
   {id:'capital-stars',type:'symbol',source:'capitals',layout:{'text-field':['case',['==',['get','kind'],'administrative'],'◆','★'],'text-font':fonts,'text-size':16,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#173746','text-halo-color':'#FFF9EC','text-halo-width':1.8}},
   {...point('capital-labels','capitals',['get','name'],12,2.8),layout:{...point('x','capitals','',12).layout,'text-field':['get','name'],'text-anchor':'top','text-offset':[0,.7],'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.8}}
  ]};
+
+ // Critical Phase IV junctions receive label placement priority over formations.
+ const focusIndex=style.layers.findIndex(l=>l.id==='places-dot');
+ style.layers.splice(focusIndex,0,{id:'phase-four-focus-dot',type:'circle',source:'focusPlaces',minzoom:3.8,paint:{'circle-color':'#223844','circle-radius':3.2,'circle-stroke-color':'#FFF9EC','circle-stroke-width':1.3}}, {id:'phase-four-focus-label',type:'symbol',source:'focusPlaces',minzoom:3.8,layout:{'text-field':['get','periodName'],'text-font':fonts,'text-size':13,'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.75,'text-padding':4,'text-max-width':13},paint:{'text-color':'#173746','text-halo-color':'#FFF9EC','text-halo-width':2}});
  // Each movement type has its own stroke; actor identity stays consistent.
  const insert=style.layers.findIndex(l=>l.id==='places-dot');
  const lines=Object.entries(movementKinds).flatMap(([kind,value])=>[
@@ -81,6 +85,19 @@ export function makeMapStyle(){
   {id:'movement-'+kind+'-heads',type:'symbol',source:'operations',filter:['all',['==',['geometry-type'],'Point'],['==',['get','category'],'arrowhead'],['==',['get','movementType'],kind],['!=',['coalesce',['get','domain'],''],'civilian']],layout:{'text-field':['case',['==',['get','domain'],'naval'],'⇢',kind==='retreat'?'▷':kind==='planned'?'›':'▶'],'text-font':fonts,'text-size':kind==='planned'?24:17,'text-rotate':['get','bearing'],'text-rotation-alignment':'map','text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':actorColor,'text-halo-color':'#FFF7E4','text-halo-width':1.2}}
  ]);
  style.layers.splice(insert,0,...lines);
+ // Phase IV corridor labels follow the shared movement colours and collision rules.
+ for(const id of ['formation-symbol','formation-label','formation-detail-label']) {const layer=style.layers.find(l=>l.id===id);const old=layer.filter;layer.filter=['all',...(old?[old]:[]),['!=',['coalesce',['get','phaseId'],''],'4']];}
+ style.layers.push({id:'phase-four-formation-symbol',type:'symbol',source:'formations',minzoom:4.4,filter:['==',['get','phaseId'],'4'],layout:{'text-field':['get','symbol'],'text-font':fonts,'text-size':['case',['in',['get','echelon'],['literal',['army-group','front']]],15,13],'text-padding':4,'symbol-sort-key':['get','labelPriority']},paint:{'text-color':actorColor,'text-halo-color':'#FFF9E9','text-halo-width':2}});
+ style.layers.push({id:'phase-four-command-label',type:'symbol',source:'formations',minzoom:3.4,filter:['all',['==',['get','phaseId'],'4'],['in',['get','echelon'],['literal',['army-group','front']]]],layout:{'text-field':['get','displayLabel'],'text-font':fonts,'text-size':12,'text-max-width':15,'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.8,'text-padding':7,'symbol-sort-key':['get','labelPriority']},paint:{'text-color':actorColor,'text-halo-color':'#FFF9E9','text-halo-width':2}});
+ style.layers.push({id:'phase-four-unit-label',type:'symbol',source:'formations',minzoom:4.8,filter:['all',['==',['get','phaseId'],'4'],['!', ['in',['get','echelon'],['literal',['army-group','front']]]]],layout:{'text-field':['get','displayLabel'],'text-font':fonts,'text-size':12,'text-max-width':15,'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.8,'text-padding':5,'symbol-sort-key':['get','labelPriority']},paint:{'text-color':actorColor,'text-halo-color':'#FFF9E9','text-halo-width':1.8}});
+ style.layers.push({id:'phase-four-movement-label',type:'symbol',source:'operations',minzoom:4.8,filter:['all',['==',['get','phaseId'],'4'],['==',['geometry-type'],'LineString'],['!=',['get','domain'],'civilian']],layout:{'symbol-placement':'line','symbol-spacing':420,'text-field':['coalesce',['get','shortLabel'],['get','label']],'text-font':fonts,'text-size':12,'text-max-angle':35,'text-padding':6},paint:{'text-color':actorColor,'text-halo-color':'#FFF9E9','text-halo-width':2}});
+ style.layers.push({id:'phase-four-transport-label',type:'symbol',source:'logistics',minzoom:6.2,filter:['all',['==',['get','phaseId'],'4'],['==',['geometry-type'],'LineString']],layout:{'symbol-placement':'line','symbol-spacing':500,'text-field':['get','label'],'text-font':fonts,'text-size':12,'text-max-angle':30,'text-padding':6},paint:{'text-color':'#574267','text-halo-color':'#FFF9E9','text-halo-width':2}});
+ // Symbol collision placement starts at the top of the style. Keep essential
+ // locality names above military labels so Vyazma and Tikhvin remain visible.
+ for(const id of ['phase-four-focus-dot','phase-four-focus-label']) {
+  const index=style.layers.findIndex(layer=>layer.id===id);
+  style.layers.push(...style.layers.splice(index,1));
+ }
  // Readable labels retain placement/collision rules and an opaque light halo.
  for (const layer of style.layers) {
   const size=layer.layout?.['text-size'];

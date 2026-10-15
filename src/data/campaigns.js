@@ -22,11 +22,11 @@ export const campaigns = [
       { id: '1', title: 'Phase I: The Opening Assault', range: '21 June–9 July 1941', timeline: barbarossaTimeline, status: 'Eight published studies' },
       { id: '2', title: 'Phase II: The Drive into the Soviet Interior', range: '10 July–25 August 1941', timeline: phaseTwoTimeline, status: 'Nine published studies · dated regional map syntheses' },
       { id: '3', title: 'Phase III: The Battle for Strategic Objectives', range: '26 August–29 September 1941', timeline: phaseThreeTimeline, status: 'Nine published studies · dated regional map syntheses' },
-      { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten published studies · military reconstructions in preparation' }
+      { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten published studies · dated regional map reconstructions' }
     ],
     map: { ...geography, center: [24, 54], bounds: [[4.5,43],[44,64]], referencePeriod: '1941-opening', placesUrl: '/data/geography/barbarossa-reference-places.geojson', boundaryUrl: geography.boundaryUrl, neighborsUrl: '/data/history/barbarossa-1941-neighbors.geojson', areaLabelsUrl: '/data/history/barbarossa-1941-area-labels.geojson', historicalUrl: '/data/history/barbarossa-1941-opening-frontier.geojson', controlUrl: '/data/history/barbarossa-1941-opening-control.geojson', operationsUrl: null },
     status: 'Dated territory and source-qualified operational areas',
-    description: 'Follow 36 selected dates through 14 November 1941. Phase IV has ten published studies; its dated military reconstructions remain in preparation.',
+    description: 'Follow 36 selected dates through 14 November 1941. Phase IV has ten published studies with dated regional military reconstructions, logistics and linked study context.',
     views: [
       { id: 'theatre', label: 'Full invasion theatre', bounds: [[4.5,43],[44,64]] },
       {id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]},
@@ -48,6 +48,11 @@ export const campaigns = [
       { id: 'tallinn', label: 'Tallinn · Gulf of Finland', bounds: [[22, 58.5], [31, 61.5]] },
       { id: 'yelnya', label: 'Yelnya · Smolensk', bounds: [[31, 53.4], [35, 55.5]] },
       { id: 'leningrad', label: 'Leningrad · Lake Ladoga', bounds: [[28, 58.9], [33, 61.8]] },
+      {id:'typhoon-opening',label:'Typhoon · all three opening sectors',bounds:[[30.6,50.9],[38.2,57.2]]},
+      {id:'vyazma-bryansk',label:'Vyazma–Bryansk · pockets and pursuit',bounds:[[32.4,52.1],[36.9,56.1]]},
+      {id:'crimea',label:'Crimea · Ishun, Sevastopol and Kerch',bounds:[[32.2,44.1],[36.9,46.5]]},
+      {id:'donbas-rostov',label:'Kharkov–Donbas–Rostov',bounds:[[34,46.5],[40.5,51.2]]},
+      {id:'evacuation',label:'Moscow · evacuation destinations',bounds:[[35,50],[52,58]]},
       { id: 'moscow-west', label: 'Moscow · western approaches', bounds: [[30.5, 52.5], [39.5, 57.4]] },
       { id: 'moscow', label: 'Moscow · defensive region', bounds: [[34, 53.7], [39.5, 57.4]] },
       { id: 'tula', label: 'Tula · southern approaches to Moscow', bounds: [[34.5, 52], [40.5, 55.2]] },
