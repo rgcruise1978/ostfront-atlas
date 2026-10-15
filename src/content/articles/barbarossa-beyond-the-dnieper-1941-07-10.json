@@ -2,7 +2,7 @@
   "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
   "title": "Beyond the Dnieper",
   "subtitle": "The crossing battles and the opening of the Smolensk campaign",
-  "status": "ready-for-review",
+  "status": "published",
   "author": "R.G. Cruise",
   "campaignId": "barbarossa-1941",
   "phaseId": "2",
@@ -39,7 +39,7 @@
     "The developing operational difficulties confronting German forces.",
     "Simultaneous fighting in the north near the Luga defensive positions and continuing operations in Ukraine."
   ],
-  "researchStatus": "Complete narrative prepared for editorial review. Citation locators and research qualifications accompany the chapter; dated military map reconstruction remains separate.",
+  "researchStatus": "Editorial review complete. Citation locators and research qualifications accompany the study; dated military map precision is documented separately.",
   "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
   "referenceMapStatus": "Collection reference only. The corresponding printed sheet date, sheet identifier and reuse conditions have not yet been verified.",
   "previousArticleSlug": "barbarossa-eighteen-days-of-war-1941-07-09",
@@ -134,7 +134,10 @@
   "narrativeWordCount": 3659,
   "sourceMethod": "Numbered citations lead to the sources below; each entry lists the passages cited and links back to its first use. Numbered references link to the bibliography and return to their first use. Specific document, paragraph and page locators accompany the references. Soviet military records were read in Russian transcription from the published General Staff collections; English descriptions are paraphrases by the atlas, and archival identifiers are those printed in the collections, not claims of direct archival inspection. Orders establish intentions; situation reports contain contemporary information, estimates and gaps. U.S. Army retrospective studies are read critically alongside Soviet records and other scholarship. Publisher excerpts are cited only for inspected passages. Testimony is distinguished from contemporary reporting. Dates in titles anchor the chronology; subsequent developments are dated explicitly. The atlas layers are qualified regional interpretations; their boundaries and arrows are not independent evidence of exact control or unit positions.",
   "revisionDate": "2026-10-15",
-  "editorialRevision": "Collection voice, citation and continuity revision, 15 October 2026; claim and access records in the local review package.",
+  "editorialRevision": "Collection voice, citation and continuity revision and final review reconciliation completed October 15, 2026; claim and access records retained in the local review package.",
   "substantiveWordCount": 3659,
-  "readingMinutes": 17
+  "readingMinutes": 17,
+  "publicationDate": "2026-10-15",
+  "reviewedDate": "2026-10-15",
+  "reviewedBodySha256": "da2b62d7e41ddff38d4ad74932b08709d2d1a002777368f436eb092036250933"
 }
