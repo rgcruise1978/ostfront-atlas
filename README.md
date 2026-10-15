@@ -1,12 +1,12 @@
 # Ostfront Atlas
 
-A React/Vite historical atlas with 31 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–III through September 29, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. All 32 studies retain their text and authorship; Phase II publication status now reflects its completed editorial review.
+A React/Vite historical atlas with 41 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–IV through November 14, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. All 32 published studies retain their text and authorship. Phase IV adds ten linked research briefs and geographic reference views; its full chapters and dated military maps are in preparation.
 
 ## Run and verify
 
 Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The current local review runs at http://127.0.0.1:5198/collections.
 
-Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. In this workspace use `../../work/map-venv/bin/python`. This entry point retains the earlier geography/chronology gates and checks all 31 dates and all 32 protected article hashes. `git diff --check` checks whitespace.
+Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. In this workspace use `../../work/map-venv/bin/python`. This entry point retains the earlier geography/chronology gates and checks the dated geography and all 32 protected article hashes. `git diff --check` checks whitespace.
 
 ## Shared cartography
 
@@ -23,6 +23,8 @@ The current map review package is `../../outputs/all-maps-upgrade/`: coverage ma
 ## Articles and release status
 
 Article JSON files in `src/content/articles/` credit R.G. Cruise. This release contains 32 published studies, including the nine Phase II studies whose completed editorial reviews were reconciled on October 15, 2026. The Phase III publication release includes its dated military companion maps and the consolidated editorial revisions. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
+
+Phase IV has ten dated research briefs with outlines, source pointers and chronological links. Its maps provide clearly labelled geographic references without dated military positions or control assertions. These require separate research and implementation.
 
 The completed Phase III studies are included in the production publication release. `netlify.toml` retains the existing Vite build, `dist` publish directory and client-route fallback. Production deployment and publication are separate actions. See `CURRENT_STATE.md` for the newest checkpoint and older verified live releases.
 

@@ -1,3 +1,7 @@
+# October 15, 2026 — Phase IV first increment on current launch release
+
+The ten Phase IV dates (30 September–14 November 1941), linked R.G. Cruise research briefs, collection/navigation routes and date-specific geographic reference views are implemented. The 29–30 September reading sequence connects Phase III to Phase IV. Phase IV has no dated military-control, front or movement reconstruction yet; its maps explicitly state that limitation. All 32 previously published studies, their statuses and the newer launch-review layout are retained. The data validator, production build, metadata generation and geographic audit pass; the latter verifies 31 existing military dates and ten reference-only Phase IV dates. This checkpoint does not claim the ten full chapters or military maps are complete.
+
 # October 15, 2026 — corrected launch release
 
 This release includes the information pages and secondary menu, archive palette and readability fixes, repaired source-register and menu behavior, route metadata, and completed Phase II publication status. All 32 study narratives and citation text remain unchanged. The nine Phase II reviews match their current body hashes. The latest local checks passed before release; Netlify deployment status is tracked against this release commit. Custom-domain DNS and search-index activation remain separate. Earlier checkpoints below retain their original dates and release states.
