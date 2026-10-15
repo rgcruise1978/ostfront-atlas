@@ -1,10 +1,10 @@
 """31-date checks tied to the actual baseline, including all review chapters."""
-import json,hashlib
+import json,hashlib,os
 from pathlib import Path
 from shapely.geometry import shape,Point,box
 from shapely.ops import unary_union,transform
 from pyproj import Transformer
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT.parents[1]/'outputs/phase-iii-military-maps'
+ROOT=Path(__file__).resolve().parents[1];OUT=Path(os.environ.get('OSTFRONT_AUDIT_DIR', str(ROOT.parents[1]/'outputs/phase-iii-military-maps')))
 read=lambda p:json.loads((ROOT/p).read_text())
 dates=[e['date'] for n in ['timeline','barbarossa-timeline','barbarossa-phase-ii-timeline','barbarossa-phase-iii-timeline'] for e in read('src/data/'+n+'.json')]
 assert len(dates)==len(set(dates))==31
