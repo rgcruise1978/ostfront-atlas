@@ -252,14 +252,28 @@ assert(phaseThree.find(event=>event.date==='1941-08-29').defaultView==='tallinn'
 for (const [index,event] of phaseThree.entries()) {
   const article=articles.get(event.articleSlug);
   assert(article && article.historicalDate===event.date && article.campaignId==='barbarossa-1941' && article.phaseId==='3', `Broken Phase III article identity: ${event.date}`);
-  assert(article.status==='research-brief' && article.author==='R.G. Cruise' && article.body==='' && !article.publicationDate, `Phase III must remain a clearly labeled research brief: ${event.date}`);
+  assert(article.status==='published' && article.author==='R.G. Cruise' && article.preparedDate && article.body && article.publicationDate, `Phase III must contain a published full study: ${event.date}`);
+  const prose = article.body.replace(/<sup\b[\s\S]*?<\/sup>/g, '').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/<[^>]*>/g, ' ').replace(/&amp;/g, '&');
+  const words = (prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu) || []).length;
+  assert(words >= 3500 && words <= 5000 && words === article.narrativeWordCount, `${article.slug}: substantive prose word count is invalid (${words})`);
+  assert(article.sections.length >= 6 && article.sections.length <= 9, `${article.slug}: expected 6–9 sections`);
+  const asideCount = (article.body.match(/<aside\b/g) || []).length;
+  assert(asideCount >= 2 && asideCount <= 3, `${article.slug}: expected 2–3 historical asides`);
+  for (const section of article.sections) assert(article.body.includes(`id="${section.id}"`), `${article.slug}: missing contents target`);
+  for (const [sourceIndex,id] of article.sourceIds.entries()) {
+    assert(article.body.includes(`id="cite-${id}"`) && article.body.includes(`href="#source-${id}"`), `${article.slug}: broken citation target or return link`);
+    assert(article.sourceLocators[id]?.length > 0, `${article.slug}: missing source locator`);
+    const citations = [...article.body.matchAll(/href="#source-([^"]+)"[^>]*>\[(\d+)\]/g)].filter(match=>match[1]===id);
+    assert(citations.length && citations.every(match=>Number(match[2])===sourceIndex+1), `${article.slug}: incorrect reference number`);
+  }
+
   assert(article.outlineTopics?.length>=10 && article.chronologyNotes?.length>0, `Phase III outline is incomplete: ${event.date}`);
   assert(article.previousArticleSlug===wholeCampaign[16+index].articleSlug && article.nextArticleSlug===phaseThree[index+1]?.articleSlug, `Broken Phase III reading sequence: ${event.date}`);
-  assert(event.snapshotStatus==='geographic-reference-only' && event.geographicFeatureIds.length===0 && event.mapAccuracy, `Phase III map status is inaccurate: ${event.date}`);
+  assert(event.snapshotStatus==='dated-regional-synthesis' && event.geographicFeatureIds.length>0 && event.mapAccuracy, `Phase III map status is inaccurate: ${event.date}`);
   assert(event.defaultView && event.sourceIds.length>0 && event.sourceIds.every(id=>sourceIds.has(id)), `Phase III source or view missing: ${event.date}`);
-  assert(snapshotIndex[event.date]?.areas===0 && snapshotIndex[event.date]?.formations===0 && snapshotIndex[event.date]?.operations===0, `Phase III snapshot claims unbuilt military data: ${event.date}`);
-  for (const layer of datedLayers) assert(!layer.features.some(feature=>feature.properties.snapshots?.includes(event.date)), `Older military data leaks into Phase III: ${event.date}`);
+  assert(snapshotIndex[event.date]?.areas>0 && snapshotIndex[event.date]?.formations>=20 && snapshotIndex[event.date]?.operations>=5, `Phase III snapshot claims unbuilt military data: ${event.date}`);
+  for (const layer of datedLayers) for (const feature of layer.features.filter(f=>f.properties.snapshots?.includes(event.date))) assert(feature.properties.id.startsWith(`p3-${event.date}-`) && feature.properties.snapshots.length===1, `Stale or undated military record in Phase III: ${event.date}`);
   assert(referenceBorders.features.every(feature=>feature.properties.snapshots.includes(event.date)), `Historical border reference missing for ${event.date}`);
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki','kiev'].every(id=>capitals.some(c=>c.id===id && c.endDate>='1941-09-29')), 'Phase III capital markers are missing');
-console.log('Validated nine Phase III research briefs, 26-date sequence, reference borders and absence of inherited military positions.');
+console.log('Validated nine full published Phase III studies, word counts, citations, 26-date sequence and dated Phase III military reconstructions.');
