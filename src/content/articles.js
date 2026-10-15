@@ -7,4 +7,4 @@ export const articleBySlug = (slug) => articles.find((item) => item.slug === slu
 export const ORIGINAL_AUTHOR = 'R.G. Cruise';
 export const isArticleDraft = article => ['placeholder', 'research-brief'].includes(article?.status);
 
-export const articleStatusLabel = article => article?.status === 'ready-for-review' ? 'Unpublished review draft' : isArticleDraft(article) ? 'Research brief · in preparation' : `Published ${article.publicationDate}`;
+export const articleStatusLabel = article => article?.status === 'ready-for-review' ? 'Study — editorial review pending' : isArticleDraft(article) ? 'Research brief · in preparation' : `Published ${article.publicationDate}`;

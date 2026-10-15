@@ -1,12 +1,12 @@
 # Ostfront Atlas
 
-A React/Vite historical atlas covering the Partition of Poland (five dated maps) and Operation Barbarossa Phases I and II (seventeen dated maps). It uses one MapLibre engine, one country/control palette and dated source records. All 22 map selections are implemented locally as qualified regional interpretations.
+A React/Vite historical atlas with 31 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–III through September 29, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. All 32 studies retain their text and authorship; Phase II publication status now reflects its completed editorial review.
 
 ## Run and verify
 
-Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The current local review runs at http://127.0.0.1:5191/atlases/barbarossa-1941?date=1941-08-25&phase=2.
+Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The current local review runs at http://127.0.0.1:5198/collections.
 
-Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. In this workspace use `../../work/map-venv/bin/python`. This entry point retains the earlier geography/chronology gates and checks all 22 dates and all 23 protected article hashes. `git diff --check` checks whitespace.
+Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. In this workspace use `../../work/map-venv/bin/python`. This entry point retains the earlier geography/chronology gates and checks all 31 dates and all 32 protected article hashes. `git diff --check` checks whitespace.
 
 ## Shared cartography
 
@@ -22,6 +22,16 @@ The current map review package is `../../outputs/all-maps-upgrade/`: coverage ma
 
 ## Articles and release status
 
-Article JSON files in `src/content/articles/` credit R.G. Cruise. The collection contains 32 complete articles: 23 published studies, including all nine Phase III chapters, and nine Phase II review drafts. The Phase III publication release includes its dated military companion maps and the consolidated editorial revisions. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
+Article JSON files in `src/content/articles/` credit R.G. Cruise. This release contains 32 published studies, including the nine Phase II studies whose completed editorial reviews were reconciled on October 15, 2026. The Phase III publication release includes its dated military companion maps and the consolidated editorial revisions. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
 
 The completed Phase III studies are included in the production publication release. `netlify.toml` retains the existing Vite build, `dist` publish directory and client-route fallback. Production deployment and publication are separate actions. See `CURRENT_STATE.md` for the newest checkpoint and older verified live releases.
+
+## Launch preparation — October 15, 2026
+
+The information menu contains About, How to Use this Site (`/guide`), and About the Author. `src/data/informationPages.js` is the shared menu configuration. Reading colors and typography are consolidated in `src/launch.css`; existing faction meanings remain unchanged.
+
+The default build is a review build and stays out of search indexes. It generates static route metadata, a sitemap, robots.txt and response headers. Only after domain-launch authorization, set `VITE_SITE_ORIGIN=https://ostfrontatlas.com` and `VITE_LAUNCH_READY=true` for the production build. Review-pending studies remain excluded from indexing. Do not set these values for previews.
+
+The geography validator accepts `OSTFRONT_AUDIT_DIR` pointing to a writable folder containing `before-hashes.json`, so checks can run in an isolated candidate. This folder receives `data-validation.json`. The launch review package includes that baseline and the audit results.
+
+Deployment of this corrected release to the existing Netlify site is authorized. Custom-domain DNS and search-index activation remain separate. See the accompanying local `launch-review` package for verification, retained historical limitations and domain instructions.

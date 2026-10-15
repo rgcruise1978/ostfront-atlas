@@ -58,7 +58,7 @@ export function makeMapStyle(){
   {id:'neighbor-country-labels',type:'symbol',source:'areaLabels',filter:['==',['get','minor'],false],layout:{'text-field':['get','label'],'text-font':fonts,'text-size':['interpolate',['linear'],['zoom'],2.4,10,4,13,6,18],'text-max-width':7,'text-letter-spacing':.065,'text-allow-overlap':true,'text-ignore-placement':false,'text-padding':5},paint:{'text-color':['case',['boolean',['get','referenceOnly'],false],'#705E63','#26323A'],'text-halo-color':'#FFF9E9','text-halo-width':2,'text-opacity':['case',['boolean',['get','referenceOnly'],false],.82,.98]}},
   point('neighbor-primary-labels','areaLabels','',1,24),
   {...point('neighbor-minor-labels','areaLabels',['get','label'],10,5.2,['==',['get','minor'],true]),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','label'],'text-size':10,'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.7}},
-  {...point('country-subtitle','areaLabels',['get','subtitle'],10,5.2),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','subtitle'],'text-offset':[0,1.5]}},
+  {...point('country-subtitle','areaLabels',['get','subtitle'],10,5.2),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','subtitle'],'text-anchor':'top','text-offset':[0,1.8],'text-max-width':18}},
   {id:'engagement-dot',type:'circle',source:'operations',filter:['all',['==',['get','category'],'engagement'],['==',['geometry-type'],'Point']],paint:{'circle-radius':5,'circle-color':actorColor,'circle-stroke-color':'#FFF8E7','circle-stroke-width':2}},
   point('engagement-label','operations',['get','label'],11,5,['==',['get','category'],'engagement']),
   {id:'checked-symbol',type:'circle',source:'operations',filter:['all',['==',['geometry-type'],'Point'],['==',['get','eventKind'],'checked']],paint:{'circle-radius':8,'circle-color':'#B56D2E','circle-stroke-color':'#FFF9E9','circle-stroke-width':2.5}},
@@ -81,5 +81,11 @@ export function makeMapStyle(){
   {id:'movement-'+kind+'-heads',type:'symbol',source:'operations',filter:['all',['==',['geometry-type'],'Point'],['==',['get','category'],'arrowhead'],['==',['get','movementType'],kind],['!=',['coalesce',['get','domain'],''],'civilian']],layout:{'text-field':['case',['==',['get','domain'],'naval'],'⇢',kind==='retreat'?'▷':kind==='planned'?'›':'▶'],'text-font':fonts,'text-size':kind==='planned'?24:17,'text-rotate':['get','bearing'],'text-rotation-alignment':'map','text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':actorColor,'text-halo-color':'#FFF7E4','text-halo-width':1.2}}
  ]);
  style.layers.splice(insert,0,...lines);
+ // Readable labels retain placement/collision rules and an opaque light halo.
+ for (const layer of style.layers) {
+  const size=layer.layout?.['text-size'];
+  if(typeof size==='number') layer.layout['text-size']=Math.max(12,size);
+  else if(Array.isArray(size)&&size[0]==='interpolate') { const next=[...size];for(let i=4;i<next.length;i+=2)if(typeof next[i]==='number')next[i]=Math.max(12,next[i]);layer.layout['text-size']=next; }
+ }
  return style;
 }

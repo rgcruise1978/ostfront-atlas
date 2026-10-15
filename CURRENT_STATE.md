@@ -1,6 +1,29 @@
+# October 15, 2026 — corrected launch release
+
+This release includes the information pages and secondary menu, archive palette and readability fixes, repaired source-register and menu behavior, route metadata, and completed Phase II publication status. All 32 study narratives and citation text remain unchanged. The nine Phase II reviews match their current body hashes. The latest local checks passed before release; Netlify deployment status is tracked against this release commit. Custom-domain DNS and search-index activation remain separate. Earlier checkpoints below retain their original dates and release states.
+
+# October 15, 2026 — Phase II review status resolved (local only)
+
+All nine Phase II studies were reconciled against completed factual/editorial audits whose body hashes match the current narratives. Citation/source locators, reference numbering and chronology passed; targeted primary-document checks support the opening and closing dates. The stale pending flags are cleared, publication dates and reviewed-body hashes are recorded, and current navigation/copy now reports nine published Phase II studies. All 32 narrative bodies, all maps, and the source register are unchanged. No production or DNS operation occurred. See ../launch-review/phase-ii-review.json and PHASE_II_REVIEW.txt. Earlier checkpoints below describe their historical state.
+
 # Current state — latest local checkpoint
 
+## October 15, 2026 — launch-readiness candidate (local only)
+
+Implemented shared secondary navigation, About, How to Use this Site, and About the Author. Completed studies use study terminology; publication states and all 32 original study files are unchanged. The archive palette, contrast, small text, map labels, and controls have been refined. Sources handles the four older records with missing optional fields; Collections disclosure keyboard behavior is repaired.
+
+All 31 dates retain their historical geometry. Two geographic labels are clarified with sources, and 111 logistics features now have corridor/facility precision wording instead of unrelated headquarters wording. All 405 previous source records remain unchanged; one name-authority source is added. Per-route canonical/social metadata and a guarded production indexing switch prepare the domain launch without activating it.
+
+Build, source/data validation, geography checks, route/citation checks and desktop/mobile contrast review passed. Detailed evidence, limits and remaining access requirements are in the accompanying launch-review package. The ten formerly restricted source URLs remain access-limited; exact matching earlier chapter audits are retained rather than represented as fresh full-source research.
+
+LOCAL ONLY. The GitHub integration rejected review-branch creation with 403 Resource not accessible by integration. No branch, PR, hosted preview, production deployment or DNS change was made. The original working copy remains unchanged; this is a separate review candidate.
+
+Next: review the local candidate and restore repository write access for a hosted preview; domain connection and production publication require the separate launch instruction in the brief.
+
+
 ## 15 October 2026 — Phase III publication release
+
+**LIVE AND VERIFIED:** https://ostfront-atlas.netlify.app/campaigns/barbarossa-1941?phase=3. GitHub PR #9 merged as `7a73f3cedfa35824ad1e47288c6cc61a579bdd73`. Netlify production deploy `6ad0650d2bef6f5782a4ab3b` is ready, published 15 October 2026 at 01:31 Toronto time. All nine public article pages show full chapters and published labels; their 253 citation destinations and contents/return anchors resolve. The collection shows nine published studies. All 61 uploaded source hashes match the tested release.
 
 All nine full Phase III chapters are marked published with 15 October 2026 publication dates. Their narrative text, sources, preparation dates, historical dates and bylines are preserved. Homepage, collection, campaign, guide and map links now identify the published studies. The release includes completed dated military maps and the consolidated article revisions. Publication counts are 23 published articles and nine Phase II review drafts.
 

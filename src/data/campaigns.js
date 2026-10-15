@@ -19,7 +19,7 @@ export const campaigns = [
     introPath: '/campaigns/barbarossa-1941', mapPath: '/atlases/barbarossa-1941', timeline: [...barbarossaTimeline, ...phaseTwoTimeline, ...phaseThreeTimeline],
     phases: [
       { id: '1', title: 'Phase I: The Opening Assault', range: '21 June–9 July 1941', timeline: barbarossaTimeline, status: 'Eight published studies' },
-      { id: '2', title: 'Phase II: The Drive into the Soviet Interior', range: '10 July–25 August 1941', timeline: phaseTwoTimeline, status: 'Nine review drafts · dated regional map syntheses' },
+      { id: '2', title: 'Phase II: The Drive into the Soviet Interior', range: '10 July–25 August 1941', timeline: phaseTwoTimeline, status: 'Nine published studies · dated regional map syntheses' },
       { id: '3', title: 'Phase III: The Battle for Strategic Objectives', range: '26 August–29 September 1941', timeline: phaseThreeTimeline, status: 'Nine published studies · dated regional map syntheses' }
     ],
     map: { ...geography, center: [24, 54], bounds: [[4.5,43],[44,64]], referencePeriod: '1941-opening', placesUrl: '/data/geography/barbarossa-reference-places.geojson', boundaryUrl: geography.boundaryUrl, neighborsUrl: '/data/history/barbarossa-1941-neighbors.geojson', areaLabelsUrl: '/data/history/barbarossa-1941-area-labels.geojson', historicalUrl: '/data/history/barbarossa-1941-opening-frontier.geojson', controlUrl: '/data/history/barbarossa-1941-opening-control.geojson', operationsUrl: null },

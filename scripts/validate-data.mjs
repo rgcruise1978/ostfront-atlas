@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -209,7 +210,8 @@ const militaryLayers = [read('public/data/history/military-control.geojson'), re
 for (const [index,event] of phaseTwo.entries()) {
   const article = articles.get(event.articleSlug);
   assert(article && article.historicalDate === event.date && article.phaseId === '2' && article.campaignId === 'barbarossa-1941', 'Broken Phase II article identity');
-  assert(article.status === 'ready-for-review' && !article.publicationDate && article.preparedDate && article.author === 'R.G. Cruise', 'Phase II studies must remain unpublished review drafts');
+  assert(article.status === 'published' && article.publicationDate && article.preparedDate && article.author === 'R.G. Cruise' && article.reviewedDate, 'Phase II studies require completed review and publication metadata');
+  assert(article.reviewedBodySha256 === createHash('sha256').update(article.body).digest('hex'), `${article.slug}: study text differs from its completed editorial review`);
   const prose = article.body.replace(/<sup\b[\s\S]*?<\/sup>/g, '').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/<[^>]*>/g, ' ').replace(/&amp;/g, '&');
   const words = (prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu) || []).length;
   assert(words >= 3500 && words <= 5000 && words === article.narrativeWordCount, `${article.slug}: substantive prose word count is invalid (${words})`);
@@ -232,7 +234,7 @@ for (const [index,event] of phaseTwo.entries()) {
   assert(datedOperations.every(f=>f.properties.snapshots.every(date=>date===event.date || !phaseTwoDates.includes(date))), 'An unchanged operational feature leaks across Phase II dates');
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id && c.endDate >= '1941-08-25')), 'Primary capital markers expire before the end of Phase II');
-console.log('Validated nine full unpublished Phase II studies, prose counts, citations, continuity and dated regional map records.');
+console.log('Validated nine reviewed and published Phase II studies, reviewed body hashes, prose counts, citations, continuity and dated regional map records.');
 
 const snapshotIndex=read('src/data/map-snapshot-index.json');
 const datedLayers=[...militaryLayers,read('public/data/history/formation-positions.geojson'),read('public/data/history/dated-fronts.geojson'),read('public/data/history/historical-logistics.geojson')];
