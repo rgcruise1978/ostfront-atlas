@@ -22,11 +22,11 @@ export const campaigns = [
       { id: '1', title: 'Phase I: The Opening Assault', range: '21 June–9 July 1941', timeline: barbarossaTimeline, status: 'Eight published studies' },
       { id: '2', title: 'Phase II: The Drive into the Soviet Interior', range: '10 July–25 August 1941', timeline: phaseTwoTimeline, status: 'Nine published studies · dated regional map syntheses' },
       { id: '3', title: 'Phase III: The Battle for Strategic Objectives', range: '26 August–29 September 1941', timeline: phaseThreeTimeline, status: 'Nine published studies · dated regional map syntheses' },
-      { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten dated research briefs · military reconstructions in preparation' }
+      { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten published studies · military reconstructions in preparation' }
     ],
     map: { ...geography, center: [24, 54], bounds: [[4.5,43],[44,64]], referencePeriod: '1941-opening', placesUrl: '/data/geography/barbarossa-reference-places.geojson', boundaryUrl: geography.boundaryUrl, neighborsUrl: '/data/history/barbarossa-1941-neighbors.geojson', areaLabelsUrl: '/data/history/barbarossa-1941-area-labels.geojson', historicalUrl: '/data/history/barbarossa-1941-opening-frontier.geojson', controlUrl: '/data/history/barbarossa-1941-opening-control.geojson', operationsUrl: null },
     status: 'Dated territory and source-qualified operational areas',
-    description: 'Follow 36 selected dates through 14 November 1941. Phase IV now has ten research entries; its dated military reconstructions and full studies remain in preparation.',
+    description: 'Follow 36 selected dates through 14 November 1941. Phase IV has ten published studies; its dated military reconstructions remain in preparation.',
     views: [
       { id: 'theatre', label: 'Full invasion theatre', bounds: [[4.5,43],[44,64]] },
       {id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]},
