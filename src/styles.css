@@ -62,7 +62,7 @@ main{flex:1}
 .article-list h2 a,.source-list h2 a{text-decoration:none;color:#243e49}
 .article-list h2 a:hover,.source-list h2 a:hover{color:#995d38}
 .article-list p{color:#52646a}
-.article-meta{color:#8a6c56!important;text-transform:uppercase;letter-spacing:.08em;font-size:.72rem!important;font-weight:700}
+.article-meta{color:#505a53;text-transform:uppercase;letter-spacing:.08em;font-size:.875rem;font-weight:700}
 .reading-page{max-width:860px}
 .back-link{font-size:.83rem;font-weight:700;text-decoration:none}
 .article-header{padding:45px 0 32px;border-bottom:1px solid #cbd1cc}
