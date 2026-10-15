@@ -1,3 +1,23 @@
+# October 15, 2026 — Phase IV reviewed release candidate
+
+All ten studies have completed the editorial pass and are marked published in this release candidate. They contain 36,129 substantive words, 36 distinct cited sources, and two historical asides per article. Validation, production build and all ten desktop/mobile article checks pass, including citations, contents and reading sequence. Phase IV maps remain geographic references. Production publication is the next step; this entry does not claim the live deployment has changed. See `phase-iv-review/REVIEW.md`, `review.json` and `local-browser.json`.
+
+# October 15, 2026 — Phase IV writing review candidate (local only)
+
+Ten full Phase IV studies are saved in `phase-iv-writing/` and compiled into the ten existing article routes as `ready-for-review`, each with 3,500–5,000 substantive words, linked numbered citations, sections and historical asides. Their chronological reading sequence and author remain R.G. Cruise. The Phase IV map views remain geographic references; no dated military front/control reconstruction is claimed. The collection and campaign copy now distinguish the completed draft studies from pending maps. This work is on branch `phase-iv-on-current` and has not been deployed to production.
+
+# October 15, 2026 — Phase IV first increment on current launch release
+
+Completed: Ten Phase IV dates (30 September–14 November 1941), linked R.G. Cruise research briefs, collection/navigation routes and date-specific geographic reference views. The 29–30 September reading sequence connects Phase III to Phase IV. All 32 previously published studies, their statuses and the newer launch-review layout are retained.
+
+Verified: Data validator, production build, metadata generation and geographic audit pass. The audit checks 31 existing military dates and ten reference-only Phase IV dates. The hosted draft-PR preview renders the collection, briefs and reference map; all PR checks pass.
+
+Outstanding: Dated military control, fronts, formations and movements, plus the ten full studies. Phase IV maps explicitly state that these layers are pending.
+
+Research pending: Inspect and corroborate each proposed operational situation sheet before drawing dated military features. The 14 November entry lacks a matching 14 November sheet in the supplied sequence; the 12 November sheet is background only.
+
+Next: Build the Phase IV geographical foundation and verify all ten date views, then source the priority 2 October military situation.
+
 # October 15, 2026 — corrected launch release
 
 This release includes the information pages and secondary menu, archive palette and readability fixes, repaired source-register and menu behavior, route metadata, and completed Phase II publication status. All 32 study narratives and citation text remain unchanged. The nine Phase II reviews match their current body hashes. The latest local checks passed before release; Netlify deployment status is tracked against this release commit. Custom-domain DNS and search-index activation remain separate. Earlier checkpoints below retain their original dates and release states.
