@@ -2255,6 +2255,2595 @@
         "region": "south",
         "confidence": "approximate sector edge"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.2,
+            59.7
+          ],
+          [
+            29.95,
+            59.65
+          ],
+          [
+            30.5,
+            59.5
+          ],
+          [
+            30.9,
+            59.3
+          ],
+          [
+            31.15,
+            59.02
+          ],
+          [
+            31.35,
+            58.5
+          ],
+          [
+            31.6,
+            58.0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-08-26-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-08-26"
+        ],
+        "startDate": "1941-08-26",
+        "endDate": "1941-08-26",
+        "observationDate": "1941-08-26",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.85,
+            57.7
+          ],
+          [
+            31.85,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.55,
+            54.6
+          ],
+          [
+            33.3,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-08-26-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-08-26"
+        ],
+        "startDate": "1941-08-26",
+        "endDate": "1941-08-26",
+        "observationDate": "1941-08-26",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.76,
+            52.58
+          ],
+          [
+            33.26,
+            52.0
+          ],
+          [
+            33.32,
+            51.95
+          ],
+          [
+            32.6,
+            51.7
+          ],
+          [
+            31.5,
+            51.1
+          ],
+          [
+            30.7,
+            50.9
+          ],
+          [
+            30.55,
+            50.6
+          ],
+          [
+            30.5,
+            50.25
+          ],
+          [
+            31.3,
+            49.8
+          ],
+          [
+            32.1,
+            49.4
+          ],
+          [
+            32.7,
+            49.1
+          ],
+          [
+            33.5,
+            48.8
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-08-26-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-08-26"
+        ],
+        "startDate": "1941-08-26",
+        "endDate": "1941-08-26",
+        "observationDate": "1941-08-26",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.55,
+            59.76
+          ],
+          [
+            30.15,
+            59.6
+          ],
+          [
+            30.75,
+            59.62
+          ],
+          [
+            31.06,
+            59.75
+          ],
+          [
+            31.2,
+            59.02
+          ],
+          [
+            31.5,
+            58.3
+          ],
+          [
+            31.65,
+            58.0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-08-29-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-08-29"
+        ],
+        "startDate": "1941-08-29",
+        "endDate": "1941-08-29",
+        "observationDate": "1941-08-29",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.85,
+            57.7
+          ],
+          [
+            31.85,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.55,
+            54.6
+          ],
+          [
+            33.3,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-08-29-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-08-29"
+        ],
+        "startDate": "1941-08-29",
+        "endDate": "1941-08-29",
+        "observationDate": "1941-08-29",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.76,
+            52.58
+          ],
+          [
+            33.31,
+            52.0
+          ],
+          [
+            33.38,
+            51.78
+          ],
+          [
+            32.96,
+            51.65
+          ],
+          [
+            32.65,
+            51.45
+          ],
+          [
+            31.9,
+            51.1
+          ],
+          [
+            30.6,
+            50.7
+          ],
+          [
+            30.5,
+            50.25
+          ],
+          [
+            31.3,
+            49.8
+          ],
+          [
+            32.1,
+            49.4
+          ],
+          [
+            33.3,
+            49.1
+          ],
+          [
+            33.5,
+            48.8
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-08-29-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-08-29"
+        ],
+        "startDate": "1941-08-29",
+        "endDate": "1941-08-29",
+        "observationDate": "1941-08-29",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.7,
+            59.77
+          ],
+          [
+            30.15,
+            59.65
+          ],
+          [
+            30.68,
+            59.71
+          ],
+          [
+            31.06,
+            59.75
+          ],
+          [
+            31.1,
+            59.87
+          ],
+          [
+            31.3,
+            59.15
+          ],
+          [
+            31.65,
+            58.6
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-03-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-03"
+        ],
+        "startDate": "1941-09-03",
+        "endDate": "1941-09-03",
+        "observationDate": "1941-09-03",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.85,
+            57.7
+          ],
+          [
+            31.85,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.55,
+            54.6
+          ],
+          [
+            33.3,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-03-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-03"
+        ],
+        "startDate": "1941-09-03",
+        "endDate": "1941-09-03",
+        "observationDate": "1941-09-03",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.76,
+            52.58
+          ],
+          [
+            33.38,
+            52.0
+          ],
+          [
+            33.45,
+            51.65
+          ],
+          [
+            33.1,
+            51.4
+          ],
+          [
+            32.75,
+            51.2
+          ],
+          [
+            31.9,
+            51.1
+          ],
+          [
+            30.6,
+            50.7
+          ],
+          [
+            30.5,
+            50.25
+          ],
+          [
+            31.3,
+            49.8
+          ],
+          [
+            32.1,
+            49.4
+          ],
+          [
+            33.3,
+            49.1
+          ],
+          [
+            33.5,
+            48.8
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-03-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-03"
+        ],
+        "startDate": "1941-09-03",
+        "endDate": "1941-09-03",
+        "observationDate": "1941-09-03",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.75,
+            59.82
+          ],
+          [
+            30.18,
+            59.67
+          ],
+          [
+            30.65,
+            59.73
+          ],
+          [
+            30.8,
+            59.82
+          ],
+          [
+            30.99,
+            59.85
+          ],
+          [
+            31.03,
+            59.94
+          ],
+          [
+            31.18,
+            59.87
+          ],
+          [
+            31.32,
+            59.5
+          ],
+          [
+            31.45,
+            59.12
+          ],
+          [
+            31.75,
+            58.5
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-08-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-08"
+        ],
+        "startDate": "1941-09-08",
+        "endDate": "1941-09-08",
+        "observationDate": "1941-09-08",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4,
+            57.7
+          ],
+          [
+            32.7,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.12,
+            54.75
+          ],
+          [
+            32.93,
+            54.58
+          ],
+          [
+            33.0,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-08-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-08"
+        ],
+        "startDate": "1941-09-08",
+        "endDate": "1941-09-08",
+        "observationDate": "1941-09-08",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.76,
+            52.58
+          ],
+          [
+            33.2,
+            51.5
+          ],
+          [
+            33.2,
+            51.24
+          ],
+          [
+            33.0,
+            51.05
+          ],
+          [
+            32.3,
+            50.9
+          ],
+          [
+            31.3,
+            50.85
+          ],
+          [
+            30.6,
+            50.6
+          ],
+          [
+            30.5,
+            50.25
+          ],
+          [
+            31.3,
+            49.8
+          ],
+          [
+            32.1,
+            49.4
+          ],
+          [
+            33.42,
+            49.07
+          ],
+          [
+            33.6,
+            49.15
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-08-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-08"
+        ],
+        "startDate": "1941-09-08",
+        "endDate": "1941-09-08",
+        "observationDate": "1941-09-08",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.76,
+            59.88
+          ],
+          [
+            30.12,
+            59.64
+          ],
+          [
+            30.62,
+            59.75
+          ],
+          [
+            30.85,
+            59.83
+          ],
+          [
+            30.99,
+            59.85
+          ],
+          [
+            31.03,
+            59.94
+          ],
+          [
+            31.18,
+            59.87
+          ],
+          [
+            31.32,
+            59.5
+          ],
+          [
+            31.45,
+            59.12
+          ],
+          [
+            31.75,
+            58.5
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-12-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-12"
+        ],
+        "startDate": "1941-09-12",
+        "endDate": "1941-09-12",
+        "observationDate": "1941-09-12",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4,
+            57.7
+          ],
+          [
+            32.7,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.12,
+            54.75
+          ],
+          [
+            32.93,
+            54.58
+          ],
+          [
+            33.0,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-12-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-12"
+        ],
+        "startDate": "1941-09-12",
+        "endDate": "1941-09-12",
+        "observationDate": "1941-09-12",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2,
+            52.0
+          ],
+          [
+            33.35,
+            51.3
+          ],
+          [
+            33.48,
+            50.75
+          ],
+          [
+            33.1,
+            50.58
+          ],
+          [
+            32.6,
+            50.75
+          ],
+          [
+            31.3,
+            50.85
+          ],
+          [
+            30.6,
+            50.6
+          ],
+          [
+            30.5,
+            50.25
+          ],
+          [
+            31.3,
+            49.8
+          ],
+          [
+            32.1,
+            49.4
+          ],
+          [
+            33.1,
+            49.9
+          ],
+          [
+            33.25,
+            50.0
+          ],
+          [
+            33.65,
+            49.7
+          ],
+          [
+            34.2,
+            49.2
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-12-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-12"
+        ],
+        "startDate": "1941-09-12",
+        "endDate": "1941-09-12",
+        "observationDate": "1941-09-12",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.75,
+            59.91
+          ],
+          [
+            29.9,
+            59.88
+          ],
+          [
+            30.15,
+            59.75
+          ],
+          [
+            30.4,
+            59.79
+          ],
+          [
+            30.62,
+            59.75
+          ],
+          [
+            30.99,
+            59.85
+          ],
+          [
+            31.03,
+            59.94
+          ],
+          [
+            31.18,
+            59.87
+          ],
+          [
+            31.32,
+            59.5
+          ],
+          [
+            31.45,
+            59.12
+          ],
+          [
+            31.75,
+            58.5
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-16-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-16"
+        ],
+        "startDate": "1941-09-16",
+        "endDate": "1941-09-16",
+        "observationDate": "1941-09-16",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4,
+            57.7
+          ],
+          [
+            32.7,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.12,
+            54.75
+          ],
+          [
+            32.93,
+            54.58
+          ],
+          [
+            33.0,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-16-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-16"
+        ],
+        "startDate": "1941-09-16",
+        "endDate": "1941-09-16",
+        "observationDate": "1941-09-16",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.25,
+            52.0
+          ],
+          [
+            33.8,
+            51.7
+          ],
+          [
+            34.0,
+            51.1
+          ],
+          [
+            33.6,
+            50.85
+          ],
+          [
+            33.5,
+            50.45
+          ],
+          [
+            33.3,
+            50.1
+          ],
+          [
+            33.2,
+            49.8
+          ],
+          [
+            34.15,
+            49.65
+          ],
+          [
+            34.3,
+            49.15
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-16-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-16"
+        ],
+        "startDate": "1941-09-16",
+        "endDate": "1941-09-16",
+        "observationDate": "1941-09-16",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.75,
+            59.91
+          ],
+          [
+            29.9,
+            59.88
+          ],
+          [
+            30.15,
+            59.75
+          ],
+          [
+            30.4,
+            59.79
+          ],
+          [
+            30.62,
+            59.75
+          ],
+          [
+            30.99,
+            59.85
+          ],
+          [
+            31.03,
+            59.94
+          ],
+          [
+            31.18,
+            59.87
+          ],
+          [
+            31.32,
+            59.5
+          ],
+          [
+            31.45,
+            59.12
+          ],
+          [
+            31.75,
+            58.5
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-19-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-19"
+        ],
+        "startDate": "1941-09-19",
+        "endDate": "1941-09-19",
+        "observationDate": "1941-09-19",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4,
+            57.7
+          ],
+          [
+            32.7,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.12,
+            54.75
+          ],
+          [
+            32.93,
+            54.58
+          ],
+          [
+            33.0,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-19-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-19"
+        ],
+        "startDate": "1941-09-19",
+        "endDate": "1941-09-19",
+        "observationDate": "1941-09-19",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.25,
+            52.0
+          ],
+          [
+            33.8,
+            51.7
+          ],
+          [
+            34.0,
+            51.1
+          ],
+          [
+            33.9,
+            50.7
+          ],
+          [
+            33.65,
+            50.4
+          ],
+          [
+            33.4,
+            50.1
+          ],
+          [
+            33.75,
+            49.8
+          ],
+          [
+            34.5,
+            49.65
+          ],
+          [
+            34.6,
+            49.4
+          ],
+          [
+            35.1,
+            48.5
+          ],
+          [
+            35.1,
+            48.15
+          ],
+          [
+            34.4,
+            47.7
+          ],
+          [
+            33.3,
+            47.4
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-19-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-19"
+        ],
+        "startDate": "1941-09-19",
+        "endDate": "1941-09-19",
+        "observationDate": "1941-09-19",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.75,
+            59.91
+          ],
+          [
+            29.9,
+            59.88
+          ],
+          [
+            30.15,
+            59.75
+          ],
+          [
+            30.4,
+            59.79
+          ],
+          [
+            30.62,
+            59.75
+          ],
+          [
+            30.99,
+            59.85
+          ],
+          [
+            31.03,
+            59.94
+          ],
+          [
+            31.18,
+            59.87
+          ],
+          [
+            31.32,
+            59.5
+          ],
+          [
+            31.45,
+            59.12
+          ],
+          [
+            31.75,
+            58.5
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-26-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-26"
+        ],
+        "startDate": "1941-09-26",
+        "endDate": "1941-09-26",
+        "observationDate": "1941-09-26",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4,
+            57.7
+          ],
+          [
+            32.7,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.12,
+            54.75
+          ],
+          [
+            32.93,
+            54.58
+          ],
+          [
+            33.0,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-26-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-26"
+        ],
+        "startDate": "1941-09-26",
+        "endDate": "1941-09-26",
+        "observationDate": "1941-09-26",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.25,
+            52.0
+          ],
+          [
+            33.91,
+            51.68
+          ],
+          [
+            34.43,
+            51.17
+          ],
+          [
+            34.7,
+            50.65
+          ],
+          [
+            35.2,
+            50.1
+          ],
+          [
+            35.55,
+            49.9
+          ],
+          [
+            35.7,
+            49.2
+          ],
+          [
+            35.7,
+            48.6
+          ],
+          [
+            35.0,
+            48.1
+          ],
+          [
+            34.95,
+            47.7
+          ],
+          [
+            35.1,
+            47.3
+          ],
+          [
+            34.3,
+            47.2
+          ],
+          [
+            33.69,
+            46.16
+          ],
+          [
+            32.7,
+            46.55
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-26-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-26"
+        ],
+        "startDate": "1941-09-26",
+        "endDate": "1941-09-26",
+        "observationDate": "1941-09-26",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.18,
+            59.56
+          ],
+          [
+            29.75,
+            59.91
+          ],
+          [
+            29.9,
+            59.88
+          ],
+          [
+            30.15,
+            59.75
+          ],
+          [
+            30.4,
+            59.79
+          ],
+          [
+            30.62,
+            59.75
+          ],
+          [
+            30.99,
+            59.85
+          ],
+          [
+            31.03,
+            59.94
+          ],
+          [
+            31.18,
+            59.87
+          ],
+          [
+            31.32,
+            59.5
+          ],
+          [
+            31.45,
+            59.12
+          ],
+          [
+            31.75,
+            58.5
+          ],
+          [
+            32.0,
+            58.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-29-front-north",
+        "title": "Approximate contact · north",
+        "name": "Approximate contact · north",
+        "label": "Approximate contact · north",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-29"
+        ],
+        "startDate": "1941-09-29",
+        "endDate": "1941-09-29",
+        "observationDate": "1941-09-29",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "north",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4,
+            57.7
+          ],
+          [
+            32.7,
+            57.1
+          ],
+          [
+            32.45,
+            56.0
+          ],
+          [
+            33.0,
+            55.5
+          ],
+          [
+            33.35,
+            55.0
+          ],
+          [
+            33.12,
+            54.75
+          ],
+          [
+            32.93,
+            54.58
+          ],
+          [
+            33.0,
+            54.2
+          ],
+          [
+            33.2,
+            53.5
+          ],
+          [
+            33.0,
+            53.1
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-29-front-center",
+        "title": "Approximate contact · center",
+        "name": "Approximate contact · center",
+        "label": "Approximate contact · center",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-29"
+        ],
+        "startDate": "1941-09-29",
+        "endDate": "1941-09-29",
+        "observationDate": "1941-09-29",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "center",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.25,
+            52.0
+          ],
+          [
+            33.91,
+            51.68
+          ],
+          [
+            34.43,
+            51.17
+          ],
+          [
+            34.7,
+            50.65
+          ],
+          [
+            35.2,
+            50.1
+          ],
+          [
+            35.55,
+            49.9
+          ],
+          [
+            35.7,
+            49.2
+          ],
+          [
+            35.7,
+            48.6
+          ],
+          [
+            35.0,
+            48.1
+          ],
+          [
+            34.95,
+            47.7
+          ],
+          [
+            35.1,
+            47.3
+          ],
+          [
+            34.3,
+            47.2
+          ],
+          [
+            33.69,
+            46.16
+          ],
+          [
+            32.7,
+            46.55
+          ],
+          [
+            32.0,
+            46.7
+          ]
+        ]
+      },
+      "properties": {
+        "id": "p3-1941-09-29-front-south",
+        "title": "Approximate contact · south",
+        "name": "Approximate contact · south",
+        "label": "Approximate contact · south",
+        "actor": "Germany",
+        "snapshots": [
+          "1941-09-29"
+        ],
+        "startDate": "1941-09-29",
+        "endDate": "1941-09-29",
+        "observationDate": "1941-09-29",
+        "reportingTime": "Dated synthesis; consult individual reference locators",
+        "operationalContext": true,
+        "sourceIds": [
+          "cmh-blitz",
+          "p3-map-blau10",
+          "blau-planning",
+          "p3-guderian-flank"
+        ],
+        "sourceLocators": {
+          "cmh-blitz": [
+            "Chapter 2, printed pp. 32–35; operations in September and the transition to TAIFUN"
+          ],
+          "p3-map-blau10": [
+            "Map 10, printed p. 74 (PDF p. 85): mid-September 1941, regional command sectors"
+          ],
+          "blau-planning": [
+            "Printed pp. 73–78, especially Map 10 (mid-September) and dated end-of-month assessment"
+          ],
+          "p3-guderian-flank": [
+            "Section IV, dated 25 August–26 September sequence; retrospective Army historical study"
+          ]
+        },
+        "accuracy": "Regional interpretation; not a surveyed tactical position",
+        "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+        "note": "Regional documentary synthesis of named operational sectors. Geometry is an original interpretation, not digitized from an accessible same-day German sheet. Connecting edges have lower confidence; hatching denotes reported forward reach rather than secure occupation. See the dated formations, events and feature references for positive position evidence.",
+        "evidenceStatus": "reported / interpreted",
+        "locationType": "approximate regional contact",
+        "category": "front",
+        "region": "south",
+        "confidence": "generalized; gaps are not observed continuous trench lines"
+      }
     }
   ]
 }
