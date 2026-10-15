@@ -34,3 +34,5 @@
 .map-workstation.is-presenting .map-column{display:grid;height:100%;grid-template-rows:auto auto minmax(200px,1fr) auto}
 .map-workstation.is-presenting .atlas-map{height:100%;min-height:0}
 .map-workstation.is-presenting .map-frame{height:100%;min-height:0}
+
+.map-study-context>details{border-top:1px solid #b8b0a1;padding:.75rem 0}.map-study-context summary{font-weight:700;cursor:pointer;line-height:1.45}.map-context-passage{padding:.75rem 0;border-bottom:1px solid #d6cebd}.map-context-passage p{font:1rem/1.7 Georgia,serif;margin:.5rem 0}.map-context-passage small{display:block;line-height:1.5;margin:.35rem 0}.map-context-passage ul{padding-left:1.15rem}.map-context-passage>details{font-size:.9rem}.context-feature-links{display:flex;flex-wrap:wrap;gap:.35rem;max-height:12rem;overflow:auto}.context-feature-links button{font-size:.82rem;text-align:left;max-width:100%;white-space:normal}.map-destination-card{padding:1rem;background:#e8dfc9;border-left:3px solid #704775;margin:1rem 0}.feature-article-links{display:grid;gap:.5rem;padding:.75rem 0}.section-map-link{display:block;font-size:.8rem;margin:.2rem 0 .5rem}
