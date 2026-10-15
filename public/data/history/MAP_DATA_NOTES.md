@@ -2,9 +2,11 @@
 
 Prepared 14 October 2026. Regional reconstructions, not cadastral boundaries.
 
-## Latest local enrichment — all 22 selections
+## Current coverage — all 31 selections
 
-The shared system now includes nine Phase II dated regional situations, 400 dated formation records, 27 operational contact segments and schematic communication corridors. July 10/16/23 printed evening sheets and the U.S. Army Map 8 for July 30 were inspected. Five August German daily sheets were inaccessible; named operations use published Soviet reports and U.S. Army histories, with lower-confidence connecting edges explicitly qualified. These are original geographic interpretations, not georeferenced copies or secure-control claims. Full source locators and unresolved details are in `../../../../../outputs/all-maps-upgrade/RESEARCH_NOTES.txt` and each feature's source/accuracy fields.
+The system also includes nine Phase III dates from August 26 through September 29, 1941, with feature-specific observation dates, source locators, and regional precision notes. Earlier research qualifications below remain applicable to their stated dates.
+
+The shared system includes nine Phase II dated regional situations, 400 dated formation records, 27 operational contact segments and schematic communication corridors. July 10/16/23 printed evening sheets and the U.S. Army Map 8 for July 30 were inspected. Five August German daily sheets were inaccessible; named operations use published Soviet reports and U.S. Army histories, with lower-confidence connecting edges explicitly qualified. These are original geographic interpretations, not georeferenced copies or secure-control claims. Full source locators and unresolved details are in `../../../../../outputs/all-maps-upgrade/RESEARCH_NOTES.txt` and each feature's source/accuracy fields.
 
 `additional-natural-rivers.geojson` contains Mshaga and Sinyukha natural courses adapted from OpenStreetMap ways, with upstream IDs and © OpenStreetMap contributors, ODbL attribution. It remains a separate ODbL physical dataset and is not relicensed as CC BY-SA political geometry. Modern channel geometry does not prove the exact 1941 course or a dated bridge condition. `reference-borders.geojson` preserves 23 August 1939 identities across later occupation. Country and controlling power remain distinct. Full research scans remain outside `public/`.
 
@@ -39,8 +41,8 @@ Local limits that remain unresolved:
 - Vilnius's transfer to Lithuania and subsequent incorporation into the Lithuanian SSR are not represented by a surveyed internal Soviet-republic boundary. Baltic prewar outlines identify historic sovereignty; they are not asserted to be exact 1941 SSR administrative borders.
 - Peripheral land outside the verified European states is explicitly hatched as unresolved historical status, rather than silently shown as an independent state.
 
-Historical rail and road overlays are omitted because a suitably verified, reusable period dataset was not established.
+The optional transport overlay contains schematic communications corridors and selected nodes. It does not reproduce surveyed period track or road geometry, establish an operating railhead, or imply continuous service. Each feature retains its source and precision notes.
 
 ## Verification
 
-`validate-data.mjs` preserves all article routes, citations, authors and the five Polish / eight Barbarossa selections. `validate-map-geography.py` checks polygon validity, adjacent-region overlap, source references, date ranges, primary city membership, chronology, operational changes and byte-identical article files against the start-of-task backup. Those tests establish technical and chronology coherence; they do not certify the unresolved fine boundaries above.
+`validate-data.mjs` checks all 32 study routes, citations and authors, plus five Polish and 26 Barbarossa selections. `validate-map-geography.py` checks polygon validity, adjacent-region overlap, source references, date ranges, primary city membership, chronology, operational changes and byte-identical article files against the start-of-task backup. Those tests establish technical and chronology coherence; they do not certify the unresolved fine boundaries above.
