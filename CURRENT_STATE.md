@@ -1,4 +1,113 @@
-# Current state — launch expansion checkpoint
+# Current state — latest local checkpoint
+
+## 14 October 2026 — academic editorial factual audit checkpoint
+
+All 23 revisions remain saved locally. The final factual audit now has 12 completed chapter records, covering all Poland studies and Barbarossa through 3 July. Corrections include chronology, institutional names and precise source locators. The remaining eleven chapters are being reconciled with the saved research; review exports and archives are pending refresh. No deployment. Later Phase III work in this shared checkout is preserved.
+
+## 14 October 2026 — Phase III eastern geographic reference completed locally
+
+The nine Phase III map dates now show a faint, hatched eastern **preinvasion political reference** beneath the dated, source-qualified political areas. It identifies the Soviet Union's 1939 outline, former eastern Poland under Soviet incorporation claim, occupied Estonia, and the Finnish territories ceded in 1940. The map, feature details, guide and PNG export identify this as earlier political geography, not Soviet or German military control on the selected August or September date. The current-control dataset still expires on 25 August in those changing areas; no older military positions were extended into Phase III.
+
+Four source-linked reference cities were added: Yelnya, Shlisselburg, Novgorod-Seversk and Lokhvytsia. The 29 August, 3 September and 8 September map defaults now open Tallinn, Yelnya and Leningrad respectively. Existing rivers, Lake Ladoga, 1939 borders, capitals and stable political shades remain available. The new geography was checked in the browser on Phase III map dates and against the preceding 25 August view. The validator, Vite production build and Git whitespace check pass. Exact checks, source notes and before/completed archives are in `../../outputs/barbarossa-phase-iii-geography/`.
+
+This checkpoint is **local only**. It does not supply a dated September front, military control, formations or movements. Next: source and reconstruct the 8 September Leningrad military situation, then the other eight dates. The nine full Phase III chapters remain unwritten. No Git push or Netlify deployment occurred; the earlier 23-study editorial revision also remains local only.
+
+## 14 October 2026 — Barbarossa Phase III Increment One complete locally
+
+Nine fixed Phase III dates (26 August–29 September 1941) are connected to the shared campaign and map navigation. Nine R.G. Cruise article records are research briefs with source pointers, detailed outlines, chronology cautions and previous/next links; they are not finished chapters. The 25/26 August phase boundary works and preserves the chosen region. The Poland navigation range is 1 September–26 October while its 23 August prelude remains in the article sequence.
+
+MAP STATUS: Phase III views use physical geography, cities, 1939 reference borders, 41 capital/admin markers and stable political reference shading. Changing eastern areas are unshaded pending verified control reconstructions. No 25 August formations, arrows, fronts or operational areas are reused as September military positions. Each Phase III view and PNG export says that dated military detail is pending.
+
+VERIFIED: Data validator, Vite production build, all nine brief routes, campaign navigation, four representative Phase III map views, 25/26 August region retention, and 390px mobile controls/no overflow pass. Files and exact check list: ../../outputs/barbarossa-phase-iii/REVIEW_REPORT.txt, CHECKS.json, before-state.zip and completed-source.zip. This checkpoint is local only. The prior 23-study academic editorial revisions also remain local only; no Git push or Netlify deployment occurred.
+
+NEXT: Finish the source-checked Phase III geographic/control foundation, then begin date-specific military reconstruction with the 8 September Leningrad situation. The nine full articles remain separate later writing tasks.
+
+## 14 October 2026 — 23-study academic editorial revision complete for local review
+
+All 23 existing Historical Studies have saved academic prose and citation revisions: six Poland, eight Phase I and nine Phase II. Original R.G. Cruise authorship, slugs, dates and publication status remain. Phase II is unpublished. The data validator, build, citation anchors, all 23 routes, desktop/390px reading, collection order, map/index returns and preservation hashes pass. One broken collection link and one Odessa source URL were repaired. The review index, HTML/text/JSON copies, before-state and completed archive, insight/claim ledgers, checks and screenshots are in ../../outputs/article-academic-revision/. A new independent claim-by-claim audit of every inherited assertion is not certified; see SOURCE_VERIFICATION_NOTES.txt before publication. No deployment.
+
+## 14 October 2026 — all 23 academic editorial revisions saved locally
+
+LOCAL ONLY. All six Poland, eight Barbarossa Phase I and nine Phase II studies have been edited and installed: 84,395 substantive words, 56 asides, 925 citation occurrences and 275 distinct cited sources. Each article has its own verified illuminating detail with an inspected-passage locator. Shared prose conventions, argument, transitions, visible source locators and reading-time metadata were revised. Original authorship (R.G. Cruise), dates, slugs, sequence and publication states are preserved. Phase II remains unpublished `ready-for-review`; its nine chapters contain 3,513–3,714 substantive words.
+
+INTEGRATION VERIFIED. All 23 local routes were opened; citation numbering, targets, returns, contents, review labels and internal destinations checked. Actual citation round trips passed across the three collections. Representative desktop and 390px mobile chapters and an aside were visually inspected without overflow. Filtered-index return, saved map region/camera parameters and the Poland introduction's first position passed. One inherited `/collections/poland-1939` article link was corrected to `/campaigns/poland-1939`. Existing data validator, production build and whitespace checks pass. Build warnings about dependency directives and bundle size remain non-fatal.
+
+PRESERVATION. All 82 other files in the before-state protection manifest retain their hashes, including map code, geography, operational records and styles. Changes are limited to the 23 article JSON files, one renderer line using the corrected reading-time metadata, this checkpoint and one existing source-registry record. The Odessa directive source keeps its ID and now links to an inspected reproduction instead of the inaccessible indexed mirror. No map interpretation was altered. No deployment, push or publication occurred.
+
+HISTORICAL REVIEW LIMIT. New insights and selected material claims were checked against identified passages; prior research and article-specific source qualifications were retained. A new exhaustive independent audit of every inherited factual assertion is not certified. This remains an unfinished acceptance requirement, distinct from completed editorial and technical work. The matrix and SOURCE_VERIFICATION_NOTES.txt say so explicitly. Transcription anomalies, retrospective-testimony dates, partial scholarly access and unavailable original archival images remain identified. Do not represent the package as fully fact-checked or publication-approved.
+
+RECOVERY / NEXT. Review at http://127.0.0.1:5191/articles. Package: ../../outputs/article-academic-revision/REVIEW_INDEX.html and REVIEW_REPORT.txt, 23 installed JSON copies, TXT/HTML exports, completion and insight registers, source/continuity notes, browser evidence, before-state.zip and completed-source.zip. Continue the outstanding comprehensive inherited-claim audit chronologically from the Poland introduction, reusing the saved research and current article versions; do not redo the finished prose or map work. Deployment still requires a separate instruction.
+
+## 14 October 2026 — all 22 dated maps upgraded locally
+
+LOCAL REVIEW ONLY: Shared country/control palette, default independent country labels, clear reference/current borders, 400 dated formation records and commanders, separate movement types, transport corridors, search/source panels, presets, responsive presentation and 2560 × 1440 PNG export are implemented. Phase II now has nine dated regional situations rather than a fixed June 21 reference. Lithuania/Latvia occupation and Romanian return to Bessarabia have separate dated records. Mshaga/Sinyukha natural courses are included with separate ODbL attribution.
+
+VERIFICATION: All 22 dates have overview and regional evidence (44 captures), with representative final exports from Poland and both Barbarossa phases. Data/geography checks, production build, 390px layouts, commander search, phase continuity and article map return are recorded in ../../outputs/all-maps-upgrade/. All 23 article hashes remain unchanged; the nine Phase II chapters remain unpublished review drafts.
+
+PRECISION: Original city-anchored operational syntheses are not surveyed fronts or secure-control limits. The July 10/16/23 sheets and U.S. Army July 30 map were inspected; five August same-day German sheets were inaccessible. August connecting edges are lower confidence. Fine Finnish/Romanian operational allocations, some administrative perimeters, complete lower OOB and functioning railheads remain partial. Exact limits are in the coverage matrix and RESEARCH_NOTES.txt.
+
+RECOVERY / NEXT: The package contains the before-state ZIP, recoverable completed source archive, matrix, style guide, research notes, checks and PNGs. Preview: http://127.0.0.1:5191/atlases/barbarossa-1941?date=1941-08-25&phase=2. Next step is user review of this local map package; production deployment requires a separate instruction. Older checkpoints below describe earlier states.
+
+## 14 October 2026 — nine full Phase II chapters prepared locally for review
+
+LOCAL ONLY: Replaced all nine Phase II research briefs with full chapters by R.G. Cruise, each 3,500–5,000 substantive words. 32,554 substantive prose words; 72 sections; 18 asides; 289 numbered citation occurrences. All are `ready-for-review`, with preparation dates and no publication dates. No deployment was performed for this assignment; the live-site checkpoint below describes the earlier release.
+
+INTEGRATION: Existing article typography, asides, linked numbered citations with locators and return links, contents navigation and chronological links are retained. Homepage, collection, campaign, index, map-entry link and guide labels distinguish unpublished review drafts. A review-status filter is available.
+
+VERIFIED: Data validator and build pass. Nine rendered article routes, citation/return and contents targets, actual reference clicks, campaign labels and filtered-index return pass. Desktop and 390px mobile layouts were inspected. All 43 baseline-protected files, including fourteen published article records and existing map data, are unchanged.
+
+RECOVERY: ../../outputs/barbarossa-phase-ii-chapters/ contains the before-writing backup, completed checkpoint archive, prose files, source records, research qualifications, continuity ledger, later-cartography findings and REVIEW_REPORT.txt. Local preview: http://127.0.0.1:5190/campaigns/barbarossa-1941?phase=2.
+
+NEXT: Editorial review of the nine chapters. Publication/deployment and dated Phase II military reconstruction are separate steps; do not treat the existing June 21 reference maps as completed July/August military snapshots.
+
+## 14 October 2026 — all collections and completed work published
+
+LIVE: https://ostfront-atlas.netlify.app/ now exposes the Partition of Poland and both Barbarossa phases. Collection hub /collections, Poland landing page /campaigns/poland-1939, shared phase navigation, breadcrumbs, searchable study and source indexes, accurate status labels and /guide are deployed. The revised Poland introduction is first and cited. Completed Poland revisions, shared geography and qualified Phase I military detail are live. All 23 article records are accessible: fourteen published articles and nine Phase II research briefs. All 22 map dates are selectable. Phase II retains the labelled June 21 opening reference while its military snapshots remain in preparation.
+
+VERIFIED: GitHub PR #7 merged as 7322dbe1f292f620421ebbcea3526e2dfe4a3250. Netlify production deploy 6acff09d61a5bea9bf5d2295 is ready, published 14 October at 17:14 Toronto time. All 31 main/study pages and all 22 map dates were checked publicly; no map errors or missing citation anchors. Local and hosted 390px layouts have no overflow. Build/data checks, 392 internal destinations, search/reset/filter behavior, source fragments, phase continuity and saved camera return pass. All 66 uploaded file hashes matched the tested release. All article text, publication dates and research statuses matched the latest completed local records. Evidence and recoverable source archives: ../../outputs/site-navigation-release/.
+
+CONTINUITY: Latest source is synchronized into this working project. The older draft map PR #5 is superseded by the map content included in PR #7; do not merge its older article/source state into the current release. Older local-only and unpublished notes below are historical checkpoints. Repository deployment configuration and established article URLs are preserved.
+
+RESEARCH PENDING: The nine Phase II full studies and military snapshots; documented fine boundary limits, historical transport, Mshaga/Sinyukha geometry and remaining period names. NEXT: Complete the Phase II river and period-place audit, beginning with Smolensk and Luga.
+
+
+## 14 October 2026 — consolidated collection release
+
+Completed source: shared map and historical publication updates, all 14 completed articles and nine Phase II research briefs, three equally discoverable homepage collections, /collections and the Poland landing page, grouped phase navigation, breadcrumbs, searchable study/source indexes and /guide. The Poland introduction leads its reading sequence; its revised cited text is included. Source IDs, publication dates and all 23 article bodies match the latest completed workspace records. Phase II retains its explicit June 21 reference and research status.
+
+Verified release candidate: build/data validation and whitespace checks pass; 31 page routes, all 22 map dates and 392 internal link targets pass, including downloadable JSON references. Six primary layouts pass at a measured 390px width; secondary map panels start collapsed and the map remains 420px high. Search, filters, no-results/reset behavior, filtered-index return links, source fragments, keyboard menu close and July 9–10 continuity pass. Regional camera loading fix retained.
+
+Deployment: production publication will be verified after the consolidated release PR is merged. Record the observed release commit, PR and Netlify deployment in the completion checkpoint. This source checkpoint does not itself confirm production deployment.
+
+Research pending: nine Phase II full studies and military snapshots; specific fine boundaries, historical transport, Mshaga/Sinyukha geometry and remaining period place names. Next: complete the Phase II river and period-place audit beginning with Smolensk and Luga.
+
+
+## 14 October 2026 — Phase II increment 1 completed locally
+
+Completed: Operation Barbarossa now has Phase I and Phase II selectors on the shared atlas and collection page. Nine fixed Phase II dates (10, 16, 23, 30 July; 6, 12, 19, 21, 25 August) have routes, R.G. Cruise metadata, full supplied editorial outlines, candidate references and chronology cautions. Map and study navigation cross July 9–10 continuously. Study return links preserve date, region and camera position. Added Smolensk, Uman, Luga, Gomel and Odessa camera presets; extended capital marker designations through August 25. Poland keeps all five actual supported dates, including its August prelude, and its 1 September–26 October navigation range.
+
+Verified: Build and data validator pass; nine map dates and nine brief pages render, existing Poland/Phase I maps load, July 9–10 transitions work, region/capital controls retain dates, article return links retain the camera, and 390px mobile has no overflow with a 420px map and collapsed secondary panels. All fourteen existing article bodies, publication dates and source associations are unchanged. July 9 receives only a next-study metadata link. Source register grows by two checked starting references. Evidence, before files, source archive and the exact brief are in ../../outputs/barbarossa-phase-ii/. Local preview: http://127.0.0.1:5183/campaigns/barbarossa-1941?phase=2.
+
+Outstanding: The nine full studies, dated military positions, battle/event markers and daily control are not implemented. Phase II country colours explicitly show the 21 June opening reference. Phase I military positions are not carried forward. National capital markers identify cities, not sovereign or military control. Production remains the published Phase I release; this increment is saved locally on codex/barbarossa-phase-ii-foundation, without changing the working branch.
+
+Historical sources pending: LOC Phase II sheet identifiers and printed dates (collection fetch returned HTTP 403); authenticated command documents; Soviet operational corroboration; detailed Glantz page locators; remaining required river geometry and 1941 place names. Geography inventory is saved in geography-coverage.json. No external map artwork was copied.
+
+Next: Complete the Phase II river and period-place coverage audit and add verified missing features, beginning with the Smolensk and Luga regional views (Increment 2).
+
+
+## 14 October 2026 — All eight Barbarossa studies published
+
+All eight complete Phase I Historical Studies are live at https://ostfront-atlas.netlify.app/campaigns/barbarossa-1941. GitHub PR #6 merged as 72f5109b135641d80824341b2eb11673d769538b; Netlify production deploy 6acfdecb0eaad42a7c1411bf is ready (19:58 UTC). All eight public articles render full content with 64 sections, 24 asides and 343 working citation anchors. A superscript/source/return round trip also passed. Publication date: 14 October 2026. The local eight JSON records, collection/home labels and validator have been synchronized and validated.
+
+The release was isolated from current production main: sixteen files, with no map data or Poland article changes. The separate local redesign and map-upgrade draft PR #5 remain unpublished. The local source registry still contains additional map research entries beyond the production registry. Do not overwrite production with the entire local working tree. Publication evidence and a release archive are in `outputs/barbarossa-publication` at the project base. Earlier statements below that the eight studies are unpublished are superseded by this checkpoint.
+
+
+## 14 October 2026 — Barbarossa studies completed locally
+
+All eight Phase I Historical Studies are complete and installed for local review: 28,751 narrative words, 64 sections, 24 asides and 343 citation links to 68 distinct references. They retain their identities, dates, author R.G. Cruise and atlas connections. Status is `ready-for-review`, with no publication date. Sixty sources were added; all 187 existing registry entries are unchanged. The older notes below describing the eight studies as unwritten are superseded by this checkpoint.
+
+The data validator and build pass. All 54 files in the writing-task protection manifest are unchanged, including the Poland articles and map data. Desktop and mobile review checks passed. The final Library of Congress URL recheck met its security gate; the underlying printed map sheets had already been inspected. Detailed counts, research qualifications, verification and the saved review package are in `../../outputs/barbarossa-studies/EDITORIAL_HANDOFF.md` relative to this repository. Nothing was published, pushed or deployed.
+
 
 ## 14 October 2026 — all collections and completed work published
 
