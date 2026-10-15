@@ -22,6 +22,6 @@ The current map review package is `../../outputs/all-maps-upgrade/`: coverage ma
 
 ## Articles and release status
 
-Article JSON files in `src/content/articles/` credit R.G. Cruise. Fourteen published studies and nine full unpublished Phase II review chapters are retained. This map assignment changed no article bytes or publication status. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
+Article JSON files in `src/content/articles/` credit R.G. Cruise. The collection contains 32 complete articles: 23 published studies, including all nine Phase III chapters, and nine Phase II review drafts. The Phase III publication release includes its dated military companion maps and the consolidated editorial revisions. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
 
-This assignment is local review only. `netlify.toml` retains the existing Vite build, `dist` publish directory and client-route fallback. Production deployment and publication are separate actions. See `CURRENT_STATE.md` for the newest checkpoint and older verified live releases.
+The completed Phase III studies are included in the production publication release. `netlify.toml` retains the existing Vite build, `dist` publish directory and client-route fallback. Production deployment and publication are separate actions. See `CURRENT_STATE.md` for the newest checkpoint and older verified live releases.

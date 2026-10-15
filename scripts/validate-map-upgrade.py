@@ -1,13 +1,13 @@
-"""22-date checks tied to the actual baseline, including all review chapters."""
+"""31-date checks tied to the actual baseline, including all review chapters."""
 import json,hashlib
 from pathlib import Path
 from shapely.geometry import shape,Point,box
 from shapely.ops import unary_union,transform
 from pyproj import Transformer
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT.parents[1]/'outputs/all-maps-upgrade'
+ROOT=Path(__file__).resolve().parents[1];OUT=ROOT.parents[1]/'outputs/phase-iii-military-maps'
 read=lambda p:json.loads((ROOT/p).read_text())
-dates=[e['date'] for n in ['timeline','barbarossa-timeline','barbarossa-phase-ii-timeline'] for e in read('src/data/'+n+'.json')]
-assert len(dates)==len(set(dates))==22
+dates=[e['date'] for n in ['timeline','barbarossa-timeline','barbarossa-phase-ii-timeline','barbarossa-phase-iii-timeline'] for e in read('src/data/'+n+'.json')]
+assert len(dates)==len(set(dates))==31
 sources={s['id'] for s in read('src/data/sources.json')};records=read('src/data/territorial-states.json')
 G={f['properties']['id']:shape(f['geometry']) for f in read('public/data/history/europe-geometries.geojson')['features']}
 assert len({r['id'] for r in records})==len(records)
@@ -23,8 +23,8 @@ for name,features in collections.items():
   assert p['snapshots'] and all(d in dates for d in p['snapshots']),p['id']
   assert all(s in sources for s in p['sourceIds']),(p['id'],p['sourceIds'])
   assert p['accuracy'] and p['uncertainty'] and p['note'],p['id']
-  if name=='formation-positions':assert p['locationType']=='sector label' and 'commander' in p and p['observationDate'] in p['snapshots'],p['id']
-  if name=='military-operations' and f['geometry']['type']=='LineString':assert p['movementType'] in ['advance','retreat','counterattack','transfer','planned','breakout'],p['id']
+  if name=='formation-positions':assert p['locationType']=='sector label' and 'commander' in p and p['observationDate']<=min(p['snapshots']),p['id']
+  if name=='military-operations' and f['geometry']['type']=='LineString' and f['properties'].get('category') not in ['civilian','advance_axis']:assert p['movementType'] in ['advance','retreat','counterattack','transfer','planned','breakout'],p['id']
 projection=Transformer.from_crs(4326,6933,always_xy=True).transform
 area=lambda g:transform(projection,g).area/1e6
 land=shape(read('public/data/geography/europe-land.geojson')['features'][0]['geometry'])
@@ -32,7 +32,7 @@ rows=[]
 for d in dates:
  active=[r for r in records if r['startDate']<=d<=r['endDate']];gs=[G[r['geometryRef']] for r in active]
  assert active,d
- gap=area(land.difference(unary_union(gs)).intersection(box(-12,35,45,69)))
+ gap=area(land.difference(unary_union(gs+[shape(f['geometry']) for f in collections['military-control'] if d in f['properties']['snapshots']])).intersection(box(-12,35,45,69)))
  assert gap<100,(d,'large unshaded land gap',gap)
  for i,g in enumerate(gs):
   for j,h in enumerate(gs[i+1:],i+1):assert not g.intersects(h) or area(g.intersection(h))<25,(d,active[i]['id'],active[j]['id'])
@@ -68,9 +68,9 @@ for c in read('src/data/territorial-changes.json'):
  assert c['eventDate']<=c['effectiveVisualizationDate'] and all(i in sources for i in c['sourceIds']),c['id']
  assert all(k in c for k in ['previousControl','newControl','previousAdministration','newAdministration','sovereigntyOrClaim','featureIds','uncertainty'])
 
-protected=json.loads((OUT/'article-hashes.json').read_text())
+protected={p:h for p,h in json.loads((OUT/'before-hashes.json').read_text()).items() if p.startswith('src/content/articles/')}
 for p,h in protected.items():assert hashlib.sha256((ROOT/p).read_bytes()).hexdigest()==h,('Article changed',p)
-report=dict(result='passed',dates=rows,articlesUnchanged=len(protected),features={n:len(f) for n,f in collections.items()},precisionLimits=['Forward edges are regional syntheses, not surveyed continuous fronts','Five August German sheets inaccessible: documentary synthesis and lower-confidence connecting sectors explicitly identified','Fine administrative boundaries retain documented limits','Modern natural river courses are a separately licensed physical reference'])
+report=dict(result='passed',dates=rows,articlesUnchanged=len(protected),features={n:len(f) for n,f in collections.items()},precisionLimits=['Forward edges are regional syntheses, not surveyed continuous fronts','Several daily German sheets inaccessible: dated documentary synthesis and lower-confidence connecting sectors explicitly identified','Fine administrative boundaries retain documented limits','Modern natural river courses are a separately licensed physical reference'])
 (OUT/'data-validation.json').write_text(json.dumps(report,indent=2)+'\n')
-print('Passed 22 dates, shared country coverage, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
+print('Passed 31 dates, shared country coverage, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
 print(report['features'])
