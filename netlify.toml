@@ -10,7 +10,6 @@
   to = "/index.html"
   status = 200
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Robots-Tag = "noindex, nofollow"
+# Build-generated dist/_headers keeps previews out of search.
+# Enable production indexing only during the approved domain launch:
+# VITE_SITE_ORIGIN=https://ostfrontatlas.com and VITE_LAUNCH_READY=true.
