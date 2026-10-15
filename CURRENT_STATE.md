@@ -1,9 +1,5 @@
 # Current state — latest local checkpoint
 
-## 14 October 2026 — academic editorial factual audit checkpoint
-
-All 23 revisions remain saved locally. The final factual audit now has 12 completed chapter records, covering all Poland studies and Barbarossa through 3 July. Corrections include chronology, institutional names and precise source locators. The remaining eleven chapters are being reconciled with the saved research; review exports and archives are pending refresh. No deployment. Later Phase III work in this shared checkout is preserved.
-
 ## 14 October 2026 — Phase III eastern geographic reference completed locally
 
 The nine Phase III map dates now show a faint, hatched eastern **preinvasion political reference** beneath the dated, source-qualified political areas. It identifies the Soviet Union's 1939 outline, former eastern Poland under Soviet incorporation claim, occupied Estonia, and the Finnish territories ceded in 1940. The map, feature details, guide and PNG export identify this as earlier political geography, not Soviet or German military control on the selected August or September date. The current-control dataset still expires on 25 August in those changing areas; no older military positions were extended into Phase III.
