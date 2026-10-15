@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Moskva",
+    "relation": 389341,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/389341/full.json",
+    "relationVersion": 147,
+    "ways": 120,
+    "nodes": 4702,
+    "license": "ODbL 1.0; \u00a9 OpenStreetMap contributors",
+    "retrieved": "2026-10-15"
+  },
+  {
+    "name": "Protva",
+    "relation": 224248,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/224248/full.json",
+    "relationVersion": 84,
+    "ways": 62,
+    "nodes": 4875,
+    "license": "ODbL 1.0; \u00a9 OpenStreetMap contributors",
+    "retrieved": "2026-10-15"
+  },
+  {
+    "name": "Zusha",
+    "relation": 18718625,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/18718625/full.json",
+    "relationVersion": 2,
+    "ways": 13,
+    "nodes": 3168,
+    "license": "ODbL 1.0; \u00a9 OpenStreetMap contributors",
+    "retrieved": "2026-10-15"
+  },
+  {
+    "name": "Lama",
+    "relation": 14114472,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/14114472/full.json",
+    "relationVersion": 31,
+    "ways": 7,
+    "nodes": 3980,
+    "license": "ODbL 1.0; \u00a9 OpenStreetMap contributors",
+    "retrieved": "2026-10-15"
+  },
+  {
+    "name": "Upa",
+    "relation": 178331,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/178331/full.json",
+    "relationVersion": 50,
+    "ways": 73,
+    "nodes": 4890,
+    "license": "ODbL 1.0; \u00a9 OpenStreetMap contributors",
+    "retrieved": "2026-10-15"
+  }
+]

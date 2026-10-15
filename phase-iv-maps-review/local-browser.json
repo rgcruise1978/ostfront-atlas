@@ -1,0 +1,274 @@
+[
+  {
+    "date": "1941-09-30",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-09-30&phase=4&region=typhoon-opening",
+    "contextPassages": 35,
+    "overflow": false,
+    "records": "40 dated records · 30 September 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-02",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-02&phase=4&region=typhoon-opening",
+    "contextPassages": 34,
+    "overflow": false,
+    "records": "40 dated records · 2 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-07",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-07&phase=4&region=vyazma-bryansk",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "36 dated records · 7 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-13",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-13&phase=4&region=moscow",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "30 dated records · 13 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-16",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-16&phase=4&region=theatre",
+    "contextPassages": 34,
+    "overflow": false,
+    "records": "34 dated records · 16 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-19",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-19&phase=4&region=moscow",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "39 dated records · 19 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-24",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-24&phase=4&region=ukraine-crimea",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "39 dated records · 24 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-11-02",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-11-02&phase=4&region=tula",
+    "contextPassages": 36,
+    "overflow": false,
+    "records": "39 dated records · 2 November 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-11-09",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-11-09&phase=4&region=tikhvin",
+    "contextPassages": 35,
+    "overflow": false,
+    "records": "39 dated records · 9 November 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-11-14",
+    "width": 1440,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-11-14&phase=4&region=theatre",
+    "contextPassages": 35,
+    "overflow": false,
+    "records": "38 dated records · 14 November 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-07",
+    "region": "vyazma-bryansk",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-10-16",
+    "region": "evacuation",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-10-24",
+    "region": "donbas-rostov",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-11-02",
+    "region": "crimea",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-11-09",
+    "region": "tikhvin",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-11-14",
+    "region": "europe",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-10-07",
+    "preset": "Operations",
+    "export": "ostfront-1941-10-07-operations.png",
+    "failures": []
+  },
+  {
+    "date": "1941-11-09",
+    "preset": "Logistics",
+    "export": "ostfront-1941-11-09-logistics.png",
+    "failures": []
+  },
+  {
+    "campaign": "poland-1939",
+    "date": "1939-09-28",
+    "regression": true,
+    "failures": []
+  },
+  {
+    "campaign": "barbarossa-1941",
+    "date": "1941-06-21",
+    "regression": true,
+    "failures": []
+  },
+  {
+    "campaign": "barbarossa-1941",
+    "date": "1941-08-25",
+    "regression": true,
+    "failures": []
+  },
+  {
+    "campaign": "barbarossa-1941",
+    "date": "1941-09-29",
+    "regression": true,
+    "failures": []
+  },
+  {
+    "date": "1941-09-30",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-09-30&phase=4&region=typhoon-opening",
+    "contextPassages": 35,
+    "overflow": false,
+    "records": "40 dated records · 30 September 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-02",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-02&phase=4&region=typhoon-opening",
+    "contextPassages": 34,
+    "overflow": false,
+    "records": "40 dated records · 2 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-07",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-07&phase=4&region=vyazma-bryansk",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "36 dated records · 7 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-13",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-13&phase=4&region=moscow",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "30 dated records · 13 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-16",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-16&phase=4&region=theatre",
+    "contextPassages": 34,
+    "overflow": false,
+    "records": "34 dated records · 16 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-19",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-19&phase=4&region=moscow",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "39 dated records · 19 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-10-24",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-10-24&phase=4&region=ukraine-crimea",
+    "contextPassages": 33,
+    "overflow": false,
+    "records": "39 dated records · 24 October 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-11-02",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-11-02&phase=4&region=tula",
+    "contextPassages": 36,
+    "overflow": false,
+    "records": "39 dated records · 2 November 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-11-09",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-11-09&phase=4&region=tikhvin",
+    "contextPassages": 35,
+    "overflow": false,
+    "records": "39 dated records · 9 November 1941",
+    "canvas": true,
+    "failures": []
+  },
+  {
+    "date": "1941-11-14",
+    "width": 390,
+    "url": "http://127.0.0.1:5196/atlases/barbarossa-1941?date=1941-11-14&phase=4&region=theatre",
+    "contextPassages": 35,
+    "overflow": false,
+    "records": "38 dated records · 14 November 1941",
+    "canvas": true,
+    "failures": []
+  }
+]

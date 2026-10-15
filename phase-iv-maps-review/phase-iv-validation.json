@@ -1,0 +1,128 @@
+{
+  "result": "passed",
+  "dates": [
+    {
+      "date": "1941-09-30",
+      "features": {
+        "military-control": 3,
+        "military-operations": 10,
+        "formation-positions": 40,
+        "dated-fronts": 3,
+        "historical-logistics": 17
+      },
+      "paragraphs": 35,
+      "sentenceRecords": 200
+    },
+    {
+      "date": "1941-10-02",
+      "features": {
+        "military-control": 3,
+        "military-operations": 9,
+        "formation-positions": 40,
+        "dated-fronts": 3,
+        "historical-logistics": 17
+      },
+      "paragraphs": 34,
+      "sentenceRecords": 197
+    },
+    {
+      "date": "1941-10-07",
+      "features": {
+        "military-control": 6,
+        "military-operations": 13,
+        "formation-positions": 36,
+        "dated-fronts": 3,
+        "historical-logistics": 17
+      },
+      "paragraphs": 33,
+      "sentenceRecords": 186
+    },
+    {
+      "date": "1941-10-13",
+      "features": {
+        "military-control": 7,
+        "military-operations": 15,
+        "formation-positions": 30,
+        "dated-fronts": 3,
+        "historical-logistics": 17
+      },
+      "paragraphs": 33,
+      "sentenceRecords": 191
+    },
+    {
+      "date": "1941-10-16",
+      "features": {
+        "military-control": 6,
+        "military-operations": 22,
+        "formation-positions": 34,
+        "dated-fronts": 3,
+        "historical-logistics": 17
+      },
+      "paragraphs": 34,
+      "sentenceRecords": 212
+    },
+    {
+      "date": "1941-10-19",
+      "features": {
+        "military-control": 6,
+        "military-operations": 26,
+        "formation-positions": 39,
+        "dated-fronts": 3,
+        "historical-logistics": 16
+      },
+      "paragraphs": 33,
+      "sentenceRecords": 188
+    },
+    {
+      "date": "1941-10-24",
+      "features": {
+        "military-control": 3,
+        "military-operations": 28,
+        "formation-positions": 39,
+        "dated-fronts": 3,
+        "historical-logistics": 16
+      },
+      "paragraphs": 33,
+      "sentenceRecords": 198
+    },
+    {
+      "date": "1941-11-02",
+      "features": {
+        "military-control": 3,
+        "military-operations": 32,
+        "formation-positions": 39,
+        "dated-fronts": 4,
+        "historical-logistics": 16
+      },
+      "paragraphs": 36,
+      "sentenceRecords": 204
+    },
+    {
+      "date": "1941-11-09",
+      "features": {
+        "military-control": 3,
+        "military-operations": 36,
+        "formation-positions": 39,
+        "dated-fronts": 4,
+        "historical-logistics": 17
+      },
+      "paragraphs": 35,
+      "sentenceRecords": 203
+    },
+    {
+      "date": "1941-11-14",
+      "features": {
+        "military-control": 3,
+        "military-operations": 39,
+        "formation-positions": 38,
+        "dated-fronts": 4,
+        "historical-logistics": 17
+      },
+      "paragraphs": 35,
+      "sentenceRecords": 205
+    }
+  ],
+  "sentencesAccountedFor": 1984,
+  "protectedArticleFiles": 42,
+  "paletteUnchanged": true
+}

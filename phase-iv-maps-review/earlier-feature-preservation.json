@@ -1,0 +1,24 @@
+{
+  "baseline": "0910665",
+  "result": "passed",
+  "unchangedNonPhaseIVFeatures": {
+    "public/data/history/advance-axes.geojson": 34,
+    "public/data/history/barbarossa-1941-area-labels.geojson": 15,
+    "public/data/history/barbarossa-1941-neighbors.geojson": 2,
+    "public/data/history/barbarossa-1941-opening-control.geojson": 8,
+    "public/data/history/barbarossa-1941-opening-frontier.geojson": 3,
+    "public/data/history/control-areas.geojson": 2,
+    "public/data/history/dated-fronts.geojson": 54,
+    "public/data/history/europe-geometries.geojson": 117,
+    "public/data/history/formation-positions.geojson": 650,
+    "public/data/history/historical-logistics.geojson": 170,
+    "public/data/history/military-control.geojson": 51,
+    "public/data/history/military-operations.geojson": 322,
+    "public/data/history/poland-1939-reference.geojson": 1,
+    "public/data/history/poland-1939.geojson": 1,
+    "public/data/history/reference-borders.geojson": 46,
+    "public/data/history/surrounding-1939-reference.geojson": 7,
+    "public/data/history/surrounding-area-labels.geojson": 12,
+    "public/data/history/territorial-changes.geojson": 64
+  }
+}
