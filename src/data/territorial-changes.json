@@ -1,1 +1,785 @@
-[{"id":"occupation-denmark","eventDate":"1940-04-09","territory":"Denmark","previousControl":"Denmark","newControl":"Germany","previousAdministration":"National government","newAdministration":"German occupation; Danish government retained under constraint","sovereigntyOrClaim":"National sovereignty retained","featureIds":["denmark"],"sourceIds":["map-europe-expansion"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Occupation and administration changed; the state is not treated as a German province."},{"id":"occupation-norway","eventDate":"1940-06-10","territory":"Norway","previousControl":"Norway","newControl":"Germany","previousAdministration":"National government","newAdministration":"German civilian occupation administration","sovereigntyOrClaim":"National sovereignty retained","featureIds":["norway"],"sourceIds":["map-europe-expansion"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Occupation and administration changed; the state is not treated as a German province."},{"id":"occupation-netherlands","eventDate":"1940-05-15","territory":"Netherlands","previousControl":"Netherlands","newControl":"Germany","previousAdministration":"National government","newAdministration":"German Reich commissioner; Dutch government in exile","sovereigntyOrClaim":"National sovereignty retained","featureIds":["netherlands"],"sourceIds":["map-europe-expansion"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Occupation and administration changed; the state is not treated as a German province."},{"id":"occupation-belgium","eventDate":"1940-05-28","territory":"Belgium","previousControl":"Belgium","newControl":"Germany","previousAdministration":"National government","newAdministration":"German military administration in Belgium and northern France","sovereigntyOrClaim":"National sovereignty retained","featureIds":["belgium"],"sourceIds":["map-europe-expansion"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Occupation and administration changed; the state is not treated as a German province."},{"id":"occupation-luxembourg","eventDate":"1940-08-02","territory":"Luxembourg","previousControl":"Luxembourg","newControl":"Germany","previousAdministration":"National government","newAdministration":"German civilian administration; incorporation pursued","sovereigntyOrClaim":"National sovereignty retained","featureIds":["luxembourg"],"sourceIds":["map-europe-expansion"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Occupation and administration changed; the state is not treated as a German province."},{"id":"french-armistice","eventDate":"1940-06-25","territory":"France","previousControl":"France","newControl":"Germany / French State","previousAdministration":"French national government","newAdministration":"Occupation zone and unoccupied zone","sovereigntyOrClaim":"French sovereignty distinct from occupation","featureIds":["france-occupied","france-vichy"],"sourceIds":["map-france-armistice"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"France is divided into German occupation and the unoccupied French State zone."},{"id":"polish-administration","eventDate":"1939-10-26","territory":"German-occupied Poland","previousControl":"Germany","newControl":"Germany","previousAdministration":"Military occupation","newAdministration":"Reich incorporation claims and General Government","sovereigntyOrClaim":"Polish sovereignty remains contested","featureIds":["annexation-october-context","general-government-october-context"],"sourceIds":["ushmm-german-administration","occ-administrative-chronology"],"effectiveVisualizationDate":"1939-10-26","snapshotDate":"1939-10-26","uncertainty":"","description":"German military occupation acquires differing annexation and civilian administrative forms."},{"id":"soviet-poland-incorporation","eventDate":"1939-11-02","territory":"Eastern Poland","previousControl":"Soviet Union","newControl":"Soviet Union","previousAdministration":"Military occupation","newAdministration":"Soviet incorporation claims","sovereigntyOrClaim":"Polish rejection persists","featureIds":["poland-soviet-east"],"sourceIds":["boundary-soviet-citizenship"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"November incorporation claims are distinguished from the October military occupation."},{"id":"baltic-lithuania","eventDate":"1940-08-03","territory":"Lithuania","previousControl":"Lithuania","newControl":"Soviet Union","previousAdministration":"Independent government","newAdministration":"Soviet occupation and SSR institutions","sovereigntyOrClaim":"Contested Soviet incorporation","featureIds":["lithuania"],"sourceIds":["ushmm-soviet-annexations-map","map-baltic-nonrecognition"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Soviet occupation and incorporation claims replace independent administration; recognition is not presumed."},{"id":"baltic-latvia","eventDate":"1940-08-05","territory":"Latvia","previousControl":"Latvia","newControl":"Soviet Union","previousAdministration":"Independent government","newAdministration":"Soviet occupation and SSR institutions","sovereigntyOrClaim":"Contested Soviet incorporation","featureIds":["latvia"],"sourceIds":["ushmm-soviet-annexations-map","map-baltic-nonrecognition"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Soviet occupation and incorporation claims replace independent administration; recognition is not presumed."},{"id":"baltic-estonia","eventDate":"1940-08-06","territory":"Estonia","previousControl":"Estonia","newControl":"Soviet Union","previousAdministration":"Independent government","newAdministration":"Soviet occupation and SSR institutions","sovereigntyOrClaim":"Contested Soviet incorporation","featureIds":["estonia"],"sourceIds":["ushmm-soviet-annexations-map","map-baltic-nonrecognition"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Soviet occupation and incorporation claims replace independent administration; recognition is not presumed."},{"id":"romanian-soviet-loss","eventDate":"1940-06-28","territory":"Bessarabia / northern Bukovina","previousControl":"Romania","newControl":"Soviet Union","previousAdministration":"Romanian administration","newAdministration":"Soviet Union administration","sovereigntyOrClaim":"Territorial transfer / annexation claim","featureIds":["bessarabia-bukovina"],"sourceIds":["ushmm-romania-1941-map"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Romania’s 1940 territorial losses change the June 1941 baseline."},{"id":"second-vienna-award","eventDate":"1940-08-30","territory":"Northern Transylvania","previousControl":"Romania","newControl":"Hungary","previousAdministration":"Romanian administration","newAdministration":"Hungary administration","sovereigntyOrClaim":"Territorial transfer / annexation claim","featureIds":["hungary-1941"],"sourceIds":["ushmm-romania-1941-map"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Romania’s 1940 territorial losses change the June 1941 baseline."},{"id":"craiova-treaty","eventDate":"1940-09-07","territory":"Southern Dobruja","previousControl":"Romania","newControl":"Bulgaria","previousAdministration":"Romanian administration","newAdministration":"Bulgaria administration","sovereigntyOrClaim":"Territorial transfer / annexation claim","featureIds":["bulgaria-1941"],"sourceIds":["ushmm-romania-1941-map"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Romania’s 1940 territorial losses change the June 1941 baseline."},{"id":"winter-war-settlement","eventDate":"1940-03-13","territory":"Finland’s ceded eastern territories","previousControl":"Finland","newControl":"Soviet Union","previousAdministration":"Finnish administration","newAdministration":"Soviet administration","sovereigntyOrClaim":"March 12 peace treaty","featureIds":["finnish-cessions-1940"],"sourceIds":["map-finland-peace"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"The Winter War settlement changes the Finnish–Soviet border, while Finland remains independent."},{"id":"slovak-border-transfer","eventDate":"1939-11-21","territory":"Spisz and Orawa border districts","previousControl":"German occupation of Polish territory","newControl":"Slovakia","previousAdministration":"Occupation","newAdministration":"Slovak administration","sovereigntyOrClaim":"German–Slovak transfer; Polish rights disputed","featureIds":["slovak-republic"],"sourceIds":["map-slovak-campaign"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"The November border transfer is marked in the 1941 series, with its local perimeter explicitly unresolved."},{"id":"yugoslav-partition","eventDate":"1941-04-17","territory":"Yugoslavia","previousControl":"Yugoslavia","newControl":"Axis occupation and client authorities","previousAdministration":"Yugoslav government","newAdministration":"Multiple occupation administrations and Croatian client state","sovereigntyOrClaim":"Imposed partition; sovereignty contested","featureIds":["yugoslav-hungarian","yugoslav-albanian","yugoslav-bulgarian","yugoslav-serbia","yugoslav-slovenia-german","croatia-client","yugoslav-italian"],"sourceIds":["map-balkans-partition"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"The prewar Yugoslav state is divided among distinct occupiers and client administrations."},{"id":"greece-occupation","eventDate":"1941-06-01","territory":"Greece","previousControl":"Greece","newControl":"Germany / Italy / Bulgaria","previousAdministration":"Greek government","newAdministration":"Separate occupation zones","sovereigntyOrClaim":"Greek sovereignty not erased","featureIds":["greece-german","greece-italian","greece-bulgarian"],"sourceIds":["map-greece-zones"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"Three occupation zones replace the 1939 Greek political background."},{"id":"channel-islands-occupation","eventDate":"1940-07-01","territory":"Channel Islands","previousControl":"British Crown dependencies","newControl":"Germany","previousAdministration":"Insular administration","newAdministration":"Military occupation","sovereigntyOrClaim":"British sovereignty / dependency status retained","featureIds":["guernsey","jersey"],"sourceIds":["map-channel-islands"],"effectiveVisualizationDate":"1941-06-21","snapshotDate":"1941-06-21","uncertainty":"","description":"The Channel Islands are shown under German military occupation."},{"id":"military-1939-09-17","eventDate":"1939-09-17","territory":"Polish campaign","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["map-poland-september-17","ushmm-invasion-poland"],"featureIds":["poland-german-reach-1939-09-17"],"effectiveVisualizationDate":"1939-09-17","snapshotDate":"1939-09-17","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"German forward reach is shown with surviving Polish resistance. Soviet arrows mark the second invasion and distinguish planned objectives from positions actually reached."},{"id":"military-1939-09-28","eventDate":"1939-09-28","territory":"Polish treaty sectors","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["ghdi-1939-partition-map","ushmm-german-soviet-pact"],"featureIds":["poland-german-west","poland-soviet-east"],"effectiveVisualizationDate":"1939-09-28","snapshotDate":"1939-09-28","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"The revised political division is outlined; it is not presented as the precise military front. Modlin, Hel and Polish field forces remained in resistance."},{"id":"military-1941-06-22","eventDate":"1941-06-22","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-06-22"],"featureIds":["reach-1941-06-22"],"effectiveVisualizationDate":"1941-06-22","snapshotDate":"1941-06-22","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."},{"id":"military-1941-06-25","eventDate":"1941-06-25","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-06-25"],"featureIds":["reach-1941-06-25"],"effectiveVisualizationDate":"1941-06-25","snapshotDate":"1941-06-25","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."},{"id":"military-1941-06-28","eventDate":"1941-06-28","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-06-28"],"featureIds":["reach-1941-06-28"],"effectiveVisualizationDate":"1941-06-28","snapshotDate":"1941-06-28","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."},{"id":"military-1941-07-01","eventDate":"1941-07-01","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-07-01"],"featureIds":["reach-1941-07-01"],"effectiveVisualizationDate":"1941-07-01","snapshotDate":"1941-07-01","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."},{"id":"military-1941-07-03","eventDate":"1941-07-03","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-07-03"],"featureIds":["reach-1941-07-03"],"effectiveVisualizationDate":"1941-07-03","snapshotDate":"1941-07-03","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."},{"id":"military-1941-07-06","eventDate":"1941-07-06","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-07-06"],"featureIds":["reach-1941-07-06"],"effectiveVisualizationDate":"1941-07-06","snapshotDate":"1941-07-06","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."},{"id":"military-1941-07-09","eventDate":"1941-07-09","territory":"Barbarossa operational theatre","previousControl":"Previous reported military situation","newControl":"New reported forward positions; occupation not presumed","previousAdministration":"No change inferred","newAdministration":"No change inferred","sovereigntyOrClaim":"Operational change does not transfer sovereignty","sourceIds":["loc-lage-1941-07-09"],"featureIds":["reach-1941-07-09"],"effectiveVisualizationDate":"1941-07-09","snapshotDate":"1941-07-09","uncertainty":"Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.","description":"Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."}]
+[
+  {
+    "id": "occupation-denmark",
+    "eventDate": "1940-04-09",
+    "territory": "Denmark",
+    "previousControl": "Denmark",
+    "newControl": "Germany",
+    "previousAdministration": "National government",
+    "newAdministration": "German occupation; Danish government retained under constraint",
+    "sovereigntyOrClaim": "National sovereignty retained",
+    "featureIds": [
+      "denmark"
+    ],
+    "sourceIds": [
+      "map-europe-expansion"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Occupation and administration changed; the state is not treated as a German province."
+  },
+  {
+    "id": "occupation-norway",
+    "eventDate": "1940-06-10",
+    "territory": "Norway",
+    "previousControl": "Norway",
+    "newControl": "Germany",
+    "previousAdministration": "National government",
+    "newAdministration": "German civilian occupation administration",
+    "sovereigntyOrClaim": "National sovereignty retained",
+    "featureIds": [
+      "norway"
+    ],
+    "sourceIds": [
+      "map-europe-expansion"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Occupation and administration changed; the state is not treated as a German province."
+  },
+  {
+    "id": "occupation-netherlands",
+    "eventDate": "1940-05-15",
+    "territory": "Netherlands",
+    "previousControl": "Netherlands",
+    "newControl": "Germany",
+    "previousAdministration": "National government",
+    "newAdministration": "German Reich commissioner; Dutch government in exile",
+    "sovereigntyOrClaim": "National sovereignty retained",
+    "featureIds": [
+      "netherlands"
+    ],
+    "sourceIds": [
+      "map-europe-expansion"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Occupation and administration changed; the state is not treated as a German province."
+  },
+  {
+    "id": "occupation-belgium",
+    "eventDate": "1940-05-28",
+    "territory": "Belgium",
+    "previousControl": "Belgium",
+    "newControl": "Germany",
+    "previousAdministration": "National government",
+    "newAdministration": "German military administration in Belgium and northern France",
+    "sovereigntyOrClaim": "National sovereignty retained",
+    "featureIds": [
+      "belgium"
+    ],
+    "sourceIds": [
+      "map-europe-expansion"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Occupation and administration changed; the state is not treated as a German province."
+  },
+  {
+    "id": "occupation-luxembourg",
+    "eventDate": "1940-08-02",
+    "territory": "Luxembourg",
+    "previousControl": "Luxembourg",
+    "newControl": "Germany",
+    "previousAdministration": "National government",
+    "newAdministration": "German civilian administration; incorporation pursued",
+    "sovereigntyOrClaim": "National sovereignty retained",
+    "featureIds": [
+      "luxembourg"
+    ],
+    "sourceIds": [
+      "map-europe-expansion"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Occupation and administration changed; the state is not treated as a German province."
+  },
+  {
+    "id": "french-armistice",
+    "eventDate": "1940-06-25",
+    "territory": "France",
+    "previousControl": "France",
+    "newControl": "Germany / French State",
+    "previousAdministration": "French national government",
+    "newAdministration": "Occupation zone and unoccupied zone",
+    "sovereigntyOrClaim": "French sovereignty distinct from occupation",
+    "featureIds": [
+      "france-occupied",
+      "france-vichy"
+    ],
+    "sourceIds": [
+      "map-france-armistice"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "France is divided into German occupation and the unoccupied French State zone."
+  },
+  {
+    "id": "polish-administration",
+    "eventDate": "1939-10-26",
+    "territory": "German-occupied Poland",
+    "previousControl": "Germany",
+    "newControl": "Germany",
+    "previousAdministration": "Military occupation",
+    "newAdministration": "Reich incorporation claims and General Government",
+    "sovereigntyOrClaim": "Polish sovereignty remains contested",
+    "featureIds": [
+      "annexation-october-context",
+      "general-government-october-context"
+    ],
+    "sourceIds": [
+      "ushmm-german-administration",
+      "occ-administrative-chronology"
+    ],
+    "effectiveVisualizationDate": "1939-10-26",
+    "snapshotDate": "1939-10-26",
+    "uncertainty": "",
+    "description": "German military occupation acquires differing annexation and civilian administrative forms."
+  },
+  {
+    "id": "soviet-poland-incorporation",
+    "eventDate": "1939-11-02",
+    "territory": "Eastern Poland",
+    "previousControl": "Soviet Union",
+    "newControl": "Soviet Union",
+    "previousAdministration": "Military occupation",
+    "newAdministration": "Soviet incorporation claims",
+    "sovereigntyOrClaim": "Polish rejection persists",
+    "featureIds": [
+      "poland-soviet-east"
+    ],
+    "sourceIds": [
+      "boundary-soviet-citizenship"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "November incorporation claims are distinguished from the October military occupation."
+  },
+  {
+    "id": "baltic-lithuania",
+    "eventDate": "1940-08-03",
+    "territory": "Lithuania",
+    "previousControl": "Lithuania",
+    "newControl": "Soviet Union",
+    "previousAdministration": "Independent government",
+    "newAdministration": "Soviet occupation and SSR institutions",
+    "sovereigntyOrClaim": "Contested Soviet incorporation",
+    "featureIds": [
+      "lithuania"
+    ],
+    "sourceIds": [
+      "ushmm-soviet-annexations-map",
+      "map-baltic-nonrecognition"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Soviet occupation and incorporation claims replace independent administration; recognition is not presumed."
+  },
+  {
+    "id": "baltic-latvia",
+    "eventDate": "1940-08-05",
+    "territory": "Latvia",
+    "previousControl": "Latvia",
+    "newControl": "Soviet Union",
+    "previousAdministration": "Independent government",
+    "newAdministration": "Soviet occupation and SSR institutions",
+    "sovereigntyOrClaim": "Contested Soviet incorporation",
+    "featureIds": [
+      "latvia"
+    ],
+    "sourceIds": [
+      "ushmm-soviet-annexations-map",
+      "map-baltic-nonrecognition"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Soviet occupation and incorporation claims replace independent administration; recognition is not presumed."
+  },
+  {
+    "id": "baltic-estonia",
+    "eventDate": "1940-08-06",
+    "territory": "Estonia",
+    "previousControl": "Estonia",
+    "newControl": "Soviet Union",
+    "previousAdministration": "Independent government",
+    "newAdministration": "Soviet occupation and SSR institutions",
+    "sovereigntyOrClaim": "Contested Soviet incorporation",
+    "featureIds": [
+      "estonia"
+    ],
+    "sourceIds": [
+      "ushmm-soviet-annexations-map",
+      "map-baltic-nonrecognition"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Soviet occupation and incorporation claims replace independent administration; recognition is not presumed."
+  },
+  {
+    "id": "romanian-soviet-loss",
+    "eventDate": "1940-06-28",
+    "territory": "Bessarabia / northern Bukovina",
+    "previousControl": "Romania",
+    "newControl": "Soviet Union",
+    "previousAdministration": "Romanian administration",
+    "newAdministration": "Soviet Union administration",
+    "sovereigntyOrClaim": "Territorial transfer / annexation claim",
+    "featureIds": [
+      "bessarabia-bukovina"
+    ],
+    "sourceIds": [
+      "ushmm-romania-1941-map"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Romania’s 1940 territorial losses change the June 1941 baseline."
+  },
+  {
+    "id": "second-vienna-award",
+    "eventDate": "1940-08-30",
+    "territory": "Northern Transylvania",
+    "previousControl": "Romania",
+    "newControl": "Hungary",
+    "previousAdministration": "Romanian administration",
+    "newAdministration": "Hungary administration",
+    "sovereigntyOrClaim": "Territorial transfer / annexation claim",
+    "featureIds": [
+      "hungary-1941"
+    ],
+    "sourceIds": [
+      "ushmm-romania-1941-map"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Romania’s 1940 territorial losses change the June 1941 baseline."
+  },
+  {
+    "id": "craiova-treaty",
+    "eventDate": "1940-09-07",
+    "territory": "Southern Dobruja",
+    "previousControl": "Romania",
+    "newControl": "Bulgaria",
+    "previousAdministration": "Romanian administration",
+    "newAdministration": "Bulgaria administration",
+    "sovereigntyOrClaim": "Territorial transfer / annexation claim",
+    "featureIds": [
+      "bulgaria-1941"
+    ],
+    "sourceIds": [
+      "ushmm-romania-1941-map"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Romania’s 1940 territorial losses change the June 1941 baseline."
+  },
+  {
+    "id": "winter-war-settlement",
+    "eventDate": "1940-03-13",
+    "territory": "Finland’s ceded eastern territories",
+    "previousControl": "Finland",
+    "newControl": "Soviet Union",
+    "previousAdministration": "Finnish administration",
+    "newAdministration": "Soviet administration",
+    "sovereigntyOrClaim": "March 12 peace treaty",
+    "featureIds": [
+      "finnish-cessions-1940"
+    ],
+    "sourceIds": [
+      "map-finland-peace"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "The Winter War settlement changes the Finnish–Soviet border, while Finland remains independent."
+  },
+  {
+    "id": "slovak-border-transfer",
+    "eventDate": "1939-11-21",
+    "territory": "Spisz and Orawa border districts",
+    "previousControl": "German occupation of Polish territory",
+    "newControl": "Slovakia",
+    "previousAdministration": "Occupation",
+    "newAdministration": "Slovak administration",
+    "sovereigntyOrClaim": "German–Slovak transfer; Polish rights disputed",
+    "featureIds": [
+      "slovak-republic"
+    ],
+    "sourceIds": [
+      "map-slovak-campaign"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "The November border transfer is marked in the 1941 series, with its local perimeter explicitly unresolved."
+  },
+  {
+    "id": "yugoslav-partition",
+    "eventDate": "1941-04-17",
+    "territory": "Yugoslavia",
+    "previousControl": "Yugoslavia",
+    "newControl": "Axis occupation and client authorities",
+    "previousAdministration": "Yugoslav government",
+    "newAdministration": "Multiple occupation administrations and Croatian client state",
+    "sovereigntyOrClaim": "Imposed partition; sovereignty contested",
+    "featureIds": [
+      "yugoslav-hungarian",
+      "yugoslav-albanian",
+      "yugoslav-bulgarian",
+      "yugoslav-serbia",
+      "yugoslav-slovenia-german",
+      "croatia-client",
+      "yugoslav-italian"
+    ],
+    "sourceIds": [
+      "map-balkans-partition"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "The prewar Yugoslav state is divided among distinct occupiers and client administrations."
+  },
+  {
+    "id": "greece-occupation",
+    "eventDate": "1941-06-01",
+    "territory": "Greece",
+    "previousControl": "Greece",
+    "newControl": "Germany / Italy / Bulgaria",
+    "previousAdministration": "Greek government",
+    "newAdministration": "Separate occupation zones",
+    "sovereigntyOrClaim": "Greek sovereignty not erased",
+    "featureIds": [
+      "greece-german",
+      "greece-italian",
+      "greece-bulgarian"
+    ],
+    "sourceIds": [
+      "map-greece-zones"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "Three occupation zones replace the 1939 Greek political background."
+  },
+  {
+    "id": "channel-islands-occupation",
+    "eventDate": "1940-07-01",
+    "territory": "Channel Islands",
+    "previousControl": "British Crown dependencies",
+    "newControl": "Germany",
+    "previousAdministration": "Insular administration",
+    "newAdministration": "Military occupation",
+    "sovereigntyOrClaim": "British sovereignty / dependency status retained",
+    "featureIds": [
+      "guernsey",
+      "jersey"
+    ],
+    "sourceIds": [
+      "map-channel-islands"
+    ],
+    "effectiveVisualizationDate": "1941-06-21",
+    "snapshotDate": "1941-06-21",
+    "uncertainty": "",
+    "description": "The Channel Islands are shown under German military occupation."
+  },
+  {
+    "id": "military-1939-09-17",
+    "eventDate": "1939-09-17",
+    "territory": "Polish campaign",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "map-poland-september-17",
+      "ushmm-invasion-poland"
+    ],
+    "featureIds": [
+      "poland-german-reach-1939-09-17"
+    ],
+    "effectiveVisualizationDate": "1939-09-17",
+    "snapshotDate": "1939-09-17",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "German forward reach is shown with surviving Polish resistance. Soviet arrows mark the second invasion and distinguish planned objectives from positions actually reached."
+  },
+  {
+    "id": "military-1939-09-28",
+    "eventDate": "1939-09-28",
+    "territory": "Polish treaty sectors",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "ghdi-1939-partition-map",
+      "ushmm-german-soviet-pact"
+    ],
+    "featureIds": [
+      "poland-german-west",
+      "poland-soviet-east"
+    ],
+    "effectiveVisualizationDate": "1939-09-28",
+    "snapshotDate": "1939-09-28",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "The revised political division is outlined; it is not presented as the precise military front. Modlin, Hel and Polish field forces remained in resistance."
+  },
+  {
+    "id": "military-1941-06-22",
+    "eventDate": "1941-06-22",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-06-22"
+    ],
+    "featureIds": [
+      "reach-1941-06-22"
+    ],
+    "effectiveVisualizationDate": "1941-06-22",
+    "snapshotDate": "1941-06-22",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-06-25",
+    "eventDate": "1941-06-25",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-06-25"
+    ],
+    "featureIds": [
+      "reach-1941-06-25"
+    ],
+    "effectiveVisualizationDate": "1941-06-25",
+    "snapshotDate": "1941-06-25",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-06-28",
+    "eventDate": "1941-06-28",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-06-28"
+    ],
+    "featureIds": [
+      "reach-1941-06-28"
+    ],
+    "effectiveVisualizationDate": "1941-06-28",
+    "snapshotDate": "1941-06-28",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-07-01",
+    "eventDate": "1941-07-01",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-01"
+    ],
+    "featureIds": [
+      "reach-1941-07-01"
+    ],
+    "effectiveVisualizationDate": "1941-07-01",
+    "snapshotDate": "1941-07-01",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-07-03",
+    "eventDate": "1941-07-03",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-03"
+    ],
+    "featureIds": [
+      "reach-1941-07-03"
+    ],
+    "effectiveVisualizationDate": "1941-07-03",
+    "snapshotDate": "1941-07-03",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-07-06",
+    "eventDate": "1941-07-06",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-06"
+    ],
+    "featureIds": [
+      "reach-1941-07-06"
+    ],
+    "effectiveVisualizationDate": "1941-07-06",
+    "snapshotDate": "1941-07-06",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-07-09",
+    "eventDate": "1941-07-09",
+    "territory": "Barbarossa operational theatre",
+    "previousControl": "Previous reported military situation",
+    "newControl": "New reported forward positions; occupation not presumed",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Operational change does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-09"
+    ],
+    "featureIds": [
+      "reach-1941-07-09"
+    ],
+    "effectiveVisualizationDate": "1941-07-09",
+    "snapshotDate": "1941-07-09",
+    "uncertainty": "Comparison of generalized source-reported areas. Highlighted edges do not establish a precise front or secure control.",
+    "description": "Reported German forward activity shifts east. Continued Soviet resistance and counterattacks remain separate from the operational envelope."
+  },
+  {
+    "id": "military-1941-07-10",
+    "eventDate": "1941-07-10",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-10",
+      "p2-sbd37-054"
+    ],
+    "featureIds": [
+      "reach-1941-07-10"
+    ],
+    "effectiveVisualizationDate": "1941-07-10",
+    "snapshotDate": "1941-07-10",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-07-16",
+    "eventDate": "1941-07-16",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-16",
+      "p2-sbd37-060",
+      "p2-sbd37-140"
+    ],
+    "featureIds": [
+      "reach-1941-07-16"
+    ],
+    "effectiveVisualizationDate": "1941-07-16",
+    "snapshotDate": "1941-07-16",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-07-23",
+    "eventDate": "1941-07-23",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "loc-lage-1941-07-23",
+      "p2-sbd37-064",
+      "p2-sbd37-025"
+    ],
+    "featureIds": [
+      "reach-1941-07-23"
+    ],
+    "effectiveVisualizationDate": "1941-07-23",
+    "snapshotDate": "1941-07-23",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-07-30",
+    "eventDate": "1941-07-30",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "atlas-july30-map",
+      "blau-planning"
+    ],
+    "featureIds": [
+      "reach-1941-07-30"
+    ],
+    "effectiveVisualizationDate": "1941-07-30",
+    "snapshotDate": "1941-07-30",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-08-06",
+    "eventDate": "1941-08-06",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "p2-sbd39-195",
+      "p2-sbd39-197",
+      "p2-sbd39-200",
+      "blau-planning",
+      "cmh-blitz"
+    ],
+    "featureIds": [
+      "reach-1941-08-06"
+    ],
+    "effectiveVisualizationDate": "1941-08-06",
+    "snapshotDate": "1941-08-06",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-08-12",
+    "eventDate": "1941-08-12",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "p2-11army-diary",
+      "p2-sbd40-001",
+      "p2-sbd40-182",
+      "blau-planning"
+    ],
+    "featureIds": [
+      "reach-1941-08-12"
+    ],
+    "effectiveVisualizationDate": "1941-08-12",
+    "snapshotDate": "1941-08-12",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-08-19",
+    "eventDate": "1941-08-19",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "p2-gomel-19",
+      "p2-gomel-20",
+      "p2-sbd40-047",
+      "p2-11army-diary",
+      "blau-planning"
+    ],
+    "featureIds": [
+      "reach-1941-08-19"
+    ],
+    "effectiveVisualizationDate": "1941-08-19",
+    "snapshotDate": "1941-08-19",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-08-21",
+    "eventDate": "1941-08-21",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "p2-gomel-21",
+      "p2-sbd40-047",
+      "p2-11army-diary",
+      "blau-planning",
+      "cmh-blitz"
+    ],
+    "featureIds": [
+      "reach-1941-08-21"
+    ],
+    "effectiveVisualizationDate": "1941-08-21",
+    "snapshotDate": "1941-08-21",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  },
+  {
+    "id": "military-1941-08-25",
+    "eventDate": "1941-08-25",
+    "territory": "Eastern Front",
+    "previousControl": "Previous selected operational situation",
+    "newControl": "New reported operational reach",
+    "previousAdministration": "No change inferred",
+    "newAdministration": "No change inferred",
+    "sovereigntyOrClaim": "Military reach does not transfer sovereignty",
+    "sourceIds": [
+      "p2-sbd41-001",
+      "p2-11army-diary",
+      "cmh-blitz",
+      "p2-hiio-kiviloo",
+      "p2-tallinn-mobilisation"
+    ],
+    "featureIds": [
+      "reach-1941-08-25"
+    ],
+    "effectiveVisualizationDate": "1941-08-25",
+    "snapshotDate": "1941-08-25",
+    "uncertainty": "Generalized operational synthesis; see individual features for reporting time and limits.",
+    "description": "Dated operational reach and formations updated; separate resistance and planned movements retained."
+  }
+]
