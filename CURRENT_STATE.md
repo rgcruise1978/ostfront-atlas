@@ -1,3 +1,11 @@
+# October 15, 2026 — Phase IV map release candidate
+
+All ten maps have dated regional reconstructions using the shared cartography. Includes formation sectors, achieved/planned movement, control/continued-resistance shading, logistics, natural river additions, civilian context and all 341 published article paragraphs in linked panels. All 42 article JSON files and `cartography.js` are unchanged. Research, coverage, chronology and browser records: `phase-iv-maps-review/`. This checkpoint is local; production publication is recorded separately after verification.
+
+# October 15, 2026 — Phase IV published and verified
+
+All ten edited Phase IV studies are live. Production merge: `7a3f8f5c037d78a9686f7a127fdc2fe131acc272`; Netlify deploy: `6ad14f469fc23c311052ca41`. All ten full rendered article texts match the reviewed manuscripts, and 22 desktop/mobile article-and-collection checks passed with no failures. The site now has 42 published studies. Phase IV maps remain geographic references. See `phase-iv-review/RELEASE.md` for URLs, evidence and access limitations.
+
 # October 15, 2026 — Phase IV reviewed release candidate
 
 All ten studies have completed the editorial pass and are marked published in this release candidate. They contain 36,129 substantive words, 36 distinct cited sources, and two historical asides per article. Validation, production build and all ten desktop/mobile article checks pass, including citations, contents and reading sequence. Phase IV maps remain geographic references. Production publication is the next step; this entry does not claim the live deployment has changed. See `phase-iv-review/REVIEW.md`, `review.json` and `local-browser.json`.
