@@ -11,7 +11,7 @@ export const collections = campaigns.flatMap(campaign => (campaign.phases || [nu
   const briefs = studies.filter(isArticleDraft).length;
   const reviews = studies.filter(article => article.status === 'ready-for-review').length;
   return { key, campaign, phase, title: campaign.title, subtitle: phase?.title || 'Invasion, partition and occupation',
-    range: phase?.range || campaign.range || campaign.studyRange, timeline, studies, published, introductions, briefs, reviews,
+    range: phase?.range || campaign.studyRange || campaign.range, timeline, studies, published, introductions, briefs, reviews,
     introPath: phase ? `${campaign.introPath}?phase=${phase.id}` : '/campaigns/poland-1939',
     mapPath: `${campaign.mapPath}?date=${timeline[0].date}${phase ? `&phase=${phase.id}` : ''}${timeline[0].defaultView ? `&region=${timeline[0].defaultView}` : ''}`,
     studiesPath: `/articles?collection=${encodeURIComponent(key)}`,
