@@ -1,0 +1,47 @@
+{
+  "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+  "title": "The Baltic Withdrawal",
+  "subtitle": "The Baltic Fleet withdrawal and the Karelian Isthmus",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-08-29",
+  "historicalPeriod": "29 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p2-tallinn-mobilisation",
+    "p2-hiio-kiviloo",
+    "frus-finland-25"
+  ],
+  "summary": "Tallinn’s fall on 28 August, the hazardous Soviet naval evacuation and Finnish operations toward Viipuri/Vyborg.",
+  "body": "",
+  "location": "Estonia, the Gulf of Finland and the Karelian Isthmus",
+  "outlineTopics": [
+    "Army Group North's advance through Estonia.",
+    "The operational importance of Tallinn.",
+    "Soviet defenses and the decision to evacuate the city.",
+    "The German capture of Tallinn on August 28.",
+    "The evacuation of Soviet military personnel and civilians by sea.",
+    "The role of the Soviet Baltic Fleet.",
+    "German and Finnish air and naval threats.",
+    "The minefields in the Gulf of Finland.",
+    "The evacuation's heavy losses and difficulties.",
+    "Finnish operations on the Karelian Isthmus.",
+    "The Finnish recapture of Viipuri/Vyborg around August 29.",
+    "The distinction between Finnish national objectives and German operational command.",
+    "The Soviet military situation around Leningrad.",
+    "The consequences for Soviet defenses along the Gulf of Finland."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=73",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-southward-offensive-1941-08-26",
+  "chronologyNotes": [
+    "Tallinn fell on 28 August; the naval withdrawal crossed more than one date. Finnish operations have their own political and command context."
+  ],
+  "nextArticleSlug": "barbarossa-the-soviet-counterstroke-1941-09-03"
+}

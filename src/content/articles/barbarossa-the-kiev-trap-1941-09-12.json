@@ -1,0 +1,48 @@
+{
+  "slug": "barbarossa-the-kiev-trap-1941-09-12",
+  "title": "The Kiev Trap",
+  "subtitle": "The developing Kiev encirclement",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-12",
+  "historicalPeriod": "12 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p2-stahel-kiev",
+    "cmh-blitz",
+    "blau-planning"
+  ],
+  "summary": "German mobile thrusts pressed toward a junction east of Kiev while the Soviet Southwestern Front still faced choices about withdrawal.",
+  "body": "",
+  "location": "Kiev and central Ukraine",
+  "outlineTopics": [
+    "The Soviet Southwestern Front and its principal armies.",
+    "Mikhail Kirponos and the command structure.",
+    "The operational position of Soviet forces around Kiev.",
+    "German 2nd Panzer Group advancing from the north.",
+    "German 1st Panzer Group advancing from the south.",
+    "German operations around the Desna and Seym.",
+    "The importance of crossings near Kremenchuk.",
+    "German movements toward Romny, Lubny, and Lokhvytsia.",
+    "Soviet attempts to defend the flanks and maintain communications.",
+    "Stalin's position on withdrawal from Kiev.",
+    "Disagreements within Soviet command concerning the developing danger.",
+    "The effect of German air power and mobile formations.",
+    "Supply difficulties on both sides.",
+    "The growing separation between Soviet formations and their possible withdrawal routes.",
+    "The distinction between a developing encirclement and a completed pocket."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=87",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-leningrad-cut-off-1941-09-08",
+  "chronologyNotes": [
+    "The German armored pincers had not yet joined on 12 September; avoid shading a future pocket as secured ground."
+  ],
+  "nextArticleSlug": "barbarossa-the-encirclement-closes-1941-09-16"
+}

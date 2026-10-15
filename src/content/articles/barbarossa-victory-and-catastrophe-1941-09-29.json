@@ -1,0 +1,52 @@
+{
+  "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+  "title": "Victory and Catastrophe",
+  "subtitle": "The front and the first day of the Babyn Yar massacre",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-29",
+  "historicalPeriod": "29 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "phase3-ushmm-babyn-yar",
+    "phase3-ushmm-kiev-occupation",
+    "cmh-blitz"
+  ],
+  "summary": "A theatre-wide assessment of the offensive and the beginning of the Babyn Yar massacre under German occupation of Kiev.",
+  "body": "",
+  "location": "The Eastern Front and Kiev",
+  "outlineTopics": [
+    "The overall military situation on September 29.",
+    "Army Group North's position around Leningrad.",
+    "The military and humanitarian consequences of the blockade's beginning.",
+    "Finnish operations and their relationship to German strategy.",
+    "Army Group Center's position after the Smolensk and Yelnya fighting.",
+    "The outcome of the Kiev encirclement.",
+    "The operational position of Army Group South.",
+    "The continuing Romanian-led siege of Odessa.",
+    "German logistical and transportation difficulties.",
+    "Soviet military losses and the continuation of resistance.",
+    "German occupation policies in conquered Soviet territories.",
+    "The expansion of mass shootings and other Nazi atrocities.",
+    "German occupation of Kiev after September 19.",
+    "The demolition explosions in central Kiev and their exploitation by German authorities.",
+    "The German orders targeting Kiev's Jewish population.",
+    "The beginning of the Babyn Yar massacre on September 29.",
+    "The perpetrators, victims, and documented organization of the killings.",
+    "The continuation of the massacre on September 30.",
+    "The relationship between the military occupation and the Nazi campaign of mass murder.",
+    "The implications of the German strategic situation as Barbarossa approaches the autumn offensive."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=104",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+  "chronologyNotes": [
+    "The 33,771 figure belongs to 29–30 September together; do not assign it to 29 September alone. The 30 September situation and the October offensive are outside this phase."
+  ]
+}

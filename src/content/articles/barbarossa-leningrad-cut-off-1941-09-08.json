@@ -1,0 +1,49 @@
+{
+  "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+  "title": "Leningrad Cut Off",
+  "subtitle": "The opening of the Leningrad blockade",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-08",
+  "historicalPeriod": "8 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "cmh-blitz",
+    "blau-planning",
+    "loc-barbarossa-atlas"
+  ],
+  "summary": "Shlisselburg’s capture severed the principal overland connection to Leningrad; Lake Ladoga remained a route across the water.",
+  "body": "",
+  "location": "Leningrad, Lake Ladoga and the Neva",
+  "outlineTopics": [
+    "Leningrad's political, industrial, and strategic importance.",
+    "Army Group North's advance during August and early September.",
+    "German 4th Panzer Group and the infantry armies involved.",
+    "Soviet defensive preparations around the city.",
+    "The Luga defensive system and subsequent fighting.",
+    "The role of Soviet forces defending the southern approaches.",
+    "The German capture of Shlisselburg on September 8.",
+    "The severing of Leningrad's principal overland connection with the Soviet interior.",
+    "The continuing importance of Lake Ladoga.",
+    "Soviet defensive command arrangements.",
+    "Finnish military positions north of Leningrad.",
+    "The relationship between Finnish operations and the German blockade.",
+    "German intentions toward the population of Leningrad.",
+    "German starvation policy and the decision not to rely on a conventional occupation of the city.",
+    "The immediate consequences for civilians, food supplies, transportation, and evacuation.",
+    "The distinction between the blockade's beginning and the much longer siege that followed."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=83",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+  "chronologyNotes": [
+    "8 September began the land blockade, not the later winter catastrophe. Leningrad remained in Soviet hands and Lake Ladoga was not closed."
+  ],
+  "nextArticleSlug": "barbarossa-the-kiev-trap-1941-09-12"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "barbarossa-the-southward-offensive-1941-08-26",
+  "title": "The Southward Offensive",
+  "subtitle": "The German operational turn south and Soviet defences around Kiev",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-08-26",
+  "historicalPeriod": "26 August 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "blau-planning",
+    "cmh-blitz",
+    "p2-stahel-kiev"
+  ],
+  "summary": "German redirection toward Ukraine and the Southwestern Front as the Desna and Dnieper sectors became central to strategy.",
+  "body": "",
+  "location": "Kiev and central Ukraine",
+  "outlineTopics": [
+    "The military situation inherited from August 25.",
+    "Hitler's August 21 decision concerning German strategic priorities.",
+    "The competing demands of Moscow, Leningrad, and Ukraine.",
+    "The operational importance of the Soviet Southwestern Front.",
+    "Army Group Center's role in the developing southward operation.",
+    "Heinz Guderian's 2nd Panzer Group and its assigned objectives.",
+    "Army Group South under Gerd von Rundstedt.",
+    "Ewald von Kleist's 1st Panzer Group and its northern operational objectives.",
+    "Soviet defensive dispositions around Kiev and the Dnieper.",
+    "The importance of the Desna, Seym, and Dnieper river systems.",
+    "Soviet command decisions concerning the defense of Ukraine.",
+    "German logistical and operational difficulties as formations changed direction.",
+    "Simultaneous fighting toward Leningrad and around Smolensk."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=70",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-a-front-divided-1941-08-25",
+  "chronologyNotes": [
+    "The 21 August decision is earlier; neither Kiev’s fall nor the encirclement had occurred on 26 August."
+  ],
+  "nextArticleSlug": "barbarossa-the-baltic-withdrawal-1941-08-29"
+}
