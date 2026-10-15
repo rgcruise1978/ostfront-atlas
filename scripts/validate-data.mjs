@@ -302,10 +302,10 @@ for (const [index,event] of phaseFour.entries()) {
     }
   }
   assert(article.previousArticleSlug===wholeCampaign[25+index].articleSlug && article.nextArticleSlug===phaseFour[index+1]?.articleSlug, `Broken Phase IV reading sequence: ${event.date}`);
-  assert(event.snapshotStatus==='geographic-reference-only' && event.geographicFeatureIds.length===0 && event.mapAccuracy && event.defaultView, `Phase IV must not claim an unbuilt military map: ${event.date}`);
+  assert(event.snapshotStatus==='dated-regional-synthesis' && event.geographicFeatureIds.length>0 && event.mapAccuracy && event.defaultView, `Phase IV requires dated military features: ${event.date}`);
   assert(event.sourceIds.length>0 && event.sourceIds.every(id=>sourceIds.has(id)), `Phase IV source record missing: ${event.date}`);
-  assert(snapshotIndex[event.date]?.operations===0 && snapshotIndex[event.date]?.formations===0 && snapshotIndex[event.date]?.areas===0, `Phase IV snapshot claims unbuilt military data: ${event.date}`);
-  for (const layer of datedLayers) assert(!layer.features.some(f=>f.properties.snapshots?.includes(event.date)), `Unverified military feature on Phase IV date: ${event.date}`);
+  assert(snapshotIndex[event.date]?.operations>0 && snapshotIndex[event.date]?.formations>0 && snapshotIndex[event.date]?.areas>0, `Phase IV snapshot is missing military data: ${event.date}`);
+  for (const layer of datedLayers) for (const feature of layer.features.filter(f=>f.properties.snapshots?.includes(event.date))) assert(feature.properties.id.startsWith(`p4-${event.date}-`) && feature.properties.snapshots.length===1 && feature.properties.sourceLocators && feature.properties.note, `Undated or unsourced Phase IV feature: ${event.date}`);
   assert(referenceBorders.features.every(feature=>feature.properties.snapshots.includes(event.date)), `Historical border reference missing for ${event.date}`);
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id && c.endDate>='1941-11-14')), 'Phase IV primary capital markers are missing');
