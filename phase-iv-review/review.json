@@ -1,0 +1,191 @@
+[
+  {
+    "date": "1941-09-30",
+    "slug": "barbarossa-the-offensive-begins-1941-09-30",
+    "words": 3902,
+    "reviewedBodySha256": "09e6108bc784a8b9c4a72bc94ef5117a933f7b64d0ed9d23bb3392977a800104",
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p3-ushmm-babyn",
+      "p4-stahel-typhoon",
+      "p4-harrison-industry",
+      "p3-frus786",
+      "ushmm-pow-treatment"
+    ],
+    "changes": "Separated the 30 September southern opening from 2 October. Corrected the panzer-army designation locator. Added September tank-serviceability and fuel-train requirements with their actual dates, and the 2 October economic assessment as context only where appropriate.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-10-02",
+    "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+    "words": 3604,
+    "reviewedBodySha256": "9f9e16f1e3ca17eab9273ca8819b521642061169aaf6315dc6e2fada36e1b3c6",
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-typhoon",
+      "p4-stahel-opening",
+      "p4-frus787"
+    ],
+    "changes": "Added General Georg Thomas’s dated economic assessment, distinguishing projected industrial losses from Soviet collapse. Replaced generic soldier discussion with an explicitly northern-theatre example; did not relocate that soldier to Army Group Centre.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-10-07",
+    "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+    "words": 3585,
+    "reviewedBodySha256": "3a5fb7499453032bcef1a4206440292cdcee105c5354f440b0fa72416d196542",
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-exploiting",
+      "p4-cmh-terrain",
+      "ushmm-pow-treatment",
+      "p4-ushmm-ordinary",
+      "p4-stahel-typhoon"
+    ],
+    "changes": "Removed a faulty inference about Bryansk capture based on the arrival of a later formation. Distinguished encirclement from surrender and exposed incompatible retrospective prisoner totals. Added corps assignments and corrected printed-page locators for the rear-area murder case.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-10-13",
+    "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+    "words": 3529,
+    "reviewedBodySha256": "9d2422e0f7f1706e2e8a5957abb4ddd1d5a7052a2dc4cb59c45e75db41fbb2ed",
+    "sourceIds": [
+      "cmh-blitz",
+      "p4-stahel-exploiting",
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "p4-stahel-typhoon",
+      "p4-cmh-terrain",
+      "p4-frus864"
+    ],
+    "changes": "Added the 20th Panzer Division’s dated readiness return and Soviet resistance during pursuit. Added Steinhardt’s report on public information. Removed an uncertain exact Mtsensk date; retained broad army approach sectors.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-10-16",
+    "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+    "words": 3603,
+    "reviewedBodySha256": "4e7dcbc0fe7309ea0517791d3f683526ee6f81d9a01a89510ed8e07e78272a86",
+    "sourceIds": [
+      "cmh-blitz",
+      "p4-gko801",
+      "p4-stahel-weathering",
+      "p4-frus647",
+      "p4-harrison-industry",
+      "p4-frus864",
+      "p4-frus865",
+      "p4-edele-loyalty",
+      "p4-stahel-exploiting",
+      "p4-stahel-typhoon",
+      "p4-ushmm-odessa"
+    ],
+    "changes": "Checked the 15 October evacuation order and diplomatic departure against primary documents. Added documented crowd violence and antisemitism, with limits on representativeness. Replaced an industrial restart claim with documented receiving-region constraints.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-10-19",
+    "slug": "barbarossa-moscow-under-siege-1941-10-19",
+    "words": 3555,
+    "reviewedBodySha256": "3400cdcbde87d89e70bea6d6ddae1511ee3f967bfa3a192ee09757756505a19f",
+    "sourceIds": [
+      "p4-gko813",
+      "p4-gko813-translation",
+      "p4-gko801",
+      "cmh-blitz",
+      "p4-edele-loyalty",
+      "p4-frus647",
+      "blau-planning",
+      "p4-stahel-typhoon"
+    ],
+    "changes": "Distinguished the decree issued 19 October from its effective date of 20 October. Corrected militsiya to civilian police. Added actual German movement orders and a separately identified Ivanovo disturbance. Corrected decree clause references.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-10-24",
+    "slug": "barbarossa-the-southern-advance-1941-10-24",
+    "words": 3650,
+    "reviewedBodySha256": "a97f8d0f7e332bbf0557fc8a2038eceab34553197693aad98fe31bb61c445d8a",
+    "sourceIds": [
+      "p4-judaica-kharkov",
+      "cmh-blitz",
+      "p4-kirchubel-barbarossa",
+      "p4-harrison-industry",
+      "blau-planning",
+      "p4-kharkiv-tractor",
+      "p4-ermolov-industry",
+      "p4-ushmm-odessa"
+    ],
+    "changes": "Distinguished the October Ishun offensive from the earlier Perekop fighting; retained Sevastopol as Soviet-held. Removed an uncorroborated seven-week tractor/tank restart claim. Used the Kharkiv museum’s tractor evacuation account with a clearly retrospective production date. Preserved Odessa massacre chronology.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-11-02",
+    "slug": "barbarossa-the-offensive-slows-1941-11-02",
+    "words": 3548,
+    "reviewedBodySha256": "859c798d1dd9193f09a21005e33ade51215a00dc680ec9b3ac04148ba5254fdb",
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-eye",
+      "p4-cmh-moscow",
+      "p4-harrison-industry",
+      "p4-gko813",
+      "p4-frus799",
+      "p4-frus803",
+      "p4-kirchubel-barbarossa",
+      "ushmm-pow-treatment",
+      "p4-loc-atlas"
+    ],
+    "changes": "Kept Tula and Sevastopol Soviet-held and the operational lull distinct from cessation of fighting. Replaced unsupported Tula household generalizations. Added a concrete weapons/transport interaction and the aid proposal received on 2 November, distinguished from deliveries.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-11-09",
+    "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+    "words": 3544,
+    "reviewedBodySha256": "9ad8d41ba45e28ebc182d53e3eed34ea20fbb17517a4535c2c112f70a30c1fff",
+    "sourceIds": [
+      "p4-enstad-chronology",
+      "p4-tikhvin-history",
+      "p4-cmh-leningrad",
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-kirchubel-barbarossa",
+      "blau-planning",
+      "p4-stavka-tikhvin",
+      "p4-mukhina-excerpt",
+      "ushmm-eastern-front"
+    ],
+    "changes": "Confirmed German capture on 8 November, the 9 November concentration directive, and constrained continuing Ladoga access. Removed an unsupported command-date dispute. Added Lena Mukhina’s documented earlier defensive labour without inventing a November diary entry.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  },
+  {
+    "date": "1941-11-14",
+    "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+    "words": 3609,
+    "reviewedBodySha256": "0f67727c0fa2f04b91b8e435e8aefa2361c68c6fb67e3d51bfb171f119ea1d4e",
+    "sourceIds": [
+      "p4-cmh-moscow",
+      "blau-planning",
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p4-enstad-chronology",
+      "p4-tikhvin-history",
+      "p4-stavka-tikhvin",
+      "p4-kirchubel-barbarossa",
+      "p4-loc-atlas",
+      "ushmm-eastern-front",
+      "p4-harrison-industry",
+      "p4-frus803",
+      "p4-frus799",
+      "ushmm-pow-treatment",
+      "p4-judaica-kharkov"
+    ],
+    "changes": "Kept the 14 November Soviet action separate from German attacks beginning later. Removed questionable east-of-Serpukhov precision. Distinguished Stalin’s 6 and 7 November speeches, added the dated aid acceptance, and corrected the freeze chronology. Retained the 12 November map-sheet limitation.",
+    "limitations": "Broad operational sectors are not exact military map geometry. Public excerpts, archival catalogue descriptions and retrospective figures are identified as such; inaccessible full books are not claimed as inspected."
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "cmh-blitz",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-2.html",
+    "characters": 54677,
+    "status": "retrieved"
+  },
+  {
+    "id": "blau-planning",
+    "url": "https://www.landsurvival.com/MANUALS/UsArmyWwiiGermanPlanOpsRussia1940-421955.pdf",
+    "characters": 472099,
+    "status": "retrieved"
+  },
+  {
+    "id": "ushmm-pow-treatment",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-treatment-of-soviet-pows-starvation-disease-and-shootings-june-1941january-1942",
+    "characters": 14342,
+    "status": "retrieved"
+  },
+  {
+    "id": "p3-frus786",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d786",
+    "characters": 7832,
+    "status": "retrieved"
+  },
+  {
+    "id": "p3-frus787",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d787",
+    "characters": 7709,
+    "status": "retrieved"
+  },
+  {
+    "id": "p3-ushmm-babyn",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar",
+    "characters": 12703,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-loc-atlas",
+    "url": "https://www.loc.gov/item/map51000141/",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "p4-ushmm-odessa",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/odessa",
+    "characters": 29856,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-stahel-typhoon",
+    "url": "https://assets.cambridge.org/97811070/35126/excerpt/9781107035126_excerpt.pdf",
+    "characters": 26167,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-stahel-opening",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/operation-typhoon/6BC030CA681522FAA86F6C08E84A26AC",
+    "characters": 15984,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-frus787",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d787",
+    "characters": 7709,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-ushmm-ordinary",
+    "url": "https://www.ushmm.org/m/pdfs/20140830-ordinary-soldiers-case-study.pdf",
+    "characters": 170789,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-stahel-exploiting",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/exploiting-the-breach/66D9AD6D7441C2F891E4E99D41F5B468",
+    "characters": 16308,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-cmh-terrain",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/104-5.pdf",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "p4-frus865",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d865",
+    "characters": 9185,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-stahel-weathering",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/weathering-the-storm/CD2EDA990DD43FE504835D9BC7B69198",
+    "characters": 15249,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-gko801",
+    "url": "https://seventeenmoments.web.illinois.edu/1943-2/wartime-evacuation/wartime-evacuation-texts/stalins-order-to-evacuate/",
+    "characters": 6928,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-frus647",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d647",
+    "characters": 9298,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-frus864",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d864",
+    "characters": 8702,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-harrison-industry",
+    "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/industryeconomy2010.pdf",
+    "characters": 71164,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-gko813",
+    "url": "https://www.prlib.ru/item/1339595",
+    "characters": 2990,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-gko813-translation",
+    "url": "https://battlefield.ru/library/archives/reports/reports11.html",
+    "characters": 2334,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-kirchubel-barbarossa",
+    "url": "https://www.ospreypublishing.com/us/operation-barbarossa-9781472804709/",
+    "characters": 9338,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-judaica-kharkov",
+    "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kharkov",
+    "characters": 12778,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-ermolov-industry",
+    "url": "https://journals.rudn.ru/russian-history/article/view/4143/en_US",
+    "characters": 4097,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-cmh-moscow",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-3.html",
+    "characters": 56553,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-stahel-eye",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/eye-of-the-storm/D21E7AA2ACDF15FFBF749D78593D9025",
+    "characters": 15728,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-stavka-tikhvin",
+    "url": "https://docs.historyrussia.org/ru/nodes/298283",
+    "characters": 1839,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-tikhvin-history",
+    "url": "https://82.rosguard.gov.ru/page/index/tixvinskaya-strategicheskaya-nastupatelnaya-operaciya-1941-goda",
+    "characters": 11219,
+    "status": "retrieved"
+  },
+  {
+    "id": "p4-cmh-leningrad",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/30-12.pdf",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "p4-enstad-chronology",
+    "url": "https://assets.cambridge.org/97811084/21263/frontmatter/9781108421263_frontmatter.pdf",
+    "characters": 18036,
+    "status": "retrieved"
+  },
+  {
+    "id": "ushmm-eastern-front",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-soviet-union-and-the-eastern-front",
+    "characters": 24296,
+    "status": "retrieved"
+  }
+]
