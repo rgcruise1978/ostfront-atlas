@@ -5102,5 +5102,862 @@
     ],
     "notes": "Publisher excerpt PDF p. 18 inspected on 14 October 2026. This narrow use does not imply the complete book was available or audited.",
     "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p3-sbd43",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 43 (Moscow: Voenizdat, 1960)",
+    "date": null,
+    "url": "https://djvu.online/file/jQgwe0HGsB07F",
+    "type": "Primary document collection",
+    "relevance": "Public official documents in Russian; inspected printed pp. 39–51 for the Bryansk Front, 23–29 August. OCR checked against the document context; dates and paragraphs are specified in citations. Plans are distinguished from reported outcomes.",
+    "supports": [
+      "1941-08-26"
+    ],
+    "notes": "Public official documents in Russian; inspected printed pp. 39–51 for the Bryansk Front, 23–29 August. OCR checked against the document context; dates and paragraphs are specified in citations. Plans are distinguished from reported outcomes.",
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-sbd40",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 40 (Moscow: Voenizdat, 1960)",
+    "date": null,
+    "url": "https://djvu.online/file/JeloHEa0DfGoN",
+    "type": "Primary document collection",
+    "relevance": "Public official documents in Russian concerning the Southwestern Direction, August–September 1941. Citation locators identify the inspected orders and reports; archival signatures reproduced by the editors are not claims of direct archival access.",
+    "supports": [
+      "1941-08-26",
+      "1941-09-12",
+      "1941-09-16",
+      "1941-09-19",
+      "1941-09-26"
+    ],
+    "notes": "Public official documents in Russian concerning the Southwestern Direction, August–September 1941. Citation locators identify the inspected orders and reports; archival signatures reproduced by the editors are not claims of direct archival access.",
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-southern-august",
+    "institution": "Soviet Southern Front headquarters",
+    "title": "Operational summary 02/op, 31 August 1941: operations from 15 to 31 August; Collection of Combat Documents 40, document 215",
+    "date": null,
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/40/215",
+    "type": "Primary document collection",
+    "relevance": "Contemporary official report, Russian transcription. Soviet reports of enemy strength and losses are estimates; its own movements and withdrawals are used with explicit attribution.",
+    "supports": [
+      "1941-08-26"
+    ],
+    "notes": "Contemporary official report, Russian transcription. Soviet reports of enemy strength and losses are estimates; its own movements and withdrawals are used with explicit attribution.",
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-guderian-flank",
+    "institution": "Heinz Guderian; postwar study for the U.S. Army historical programme",
+    "title": "Flank Defense in Far Reaching Operations, section IV: The Thrust against Kiev",
+    "date": null,
+    "url": "https://www.allworldwars.com/Flank-Defense-in-Far-Reaching-Operations-by-Heinz-Guderian.html",
+    "type": "Retrospective military study",
+    "relevance": "Retrospective participant account, English transcription. Used critically for dated dispositions and crossing chronology, checked against Soviet operational reports. Its allocation of blame and counterfactual claims are not adopted.",
+    "supports": [
+      "1941-08-26",
+      "1941-09-12",
+      "1941-09-16",
+      "1941-09-26",
+      "1941-09-29"
+    ],
+    "notes": "Retrospective participant account, English transcription. Used critically for dated dispositions and crossing chronology, checked against Soviet operational reports. Its allocation of blame and counterfactual claims are not adopted.",
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-grossman-retreat",
+    "institution": "Vasily Grossman; edited and translated by Antony Beevor and Luba Vinogradova",
+    "title": "A Writer at War: A Soviet Journalist with the Red Army, 1941–1945 (2005), chapter 3, The Terrible Retreat",
+    "date": null,
+    "url": "https://erenow.org/ww/awriteratwar/5.php",
+    "type": "Edited diary and contemporary reportage",
+    "relevance": "Inspected online transcription of the published diary selection, August–September retreat passages. Used for one short paraphrased civilian vignette; undated observations are not assigned to 26 August. Editorial bridge chronology is not used.",
+    "supports": [
+      "1941-08-26"
+    ],
+    "notes": "Inspected online transcription of the published diary selection, August–September retreat passages. Used for one short paraphrased civilian vignette; undated observations are not assigned to 26 August. Editorial bridge chronology is not used.",
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-bergen-chaplains",
+    "institution": "Doris L. Bergen; Cambridge University Press",
+    "title": "Between God and Hitler: Military Chaplains in Nazi Germany (2023), introduction, pp. 2–7",
+    "date": null,
+    "url": "https://assets.cambridge.org/97811087/20823/excerpt/9781108720823_excerpt.pdf",
+    "type": "Academic monograph excerpt",
+    "relevance": "Publisher excerpt inspected. Discussion of Bila Tserkva, Ernst Tewes, Isaac Piatsetski and the limitations of testimony; used for a short account of evacuation and endangered children. No claim to full-book access.",
+    "supports": [
+      "1941-08-26"
+    ],
+    "notes": "Publisher excerpt inspected. Discussion of Bila Tserkva, Ernst Tewes, Isaac Piatsetski and the limitations of testimony; used for a short account of evacuation and endangered children. No claim to full-book access.",
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-tallinn-land",
+    "institution": "Toomas Hiio; Estonian War Museum",
+    "title": "The Battle for Tallinn: Wehrmacht Occupies Western Estonia",
+    "date": null,
+    "url": "https://esm.ee/en/teadus/sojasuvi-1941/lahing-tallinna-parast-wehrmacht-vallutab-laane-eesti/",
+    "type": "Scholarly museum study with documentary extracts",
+    "relevance": "Estonian text inspected, including translated German operational reports and Soviet 10th Rifle Corps summary. References to those reports are to the reproduced texts, not direct archival inspection.",
+    "notes": "Estonian text inspected, including translated German operational reports and Soviet 10th Rifle Corps summary. References to those reports are to the reproduced texts, not direct archival inspection.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-baltic-chronology",
+    "institution": "Jürgen Rohwer and Gerhard Hümmelchen; Württemberg State Library",
+    "title": "Chronik des Seekrieges: August 1941",
+    "date": null,
+    "url": "https://wwwstatic.wlb-stuttgart.de/seekrieg/41-08.htm",
+    "type": "Scholarly naval chronology",
+    "relevance": "German text inspected for convoy organization, mine warfare, transport attacks and rescue chronology. Individual estimates retain their original scope.",
+    "notes": "German text inspected for convoy organization, mine warfare, transport attacks and rescue chronology. Individual estimates retain their original scope.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-zubkov-tallinn",
+    "institution": "R. A. Zubkov",
+    "title": "Tallinskiy proryv Krasnoznamennogo Baltiyskogo flota, avgust–sentyabr 1941 g. (Moscow: Kuchkovo pole, 2012)",
+    "date": null,
+    "url": "https://dokumen.pub/1941-e-6872883.html",
+    "type": "Naval study and documentary collection",
+    "relevance": "Russian transcription inspected for statistical comparisons and Appendices 7–8 reproducing the 1937 naval combat regulations and 1940 operational instructions. These official regulations establish doctrine, not proof of compliance at Tallinn.",
+    "notes": "Russian transcription inspected for statistical comparisons and Appendices 7–8 reproducing the 1937 naval combat regulations and 1940 operational instructions. These official regulations establish doctrine, not proof of compliance at Tallinn.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-juminda-survivors",
+    "institution": "Estonian Maritime Museum",
+    "title": "Juminda meretragöödia elas üle 10 000 inimest (17 August 2022)",
+    "date": null,
+    "url": "https://meremuuseum.ee/blog/2022/08/17/juminda-meretragoodia-elas-ule-10-000-inimest/",
+    "type": "Museum research and oral history",
+    "relevance": "Estonian text inspected. Heino Niidas testimony is retrospective; Sibir belonged to an earlier August voyage, not the main 28 August departure. Differing dates and attacker identifications are not resolved here.",
+    "notes": "Estonian text inspected. Heino Niidas testimony is retrospective; Sibir belonged to an earlier August voyage, not the main 28 August departure. Differing dates and attacker identifications are not resolved here.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-eestirand",
+    "institution": "Estonian War Museum",
+    "title": "Auriku Eestirand hukk",
+    "date": null,
+    "url": "https://esm.ee/en/teadus/sojasuvi-1941/auriku-eestirand-hukk/",
+    "type": "Museum historical study",
+    "relevance": "Inspected account of Eestirand and Prangli, 24 August 1941; passenger categories and subsequent landings distinguished.",
+    "notes": "Inspected account of Eestirand and Prangli, 24 August 1941; passenger categories and subsequent landings distinguished.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-karjalainen-isthmus",
+    "institution": "Mikko Karjalainen; Finnish Military Historical Society",
+    "title": "Hyökkäys Kannaksella 1941 – Leningradin valtaus? (lecture, 16 November 2011)",
+    "date": null,
+    "url": "https://www.sshs.fi/content/uploads/2023/02/SSHS_Kannaksen_valtaus_16112011_kotisivuille.pdf",
+    "type": "Academic lecture",
+    "relevance": "Full fourteen-page Finnish lecture inspected; operation, command friction and limits of the advance, particularly pp. 6–14. English paraphrases by the atlas.",
+    "notes": "Full fourteen-page Finnish lecture inspected; operation, command friction and limits of the advance, particularly pp. 6–14. English paraphrases by the atlas.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-yle-isthmus",
+    "institution": "Yle Living Archive",
+    "title": "Jatkosodan hyökkäysvaihe Kannaksella",
+    "date": null,
+    "url": "https://yle.fi/a/20-102978",
+    "type": "Public broadcaster historical archive",
+    "relevance": "Archive introduction inspected for Viipuri chronology; no claim to inspecting all linked film or audio.",
+    "notes": "Archive introduction inspected for Viipuri chronology; no claim to inspecting all linked film or audio.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus68",
+    "institution": "U.S. Department of State",
+    "title": "Foreign Relations of the United States, 1941, volume I, document 68: Welles–Procopé conversation, 18 August",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d68",
+    "type": "Primary diplomatic record",
+    "relevance": "Full official documentary text inspected. An exploratory overture is distinguished from an agreed peace settlement.",
+    "notes": "Full official documentary text inspected. An exploratory overture is distinguished from an agreed peace settlement.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus71",
+    "institution": "U.S. Department of State",
+    "title": "Foreign Relations of the United States, 1941, volume I, document 71: Schoenfeld to the Secretary of State, 21 August",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d71",
+    "type": "Primary diplomatic record",
+    "relevance": "Full official documentary text inspected; Witting’s expectations are attributed, not presented as adopted Finnish or German policy.",
+    "notes": "Full official documentary text inspected; Witting’s expectations are attributed, not presented as adopted Finnish or German policy.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-sbd31",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 31 (Moscow: Voenizdat, 1957)",
+    "date": null,
+    "url": "https://militera.lib.ru/docs/da/sbd/index.html",
+    "type": "Official military document collection",
+    "relevance": "Full RTF transcription downloaded and converted locally. Inspected pp. 30–34 and 118–124 for Yelnya; divisional historical summaries for Guards redesignation. Official reports and orders in Russian, paraphrased by the atlas. Printed archival references are not direct archival access.",
+    "notes": "Full RTF transcription downloaded and converted locally. Inspected pp. 30–34 and 118–124 for Yelnya; divisional historical summaries for Guards redesignation. Official reports and orders in Russian, paraphrased by the atlas. Printed archival references are not direct archival access.",
+    "supports": [
+      "1941-09-03"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-glantz-yelnya",
+    "institution": "David M. Glantz",
+    "title": "Barbarossa Derailed, volume II: 24th Army operations, 30 August–3 September (Russian translation excerpt)",
+    "date": null,
+    "url": "https://document.wikireading.ru/28879",
+    "type": "Academic military history and reproduced documents",
+    "relevance": "Inspected excerpt includes Soviet daily reports, orders, direct-wire conversations and German command diary extracts. Original Soviet documents also checked in volume 31 where available. Translation has inconsistent unit labels: the 107th is a rifle division.",
+    "notes": "Inspected excerpt includes Soviet daily reports, orders, direct-wire conversations and German command diary extracts. Original Soviet documents also checked in volume 31 where available. Translation has inconsistent unit labels: the 107th is a rifle division.",
+    "supports": [
+      "1941-09-03"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-glantz-yelnya-withdrawal",
+    "institution": "David M. Glantz",
+    "title": "Barbarossa Derailed, volume II: German withdrawal, 4–5 September (Russian translation excerpt)",
+    "date": null,
+    "url": "https://document.wikireading.ru/28880",
+    "type": "Academic military history and reproduced documents",
+    "relevance": "Inspected reproduced Zhukov reports and Soviet daily summaries, checked against volume 31; German withdrawal chronology. No claim of full-book access.",
+    "notes": "Inspected reproduced Zhukov reports and Soviet daily summaries, checked against volume 31; German withdrawal chronology. No claim of full-book access.",
+    "supports": [
+      "1941-09-03"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-glantz-yelnya-losses",
+    "institution": "David M. Glantz",
+    "title": "Barbarossa Derailed, volume II: Yelnya afterword (Russian translation excerpt)",
+    "date": null,
+    "url": "https://loveread.ec/read_book.php?id=53469&p=115",
+    "type": "Academic military history excerpt",
+    "relevance": "Inspected discussion of 31,853 Soviet casualties and the distinct reporting periods. These are published statistical totals, not a new independent reconstruction.",
+    "notes": "Inspected discussion of 31,853 Soviet casualties and the distinct reporting periods. These are published statistical totals, not a new independent reconstruction.",
+    "supports": [
+      "1941-09-03"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-simonov-yelnya",
+    "institution": "Konstantin Simonov",
+    "title": "Different Days of War: A Writer’s Diary, 1941, July Yelnya entries and later commentary",
+    "date": null,
+    "url": "https://militera.lib.ru/db/simonov_km/1_08.html",
+    "type": "Published diary with retrospective commentary",
+    "relevance": "Russian text inspected. July experience is dated as antecedent; later correspondence identifying the scouts is explicitly retrospective.",
+    "notes": "Russian text inspected. July experience is dated as antecedent; later correspondence identifying the scouts is explicitly retrospective.",
+    "supports": [
+      "1941-09-03"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-allied-correspondence",
+    "institution": "Ministry of Foreign Affairs of the USSR, documentary edition",
+    "title": "Correspondence with Churchill, 1941 (English edition, Progress Publishers, 1975)",
+    "date": null,
+    "url": "https://www.marxists.org/reference/archive/stalin/works/correspondence/01/41.htm",
+    "type": "Official diplomatic document collection",
+    "relevance": "Inspected dated messages; Soviet published documentary edition, not a neutral history. Claims and requests attributed to their authors. Supplies promised, shipped and delivered distinguished.",
+    "notes": "Inspected dated messages; Soviet published documentary edition, not a neutral history. Claims and requests attributed to their authors. Supplies promised, shipped and delivered distinguished.",
+    "supports": [
+      "1941-09-03",
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-leningrad-documents",
+    "institution": "Institute of Military History, Russian Ministry of Defence",
+    "title": "Blokada Leningrada v dokumentakh rassekrechennykh arkhivov (Moscow and St Petersburg, 2004): September command documents",
+    "date": null,
+    "url": "https://centralsector.narod.ru/docum.htm",
+    "type": "Primary document collection",
+    "relevance": "Published Russian documents reproduced online with archival signatures; inspected 1, 3, 4 and 11 September records. English paraphrases by the atlas. This is access to a transcription, not to the original archival files. The host warns that its opening July document is misdated; that document is not used.",
+    "notes": "Published Russian documents reproduced online with archival signatures; inspected 1, 3, 4 and 11 September records. English paraphrases by the atlas. This is access to a transcription, not to the original archival files. The host warns that its opening July document is misdated; that document is not used.",
+    "supports": [
+      "1941-09-08",
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-mosunov-54",
+    "institution": "Vyacheslav Mosunov",
+    "title": "Bitva za Leningrad: Neizvestnaya oborona, chapter 8: The formation of the 54th Army",
+    "date": null,
+    "url": "https://document.wikireading.ru/15097",
+    "type": "Military history",
+    "relevance": "Inspected chapter excerpt in Russian for Shlisselburg, the 54th Army and the assembly of formations east of the blockade. Regimental numbering inconsistent in the transcription is not relied upon.",
+    "notes": "Inspected chapter excerpt in Russian for Shlisselburg, the 54th Army and the assembly of formations east of the blockade. Regimental numbering inconsistent in the transcription is not relied upon.",
+    "supports": [
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-ladoga-library",
+    "institution": "Boris Yeltsin Presidential Library",
+    "title": "The Road of Life began operating, 12 September 1941",
+    "date": null,
+    "url": "https://www.prlib.ru/history/619535",
+    "type": "Library historical reference",
+    "relevance": "Inspected historical entry citing transport histories by Kovalchuk and Kharitonov. Used for the 30 August transport decision and first convoy on 12 September; differing first-cargo tonnages are omitted.",
+    "notes": "Inspected historical entry citing transport histories by Kovalchuk and Kharitonov. Used for the 30 August transport decision and first convoy on 12 September; differing first-cargo tonnages are omitted.",
+    "supports": [
+      "1941-09-08",
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-leningrad-food",
+    "institution": "Encyclopaedia of St Petersburg",
+    "title": "Food supply during the Siege",
+    "date": null,
+    "url": "http://www.encspb.ru/object/2804035114?lc=en",
+    "type": "Historical reference",
+    "relevance": "Inspected English entry on rationing, September warehouse losses and the 12 September inventory. Inventory days are estimates under contemporary accounting conditions, not guaranteed survival periods.",
+    "notes": "Inspected English entry on rationing, September warehouse losses and the 12 September inventory. Inventory days are estimates under contemporary accounting conditions, not guaranteed survival periods.",
+    "supports": [
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-kirschenbaum-memory",
+    "institution": "Lisa A. Kirschenbaum; Cambridge University Press",
+    "title": "The Legacy of the Siege of Leningrad, 1941–1995: Myth, Memories, and Monuments (2006), introduction",
+    "date": null,
+    "url": "https://assets.cambridge.org/97805218/63261/excerpt/9780521863261_excerpt.pdf",
+    "type": "Academic monograph excerpt",
+    "relevance": "Inspected publisher excerpt, printed pp. 1–5. Used for the relationship between official accounts and diverse civilian experiences, not as access to the entire book.",
+    "notes": "Inspected publisher excerpt, printed pp. 1–5. Used for the relationship between official accounts and diverse civilian experiences, not as access to the entire book.",
+    "supports": [
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-ryabinkin",
+    "institution": "Yura Ryabinkin; diary excerpts selected by Natalia Sokolovskaya and Yevgeny Buntman, Arzamas",
+    "title": "Siege diaries: entry of 8 September 1941",
+    "date": null,
+    "url": "https://arzamas.academy/materials/1464",
+    "type": "Primary diary excerpt",
+    "relevance": "Inspected Russian diary excerpt. A young civilian’s contemporary perspective; reported rumours and estimates are not converted into independently verified military facts.",
+    "notes": "Inspected Russian diary excerpt. A young civilian’s contemporary perspective; reported rumours and estimates are not converted into independently verified military facts.",
+    "supports": [
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-skryabina",
+    "institution": "Elena Skryabina",
+    "title": "Siege and Survival: The Odyssey of a Leningrader; Russian diary transcription",
+    "date": null,
+    "url": "https://militera.lib.ru/db/skryabina_ea/01.html",
+    "type": "Published diary",
+    "relevance": "Inspected September entries, particularly 5, 8, 9, 12 and 15 September. Published after the war; the account and its editorial corrections are treated critically. The 9 September entry describes the previous day’s raid.",
+    "notes": "Inspected September entries, particularly 5, 8, 9, 12 and 15 September. Published after the war; the account and its editorial corrections are treated critically. The 9 September entry describes the previous day’s raid.",
+    "supports": [
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-nca-july16",
+    "institution": "International Military Tribunal; U.S. Office of Chief of Counsel",
+    "title": "Nazi Conspiracy and Aggression, chapter XIII: Germanization and Spoliation; document L-221",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/imt/chap_13.asp",
+    "type": "Primary prosecution document collection",
+    "relevance": "Inspected reproduction of Bormann’s record of Hitler’s conference, 16 July 1941. German assertions about Finnish wishes do not independently establish Finnish intentions.",
+    "notes": "Inspected reproduction of Bormann’s record of Hitler’s conference, 16 July 1941. German assertions about Finnish wishes do not independently establish Finnish intentions.",
+    "supports": [
+      "1941-09-08"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-nca-leningrad",
+    "institution": "International Military Tribunal",
+    "title": "Proceedings, 22 February 1946: Leningrad orders and evidence",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/imt/02-22-46.asp",
+    "type": "Primary trial record",
+    "relevance": "Inspected presentation of the directive of 22 September 1941, document C-124, and later orders. Later policies are explicitly dated and not projected backward onto 8 September.",
+    "notes": "Inspected presentation of the directive of 22 September 1941, document C-124, and later orders. Later policies are explicitly dated and not projected backward onto 8 September.",
+    "supports": [
+      "1941-09-08",
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus202",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "FRUS 1941, volume I, document 202: Steinhardt to the Secretary of State, 13 September 1941",
+    "date": "1941-09-13",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d202",
+    "type": "Primary diplomatic document",
+    "relevance": "Inspected full telegram reporting conversations of 12–13 September with British representatives in Moscow. Their uncertainty and Soviet assurances are attributed, not adopted as omniscient assessments.",
+    "notes": "The British military representative lacked detailed Soviet information; his prediction concerning Leningrad industry is not used as an established fact.",
+    "supports": [
+      "1941-09-12"
+    ],
+    "reuseRights": "U.S. government historical publication."
+  },
+  {
+    "id": "p3-kirchubel-panzer",
+    "institution": "Robert Kirchubel; Pen & Sword",
+    "title": "Hitler’s Panzer Armies on the Eastern Front (2009), First and Second Panzer Army chapters and endnotes",
+    "date": null,
+    "url": "https://prussia.online/Data/Book/hi/hitlers-panzer-armies-on-the-eastern-front/Kirchubel%20R.%20Hitlers%20Panzer%20Armies%20on%20the%20Eastern%20Front%20%282009%29%2C%20OCR.pdf",
+    "type": "Scholarly military history",
+    "relevance": "Inspected PDF pp. 56, 108–109 and relevant endnotes pp. 254, 262–263 for the junction and its dating. PDF pagination is given because this electronic edition differs from print. The author expressly acknowledges alternative 14/15 September dates.",
+    "notes": "Used for the 3rd/16th Panzer connection, compared with Guderian’s dated account. The precise first-contact hour is unresolved. The electronic text sometimes calls the 1941 panzer groups armies; the atlas uses their contemporary designations.",
+    "supports": [
+      "1941-09-16"
+    ],
+    "reuseRights": "Linked reference; brief original paraphrase."
+  },
+  {
+    "id": "p3-khoroshunova-arrival",
+    "institution": "Iryna Khoroshunova; Istorychna Pravda",
+    "title": "Diary entry dated 25 September 1941, recalling the withdrawal and German entry on 18–19 September",
+    "date": null,
+    "url": "https://www.istpravda.com.ua/articles/2018/09/21/152970/",
+    "type": "Primary diary excerpt",
+    "relevance": "Russian text inspected in Ukrainian historical publication. Entry date distinguished from described event; English paraphrase by the atlas. Editorial commentary and rumours are not adopted as independent facts.",
+    "notes": "Russian text inspected in Ukrainian historical publication. Entry date distinguished from described event; English paraphrase by the atlas. Editorial commentary and rumours are not adopted as independent facts.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-herasymova",
+    "institution": "Nina Herasymova; Radio Svoboda / Current Time",
+    "title": "Kyiv wartime diary: selected entries, September 1941",
+    "date": null,
+    "url": "https://www.radiosvoboda.org/a/ninas-war-diary/29510966.html",
+    "type": "Primary diary excerpt",
+    "relevance": "Inspected Ukrainian rendering of a Russian diary held by the Ukrainian war museum. Relevant dated entries identified individually. Rumours of other cities falling are evidence of information conditions, not verified military events.",
+    "notes": "Inspected Ukrainian rendering of a Russian diary held by the Ukrainian war museum. Relevant dated entries identified individually. Rumours of other cities falling are evidence of information conditions, not verified military events.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-pavliuk",
+    "institution": "Anatolii Pavliuk; Pavlo Tychyna Memorial Apartment Museum",
+    "title": "Diary excerpts on Kyiv in autumn 1941",
+    "date": null,
+    "url": "https://tychynamuseum.com.ua/shho-vidbuvalosya-v-kyyevi-voseny-1941/",
+    "type": "Primary diary excerpt",
+    "relevance": "Museum publication by A. Volokonska; inspected entries of 19 and 26 September. Observations and reported rumours distinguished. English paraphrases from Ukrainian.",
+    "notes": "Museum publication by A. Volokonska; inspected entries of 19 and 26 September. Observations and reported rumours distinguished. English paraphrases from Ukrainian.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-malakov-occupation",
+    "institution": "Dmytro Malakov; Ukrainian Center for Holocaust Studies",
+    "title": "Kyiv in the first days of occupation, 19–28 September 1941; conference proceedings (2012), pp. 157–163",
+    "date": null,
+    "url": "https://history.kby.kiev.ua/publication/doc_7989.Kiyiv_u_pershi_dni_okupatsiyi_(19-28_veresnya_1941_roku).html",
+    "type": "Scholarly historical essay",
+    "relevance": "Full Ukrainian online text inspected. Used for selective evacuation and initial occupation measures; uncertain population estimates, polemical speculation and unqualified prisoner totals are not adopted.",
+    "notes": "Full Ukrainian online text inspected. Used for selective evacuation and initial occupation measures; uncertain population estimates, polemical speculation and unqualified prisoner totals are not adopted.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-berkhoff-babiyar",
+    "institution": "Karel C. Berkhoff; Sciences Po Mass Violence and Resistance Research Network",
+    "title": "Babi Yar (2015)",
+    "date": null,
+    "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/babi-yar",
+    "type": "Academic historical synthesis",
+    "relevance": "Inspected sections on actors, chronology, witnesses and later evidence. Command responsibilities and uncertainty about transfers are preserved; does not prove every quoted wartime assertion.",
+    "notes": "Inspected sections on actors, chronology, witnesses and later evidence. Command responsibilities and uncertainty about transfers are preserved; does not prove every quoted wartime assertion.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-conservatoire",
+    "institution": "Elena Zinkevych and Michelle Assay; University of Huddersfield / Routledge",
+    "title": "The Conservatoire in occupied Kiev, 19 September 1941 to 6 November 1943 (2019), abstract",
+    "date": null,
+    "url": "https://pure.hud.ac.uk/en/publications/the-conservatoire-in-occupied-kiev-19-september-1941-to-6-novembe/",
+    "type": "Peer-reviewed chapter abstract",
+    "relevance": "Only the university repository abstract was accessible and inspected. Used solely for its explicit finding that the Conservatoire had no official evacuation and many staff and students remained. No access to the full chapter is claimed.",
+    "notes": "Only the university repository abstract was accessible and inspected. Used solely for its explicit finding that the Conservatoire had no official evacuation and many staff and students remained. No access to the full chapter is claimed.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-yad-kiev",
+    "institution": "Yad Vashem",
+    "title": "Jews from Kiev and the Surrounding Areas Murdered at Babi Yar",
+    "date": null,
+    "url": "https://wwv.yadvashem.org/yv/en/exhibitions/communities/kiev/babi-yar.asp",
+    "type": "Museum historical account",
+    "relevance": "Inspected entry on persecution from the first occupation days, assembly notices and the two-day massacre. The 33,771 figure refers to 29–30 September together.",
+    "notes": "Inspected entry on persecution from the first occupation days, assembly notices and the two-day massacre. The 33,771 figure refers to 29–30 September together.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p3-esu-kiev",
+    "institution": "Institute of Encyclopedic Research, National Academy of Sciences of Ukraine",
+    "title": "Kyiv Defensive Operation, Encyclopedia of Modern Ukraine (2012)",
+    "date": null,
+    "url": "https://esu.com.ua/article-11239",
+    "type": "Academic encyclopedia",
+    "relevance": "Inspected Ukrainian text for the encircled armies, fragmented withdrawal and headquarters column fighting on 20–22 September. Numerical and counterfactual claims are not adopted.",
+    "notes": "Inspected Ukrainian text for the encircled armies, fragmented withdrawal and headquarters column fighting on 20–22 September. Numerical and counterfactual claims are not adopted.",
+    "supports": [
+      "1941-09-26"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-esu-kirponos",
+    "institution": "S. V. Lesyk and O. M. Sharova; Encyclopedia of Modern Ukraine",
+    "title": "Kyrponos Mykhailo Petrovych (2013)",
+    "date": null,
+    "url": "https://esu.com.ua/article-6503",
+    "type": "Academic biographical reference",
+    "relevance": "Ukrainian biographical entry inspected for 20 September 1941 death in combat near Driukivshchyna; does not supply an exact minute or detailed fatal wound narrative.",
+    "notes": "Ukrainian biographical entry inspected for 20 September 1941 death in combat near Driukivshchyna; does not supply an exact minute or detailed fatal wound narrative.",
+    "supports": [
+      "1941-09-26"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-pohl-pows",
+    "institution": "Dieter Pohl, University of Klagenfurt",
+    "title": "Life and Death of Soviet POWs in Occupied Ukraine 1941–1944, conference paper, Paris, 19–20 September 2011",
+    "date": null,
+    "url": "https://www.sgvavia.ru/forum/150-4617-1",
+    "type": "Academic conference paper, mirrored transcription",
+    "relevance": "Inspected transcribed paper through note 22. Original indexed PDF at Chtyvo is no longer served; reference links to the surviving transcription, not the forum contributor as historical authority. Used for a short account of statistical categories and the camp command structure. Archival citations are Pohl’s, not direct archival inspection.",
+    "notes": "Inspected transcribed paper through note 22. Original indexed PDF at Chtyvo is no longer served; reference links to the surviving transcription, not the forum contributor as historical authority. Used for a short account of statistical categories and the camp command structure. Archival citations are Pohl’s, not direct archival inspection.",
+    "supports": [
+      "1941-09-26"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-nca-pows",
+    "institution": "Office of United States Chief of Counsel for Prosecution of Axis Criminality; Yale Avalon Project",
+    "title": "Nazi Conspiracy and Aggression, vol. II (USGPO, 1946), chapter XVI, part 4: Soviet prisoners of war",
+    "date": null,
+    "url": "https://avalon.law.yale.edu/imt/chap16_part04.asp",
+    "type": "Official documentary prosecution publication",
+    "relevance": "Inspected paragraphs on 8 September regulations, Canaris memorandum of 15 September and Keitel annotation of 23 September, documents 1519-PS and EC-338. Prosecution synthesis and quoted documentary evidence distinguished.",
+    "notes": "Inspected paragraphs on 8 September regulations, Canaris memorandum of 15 September and Keitel annotation of 23 September, documents 1519-PS and EC-338. Prosecution synthesis and quoted documentary evidence distinguished.",
+    "supports": [
+      "1941-09-26"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-rosenberg-pows",
+    "institution": "Reich Ministry for the Occupied Eastern Territories; U.S. Nuremberg documentary edition",
+    "title": "Document 081-PS, memorandum addressed to Keitel, 28 February 1942; Nazi Conspiracy and Aggression, vol. III (1946)",
+    "date": null,
+    "url": "https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/pow2.htm",
+    "type": "Primary document in official English translation",
+    "relevance": "Full translation inspected in Dr S. D. Stein’s documentary transcription. The surviving copy was unsigned; described as a ministry memorandum rather than proof of personal dispatch. Later description of the wider POW system, not a day-specific account of every Kiev prisoner.",
+    "notes": "Full translation inspected in Dr S. D. Stein’s documentary transcription. The surviving copy was unsigned; described as a ministry memorandum rather than proof of personal dispatch. Later description of the wider POW system, not a day-specific account of every Kiev prisoner.",
+    "supports": [
+      "1941-09-26"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-davydov",
+    "institution": "National Museum of the History of Ukraine in the Second World War",
+    "title": "Volodymyr Davydov: biographical account accompanying Pages of memories, 9 June 1944",
+    "date": null,
+    "url": "https://digital.warmuseum.kyiv.ua/documents/19",
+    "type": "Museum biographical account and archival catalogue",
+    "relevance": "Inspected substantive museum biography for capture near Pereiaslav in late September, camp sequence and late October escape. The seven-page testimony itself was not transcribed; no claim to reading it in full.",
+    "notes": "Inspected substantive museum biography for capture near Pereiaslav in late September, camp sequence and late October escape. The seven-page testimony itself was not transcribed; no claim to reading it in full.",
+    "supports": [
+      "1941-09-26"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-no3140",
+    "institution": "United States Military Tribunal, Nuremberg; official trial documentary edition",
+    "title": "Document NO-3140, Operational Situation Report USSR 106, 7 October 1941; Trials of War Criminals, vol. IV, pp. 146–149",
+    "date": null,
+    "url": "https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/Einsatz2b.htm",
+    "type": "Primary perpetrator document in official English translation",
+    "relevance": "The Kiev sections of the official U.S. trial translation, pp. 146–149, were inspected in S. D. Stein’s transcription. Admissions of killing and institutional cooperation are distinguished from antisemitic accusations and claims about public approval. The report is dated 7 October 1941; the massacre occurred on 29–30 September. The chapter follows the official translation’s 8 a.m. assembly time.",
+    "notes": "The Kiev sections of the official U.S. trial translation, pp. 146–149, were inspected in S. D. Stein’s transcription. Admissions of killing and institutional cooperation are distinguished from antisemitic accusations and claims about public approval. The report is dated 7 October 1941; the massacre occurred on 29–30 September. The chapter follows the official translation’s 8 a.m. assembly time.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus783",
+    "institution": "United States Department of State, Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 783: Steinhardt telegram, 29 September 1941",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d783",
+    "type": "Contemporary diplomatic document",
+    "relevance": "The complete contemporary telegram was inspected. It distinguishes the Kremlin meeting on 28 September from the first formal conference session on 29 September. Harriman’s explanation of Beaverbrook’s motive is identified as his interpretation.",
+    "notes": "The complete contemporary telegram was inspected. It distinguishes the Kremlin meeting on 28 September from the first formal conference session on 29 September. Harriman’s explanation of Beaverbrook’s motive is identified as his interpretation.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus786",
+    "institution": "United States Department of State, Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 786: Harriman report transmitted 30 September 1941",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d786",
+    "type": "Contemporary diplomatic document",
+    "relevance": "The complete telegram was inspected. Its account concerns discussions on 28–29 September. Stalin’s estimates are not adopted as independently verified German strengths. Equipment preferences establish requests, not deliveries.",
+    "notes": "The complete telegram was inspected. Its account concerns discussions on 28–29 September. Stalin’s estimates are not adopted as independently verified German strengths. Equipment preferences establish requests, not deliveries.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus787",
+    "institution": "United States Department of State, Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 787: conclusion of the Moscow conference, 1 October 1941",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d787",
+    "type": "Contemporary diplomatic document",
+    "relevance": "The complete telegram was inspected and its 1 October date is explicit. The American offer of supplies is distinguished from the absence of a commitment to provide transportation.",
+    "notes": "The complete telegram was inspected and its 1 October date is explicit. The American offer of supplies is distinguished from the absence of a commitment to provide transportation.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-frus262",
+    "institution": "United States Department of State, Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 262: Atherton memorandum, 8 September 1941",
+    "date": null,
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d262",
+    "type": "Contemporary diplomatic document",
+    "relevance": "The complete memorandum and its 11 September annotation were inspected. The Polish request for representation and American response are used; the ambassador’s numerical claim about Polish forces is not adopted as a verified strength.",
+    "notes": "The complete memorandum and its 11 September annotation were inspected. The Polish request for representation and American response are used; the ambassador’s numerical claim about Polish forces is not adopted as a verified strength.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-struve-jeckeln",
+    "institution": "Kai Struve; Neue Deutsche Biographie online",
+    "title": "Jeckeln, Friedrich (1 July 2022)",
+    "date": null,
+    "url": "https://www.deutsche-biographie.de/dbo074556.html",
+    "type": "Academic biographical study",
+    "relevance": "The German biographical text was inspected, particularly the 1941 appointment and cooperation with Rasch and Eberhard. The short English paraphrase is by the atlas.",
+    "notes": "The German biographical text was inspected, particularly the 1941 appointment and cooperation with Rasch and Eberhard. The short English paraphrase is by the atlas.",
+    "supports": [
+      "1941-09-29",
+      "1941-09-16"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-dhm-babij",
+    "institution": "Deutsches Historisches Museum, LeMO",
+    "title": "Die Massenmorde von Babi Jar 1941",
+    "date": null,
+    "url": "https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/voelkermord/massenmorde-von-babi-jar-1941",
+    "type": "Historical museum study",
+    "relevance": "Heinke Lang’s German museum study, dated 15 May 2015, was inspected for planning participants, assembly instructions and the killings. The original text carries CC BY-NC-SA 4.0; no text or media is reproduced verbatim.",
+    "notes": "Heinke Lang’s German museum study, dated 15 May 2015, was inspected for planning participants, assembly instructions and the killings. The original text carries CC BY-NC-SA 4.0; no text or media is reproduced verbatim.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-pronicheva",
+    "institution": "Dina Pronicheva; European Holocaust Research Infrastructure",
+    "title": "Interview with Soviet historians, 24 April 1946; English translation by Marco Carynnyk",
+    "date": null,
+    "url": "https://training.ehri-project.eu/sites/training/files/EHRI_Ua_B_Pronicheva.pdf",
+    "type": "Retrospective survivor testimony",
+    "relevance": "Pages 1–7 of the EHRI English translation were inspected. The brief paraphrased aside draws on pp. 2–7. This April 1946 interview is distinguished from the January trial testimony and from a contemporary diary. Later episodes in the sixteen-page PDF are not used.",
+    "notes": "Pages 1–7 of the EHRI English translation were inspected. The brief paraphrased aside draws on pp. 2–7. This April 1946 interview is distinguished from the January trial testimony and from a contemporary diary. Later episodes in the sixteen-page PDF are not used.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-ushmm-babyn",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Mass Shootings at Babyn Yar (Babi Yar)",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar",
+    "type": "Museum historical synthesis",
+    "relevance": "The massacre section was inspected for the Soviet demolitions used as a pretext, perpetrators, method and the reported two-day total. Its opening administrative chronology is not used: Kiev remained under military authority during September.",
+    "notes": "The massacre section was inspected for the Soviet demolitions used as a pretext, perpetrators, method and the reported two-day total. Its opening administrative chronology is not used: Kiev remained under military authority during September.",
+    "supports": [
+      "1941-09-29"
+    ],
+    "reuseRights": "Linked reference; no licensed media reproduced."
+  },
+  {
+    "id": "p3-map-blau10",
+    "institution": "George E. Blau · U.S. Department of the Army",
+    "title": "The German Campaign in Russia (1955), Map 10: Situation in mid-September 1941",
+    "url": "https://www.landsurvival.com/MANUALS/UsArmyWwiiGermanPlanOpsRussia1940-421955.pdf",
+    "date": null,
+    "type": "Historical map research",
+    "relevance": "Map visually inspected on PDF p. 85, printed p. 74. It establishes broad army/front sectors and opposing positions in mid-September, not a same-hour tactical front for all nine dates. Dated documentary evidence supplies changes. No scan was georeferenced; no registration error or surveyed precision is claimed.",
+    "notes": "Map visually inspected on PDF p. 85, printed p. 74. It establishes broad army/front sectors and opposing positions in mid-September, not a same-hour tactical front for all nine dates. Dated documentary evidence supplies changes. No scan was georeferenced; no registration error or surveyed precision is claimed.",
+    "supports": [
+      "1941-08-26",
+      "1941-08-29",
+      "1941-09-03",
+      "1941-09-08",
+      "1941-09-12",
+      "1941-09-16",
+      "1941-09-19",
+      "1941-09-26",
+      "1941-09-29"
+    ],
+    "reuseRights": "Original interpreted features only. Source artwork is not redistributed. Existing geographic licences remain."
+  },
+  {
+    "id": "p3-map-finnish-svir",
+    "institution": "Finnish Military Historical Society",
+    "title": "Mannerheim-kukkula, Syväri: Finnish advance to the Svir",
+    "url": "https://www.sotahistoriallisetkohteet.fi/app/sights/view/-/id/1456/country/9/area/85/s_back/1",
+    "date": null,
+    "type": "Historical map research",
+    "relevance": "Full historical-site page retrieved and inspected: the Finnish advance reached the Svir on 7 September; the subsequent visit was three days later. The feature identifies the river sector, not a surveyed corps frontage. Used for the dated river endpoint, not a surveyed corps frontage.",
+    "notes": "Full historical-site page retrieved and inspected: the Finnish advance reached the Svir on 7 September; the subsequent visit was three days later. The feature identifies the river sector, not a surveyed corps frontage. Used for the dated river endpoint, not a surveyed corps frontage.",
+    "supports": [
+      "1941-08-26",
+      "1941-08-29",
+      "1941-09-03",
+      "1941-09-08",
+      "1941-09-12",
+      "1941-09-16",
+      "1941-09-19",
+      "1941-09-26",
+      "1941-09-29"
+    ],
+    "reuseRights": "Original interpreted features only. Source artwork is not redistributed. Existing geographic licences remain."
+  },
+  {
+    "id": "p3-map-islands",
+    "institution": "Jürgen Rohwer / Gerhard Hümmelchen · Württemberg State Library",
+    "title": "Chronik des Seekrieges, September 1941: 13 September–5 October, Baltic island operations",
+    "url": "https://wwwstatic.wlb-stuttgart.de/seekrieg/41-09.htm",
+    "date": null,
+    "type": "Historical map research",
+    "relevance": "Inspected 13 September–5 October entry: 14 September landing on Muhu, 16 September bridgehead on Hiiumaa and 25–27 September bombardment of defenders concentrated on Sõrve. Regional outlines are original approximate interpretations, not a daily surveyed perimeter.",
+    "notes": "Inspected 13 September–5 October entry: 14 September landing on Muhu, 16 September bridgehead on Hiiumaa and 25–27 September bombardment of defenders concentrated on Sõrve. Regional outlines are original approximate interpretations, not a daily surveyed perimeter.",
+    "supports": [
+      "1941-08-26",
+      "1941-08-29",
+      "1941-09-03",
+      "1941-09-08",
+      "1941-09-12",
+      "1941-09-16",
+      "1941-09-19",
+      "1941-09-26",
+      "1941-09-29"
+    ],
+    "reuseRights": "Original interpreted features only. Source artwork is not redistributed. Existing geographic licences remain."
+  },
+  {
+    "id": "p3-map-rivers-osm",
+    "institution": "OpenStreetMap contributors",
+    "title": "Sudost, Sula, Udai and Psel: natural river courses",
+    "url": "https://www.openstreetmap.org/copyright",
+    "type": "Geographic data",
+    "date": null,
+    "supports": [
+      "1941-08-26",
+      "1941-08-29",
+      "1941-09-03",
+      "1941-09-08",
+      "1941-09-12",
+      "1941-09-16",
+      "1941-09-19",
+      "1941-09-26",
+      "1941-09-29"
+    ],
+    "relevance": "126 river ways retrieved 15 October 2026 through the public Overpass service; exact upstream IDs retained. Only the four named rivers are selected. Modern natural courses provide orientation; no historical channel, bridge or crossing condition is inferred.",
+    "notes": "Separately licensed ODbL geography. Initial service attempts failed; the successful response is saved in the research directory.",
+    "reuseRights": "© OpenStreetMap contributors, ODbL 1.0; attribution retained separately."
   }
 ]

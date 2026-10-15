@@ -355,111 +355,178 @@
     "precision": "Regional synthesis; approximate operational edges, not surveyed fronts"
   },
   "1941-08-26": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested"
+    ],
+    "operations": 6,
+    "areas": 2,
+    "formations": 29,
+    "logistics": 6,
+    "fronts": 3,
+    "referenceDate": "1941-08-26",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-08-29": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union",
+      "Finland"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 9,
+    "areas": 3,
+    "formations": 28,
+    "logistics": 5,
+    "fronts": 3,
+    "referenceDate": "1941-08-29",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-03": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Soviet Union",
+      "Germany"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 8,
+    "areas": 3,
+    "formations": 28,
+    "logistics": 5,
+    "fronts": 3,
+    "referenceDate": "1941-09-03",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-08": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union",
+      "Finland"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 9,
+    "areas": 3,
+    "formations": 27,
+    "logistics": 7,
+    "fronts": 3,
+    "referenceDate": "1941-09-08",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-12": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 8,
+    "areas": 3,
+    "formations": 30,
+    "logistics": 8,
+    "fronts": 3,
+    "referenceDate": "1941-09-12",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-16": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 9,
+    "areas": 4,
+    "formations": 32,
+    "logistics": 7,
+    "fronts": 3,
+    "referenceDate": "1941-09-16",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-19": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 10,
+    "areas": 4,
+    "formations": 28,
+    "logistics": 7,
+    "fronts": 3,
+    "referenceDate": "1941-09-19",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-26": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union",
+      "Romania"
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 15,
+    "areas": 3,
+    "formations": 24,
+    "logistics": 7,
+    "fronts": 3,
+    "referenceDate": "1941-09-26",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   },
   "1941-09-29": {
-    "movementActors": [],
-    "controlCategories": [],
-    "operations": 0,
-    "areas": 0,
-    "formations": 0,
-    "logistics": 0,
-    "fronts": 0,
-    "referenceDate": "1941-08-25",
-    "timeConvention": "Geographic reference; no dated military situation reconstructed",
-    "precision": "Political/geographic base only. Current control, military fronts, formations and movements await independently checked date-specific evidence."
+    "movementActors": [
+      "Germany",
+      "Soviet Union",
+      "Romania",
+      ""
+    ],
+    "controlCategories": [
+      "operational",
+      "contested",
+      "finnish-operational"
+    ],
+    "operations": 17,
+    "areas": 3,
+    "formations": 24,
+    "logistics": 7,
+    "fronts": 3,
+    "referenceDate": "1941-09-29",
+    "timeConvention": "Dated regional synthesis; individual observations and movement intervals are identified",
+    "precision": "Named positions and crossings sourced; connecting fronts and operational-area edges are approximate"
   }
 }
