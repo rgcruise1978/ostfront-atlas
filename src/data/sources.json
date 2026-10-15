@@ -5959,5 +5959,19 @@
     "relevance": "126 river ways retrieved 15 October 2026 through the public Overpass service; exact upstream IDs retained. Only the four named rivers are selected. Modern natural courses provide orientation; no historical channel, bridge or crossing condition is inferred.",
     "notes": "Separately licensed ODbL geography. Initial service attempts failed; the successful response is saved in the research directory.",
     "reuseRights": "© OpenStreetMap contributors, ODbL 1.0; attribution retained separately."
+  },
+  {
+    "id": "loc-vistula-lagoon-names",
+    "institution": "Library of Congress",
+    "title": "Library of Congress Subject Headings, 39th edition: Frisches Haff / Vistula Lagoon",
+    "date": "2017",
+    "url": "https://www.loc.gov/aba/publications/Archived-LCSH39/F.pdf",
+    "type": "Geographic name authority",
+    "relevance": "Name concordance at printed page F-278: Frisches Haff refers to Vistula Lagoon. Used to replace a postwar Kaliningrad-based label on the 1939–1941 maps.",
+    "supports": [
+      "1939–1941 geographic labels"
+    ],
+    "notes": "Supports the equivalence of geographic names, not wartime control or precise historical shoreline geometry. Physical geometry remains Natural Earth.",
+    "reuseRights": "Linked reference; no source map or artwork reproduced."
   }
 ]
