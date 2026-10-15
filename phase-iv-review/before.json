@@ -1,0 +1,62 @@
+[
+  {
+    "date": "1941-09-30",
+    "slug": "barbarossa-the-offensive-begins-1941-09-30",
+    "words": 3947,
+    "bodySHA256": "95988dd2e46df2320f988121f5db2e84136cf7705252a1b726413dd6b5909ea2"
+  },
+  {
+    "date": "1941-10-02",
+    "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+    "words": 3639,
+    "bodySHA256": "5a6c4449c653360892b3f6e5070405f89c1b89b289c5a1a65d43b70d376e5b8d"
+  },
+  {
+    "date": "1941-10-07",
+    "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+    "words": 3579,
+    "bodySHA256": "6a67ba2b350e553f6ca974f3d0f77ab379f897f9ec5efcec16c30579f055aeab"
+  },
+  {
+    "date": "1941-10-13",
+    "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+    "words": 3585,
+    "bodySHA256": "65b7896ba6cad0e4b037d78e4e01816cf69bac45c3693b2b6e47080f732c8644"
+  },
+  {
+    "date": "1941-10-16",
+    "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+    "words": 3634,
+    "bodySHA256": "8ee81a8e56e09920fb98731177d731fe28c68015d07acd045e2fc0045083da69"
+  },
+  {
+    "date": "1941-10-19",
+    "slug": "barbarossa-moscow-under-siege-1941-10-19",
+    "words": 3561,
+    "bodySHA256": "33a27e2491270622dfa9ef2a5fa6e999c41f070ef571be4f676cb3299a17a2de"
+  },
+  {
+    "date": "1941-10-24",
+    "slug": "barbarossa-the-southern-advance-1941-10-24",
+    "words": 3640,
+    "bodySHA256": "299cdfe172d5d2765409d56dca45cb314206fe3255c3a7d2cb2d2cad33632ef2"
+  },
+  {
+    "date": "1941-11-02",
+    "slug": "barbarossa-the-offensive-slows-1941-11-02",
+    "words": 3529,
+    "bodySHA256": "696982b703ece4a1756def752332a5f43d5fcce69ac4596c10721f793d50ba89"
+  },
+  {
+    "date": "1941-11-09",
+    "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+    "words": 3528,
+    "bodySHA256": "23e52ccfd402079bab03487a0220b051c84452f132b43ea6e45de762d67148aa"
+  },
+  {
+    "date": "1941-11-14",
+    "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+    "words": 3602,
+    "bodySHA256": "204f2dce1b59c50f6349a0ed604b10d4229276b47985273dbaf0a3bccaf11dcb"
+  }
+]

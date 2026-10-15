@@ -1,0 +1,232 @@
+[
+  {
+    "date": "1941-09-30",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-offensive-begins-1941-09-30",
+    "width": 1440,
+    "status": 200,
+    "title": "The Offensive Begins",
+    "sources": 7,
+    "asides": 2,
+    "sections": 8,
+    "failures": []
+  },
+  {
+    "date": "1941-10-02",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-drive-on-moscow-1941-10-02",
+    "width": 1440,
+    "status": 200,
+    "title": "The Drive on Moscow",
+    "sources": 5,
+    "asides": 2,
+    "sections": 8,
+    "failures": []
+  },
+  {
+    "date": "1941-10-07",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-armies-in-the-trap-1941-10-07",
+    "width": 1440,
+    "status": 200,
+    "title": "Armies in the Trap",
+    "sources": 7,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-10-13",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-road-to-moscow-1941-10-13",
+    "width": 1440,
+    "status": 200,
+    "title": "The Road to Moscow",
+    "sources": 7,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-10-16",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-crisis-at-the-capital-1941-10-16",
+    "width": 1440,
+    "status": 200,
+    "title": "Crisis at the Capital",
+    "sources": 11,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-10-19",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-moscow-under-siege-1941-10-19",
+    "width": 1440,
+    "status": 200,
+    "title": "Moscow Under Siege",
+    "sources": 8,
+    "asides": 2,
+    "sections": 6,
+    "failures": []
+  },
+  {
+    "date": "1941-10-24",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-southern-advance-1941-10-24",
+    "width": 1440,
+    "status": 200,
+    "title": "The Southern Advance",
+    "sources": 8,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-11-02",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-offensive-slows-1941-11-02",
+    "width": 1440,
+    "status": 200,
+    "title": "The Offensive Slows",
+    "sources": 11,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-11-09",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-battle-for-tikhvin-1941-11-09",
+    "width": 1440,
+    "status": 200,
+    "title": "The Battle for Tikhvin",
+    "sources": 10,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-11-14",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-edge-of-winter-1941-11-14",
+    "width": 1440,
+    "status": 200,
+    "title": "The Edge of Winter",
+    "sources": 15,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "collection": "http://127.0.0.1:5195/campaigns/barbarossa-1941?phase=4",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "date": "1941-09-30",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-offensive-begins-1941-09-30",
+    "width": 390,
+    "status": 200,
+    "title": "The Offensive Begins",
+    "sources": 7,
+    "asides": 2,
+    "sections": 8,
+    "failures": []
+  },
+  {
+    "date": "1941-10-02",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-drive-on-moscow-1941-10-02",
+    "width": 390,
+    "status": 200,
+    "title": "The Drive on Moscow",
+    "sources": 5,
+    "asides": 2,
+    "sections": 8,
+    "failures": []
+  },
+  {
+    "date": "1941-10-07",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-armies-in-the-trap-1941-10-07",
+    "width": 390,
+    "status": 200,
+    "title": "Armies in the Trap",
+    "sources": 7,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-10-13",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-road-to-moscow-1941-10-13",
+    "width": 390,
+    "status": 200,
+    "title": "The Road to Moscow",
+    "sources": 7,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-10-16",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-crisis-at-the-capital-1941-10-16",
+    "width": 390,
+    "status": 200,
+    "title": "Crisis at the Capital",
+    "sources": 11,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-10-19",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-moscow-under-siege-1941-10-19",
+    "width": 390,
+    "status": 200,
+    "title": "Moscow Under Siege",
+    "sources": 8,
+    "asides": 2,
+    "sections": 6,
+    "failures": []
+  },
+  {
+    "date": "1941-10-24",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-southern-advance-1941-10-24",
+    "width": 390,
+    "status": 200,
+    "title": "The Southern Advance",
+    "sources": 8,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-11-02",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-offensive-slows-1941-11-02",
+    "width": 390,
+    "status": 200,
+    "title": "The Offensive Slows",
+    "sources": 11,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-11-09",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-battle-for-tikhvin-1941-11-09",
+    "width": 390,
+    "status": 200,
+    "title": "The Battle for Tikhvin",
+    "sources": 10,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "date": "1941-11-14",
+    "url": "http://127.0.0.1:5195/articles/barbarossa-the-edge-of-winter-1941-11-14",
+    "width": 390,
+    "status": 200,
+    "title": "The Edge of Winter",
+    "sources": 15,
+    "asides": 2,
+    "sections": 7,
+    "failures": []
+  },
+  {
+    "collection": "http://127.0.0.1:5195/campaigns/barbarossa-1941?phase=4",
+    "width": 390,
+    "failures": []
+  }
+]

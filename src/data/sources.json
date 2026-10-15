@@ -5973,5 +5973,492 @@
     ],
     "notes": "Supports the equivalence of geographic names, not wartime control or precise historical shoreline geometry. Physical geometry remains Natural Earth.",
     "reuseRights": "Linked reference; no source map or artwork reproduced."
+  },
+  {
+    "id": "p4-loc-atlas",
+    "institution": "German Army General Staff · Library of Congress Geography and Map Division",
+    "title": "Der Feldzug gegen Sowjet-Russland: Band I, operational situation maps, June–December 1941",
+    "date": "1942?",
+    "url": "https://www.loc.gov/item/map51000141/",
+    "type": "Contemporary German operational map atlas, compiled after the mapped events",
+    "relevance": "Research catalogue for Phase IV situation sheets. Individual proposed plate dates and content require inspection before any dated front or movement is reconstructed. German reporting does not establish all Soviet positions or secure occupation.",
+    "supports": [
+      "1941-09-30",
+      "1941-10-02",
+      "1941-10-07",
+      "1941-10-13",
+      "1941-10-16",
+      "1941-10-19",
+      "1941-10-24",
+      "1941-11-02",
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "The Library of Congress catalogue and its 30 September sheet title were checked. Proposed sheet numbers in the brief remain candidate references until independently inspected. The 14 November entry has no matching 14 November plate in the supplied sequence; the 12 November sheet is background only.",
+    "reuseRights": "Linked research reference only; no artwork reproduced or rights beyond the catalogue assumed."
+  },
+  {
+    "id": "p4-ushmm-odessa",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Odessa",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/odessa",
+    "type": "Scholarly historical encyclopedia",
+    "relevance": "Documents Romanian control of Odessa from 16 October, subsequent persecution, the 22–26 October massacres, and the distinct role of a German security detachment.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-24"
+    ],
+    "notes": "Page checked for the October 16 occupation date and the later dates of mass killing; these events must not be compressed into the occupation day.",
+    "reuseRights": "Linked and paraphrased; no media reproduced."
+  },
+  {
+    "id": "p4-stahel-typhoon",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Operation Typhoon: Hitler's March on Moscow, October 1941 (2013), published introduction excerpt",
+    "date": "2013",
+    "url": "https://assets.cambridge.org/97811070/35126/excerpt/9781107035126_excerpt.pdf",
+    "type": "Academic monograph excerpt",
+    "relevance": "Source-checked introduction on the October offensive's scale, the 2 October opening, the difference between battlefield victory and strategic success, and limits of the weather explanation. The accessible excerpt does not support claims from other chapters of the book.",
+    "supports": [
+      "1941-09-30",
+      "1941-10-02",
+      "1941-10-07",
+      "1941-10-13",
+      "1941-10-16",
+      "1941-10-19",
+      "1941-10-24",
+      "1941-11-02"
+    ],
+    "notes": "Cambridge's ten-page excerpt inspected directly. Citations must identify the excerpt's printed pages, not uninspected book chapters.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-stahel-opening",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Operation Typhoon (2013), chapter 2 public summary",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/operation-typhoon/6BC030CA681522FAA86F6C08E84A26AC",
+    "type": "Academic monograph chapter summary",
+    "relevance": "Public chapter summary quotes the proclamation read to German troops at the October opening and documents divergent German soldiers' expectations. The full chapter text has not been inspected.",
+    "supports": [
+      "1941-10-02"
+    ],
+    "notes": "Public Cambridge chapter summary inspected; cite the visible summary only.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-frus787",
+    "institution": "U.S. Department of State · Foreign Relations of the United States",
+    "title": "FRUS 1941, vol. I, document 787: Harriman telegram on the Moscow conference, 1 October 1941",
+    "date": "1941-10-01",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d787",
+    "type": "Published primary diplomatic document",
+    "relevance": "Contemporary account of the Anglo-American-Soviet supply understanding and the explicit absence of a transportation commitment at the conference close.",
+    "supports": [
+      "1941-10-02"
+    ],
+    "notes": "Official transcript checked. A supply understanding is not evidence of materiel reaching the front on 2 October.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-stahel-pockets",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Viaz'ma and Briansk (2013), chapter 3 public summary",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/viazma-and-briansk/F82717A09015069DEFFA227BC82C28AA",
+    "type": "Academic monograph chapter summary",
+    "relevance": "Accessible chapter summary documents Hoth's later transfer and the atmosphere at German headquarters; it does not supply the full chapter's operational evidence.",
+    "supports": [
+      "1941-10-07",
+      "1941-10-13"
+    ],
+    "notes": "Public summary checked. The chapter body is paywalled and has not been treated as read.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-ushmm-ordinary",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Ordinary Soldiers: A Study in Ethics, Law, and Leadership (2014)",
+    "date": "2014",
+    "url": "https://www.ushmm.org/m/pdfs/20140830-ordinary-soldiers-case-study.pdf",
+    "type": "Archival case study",
+    "relevance": "Documents an order issued on or about 7 October 1941 in Army Group Centre's rear area for the 691st Infantry Regiment's battalion to murder Jewish civilians, with postwar investigation and evidence limitations.",
+    "supports": [
+      "1941-10-07"
+    ],
+    "notes": "PDF pp. 5, 9–16 inspected. The order date is approximate and the rear-area locality is in Belarus, separate from the Vyazma and Bryansk encirclement battlefields.",
+    "reuseRights": "Linked and paraphrased; no media reproduced."
+  },
+  {
+    "id": "p4-stahel-exploiting",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Exploiting the Breach (2013), chapter 6 public summary",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/exploiting-the-breach/66D9AD6D7441C2F891E4E99D41F5B468",
+    "type": "Academic monograph chapter summary",
+    "relevance": "Public summary documents the troops held on the eastern edge of the Vyazma pocket, Hoepner's limited 7 October onward movements, and the command tension between containment and exploitation.",
+    "supports": [
+      "1941-10-07",
+      "1941-10-13"
+    ],
+    "notes": "Public summary inspected. Later events in the same summary are not backdated to 7 October.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-cmh-terrain",
+    "institution": "U.S. Department of the Army, German Report Series",
+    "title": "Terrain Factors in the Russian Campaign, DA Pamphlet 20-290 (1951)",
+    "date": "1951",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/104-5.pdf",
+    "type": "Postwar German-authored military geography study",
+    "relevance": "Specific report of Fourth Panzer Division at Karachev on 7 October and Bryansk on 8 October, the southern river-and-forest corridors, and transport concerns. Its explanation of failure through terrain requires comparison with Soviet resistance and other sources.",
+    "supports": [
+      "1941-09-30",
+      "1941-10-07",
+      "1941-10-13",
+      "1941-11-02"
+    ],
+    "notes": "Official PDF text and matching transcript checked for the southern operation; claims are attributed as retrospective German reporting.",
+    "reuseRights": "Linked and paraphrased; public-domain U.S. government publication."
+  },
+  {
+    "id": "p4-frus865",
+    "institution": "U.S. Department of State · Foreign Relations of the United States",
+    "title": "FRUS 1941, vol. I, document 865: Steinhardt telegram, 15 October 1941",
+    "date": "1941-10-15",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d865",
+    "type": "Published primary diplomatic document",
+    "relevance": "Contemporary report of Molotov's notification to British and American ambassadors of the evacuation; editorial note gives Molotov's subsequent explanation of the Mozhaisk breakthrough.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-19"
+    ],
+    "notes": "Official transcript checked. The 22 October explanation is later testimony about the earlier decision, not information available to the ambassadors on 15 October.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-stahel-weathering",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Weathering the Storm, Operation Typhoon (2013), chapter 7 public summary",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/weathering-the-storm/CD2EDA990DD43FE504835D9BC7B69198",
+    "type": "Academic monograph chapter summary",
+    "relevance": "Public summary documents the 15 October evacuation decision, industrial demolition preparations, and Stalin's decision to remain.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-19"
+    ],
+    "notes": "Public Cambridge summary inspected; underlying chapter text is paywalled and not treated as read.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-gko801",
+    "institution": "Soviet State Defense Committee · University of Illinois historical document collection",
+    "title": "Resolution on Evacuating Foreign Missions and the Government from Moscow, 15 October 1941",
+    "date": "1941-10-15",
+    "url": "https://seventeenmoments.web.illinois.edu/1943-2/wartime-evacuation/wartime-evacuation-texts/stalins-order-to-evacuate/",
+    "type": "Contemporary state decree in published English translation",
+    "relevance": "Specifies which institutions were ordered to move, where the General Staff was sent, and the conditional preparations to destroy installations if German forces reached Moscow.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-19"
+    ],
+    "notes": "Translation and edition citation inspected; archival catalogue identifies original GKO resolution no. 801ss, 15 October 1941. Conditional demolition language must not be rendered as demolition already executed.",
+    "reuseRights": "Linked and paraphrased; no translation text reproduced beyond short phrases."
+  },
+  {
+    "id": "p4-frus647",
+    "institution": "U.S. Department of State · Foreign Relations of the United States",
+    "title": "FRUS 1941, vol. I, document 647: Steinhardt telegram, 26 October 1941",
+    "date": "1941-10-26",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d647",
+    "type": "Published primary diplomatic document",
+    "relevance": "Later diplomatic assessment of unrest in Moscow, the foreign mission's departure, subsequent restoration of order, and Stalin's decision to remain.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-19"
+    ],
+    "notes": "Official transcript checked; it is retrospective evidence and cannot be presented as what Steinhardt knew on 16 October.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-frus864",
+    "institution": "U.S. Department of State · Foreign Relations of the United States",
+    "title": "FRUS 1941, vol. I, document 864: Steinhardt telegram, 11 October 1941",
+    "date": "1941-10-11",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d864",
+    "type": "Published primary diplomatic document",
+    "relevance": "Ambassador's contemporary evacuation contingency plan and coordination with the British ambassador before the 15 October Soviet decree.",
+    "supports": [
+      "1941-10-16"
+    ],
+    "notes": "Official transcript checked; it describes anticipation of evacuation, not a decision to leave on 11 October.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-harrison-industry",
+    "institution": "Mark Harrison · University of Warwick",
+    "title": "Industry and the Economy, draft chapter for The Soviet Union in World War II",
+    "date": "2009",
+    "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/industryeconomy2010.pdf",
+    "type": "Academic economic history chapter draft",
+    "relevance": "Documents the logistical costs, uneven restoration and survival value of Soviet industrial evacuation, including the October 1941 Kharkov tractor-plant example.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-24",
+      "1941-11-02"
+    ],
+    "notes": "Public PDF pp. 1 and 10 inspected. Its later outcome evidence must be labelled retrospective in dated studies.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-gko813",
+    "institution": "Soviet State Defense Committee · Russian State Archive of Socio-Political History",
+    "title": "Resolution no. 813 on a state of siege in Moscow and surrounding districts, 19 October 1941",
+    "date": "1941-10-19",
+    "url": "https://www.prlib.ru/item/1339595",
+    "type": "Archival catalogue of contemporary state decree",
+    "relevance": "Identifies resolution no. 813, its 19 October date, archival file and original document. For the clause text, see the separate English translation source.",
+    "supports": [
+      "1941-10-19"
+    ],
+    "notes": "Presidential Library catalogue checked; its listing is the original-document identity, not an English text.",
+    "reuseRights": "Linked catalogue metadata only; no facsimile reproduced."
+  },
+  {
+    "id": "p4-gko813-translation",
+    "institution": "Soviet State Defense Committee · translated by James F. Gebhardt",
+    "title": "Proclamation of the State Defense Committee no. 813, English translation",
+    "date": "1941-10-19",
+    "url": "https://battlefield.ru/library/archives/reports/reports11.html",
+    "type": "Translation of contemporary decree with archival file citation",
+    "relevance": "Gives the effective date of 20 October, curfew, the distinct responsibilities of Zhukov, Artemev and Sinilov, security forces and tribunal provisions.",
+    "supports": [
+      "1941-10-19"
+    ],
+    "notes": "Translation checked against archival catalogue identity; the translation's wording is attributed and paraphrased rather than treated as a new archival document.",
+    "reuseRights": "Linked and paraphrased; no translation passage reproduced."
+  },
+  {
+    "id": "p4-kirchubel-barbarossa",
+    "institution": "Robert Kirchubel · Osprey Publishing",
+    "title": "Operation Barbarossa: The German Invasion of Soviet Russia",
+    "date": "2013",
+    "url": "https://www.ospreypublishing.com/us/operation-barbarossa-9781472804709/",
+    "type": "Published military history monograph",
+    "relevance": "The End Game chapter discusses Army Group South's Kharkov, Donbas, Crimea and Rostov axes and the Tikhvin offensive in Army Group North.",
+    "supports": [
+      "1941-10-24",
+      "1941-11-02",
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "Publisher catalogue verified title and chapter. Chapter text was inspected in an online transcription; the publisher URL is the stable bibliographic link. Specific claims are cross-checked where possible with U.S. Army history.",
+    "reuseRights": "Book cited and paraphrased; no extended text reproduced."
+  },
+  {
+    "id": "p4-judaica-kharkov",
+    "institution": "Yehuda Slutsky and Shmuel Spector · Encyclopaedia Judaica",
+    "title": "Kharkov, Holocaust and Modern Periods",
+    "date": null,
+    "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kharkov",
+    "type": "Scholarly encyclopedia entry",
+    "relevance": "Confirms German occupation of Kharkov on 24 October and documents the Jewish population and subsequent occupation violence, which must not be backdated to the day of capture.",
+    "supports": [
+      "1941-10-24"
+    ],
+    "notes": "Entry text and named authors checked. Its reference to General Paulus concerns a later occupation command, not the commander who captured the city on 24 October.",
+    "reuseRights": "Linked and paraphrased; no media reproduced."
+  },
+  {
+    "id": "p4-ermolov-industry",
+    "institution": "A. J. Ermolov · RUDN Journal of Russian History",
+    "title": "Evacuation of Factories of Armor Industry in 1941: Great Historical Phenomenon or Great Failure?",
+    "date": "2010",
+    "url": "https://journals.rudn.ru/russian-history/article/view/4143/en_US",
+    "type": "Peer-reviewed research article abstract",
+    "relevance": "The accessible abstract describes industrial evacuation and restoration as uneven, costly processes requiring assessment of losses.",
+    "supports": [
+      "1941-10-24"
+    ],
+    "notes": "Only the English abstract was inspected; do not attribute specific numerical findings from the full Russian paper.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-cmh-moscow",
+    "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+    "title": "Moscow to Stalingrad: Decision in the East, Chapter III, To Moscow",
+    "date": "1987",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-3.html",
+    "type": "Official military history",
+    "relevance": "Soviet and German force dispositions in November, reserve formation, the dated 14 November Serpukhov counterblow, and the Tikhvin response.",
+    "supports": [
+      "1941-11-02",
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "Chapter text inspected; retrospective December totals and subsequent outcomes must not be treated as known on earlier study dates.",
+    "reuseRights": "Linked and paraphrased."
+  },
+  {
+    "id": "p4-stahel-eye",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Operation Typhoon: Hitler's March on Moscow, October 1941, chapter 9, The eye of the storm",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/eye-of-the-storm/D21E7AA2ACDF15FFBF749D78593D9025",
+    "type": "Academic monograph chapter, public abstract",
+    "relevance": "Late-October operational pause, declining German strength, Soviet reinforcement, and movement of the Spanish Blue Division to Army Group North.",
+    "supports": [
+      "1941-11-02"
+    ],
+    "notes": "Only the publisher's publicly accessible chapter summary inspected; do not attribute details from the full chapter.",
+    "reuseRights": "Linked and paraphrased."
+  },
+  {
+    "id": "p4-stavka-tikhvin",
+    "institution": "Soviet Supreme High Command · Central Archive of the Russian Ministry of Defense",
+    "title": "Directive no. 004725 to the commander of Fourth Army, 9 November 1941",
+    "date": "1941-11-09",
+    "url": "https://docs.historyrussia.org/ru/nodes/298283",
+    "type": "Archival catalogue of contemporary directive",
+    "relevance": "Documents a dated Stavka order to concentrate Fourth Army's main effort in the Tikhvin area.",
+    "supports": [
+      "1941-11-09"
+    ],
+    "notes": "Catalogue and search excerpt inspected; cite existence and title of directive, not unverified full wording.",
+    "reuseRights": "Linked catalogue metadata only."
+  },
+  {
+    "id": "p4-tikhvin-history",
+    "institution": "Russian National Guard historical archive",
+    "title": "Tikhvin Strategic Offensive Operation of 1941",
+    "date": null,
+    "url": "https://82.rosguard.gov.ru/page/index/tixvinskaya-strategicheskaya-nastupatelnaya-operaciya-1941-goda",
+    "type": "Official retrospective campaign history",
+    "relevance": "Confirms German capture of Tikhvin on 8 November and distinguishes the staggered subsequent Soviet attacks of the 52nd, 4th, and 54th Armies.",
+    "supports": [
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "Russian text inspected and checked against U.S. Army chronology. Later attack dates are included solely to avoid projecting them backward.",
+    "reuseRights": "Linked and paraphrased."
+  },
+  {
+    "id": "p4-cmh-leningrad",
+    "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+    "title": "Moscow to Stalingrad: Decision in the East, Leningrad and Lake Ladoga discussion",
+    "date": "1987",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-7.html",
+    "type": "Official military history",
+    "relevance": "Explains why Tikhvin's rail link mattered to Leningrad while lake transport remained possible and severely constrained.",
+    "supports": [
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "Full chapter transcription inspected, printed pp. 135–136. Later ice-road and December supply outcomes are retrospective and are not presented as achieved by 9 November.",
+    "reuseRights": "Linked and paraphrased."
+  },
+  {
+    "id": "p4-enstad-chronology",
+    "institution": "Johannes Due Enstad · Cambridge University Press",
+    "title": "Soviet Russians under Nazi Occupation, front-matter chronology",
+    "date": "2018",
+    "url": "https://assets.cambridge.org/97811084/21263/frontmatter/9781108421263_frontmatter.pdf",
+    "type": "Academic monograph chronology",
+    "relevance": "Independently corroborates 8 November German capture of Tikhvin and distinct later Soviet recapture date.",
+    "supports": [
+      "1941-11-09"
+    ],
+    "notes": "Publisher front-matter chronology inspected; not used for tactical details.",
+    "reuseRights": "Linked and paraphrased."
+  },
+  {
+    "id": "ushmm-eastern-front",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "The Soviet Union and the Eastern Front",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-soviet-union-and-the-eastern-front",
+    "type": "Museum historical encyclopedia",
+    "relevance": "Explains Nazi Germany's war of annihilation, intended mass starvation of Soviet civilians, and the limits of the rapid-victory plan.",
+    "supports": [
+      "1941-11-09",
+      "1941-11-14"
+    ],
+    "notes": "Museum article inspected. Its later war outcomes are not projected backward into November 1941.",
+    "reuseRights": "Linked and paraphrased."
+  },
+  {
+    "id": "p4-edele-loyalty",
+    "institution": "Mark Edele · Cambridge University Press",
+    "title": "“What Are We Fighting for?” Loyalty in the Soviet War Effort, 1941–1945",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/journals/international-labor-and-working-class-history/article/abs/what-are-we-fighting-for-loyalty-in-the-soviet-war-effort-19411945/FF29B5EB3BD4F6033B60248F0652D2FD",
+    "type": "Peer-reviewed review essay",
+    "relevance": "Public extract documents Moscow crowd violence and antisemitism, and the separate Ivanovo disturbance of 19 October.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-19"
+    ],
+    "notes": "Public extract and references 7–8 inspected; the subscription-only full essay is not claimed as read.",
+    "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
+  },
+  {
+    "id": "p4-kharkiv-tractor",
+    "institution": "Tetyana Horlova · Kharkiv Historical Museum",
+    "title": "Kharkiv Tractor Plant in the 1930s–1950s: evidence from the museum photographic collection",
+    "date": null,
+    "url": "https://museum.kh.ua/academic/publications.html?n=934",
+    "type": "Museum research paper",
+    "relevance": "Tractor-factory evacuation via Stalingrad to Rubtsovsk and the formation of the Altai enterprise.",
+    "supports": [
+      "1941-10-24"
+    ],
+    "notes": "Ukrainian museum paper inspected; the later first-tractor date is explicitly retrospective, not October output.",
+    "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
+  },
+  {
+    "id": "p4-mukhina-excerpt",
+    "institution": "Lena Mukhina · Macmillan; translated by Amanda Love Darragh",
+    "title": "The Diary of Lena Mukhina: A Girl’s Life in the Siege of Leningrad — historical foreword",
+    "date": "2015",
+    "url": "https://cdn.waterstones.com/special/pdf/9781447269878.pdf",
+    "type": "Published diary and scholarly editorial foreword",
+    "relevance": "Identifies Mukhina and her participation in defensive labour before the encirclement.",
+    "supports": [
+      "1941-11-09"
+    ],
+    "notes": "Public publisher excerpt inspected. The citation is to foreword pp. 1–2; the excerpt does not supply a diary entry for 9 November.",
+    "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
+  },
+  {
+    "id": "p4-frus799",
+    "institution": "U.S. Department of State · Office of the Historian",
+    "title": "FRUS 1941, Volume I, Document 799: Roosevelt to Stalin, 30 October 1941",
+    "date": "1941-10-30",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d799",
+    "type": "Contemporary diplomatic document",
+    "relevance": "Billion-dollar Lend-Lease supply proposal and interest-free repayment terms.",
+    "supports": [
+      "1941-11-02",
+      "1941-11-14"
+    ],
+    "notes": "Full published document inspected. FRUS identifies this as a paraphrased text reprinted from the Department of State Bulletin.",
+    "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
+  },
+  {
+    "id": "p4-frus803",
+    "institution": "U.S. Department of State · Office of the Historian",
+    "title": "FRUS 1941, Volume I, Document 803: Stalin’s reply of 4 November, transmitted 6 November",
+    "date": "1941-11-06",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d803",
+    "type": "Contemporary diplomatic document",
+    "relevance": "Records receipt of the proposal on 2 November and acceptance on 4 November; distinguishes message dates from transmission.",
+    "supports": [
+      "1941-11-02",
+      "1941-11-14"
+    ],
+    "notes": "Full published document and editorial footnote inspected. Acceptance is not evidence of completed equipment deliveries.",
+    "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
   }
 ]
