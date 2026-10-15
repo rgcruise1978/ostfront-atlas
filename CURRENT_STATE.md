@@ -1,5 +1,53 @@
 # Current state — latest local checkpoint
 
+## 15 October 2026 — Phase III publication release
+
+All nine full Phase III chapters are marked published with 15 October 2026 publication dates. Their narrative text, sources, preparation dates, historical dates and bylines are preserved. Homepage, collection, campaign, guide and map links now identify the published studies. The release includes completed dated military maps and the consolidated article revisions. Publication counts are 23 published articles and nine Phase II review drafts.
+
+Release checks and the production verification record are saved in `../../outputs/phase-iii-publication/`. The previous local-only checkpoints below describe earlier stages.
+
+## 15 October 2026 — 32-chapter collection voice and citation reconciliation
+
+All **32 substantive articles** have saved authorial refinements, connected full-sentence summaries and harmonised terminology under R.G. Cruise: **116,783 substantive words, 248 sections, 75 asides and 1,187 citation occurrences to 334 sources**. Existing chapter lengths, dates, titles, slugs, authorship and publication/preparation dates remain intact. Unit numbering and Canadian/British spelling are aligned; Phase III source methods now acknowledge dated regional military maps. Review drafts show a separate revision date.
+
+Evidence work reuses the 23 exact-baseline factual audits and nine Phase III dated research records, reconciled with the current changes, plus selected fresh passage checks. The package distinguishes retained research from new inspection and records specific access limits. It does not claim fresh independent archival verification of every sentence. All quotation spans and citation tags/locators are preserved. Ten external URLs remained access-limited, with no confirmed missing pages; details are in SOURCE_REVIEW.txt.
+
+The validator, build and whitespace check pass. All 32 browser routes and 1,187 citation destinations/numbers, return/contents anchors, author/revision labels, map links and chronological links pass. Desktop/mobile representatives from all four collections were inspected. All 89 protected baseline files, including map data and styles, and the source registry are unchanged.
+
+Review and recovery: `../../outputs/collection-editorial-fact-check/REVIEW_INDEX.html`, `REVIEW_REPORT.txt`, exact installed records, chapter/source audits, readable HTML/TXT, before-state and completed-source ZIPs, and verified review archive.
+
+**LOCAL REVIEW ONLY — no deployment, publication or Git push.** Statuses remain 14 published and 18 ready-for-review. Next: review the consolidated local edition; deployment is separate. Older chapter/map checkpoints remain historical records.
+
+## 15 October 2026 — nine Phase III military maps completed for local review
+
+All nine Phase III dates now have source-qualified dated regional military reconstructions. Added **470 dated feature records**, including **250 formation/command sector records, 43 movement records and 13 checked/stalled markers**, plus period communications and distinct civilian/occupation features. German, Soviet, Finnish and other country/actor colours follow the shared registry. Sudost, Sula, Psel and Udai natural courses are available with separate OpenStreetMap attribution.
+
+The maps distinguish advances, counterattacks, withdrawals, redeployment, orders and breakout attempts. Finnish forward reach and Estonia's mainland/island situation remain separate. New Desna, Kiev-pocket and Kiev-city views fit the relevant studies. Source locators, observation dates, movement intervals and limitations are available through feature selection and search. The article renderer updates the companion-map notice without changing any article JSON.
+
+The article/data validator, all 31 dated geography checks, current feature/chronology/preservation checks, production build and whitespace check pass. Browser evidence covers 18 Phase III theatre/focal views, sources, commander search, copied links, article return, 25/26 August continuity, presets/changes, three earlier collections and two 390px mobile maps. Three 2560 × 1440 exports were inspected. Final overview checks confirm dated halt markers after the chronology refinement.
+
+All **32 article files match their task-start hashes**, and **841 earlier military/control/logistics/change features retain their exact parsed contents**. Before/completed source archives, dated checkpoints, source notes, coverage matrix, screenshots, exports and verified recovery package are in `../../outputs/phase-iii-military-maps/`. Open `REVIEW_INDEX.html` and `REVIEW_REPORT.txt` for review.
+
+**LOCAL REVIEW ONLY — no deployment, publication or Git push.** These are original regional interpretations, not surveyed tactical fronts. Same-day German candidate sheets were inaccessible; the inspected U.S. Army map and dated documentary alternatives are recorded. Connecting edges, lower OOB, exact convoy tracks, fine Finnish/island limits and some crossing details remain qualified. Babyn Yar uses an optional civilian layer with approximate locality anchors and a schematic route. Older checkpoints describing all Phase III military maps as unbuilt are superseded. Next: user review of the completed local map package; deployment is separate.
+
+## 14 October 2026 — nine Phase III chapters complete for local editorial review
+
+All nine Phase III studies (26 August–29 September 1941) are complete and installed as unpublished `ready-for-review` drafts by R.G. Cruise: **31,874 substantive words, 64 sections, 19 historical asides and 253 citation occurrences to 60 sources**. Each chapter contains 3,500–5,000 prose words with source locators, contents, bibliography return links, dated map links and chronological navigation. Titles, slugs, dates, phase membership and adjacent links are preserved. No publication dates were added.
+
+The nine chapter-specific research notes, source-access qualifications, continuity ledger and separate future map findings are saved in `../../outputs/barbarossa-phase-iii-chapters/`. Open `REVIEW_INDEX.html` for the standalone review copies and `REVIEW_REPORT.txt` for the completion record and specific uncertainties. Exact installed records, verified word counts, browser evidence and recovery archives are included.
+
+The data validator, production build, whitespace check and all nine browser routes passed. Actual citation/return navigation, contents targets, dated map links, previous/next links, Phase III filtering and representative desktop/mobile layouts were checked. The preceding 23 article files and all 38 checked map-data/timeline files match the task-start hashes. Existing design styles are unchanged. Only necessary article-status labels and validation were updated.
+
+**LOCAL REVIEW ONLY: no deployment, publication or Git push.** Phase III maps remain geographic references pending separate dated military reconstruction. Earlier checkpoints below are historical; their statements that these nine chapters are unwritten are superseded. Next: editorial review of the completed drafts. Do not restart the finished research/writing sequence.
+
+## 14 October 2026 — 23-chapter academic editorial revision and factual review complete
+
+All 23 existing chapters are saved locally with university-level narrative revisions, 84,402 substantive words, 56 asides and 934 numbered citations to 280 sources. Each has a verified distinct insight and a hash-matched factual audit record. Material claims were reconciled using fresh checks and retained source-level research; exact access, transcription and testimony limits are documented. This completes the inherited-claim review left pending in older checkpoints below.
+
+The validator, production build, all 23 final routes and 934 citation destinations pass. Earlier desktop/mobile and actual navigation checks remain saved. Authorship, slugs, dates and publication states are preserved; nine Phase II chapters remain unpublished. Separate Phase III work, including the 25-to-26 August link and its map/source changes, is retained and identified in the preservation ledger.
+
+Review: ../../outputs/article-academic-revision/REVIEW_INDEX.html and REVIEW_REPORT.txt. The package includes readable chapters, exact installed JSON, before-state and completed-source archives, factual and insight registers, source/continuity guides and verification evidence. Local only; no deployment or Git push. Next: user review of the completed articles. Do not restart their finished editorial or factual pass.
+
 ## 14 October 2026 — Phase III eastern geographic reference completed locally
 
 The nine Phase III map dates now show a faint, hatched eastern **preinvasion political reference** beneath the dated, source-qualified political areas. It identifies the Soviet Union's 1939 outline, former eastern Poland under Soviet incorporation claim, occupied Estonia, and the Finnish territories ceded in 1940. The map, feature details, guide and PNG export identify this as earlier political geography, not Soviet or German military control on the selected August or September date. The current-control dataset still expires on 25 August in those changing areas; no older military positions were extended into Phase III.
