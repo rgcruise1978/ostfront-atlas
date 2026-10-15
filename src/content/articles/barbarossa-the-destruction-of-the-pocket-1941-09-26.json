@@ -1,0 +1,49 @@
+{
+  "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+  "title": "The Destruction of the Pocket",
+  "subtitle": "The defeat of the Soviet Southwestern Front",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-26",
+  "historicalPeriod": "26 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p2-stahel-kiev",
+    "cmh-blitz",
+    "blau-planning"
+  ],
+  "summary": "The principal Kiev encirclement battle reached its conventional endpoint, while isolated resistance and the treatment of prisoners require separate evidence.",
+  "body": "",
+  "location": "Kiev and eastern Ukraine",
+  "outlineTopics": [
+    "The course of the encirclement after September 16.",
+    "German efforts to reduce separated Soviet formations.",
+    "The attempts by Soviet armies and smaller groups to break out.",
+    "The fate of the Southwestern Front command.",
+    "The death of Mikhail Kirponos during the breakout fighting.",
+    "The collapse of organized resistance within the principal encirclement.",
+    "Soviet prisoners of war.",
+    "The destruction, dispersal, or escape of Soviet formations.",
+    "German claims concerning prisoners and captured equipment.",
+    "Differences between contemporary German figures and later historical estimates.",
+    "The consequences for Soviet defensive operations farther east.",
+    "German operational losses and logistical difficulties.",
+    "The position of Army Group South after the battle.",
+    "The significance of the Kiev victory for German strategic planning.",
+    "Whether the victory advanced or complicated the wider objectives of Barbarossa.",
+    "The consequences for the occupied Ukrainian population."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=101",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-fall-of-kiev-1941-09-19",
+  "chronologyNotes": [
+    "26 September is a conventional endpoint of the principal battle, not proof that every isolated unit ceased fighting. Prisoner figures require attributed categories."
+  ],
+  "nextArticleSlug": "barbarossa-victory-and-catastrophe-1941-09-29"
+}

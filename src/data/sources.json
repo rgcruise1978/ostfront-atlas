@@ -1951,13 +1951,13 @@
     "institution": "Institute of National Remembrance",
     "title": "Monika Tomkiewicz, Wysiedlenia Polaków z Gdyni w latach II wojny światowej",
     "date": null,
-    "url": "https://ipn.gov.pl/pl/historia-z-ipn/231458,Monika-Tomkiewicz-Wysiedlenia-Polakow-z-Gdyni-w-latach-II-wojny-swiatowej.html",
+    "url": "https://przystanekhistoria.pl/pa2/teksty/119873,Wysiedlenia-Polakow-z-Gdyni-w-latach-II-wojny-swiatowej.html",
     "type": "Historical article research reference",
     "relevance": "Baltic German arrivals at Gdańsk and Gdynia in October and the local autumn Intelligenzaktion. No demographic total or conflation of arrival and permanent settlement is adopted. Also preserves Jadwiga Kocuniak’s later recollection of German orders in the first days of occupation.",
     "supports": [
       "1939-10-26-article"
     ],
-    "notes": "Checked October 14, 2026. Baltic German arrivals at Gdańsk and Gdynia in October and the local autumn Intelligenzaktion. No demographic total or conflation of arrival and permanent settlement is adopted.",
+    "notes": "Full article checked 14 October 2026: the short IPN extract omits the Kocuniak recollection. Retrospective testimony distinguished from a contemporary diary; arrival ports not equated with permanent settlement.",
     "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
   },
   {
@@ -2582,10 +2582,10 @@
     "institution": "Institute of National Remembrance, Poland",
     "title": "“Hungarians towards the German aggression on Poland,” 11 March 2021",
     "date": null,
-    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/7396,Hungarians-towards-the-German-aggression-on-Poland.html",
+    "url": "https://przystanekhistoria.pl/pa2/tematy/english-content/75481,Hungarians-towards-the-German-aggression-on-Poland.html",
     "type": "Historical study research reference",
     "relevance": "Hungary’s refusal to participate in the attack or permit the requested German transit, and assistance to Polish refugees and onward military evacuation. Its sympathetic commemorative framing is distinguished from the specific actions documented.",
-    "notes": "Hungary’s refusal to participate in the attack or permit the requested German transit, and assistance to Polish refugees and onward military evacuation. Its sympathetic commemorative framing is distinguished from the specific actions documented.",
+    "notes": "Hungary’s refusal to participate in the attack or permit the requested German transit, and assistance to Polish refugees and onward military evacuation. Its sympathetic commemorative framing is distinguished from the specific actions documented. Full article inspected: September railway-transit refusal, internment and subsequent military evacuation; replaces the shorter English extract link.",
     "supports": [
       "german-invasion-poland-1939-09-01",
       "soviet-invasion-poland-1939-09-17"
@@ -3577,5 +3577,1530 @@
     "notes": "Museum page checked 14 October 2026. Its aggregate formation and prisoner totals need comparison with operational records before use; no daily position geometry inferred.",
     "reuseRights": "Page text labelled CC BY-NC-SA 4.0; linked here, with no text or imagery reproduced.",
     "verificationStatus": "page-checked; map reconstruction pending"
+  },
+  {
+    "id": "p2-sbd37-054",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Western Front operational summary No. 31, 10 July 1941, 20:00",
+    "date": "1941-07-10",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/054",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-001",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): General Staff instruction No. 114/ngsh to Timoshenko on reserves near Nevel and Vitebsk",
+    "date": "1941-07-10",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/001",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-009",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Western Direction Order No. 060 for the offensive of 13 July",
+    "date": "1941-07-12",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/009",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus726",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 726: Welles to Steinhardt on assistance and Lend-Lease",
+    "date": "1941-06-23",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d726",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-hansard-allies",
+    "institution": "United Kingdom Parliament · Hansard",
+    "title": "House of Commons: British Allies, 16 July 1941",
+    "date": "1941-07-16",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1941/jul/16/british-allies",
+    "type": "Parliamentary record",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10",
+      "1941-07-16"
+    ],
+    "notes": "Text or identified excerpt inspected during Phase II research on 14 October 2026. No access to uninspected portions is claimed.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-manley-displacement",
+    "institution": "Rebecca Manley · Cambridge University Press",
+    "title": "The Perils of Displacement: The Soviet Evacuee between Refugee and Deportee, Contemporary European History 16, no. 4 (2007)",
+    "date": "2007",
+    "url": "https://www.cambridge.org/core/journals/contemporary-european-history/article/abs/perils-of-displacement-the-soviet-evacuee-between-refugee-and-deportee/C2C0227D5B76D95C4CC82EAABCB12436",
+    "type": "Peer-reviewed research · inspected abstract",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Published abstract inspected. Used only for its argument about territorial rights and the administrative status of evacuees; no claim to full-article access or page-specific findings.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-friedman-vitebsk",
+    "institution": "Philip Friedman · Vitebsk memorial book / JewishGen",
+    "title": "The Holocaust of the Vitebsk Jews, pp. 603–604; English translation by Theodore Steinberg",
+    "date": null,
+    "url": "https://www.jewishgen.org/yizkor/Vitebsk/vit593.html",
+    "type": "Historical research · community memorial book",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Opening methodological discussion on pp. 603–604 inspected. Describes the editors’ difficulty locating testimony; does not assert that no Vitebsk Jews survived. Retrospective, translated source.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-060",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Western Front operational summary No. 41, 16 July 1941, 20:00",
+    "date": "1941-07-16",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/060",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-020",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Timoshenko’s Order No. 066 on Smolensk, Yartsevo and counterattacks",
+    "date": "1941-07-17",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/020",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-140",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Sixteenth Army operational summary No. 5 on fighting in Smolensk",
+    "date": "1941-07-21",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/140",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-dhm-smolensk",
+    "institution": "Arnulf Scriba · Deutsches Historisches Museum",
+    "title": "Die Schlacht bei Smolensk 1941",
+    "date": "2015-05-19",
+    "url": "https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/schlacht-bei-smolensk-1941",
+    "type": "Museum historical account",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Full short entry inspected. Used for broad advance and bypassed positions; aggregate prisoner claims are not adopted as exact verified losses.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-soltsy-records",
+    "institution": "Eleventh Army headquarters · Pribfront documentary transcription",
+    "title": "Combat orders, reports and operational summaries of the Eleventh Army, June–July 1941: communications exchange of 13 July; Order No. 3 of 14 July; summary No. 011 of 15 July",
+    "date": "1941-07",
+    "url": "https://www.pribfront.ru/5718.html",
+    "type": "Primary military documents",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Named dated Russian military records inspected in a documentary transcription. Transmission and spelling defects remain visible. Orders establish intent and reports establish reported outcomes. Original wartime government documents are public domain.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-ponomarev",
+    "institution": "Deutsches Historisches Museum · Sandbostel Memorial",
+    "title": "Hunger: the mess tin of Soviet prisoner Ponomarev",
+    "date": null,
+    "url": "https://www.dhm.de/en/museum/about-us/documentation-centre-german-occupation-of-europe-in-the-second-world-war/hunger/",
+    "type": "Museum object and provenance",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Object description inspected. Capture location and owner’s eventual fate are unknown; the chapter does not assign him to Smolensk.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-yv-smolensk",
+    "institution": "Yad Vashem · International Institute for Holocaust Research",
+    "title": "Encyclopedia of the Ghettos: Smolensk",
+    "date": null,
+    "url": "https://wwv.yadvashem.org/yv/he/research/ghettos_encyclopedia/ghetto_details.asp?cid=736",
+    "type": "Institutional historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Hebrew entry inspected and paraphrased in English. Differing late-July/early-August ghetto dates are retained. Population and evacuation figures are estimates.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-bormann-july16",
+    "institution": "Martin Bormann · U.S. Department of State / German Historical Institute",
+    "title": "Minutes of the conference at Hitler’s headquarters, 16 July 1941; Documents on German Foreign Policy, D XIII, document 114, pp. 149–156",
+    "date": "1941-07-16",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/martin-bormanns-minutes-of-a-meeting-at-hitlers-headquarters-july-16-1941",
+    "type": "Primary government document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-16"
+    ],
+    "notes": "Published excerpt inspected. English translation from the U.S. Department of State government edition (1964), edited by GHI; Nuremberg document 221-L. Intentions and achieved control are distinguished.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-006",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): General Staff Directive 00421 on concentrating reserve armies",
+    "date": "1941-07-19",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/006",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-008",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): General Staff instructions for four operational groups",
+    "date": "1941-07-21",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/008",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-025",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Western Front Order 0076 for concentric attacks toward Smolensk",
+    "date": "1941-07-21",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/025",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-064",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Western Front operational summary 55, 20:00",
+    "date": "1941-07-23",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/064",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-032",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Western Direction report to Stavka, 17:00",
+    "date": "1941-07-24",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/032",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-glantz-myths",
+    "institution": "David M. Glantz · Clemson University, Strom Thurmond Institute",
+    "title": "The Soviet-German War 1941–1945: Myths and Realities: A Survey Essay (2001)",
+    "date": "2001-10-11",
+    "url": "https://open.clemson.edu/sti_pubs/217/",
+    "type": "Scholarly lecture",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Full lecture text inspected, especially pp. 20–22. Interpretation is compared with contemporary operational documents; this is not a substitute for his later full Smolensk study.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-yahad-mogilev",
+    "institution": "Yahad–In Unum",
+    "title": "Execution of Jews in Mogilev: Natalia V., testimony 606, interviewed 28 April 2012",
+    "date": "2012-04-28",
+    "url": "https://www.yahadmap.org/partners/mogilev-moguilev-mahilyow-mogilev-belarus/village-425?media=7836",
+    "type": "Retrospective oral history",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Published testimony excerpt inspected through the indexed source text. The excerpt gives summertime but no exact date or year for the witnessed shooting. It is not dated to 23 July 1941; no uninspected interview content is claimed.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus251",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 251: Welles memorandum on Polish-Soviet negotiations",
+    "date": "1941-07-08",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d251",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd37-039",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 37 (Moscow: Voenizdat, 1959): Report on Western Direction radio communications as of 28 July",
+    "date": "1941-07-28",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/37/039",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-30"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus752",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 752: Hopkins memorandum of his conference with Stalin on 31 July",
+    "date": "1941-07-31",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d752",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-30",
+      "1941-08-06"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus253",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 253: Winant transmission of the Polish-Soviet agreement and British statements",
+    "date": "1941-07-30",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d253",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-30"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-hoover-bokota",
+    "institution": "Hoover Institution Library & Archives",
+    "title": "Sklenarz-Bokota Family Archives (2011)",
+    "date": "2011",
+    "url": "https://www.hoover.org/news/sklenarz-bokota-family-archives",
+    "type": "Archival collection account",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-07-30"
+    ],
+    "notes": "Institutional account of the family papers inspected. Used for its biographical account, not as a claim to have read the original unpublished papers. The family departure for Iran occurred in 1942.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd38-015",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 38 (Moscow: Voenizdat, 1959): Directive 021/op transferring the Sixth and Twelfth Armies to Southern Front",
+    "date": "1941-07-25",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/38/015",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-202",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Twenty-sixth Army Order 006 for defence",
+    "date": "1941-07-26",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/202",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-201",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Eighteenth Army report on the Golovanevsk threat",
+    "date": "1941-07-31",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/201",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-022",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Budenny report 044/op to Stavka on the southern crisis",
+    "date": "1941-08-04",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/022",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-195",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Twelfth Army report on the encircled Sixth and Twelfth Armies",
+    "date": "1941-08-06",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/195",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06",
+      "1941-08-12"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-197",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Twelfth Army request for air support",
+    "date": "1941-08-06",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/197",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-198",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Kulikov request to bomb Ternovka and Pokotilovo",
+    "date": "1941-08-06",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/198",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-199",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Ponedelin report that a liaison delegate cannot be received",
+    "date": "1941-08-06",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/199",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd39-200",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 39 (Moscow: Voenizdat, 1959): Ponedelin report on the failed night attack",
+    "date": "1941-08-06",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/39/200",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-uman-generals",
+    "institution": "Kateryna Moskalchuk and Oleksandr Chornyi · Military Historical Bulletin 4(50), 2023, pp. 66–78",
+    "title": "Photographs of Soviet Military Commanders Captured in the Uman Cauldron in August 1941 as a Source of Interpretations of Military and Historical Events",
+    "date": "2023",
+    "url": "https://viv.nuou.org.ua/article/download/299721/292235/691833",
+    "type": "Scholarly historical study",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Ukrainian article, English abstract, and discussion on printed pp. 72–74 inspected. Used to assess propaganda and the photographs, with uncertain locations preserved.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-uman-photo",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German soldier guarding Soviet prisoners of war, Uman, 14 August 1941",
+    "date": "1941-08-14",
+    "url": "https://encyclopedia.ushmm.org/content/en/photo/german-soldier-guarding-soviet-prisoners-of-war",
+    "type": "Photographic record",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Museum photograph caption inspected; it dates a camp scene after the chapter anchor and supplies no prisoner-total or mortality evidence.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-pow-treatment",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "The Treatment of Soviet POWs: Starvation, Disease, and Shootings, June 1941–January 1942",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-treatment-of-soviet-pows-starvation-disease-and-shootings-june-1941january-1942",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Sections on ideological policy, provision of food and shelter, and July selection policy inspected. Later war-wide statistics are not dated to Uman on 6 August.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-uman-murder",
+    "institution": "Yad Vashem · Untold Stories, text reproduced by dekoder",
+    "title": "Gravel Pit in Uman: early August 1941 murder of Jews",
+    "date": null,
+    "url": "https://war.dekoder.org/de/map/murder-sites/pioneer-palace-in-uman-1219",
+    "type": "Archival historical synthesis",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Gravel Pit section inspected, explicitly attributed to postwar proceedings against Guenther Herrmann. Original Yad Vashem catalogue target https://collections.yadvashem.org/en/untold-stories/killing-site/14627382 returned no readable text. Early August is not narrowed to an invented day.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-buzia",
+    "institution": "Svitlana Demchenko · National Museum of the History of Ukraine in the Second World War",
+    "title": "Bank of Portraits: Boius Vasylyna, rescue of Buzia Leibovych",
+    "date": null,
+    "url": "https://xn--e1agqdganc.com.ua/portraits/render.php?id=Boius+Vasylyna&lang=eng",
+    "type": "Museum biographical account",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-06"
+    ],
+    "notes": "Museum account inspected. Rescue followed imprisonment in several camps and is not dated to 6 August. The page varies the rescuer’s first name, so the chapter uses the Boius family name without resolving that inconsistency.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-11army-diary",
+    "institution": "Eleventh Army headquarters",
+    "title": "Journal of combat operations, 3 August–30 September 1941, with the plan for the attack of 12 August",
+    "date": "1941-08",
+    "url": "https://www.pribfront.ru/5717.html",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12",
+      "1941-08-25"
+    ],
+    "notes": "Russian transcription of a Soviet wartime headquarters record; used for the embedded plan and dated entries, not the hosting site’s commentary. The published sequence has gaps; objectives are not presented as accomplished movements.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-forczyk-demyansk",
+    "institution": "Robert Forczyk · Osprey Publishing",
+    "title": "Demyansk 1942–43: The Frozen Fortress (Campaign 245, 2012), introduction and chronology, pp. 6–7 and 10",
+    "date": null,
+    "url": "https://api.pageplace.de/preview/DT0400.9781849085533_A26651223/preview-9781849085533_A26651223.pdf",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Publisher preview inspected. Used only for the August 1941 background and chronology; later Demyansk supply conditions are not projected backward.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-halunga",
+    "institution": "Cătălin Pungă · Moldova National Museum Complex, Iași",
+    "title": "Donaţia General Raoul M. Halunga: brevete de decoraţii şi fotografii cu familia regală, Ioan Neculce (2014), pp. 235–255",
+    "date": null,
+    "url": "https://editurapalatulculturii.ro/wpcms/wp-content/uploads/2022/02/buletin-neculce-2014-12-punga.pdf",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Museum study inspected, especially pp. 237–239. Used narrowly for Halunga’s regiment and the Romanian order of 8 August. The article contains geographical and chronological slips in its general campaign overview; those claims and its uncertain death date are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-odessa-context",
+    "institution": "ELAR · historical-document project",
+    "title": "Defence of the Southern Palmyra: Odessa, 1941",
+    "date": null,
+    "url": "https://pobeda.elar.ru/issues/osvobozhdenie-odessy/oborona-yuzhnoy-palmiry/",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Used narrowly for naval command, defensive organization and the chronology of land isolation and the 19 August command reorganization; celebratory wording and uncorroborated casualty claims are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-gauzner",
+    "institution": "Centropa · interview by A. Beiderman",
+    "title": "Mikhail Gauzner, Odessa: oral-history interview, February 2003",
+    "date": "2003-02",
+    "url": "https://www.centropa.org/hu/print/pdf/node/78110",
+    "type": "Oral history",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "English interview transcript, PDF p. 6, read. Childhood memories are retrospective. Only his recollections of summer bombing, shelter and his father’s wartime factory work are used; uncertain later ship and evacuation chronology is not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd40-001",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 40 (Moscow: Voenizdat, 1960): Stavka Directive 00729 on Southern Front withdrawal and Odessa",
+    "date": "1941-08-05",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/40/001",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12",
+      "1941-08-25"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd40-182",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 40 (Moscow: Voenizdat, 1960): Southern Front Directive 0049/op on withdrawal",
+    "date": "1941-08-06",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/40/182",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus760",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 760: Steinhardt reports delivery of the Roosevelt–Churchill message",
+    "date": "1941-08-15",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d760",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus763",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 763: Stalin discusses Ukraine and the military balance",
+    "date": "1941-08-15",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d763",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus764",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 764: Stalin discusses armour plate and routes for aid",
+    "date": "1941-08-15",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d764",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-gomel-12",
+    "institution": "Soviet 21st Army and Central Front · document transcripts in the 117th Rifle Division chronicle",
+    "title": "Dated operational reports and communications, 12 August 1941",
+    "date": "1941-08-12",
+    "url": "https://xn--117-hddjtfbb4u.xn--p1ai/okopnaya-hronika-boevogo-puti/12-avgusta-1941-goda/",
+    "type": "Primary military records and collected recollections",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "The identified contemporary reports were read in Russian transcription, sometimes through the indexed copy when direct retrieval failed. Retrospective recollections are separately identified. Linked scan files were not successfully retrieved; no direct archival inspection is claimed. Modern editorial narration and its casualty claims are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-gomel-19",
+    "institution": "Soviet 21st Army and Central Front · document transcripts in the 117th Rifle Division chronicle",
+    "title": "Dated operational reports and communications, 19 August 1941",
+    "date": "1941-08-19",
+    "url": "https://xn--117-hddjtfbb4u.xn--p1ai/okopnaya-hronika-boevogo-puti/19-avgusta-1941-goda/",
+    "type": "Primary military records and collected recollections",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "The identified contemporary reports were read in Russian transcription, sometimes through the indexed copy when direct retrieval failed. Retrospective recollections are separately identified. Linked scan files were not successfully retrieved; no direct archival inspection is claimed. Modern editorial narration and its casualty claims are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-gomel-20",
+    "institution": "Soviet 21st Army and Central Front · document transcripts in the 117th Rifle Division chronicle",
+    "title": "Dated operational reports and communications, 20 August 1941",
+    "date": "1941-08-20",
+    "url": "https://xn--117-hddjtfbb4u.xn--p1ai/okopnaya-hronika-boevogo-puti/20-avgusta-1941-goda/",
+    "type": "Primary military records and collected recollections",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "The identified contemporary reports were read in Russian transcription, sometimes through the indexed copy when direct retrieval failed. Retrospective recollections are separately identified. Linked scan files were not successfully retrieved; no direct archival inspection is claimed. Modern editorial narration and its casualty claims are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-gomel-21",
+    "institution": "Soviet 21st Army and Central Front · document transcripts in the 117th Rifle Division chronicle",
+    "title": "Dated operational reports and communications, 21 August 1941",
+    "date": "1941-08-21",
+    "url": "https://xn--117-hddjtfbb4u.xn--p1ai/okopnaya-hronika-boevogo-puti/21-avgusta-1941-goda/",
+    "type": "Primary military records and collected recollections",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19",
+      "1941-08-21"
+    ],
+    "notes": "The identified contemporary reports were read in Russian transcription, sometimes through the indexed copy when direct retrieval failed. Retrospective recollections are separately identified. Linked scan files were not successfully retrieved; no direct archival inspection is claimed. Modern editorial narration and its casualty claims are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-gomel-retreat",
+    "institution": "Central Front and 21st Army · reproduced in the Dobrush regional document collection",
+    "title": "Communications and orders of 20–21 August 1941: withdrawal across the Sozh and defence of the Iput",
+    "date": "1941-08",
+    "url": "https://miklaby.ucoz.ru/index/na_podstupakh_k_dobrushu/0-219",
+    "type": "Primary military document transcripts",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "Used only for the dated 05:00 communication of 20 August and order 84, reproduced in Russian. Reports are contemporary claims, and the host’s modern narrative is not treated as primary evidence.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-glantz-gomel",
+    "institution": "David M. Glantz",
+    "title": "Barbarossa Derailed, volume I: chapter 8, Second Army’s offensive on Gomel, 12–18 August (Russian translation excerpt)",
+    "date": null,
+    "url": "https://document.wikireading.ru/amp27154",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "Identified section of the Russian translation inspected through indexed text. Original English volume: Helion, 2010. Only this limited passage was used; English-language page numbers and access to the complete book are not claimed.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-smilovitsky-gomel",
+    "institution": "Leonid Smilovitsky · Tel Aviv University",
+    "title": "Ghettos in the Gomel Region: Commonalities and Unique Features, 1941–42, paper presented at USHMM symposium (2003), republished JewishGen (2005)",
+    "date": null,
+    "url": "https://www.jewishgen.org/belarus/newsletters/gomel/GomelGhettos/index.html",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "Sections Defence and Evacuation inspected. Narrowly used for the reported evacuation estimates and inequalities of access; its July operational chronology and all-region mortality percentages are not adopted.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-polin-gomel",
+    "institution": "POLIN Museum of the History of Polish Jews · Virtual Shtetl",
+    "title": "Gomel: history of the Jewish community",
+    "date": null,
+    "url": "https://sztetl.org.pl/en/towns/g/1485-gomel/99-history/137359-history-of-community",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "Used for German entry on 19 August and the subsequent ghetto system. Later murders are explicitly separated from the date of occupation; uncertain numerical totals and methods are not repeated.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-lipkina",
+    "institution": "Jewish Family & Children’s Services of Southern Arizona",
+    "title": "Tsiliya Lipkina: survivor recollections of Gomel and evacuation",
+    "date": null,
+    "url": "https://jfcstucson.org/tsiliya-lipkina/",
+    "type": "Personal testimony",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19"
+    ],
+    "notes": "Published first-person retrospective account inspected. Used for her school’s conversion to a hospital, work carrying blood and evacuation on 6 July; these memories are not described as an August eyewitness account.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd40-047",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 40 (Moscow: Voenizdat, 1960): Southwestern Direction order for Fifth Army to withdraw behind the Dnieper",
+    "date": "1941-08-19",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/40/047",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-19",
+      "1941-08-21"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-order270",
+    "institution": "Soviet Supreme High Command",
+    "title": "Order No. 270, 16 August 1941; Russkiy arkhiv: Velikaya Otechestvennaya, vol. 13 (2–2) (Terra, 1997), pp. 58–60",
+    "date": "1941-08-16",
+    "url": "https://ru.wikisource.org/wiki/Приказ_СВГК_СССР_от_16.08.1941_№_270",
+    "type": "Primary military order",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "notes": "Russian published transcription inspected. The accusations within the order are treated as accusations, not established accounts of surrender. Public-domain official document.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-stahel-kiev",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Kiev 1941: Hitler’s Battle for Supremacy in the East (2012), Introduction, pp. 1–5",
+    "date": null,
+    "url": "https://assets.cambridge.org/97811070/14596/excerpt/9781107014596_excerpt.pdf",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-21"
+    ],
+    "notes": "Publisher excerpt inspected, specifically Introduction pp. 1–5; no access to the remainder of the book is claimed.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-margolina",
+    "institution": "Centropa · interview by Ella Levitskaya",
+    "title": "Agnessa Margolina, oral history recorded in Uzhgorod, April 2003",
+    "date": "2003-04",
+    "url": "https://www.centropa.org/cs/print/pdf/node/78027",
+    "type": "Oral history",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-21"
+    ],
+    "notes": "PDF pp. 8–9, particularly the account of leaving Kiev in August 1941, inspected. The interview contains chronological and geographical inconsistencies elsewhere; only the carefully attributed recollection of departure is used, without assigning an exact day.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus765",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume I, document 765: Hull to Steinhardt, transmitting the signed Roosevelt–Churchill message to Stalin",
+    "date": "1941-08-18",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d765",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-21"
+    ],
+    "notes": "Published U.S. diplomatic record inspected. Attributed views and estimates are not treated as independently verified battlefield facts. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-sbd41-001",
+    "institution": "USSR General Staff · Military Scientific Directorate",
+    "title": "Collection of Combat Documents, vol. 41 (Moscow: Voenizdat, 1960): Stavka Directive 001254 to the Western Front, 25 August 1941",
+    "date": "1941-08-25",
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/41/001",
+    "type": "Primary military document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Russian transcription of a published Soviet military record inspected; original archival locator retained in the transcript. Orders and reported outcomes are distinguished. The document is public domain; site navigation and editorial matter are not reproduced.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus3-398",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume III, document 398: Murray’s memorandum of his conversation with the Turkish ambassador",
+    "date": "1941-08-25",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v03/d398",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Published contemporary diplomatic record inspected; statements are attributed to their speakers, including the Turkish ambassador’s expressly personal remarks. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus3-399",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume III, document 399: Dreyfus reports the Shah’s meeting with the British and Soviet envoys",
+    "date": "1941-08-25",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v03/d399",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Published contemporary diplomatic record inspected; statements are attributed to their speakers, including the Turkish ambassador’s expressly personal remarks. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-frus3-401",
+    "institution": "United States Department of State · Office of the Historian",
+    "title": "Foreign Relations of the United States, 1941, Volume III, document 401: Reza Shah’s appeal to Roosevelt",
+    "date": "1941-08-25",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v03/d401",
+    "type": "Primary diplomatic document",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Published contemporary diplomatic record inspected; statements are attributed to their speakers, including the Turkish ambassador’s expressly personal remarks. U.S. government text.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-hiio-kiviloo",
+    "institution": "Toomas Hiio · Tuna / Estonian National Archives",
+    "title": "Venetossu ja Kiviloo lahingud 1941. aasta suvel [The battles of Venetossu and Kiviloo in summer 1941], Tuna 3 (2025), pp. 77–88",
+    "date": null,
+    "url": "https://tuna.ra.ee/venetossu-ja-kiviloo-lahingud-1941-aasta-suvel/",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Estonian article and published military records inspected; used narrowly for the 22 August Kiviloo action and the constraints on the German advance. English paraphrase by the atlas.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-tallinn-mobilisation",
+    "institution": "Estonian Maritime Museum",
+    "title": "1941. aasta mobilisatsioon ja Juminda meretragöödia [Mobilisation in 1941 and the Juminda maritime tragedy]",
+    "date": "2022-07-20",
+    "url": "https://meremuuseum.ee/blog/2022/07/20/1941-aasta-evakuatsioon/",
+    "type": "Museum research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Estonian text inspected. Recollections of compulsory mobilisation are attributed; the dated cutting of land communications and subsequent evacuation are distinguished.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-mukhina",
+    "institution": "Lena Mukhina · published diary excerpts",
+    "title": "“Sokhrani moyu pechalnuyu istoriyu…” [Preserve my sad story], Ogonyok, 5 September 2011",
+    "date": "2011-09-05",
+    "url": "https://www.kommersant.ru/doc/1760507",
+    "type": "Contemporary diary",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Published diary extracts inspected, specifically entries of 1 July, 5 July and 9 August 1941. English paraphrase by the atlas; no claim to inspection of the archival manuscript.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-dervish",
+    "institution": "Don Kindell · Naval-History.Net",
+    "title": "Naval Events, August 1941, Part 2: convoy Dervish",
+    "date": null,
+    "url": "https://www.naval-history.net/xDKWW2-4108-35AUG02.htm",
+    "type": "Historical research",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Detailed naval chronology inspected: Liverpool departure 12 August, Iceland departure 21 August, Archangel arrival 31 August. Later arrival is not counted as a delivery by 25 August.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "p2-odessa-001066",
+    "institution": "Soviet Supreme High Command · reproduced by Anatoly Yunovidov",
+    "title": "Directive No. 001066, 19 August 1941, in Oborona Odessy. 1941. Pervaya bitva za Chernoye more, section “Creation of the Odessa Defence Region”",
+    "date": "1941-08-19",
+    "url": "https://www.universalinternetlibrary.ru/book/63908/chitat_knigu.shtml",
+    "type": "Primary military directive",
+    "relevance": "Evidence for the operational, social or diplomatic account; precise passages are identified in each chapter.",
+    "supports": [
+      "1941-08-25",
+      "1941-08-12"
+    ],
+    "notes": "Appointment and command-subordination provisions inspected in the reproduced directive under Creation of the Odessa Defence Region (19 August), with note 124 citing TsAMO f. 148a, op. 3763, d. 90, ll. 50–51. Russian transcription consulted, not original archival images. This replaces reliance on an indexed excerpt from an inaccessible mirror.",
+    "reuseRights": "Linked and cited. Original synthesis and short attributed paraphrases; no reproduction of third-party maps or photographs."
+  },
+  {
+    "id": "atlas-command-oob",
+    "institution": "George E. Blau · U.S. Department of the Army",
+    "title": "The German Campaign in Russia: Planning and Operations (1940–1942), DA Pamphlet 20-261a (1955), chart: German Order of Battle, 22 June 1941",
+    "url": "https://www.landsurvival.com/MANUALS/UsArmyWwiiGermanPlanOpsRussia1940-421955.pdf",
+    "type": "Historical map research",
+    "relevance": "German command names and opening organizational relationships from the inspected order-of-battle chart. Later positions use dated situation sheets; a chart does not establish headquarters coordinates.",
+    "notes": "German command names and opening organizational relationships from the inspected order-of-battle chart. Later positions use dated situation sheets; a chart does not establish headquarters coordinates.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "atlas-alignment",
+    "institution": "United States Holocaust Memorial Museum · treaty and campaign records",
+    "title": "Axis Alliance in World War II; existing dated occupation and diplomatic records",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/axis-alliance-in-world-war-ii",
+    "type": "Historical map research",
+    "relevance": "Alignment categories distinguish formal partners, co-belligerents, occupation and the British–Soviet alliance; country identity and military control remain separate.",
+    "notes": "Alignment categories distinguish formal partners, co-belligerents, occupation and the British–Soviet alliance; country identity and military control remain separate.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "loc-lage-1941-07-10",
+    "institution": "German Army General Staff · Library of Congress",
+    "title": "Der Feldzug gegen Sowjet-Russland (1942), sheet 23: Lage am 10.7.1941 abds.",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=23",
+    "type": "Historical map research",
+    "relevance": "Printed evening title and operational symbols inspected in the full-resolution Commons mirror. German reporting and assessed Soviet positions are qualified; original generalized interpretation, not redistributed map artwork.",
+    "notes": "Printed evening title and operational symbols inspected in the full-resolution Commons mirror. German reporting and assessed Soviet positions are qualified; original generalized interpretation, not redistributed map artwork.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "loc-lage-1941-07-16",
+    "institution": "German Army General Staff · Library of Congress",
+    "title": "Der Feldzug gegen Sowjet-Russland (1942), sheet 29: Lage am 16.7.1941 abds.",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=29",
+    "type": "Historical map research",
+    "relevance": "Printed evening title and operational symbols inspected in the full-resolution Commons mirror. German reporting and assessed Soviet positions are qualified; original generalized interpretation, not redistributed map artwork.",
+    "notes": "Printed evening title and operational symbols inspected in the full-resolution Commons mirror. German reporting and assessed Soviet positions are qualified; original generalized interpretation, not redistributed map artwork.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "loc-lage-1941-07-23",
+    "institution": "German Army General Staff · Library of Congress",
+    "title": "Der Feldzug gegen Sowjet-Russland (1942), sheet 36: Lage am 23.7.1941 abds.",
+    "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=36",
+    "type": "Historical map research",
+    "relevance": "Printed evening title and operational symbols inspected in the full-resolution Commons mirror. German reporting and assessed Soviet positions are qualified; original generalized interpretation, not redistributed map artwork.",
+    "notes": "Printed evening title and operational symbols inspected in the full-resolution Commons mirror. German reporting and assessed Soviet positions are qualified; original generalized interpretation, not redistributed map artwork.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "atlas-july30-map",
+    "institution": "George E. Blau · U.S. Department of the Army",
+    "title": "The German Campaign in Russia (1955), Map 8: Situation on 30 July 1941, facing printed p. 57",
+    "url": "https://www.landsurvival.com/MANUALS/UsArmyWwiiGermanPlanOpsRussia1940-421955.pdf",
+    "type": "Historical map research",
+    "relevance": "The map plate was visually inspected. It supports broad deployment and operational relationships around Luga, Smolensk, Gomel, Kiev, Uman and Odessa; not a surveyed tactical front.",
+    "notes": "The map plate was visually inspected. It supports broad deployment and operational relationships around Luga, Smolensk, Gomel, Kiev, Uman and Odessa; not a surveyed tactical front.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "atlas-period-communications",
+    "institution": "German General Staff / Soviet operational records / U.S. Army",
+    "title": "Historical communication corridors: inspected July 1941 sheets and dated operational reports",
+    "url": "https://www.loc.gov/item/map51000141/",
+    "type": "Historical map research",
+    "relevance": "Schematic city-to-city railway/road corridors visible on inspected sheets, checked against the chapter records. These generalized axes establish connections, not surveyed tracks, gauge conversion, capacity or serviceability.",
+    "notes": "Schematic city-to-city railway/road corridors visible on inspected sheets, checked against the chapter records. These generalized axes establish connections, not surveyed tracks, gauge conversion, capacity or serviceability.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "atlas-osm-rivers",
+    "institution": "OpenStreetMap contributors",
+    "title": "Mshaga and Sinyukha natural-river courses, retrieved 14 October 2026",
+    "url": "https://www.openstreetmap.org/copyright",
+    "type": "Physical geography",
+    "relevance": "Separately attributed ODbL river geometry; modern courses for orientation, without a claim of exact 1941 channel geometry.",
+    "supports": [],
+    "notes": "Overpass responses saved in the research folder. Natural waterways only; not merged into the historical boundary derivatives.",
+    "reuseRights": "Open Database License 1.0. Separate derivative database and source way identifiers retained."
+  },
+  {
+    "id": "atlas-heinrichs",
+    "institution": "Mannerheim historical resource · Finnish museum collaboration",
+    "title": "Erik Heinrichs: Army of Karelia command, 29 June 1941–29 January 1942",
+    "url": "https://www.mannerheim.fi/10_ylip/s_heinri.htm",
+    "type": "Historical map research",
+    "relevance": "Finnish biographical entry, paragraph on wartime appointments: Heinrichs commanded the Army of Karelia from 29 June 1941 to 29 January 1942. This verifies command identity; the map point is an explicitly generalized sector anchor.",
+    "notes": "Finnish biographical entry, paragraph on wartime appointments: Heinrichs commanded the Army of Karelia from 29 June 1941 to 29 January 1942. This verifies command identity; the map point is an explicitly generalized sector anchor.",
+    "date": null,
+    "supports": [
+      "1939-08-23",
+      "1939-09-01",
+      "1939-09-17",
+      "1939-09-28",
+      "1939-10-26",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-25",
+      "1941-06-28",
+      "1941-07-01",
+      "1941-07-03",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-07-10",
+      "1941-07-16",
+      "1941-07-23",
+      "1941-07-30",
+      "1941-08-06",
+      "1941-08-12",
+      "1941-08-19",
+      "1941-08-21",
+      "1941-08-25"
+    ],
+    "reuseRights": "Original map interpretation; source artwork is not redistributed. Underlying licensed geometry keeps its existing attribution."
+  },
+  {
+    "id": "phase3-ushmm-babyn-yar",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Mass Shootings at Babyn Yar (Babi Yar), Holocaust Encyclopedia (revised 2024)",
+    "date": "1941-09-29",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar",
+    "type": "Scholarly museum synthesis",
+    "relevance": "German entry into Kiev, the 29–30 September massacre, perpetrators and the two-day reported victim count.",
+    "supports": [
+      "1941-09-19",
+      "1941-09-29"
+    ],
+    "notes": "Full article inspected 14 October 2026. The figure 33,771 covers both 29 and 30 September and comes from Einsatzgruppen reports; it is not assigned to one day.",
+    "reuseRights": "Linked and paraphrased with attribution; no photograph or map copied."
+  },
+  {
+    "id": "phase3-ushmm-kiev-occupation",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Occupation of Kyiv, Holocaust Encyclopedia timeline event",
+    "date": "1941-09-19",
+    "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1939-1941/occupation-of-kiev",
+    "type": "Scholarly museum timeline",
+    "relevance": "Confirms German entry on 19 September, occupation and the later distinct Babyn Yar killings.",
+    "supports": [
+      "1941-09-19",
+      "1941-09-29"
+    ],
+    "notes": "Timeline event inspected 14 October 2026. City entry is not the same as the end of the wider encirclement battle.",
+    "reuseRights": "Linked and paraphrased with attribution; no photograph or map copied."
+  },
+  {
+    "id": "wolos-riga-2021",
+    "institution": "Zapiski Historyczne",
+    "title": "Mariusz Wołos, “A New Order in Central and Eastern Europe: Polish-Soviet Negotiations and the Peace of Riga (1920–1921),” Zapiski Historyczne 86, no. 2 (2021): 97–124; translated by Tomasz Leszczuk and Piotr Puchalski; DOI 10.15762/ZH.2021.13",
+    "date": "2021",
+    "url": "https://www.zapiskihistoryczne.pl/files/5/Vol._86_2021/ZH_86-02_04_Wolos_N.pdf",
+    "type": "Peer-reviewed historical research",
+    "relevance": "Negotiation, signature and significance of the Polish–Soviet frontier established in 1921.",
+    "supports": [
+      "poland-1939-introduction",
+      "1939-08-23-article"
+    ],
+    "notes": "Publisher PDF inspected at printed pp. 102–103, 111–112 and 120. An accessible journal treatment replaces reliance on the inaccessible Borzęcki encyclopedia PDF for the relevant claims. The article identifies its English translators on p. 120.",
+    "reuseRights": "Linked for reference; bounded paraphrase only."
+  },
+  {
+    "id": "ghdi-rapallo-1922",
+    "institution": "German Historical Institute, German History in Documents and Images",
+    "title": "German–Russian Treaty of Rapallo, 16 April 1922; Reichs-Gesetzblatt 1922 II, no. 18, pp. 677–679; English transcription via Avalon",
+    "date": "1922-04-16",
+    "url": "https://germanhistorydocs.org/en/weimar-germany-1918-1933/german-russian-treaty-of-rapallo-april-16-1922",
+    "type": "Article research reference",
+    "relevance": "GHDI introductory note and articles 1–3 inspected: mutual claims and immediate resumption of diplomatic and consular relations.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "GHDI introductory note and articles 1–3 inspected: mutual claims and immediate resumption of diplomatic and consular relations.",
+    "reuseRights": "Linked and paraphrased; no facsimile reproduced."
+  },
+  {
+    "id": "ushmm-german-foreign-policy",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "German Foreign Policy, 1933–1945",
+    "date": "2019-09-20",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/german-foreign-policy-1933-1945",
+    "type": "Article research reference",
+    "relevance": "Sections Prewar Policy and Pacts and New Territories inspected for the limited chronology of rearmament, Rhineland remilitarisation and the March 1938 Austrian annexation.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Sections Prewar Policy and Pacts and New Territories inspected for the limited chronology of rearmament, Rhineland remilitarisation and the March 1938 Austrian annexation.",
+    "reuseRights": "Linked and paraphrased; no facsimile reproduced."
+  },
+  {
+    "id": "klodzinski-tczew-2021",
+    "institution": "Museum of the Second World War, Gdańsk",
+    "title": "Marcin Kłodziński, “Walki o mosty tczewskie 1 września 1939 r. Przygotowania, przebieg i znaczenie,” Wojna i Pamięć, no. 3 (2021), especially pp. 131–134",
+    "date": "2021",
+    "url": "https://www.muzeum1939.pl/upload/2025/12/925f2e996b710392cf361d1aa7964f8128942.pdf",
+    "type": "Historical research journal article",
+    "relevance": "Detailed reconstruction of the Tczew bridge operation, railway warning and demolition.",
+    "supports": [
+      "1939-09-01-article"
+    ],
+    "notes": "Publisher PDF, printed pp. 131–134 inspected. The study distinguishes competing accounts of damage to demolition cables and the timing of the first demolition; the chapter avoids false precision on those points.",
+    "reuseRights": "Linked for reference; bounded paraphrase only."
+  },
+  {
+    "id": "ushmm-einsatzgruppen-overview",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Einsatzgruppen: An Overview",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/einsatzgruppen",
+    "type": "Museum historical reference",
+    "relevance": "Security Police and SD composition and the targeting of Polish leadership during the 1939 invasion.",
+    "supports": [
+      "1939-09-01-article"
+    ],
+    "notes": "Opening definition and section From Security Measures to Mass Murder, Poland paragraphs inspected.",
+    "reuseRights": "Linked for reference; bounded paraphrase only."
+  },
+  {
+    "id": "bundesarchiv-brest-1939",
+    "institution": "German Federal Archives (Bundesarchiv), catalogue reproduced on Wikimedia Commons",
+    "title": "Bild 101I-121-0011A-22: Polen, Siegesparade, Guderian, Kriwoschein, 22 September 1939; photograph by Gutjahr",
+    "date": "1939-09-22",
+    "url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-121-0011A-22,_Polen,_Siegesparade,_Guderian,_Kriwoschein.jpg",
+    "type": "Archival photograph and catalogue description",
+    "relevance": "Identifies Guderian and Krivoshein at the Brest ceremony on 22 September 1939.",
+    "supports": [
+      "1939-09-17-article"
+    ],
+    "notes": "Archive-supplied description, accession number and dated photographic metadata inspected. Used for the ceremony and named participants; transfer of possession is corroborated by the contemporary report in FRUS 1941 I, document 220. No image is reproduced.",
+    "reuseRights": "Catalogue linked only; image is not reproduced."
+  },
+  {
+    "id": "mwp-1939-campaign-chronology",
+    "institution": "Polish Army Museum, Warsaw",
+    "title": "Wojna obronna Polski, wrzesień 1939 r. [The defence of Poland, September 1939], entries Obrona Helu and Bitwa pod Kockiem",
+    "date": null,
+    "url": "https://muzeumwp.pl/wojna-obronna-polski-wrzesien-1939-r/",
+    "type": "Museum campaign chronology",
+    "relevance": "Dates the Hel defence through 2 October and the Kock battle through 6 October.",
+    "supports": [
+      "1939-09-28-article"
+    ],
+    "notes": "Used narrowly for the dated Hel and Kock entries. The separate Soviet-invasion entry incorrectly says Germany had declared war before invading; that assertion is not adopted.",
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "ipn-lodz-renaming",
+    "institution": "Institute of National Remembrance, Łódź",
+    "title": "Łódź w czasie okupacji niemieckiej na fotografiach z zasobu Instytutu Pamięci Narodowej",
+    "date": null,
+    "url": "https://lodz.ipn.gov.pl/pl6/aktualnosci/76276,Lodz-w-czasie-okupacji-niemieckiej-na-fotografiach-z-zasobu-Instytutu-Pamieci-Na.html",
+    "type": "Archive exhibition and historical commentary",
+    "supports": [
+      "german-occupation-administration-1939-10-26"
+    ],
+    "relevance": "The city was renamed Litzmannstadt on 11 April 1940, after the chapter date.",
+    "notes": "Full paragraph on renaming inspected on 14 October 2026; other exhibition claims are not adopted merely by citation.",
+    "reuseRights": "Linked and paraphrased; photographs not reproduced."
+  },
+  {
+    "id": "phase3-yadvashem-yelnya-place",
+    "title": "Yelnya, Russia (USSR): place record",
+    "institution": "Yad Vashem, The World Holocaust Remembrance Center",
+    "url": "https://collections.yadvashem.org/en/places/5441516",
+    "relevance": "Locates Yelnya near 54.570 N, 33.184 E for the geographic city marker only.",
+    "notes": "Coordinate inspected 14 October 2026. This place record does not establish any 1941 military position or control."
+  },
+  {
+    "id": "phase3-nga-shlisselburg-place",
+    "title": "Schlüselburg / Shlisselburg: NGA place record",
+    "institution": "National Geospatial-Intelligence Agency gazetteer data, reproduced by geographic.org",
+    "url": "https://geographic.org/geographic_names/name.php?c=russia&fid=5555&uni=-4200368",
+    "relevance": "Locates Shlisselburg near 59.95 N, 31.0333 E for the geographic city marker only.",
+    "notes": "Coordinate and name variant inspected 14 October 2026. Historical capture/control is not inferred from the gazetteer."
+  },
+  {
+    "id": "phase3-nga-novgorod-seversk-place",
+    "title": "Novgorod-Seversk: NGA place record",
+    "institution": "National Geospatial-Intelligence Agency gazetteer data, reproduced by geographic.org",
+    "url": "https://geographic.org/geographic_names/name.php?c=ukraine&fid=6502&uni=-1554806",
+    "relevance": "Locates Novgorod-Seversk near 52.000 N, 33.2667 E for the geographic city marker only.",
+    "notes": "Coordinate and historic/variant name inspected 14 October 2026. The marker does not identify a 1941 unit position."
+  },
+  {
+    "id": "phase3-nga-lokhvytsia-place",
+    "title": "Lokhvytsya / Lokhvytsia: NGA place record",
+    "institution": "National Geospatial-Intelligence Agency gazetteer data, reproduced by geographic.org",
+    "url": "https://geographic.org/geographic_names/name.php?c=ukraine&fid=6515&uni=9120864",
+    "relevance": "Locates Lokhvytsia near 50.3667 N, 33.2667 E for the geographic city marker only.",
+    "notes": "Coordinate and name variant inspected 14 October 2026. The marker does not establish an encirclement perimeter."
+  },
+  {
+    "id": "aliev-brest-introduction",
+    "institution": "Rostislav Aliev; Pen & Sword Military",
+    "title": "The Siege of Brest 1941: A Legend of Red Army Resistance on the Eastern Front, Introduction",
+    "date": "2013",
+    "url": "https://api.pageplace.de/preview/DT0400.9781473830912_A24079989/preview-9781473830912_A24079989.pdf",
+    "type": "Specialist historical monograph, publisher excerpt",
+    "relevance": "Identifies Fritz Schlieper as commander of the Forty-fifth Infantry Division during the Brest assault.",
+    "supports": [
+      "barbarossa-begins-1941-06-22"
+    ],
+    "notes": "Publisher excerpt PDF p. 18 inspected on 14 October 2026. This narrow use does not imply the complete book was available or audited.",
+    "reuseRights": "Linked and paraphrased; no images reproduced."
   }
 ]

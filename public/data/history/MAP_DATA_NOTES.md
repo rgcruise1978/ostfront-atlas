@@ -2,6 +2,12 @@
 
 Prepared 14 October 2026. Regional reconstructions, not cadastral boundaries.
 
+## Latest local enrichment — all 22 selections
+
+The shared system now includes nine Phase II dated regional situations, 400 dated formation records, 27 operational contact segments and schematic communication corridors. July 10/16/23 printed evening sheets and the U.S. Army Map 8 for July 30 were inspected. Five August German daily sheets were inaccessible; named operations use published Soviet reports and U.S. Army histories, with lower-confidence connecting edges explicitly qualified. These are original geographic interpretations, not georeferenced copies or secure-control claims. Full source locators and unresolved details are in `../../../../../outputs/all-maps-upgrade/RESEARCH_NOTES.txt` and each feature's source/accuracy fields.
+
+`additional-natural-rivers.geojson` contains Mshaga and Sinyukha natural courses adapted from OpenStreetMap ways, with upstream IDs and © OpenStreetMap contributors, ODbL attribution. It remains a separate ODbL physical dataset and is not relicensed as CC BY-SA political geometry. Modern channel geometry does not prove the exact 1941 course or a dated bridge condition. `reference-borders.geojson` preserves 23 August 1939 identities across later occupation. Country and controlling power remain distinct. Full research scans remain outside `public/`.
+
 ## Data and reuse
 
 | Source | Coverage / use | Rights and modifications |

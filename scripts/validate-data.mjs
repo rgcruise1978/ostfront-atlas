@@ -196,22 +196,70 @@ for (const capital of capitals) {
 console.log('Validated eight complete published Barbarossa studies, dated map references and expanded capital records.');
 
 const phaseTwo = read('src/data/barbarossa-phase-ii-timeline.json');
+const phaseThree = read('src/data/barbarossa-phase-iii-timeline.json');
 const phaseTwoDates = ['1941-07-10','1941-07-16','1941-07-23','1941-07-30','1941-08-06','1941-08-12','1941-08-19','1941-08-21','1941-08-25'];
+const phaseThreeDates = ['1941-08-26','1941-08-29','1941-09-03','1941-09-08','1941-09-12','1941-09-16','1941-09-19','1941-09-26','1941-09-29'];
 assert(JSON.stringify(phaseTwo.map(event=>event.date)) === JSON.stringify(phaseTwoDates), 'Phase II dates differ from the fixed brief');
-const wholeCampaign = [...barbarossa, ...phaseTwo];
-assert(new Set(wholeCampaign.map(event=>event.id)).size === 17, 'Barbarossa dates must remain unique');
+assert(JSON.stringify(phaseThree.map(event=>event.date)) === JSON.stringify(phaseThreeDates), 'Phase III dates differ from the fixed brief');
+const wholeCampaign = [...barbarossa, ...phaseTwo, ...phaseThree];
+assert(new Set(wholeCampaign.map(event=>event.id)).size === 26, 'Barbarossa dates must remain unique');
 const phaseOneLast = articles.get(barbarossa.at(-1).articleSlug);
 assert(phaseOneLast.nextArticleSlug === phaseTwo[0].articleSlug, 'Missing July 9 to July 10 study transition');
 const militaryLayers = [read('public/data/history/military-control.geojson'), read('public/data/history/military-operations.geojson')];
 for (const [index,event] of phaseTwo.entries()) {
   const article = articles.get(event.articleSlug);
   assert(article && article.historicalDate === event.date && article.phaseId === '2' && article.campaignId === 'barbarossa-1941', 'Broken Phase II article identity');
-  assert(article.status === 'research-brief' && !article.publicationDate && article.body === '' && article.outlineTopics.length >= 10, 'Phase II outline must remain unpublished');
+  assert(article.status === 'ready-for-review' && !article.publicationDate && article.preparedDate && article.author === 'R.G. Cruise', 'Phase II studies must remain unpublished review drafts');
+  const prose = article.body.replace(/<sup\b[\s\S]*?<\/sup>/g, '').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/<[^>]*>/g, ' ').replace(/&amp;/g, '&');
+  const words = (prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu) || []).length;
+  assert(words >= 3500 && words <= 5000 && words === article.narrativeWordCount, `${article.slug}: substantive prose word count is invalid (${words})`);
+  assert(article.sections.length >= 6 && article.sections.length <= 9, `${article.slug}: expected 6–9 sections`);
+  const asideCount = (article.body.match(/<aside\b/g) || []).length;
+  assert(asideCount >= 2 && asideCount <= 3, `${article.slug}: expected 2–3 historical asides`);
+  for (const section of article.sections) assert(article.body.includes(`id="${section.id}"`), `${article.slug}: missing contents target`);
+  for (const [sourceIndex,id] of article.sourceIds.entries()) {
+    assert(article.body.includes(`id="cite-${id}"`) && article.body.includes(`href="#source-${id}"`), `${article.slug}: broken citation target or return link`);
+    assert(article.sourceLocators[id]?.length > 0, `${article.slug}: missing source locator`);
+    const citations = [...article.body.matchAll(/href="#source-([^"]+)"[^>]*>\[(\d+)\]/g)].filter(match=>match[1]===id);
+    assert(citations.length && citations.every(match=>Number(match[2])===sourceIndex+1), `${article.slug}: incorrect reference number`);
+  }
   assert(article.previousArticleSlug === wholeCampaign[7+index].articleSlug, 'Broken previous-study chronology');
-  assert(article.nextArticleSlug === phaseTwo[index+1]?.articleSlug, 'Broken next-study chronology');
-  assert(event.snapshotStatus === 'military-research-pending' && event.geographicFeatureIds.length === 0, 'Unresearched military snapshot presented as completed');
+  assert(article.nextArticleSlug === (phaseTwo[index+1] || phaseThree[0]).articleSlug, 'Broken next-study chronology');
+  assert(event.snapshotStatus === 'documented-regional-synthesis' && event.geographicFeatureIds.includes(`reach-${event.date}`), 'Phase II needs a dated, qualified regional reconstruction');
   for (const id of event.sourceIds) assert(sourceIds.has(id), 'Unknown Phase II reference');
-  for (const layer of militaryLayers) assert(!layer.features.some(({properties:p}) => p.snapshots ? p.snapshots.includes(event.date) : (!p.startDate || p.startDate <= event.date) && (!p.endDate || p.endDate >= event.date)), 'Phase I military features leak into an unresearched Phase II date');
+  const datedOperations=militaryLayers[1].features.filter(f=>f.properties.snapshots?.includes(event.date));
+  assert(datedOperations.length>0 && militaryLayers[0].features.some(f=>f.properties.id===`reach-${event.date}` && f.properties.snapshots.includes(event.date)), 'Phase II dated operational records are missing');
+  assert(datedOperations.every(f=>f.properties.snapshots.every(date=>date===event.date || !phaseTwoDates.includes(date))), 'An unchanged operational feature leaks across Phase II dates');
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id && c.endDate >= '1941-08-25')), 'Primary capital markers expire before the end of Phase II');
-console.log('Validated nine unpublished Phase II briefs, continuous study links, extended capitals and no inherited military positions.');
+console.log('Validated nine full unpublished Phase II studies, prose counts, citations, continuity and dated regional map records.');
+
+const snapshotIndex=read('src/data/map-snapshot-index.json');
+const datedLayers=[...militaryLayers,read('public/data/history/formation-positions.geojson'),read('public/data/history/dated-fronts.geojson'),read('public/data/history/historical-logistics.geojson')];
+const referenceBorders=read('public/data/history/reference-borders.geojson');
+const expandedPlaces=read('public/data/geography/europe-places.geojson');
+const phaseThreePlaces=['Yelnya','Shlisselburg','Novgorod-Seversk','Lokhvytsia'];
+for (const name of phaseThreePlaces) {
+  const feature=expandedPlaces.features.find(f=>f.properties.name===name);
+  assert(feature?.geometry.type==='Point' && feature.properties.priority===2 && sourceIds.has(feature.properties.sourceId), `Phase III reference place missing or unsourced: ${name}`);
+}
+const easternReferenceStates=read('src/data/territorial-states.json');
+for (const id of ['soviet-union','soviet-poland-1941','soviet-estonia','finnish-cessions']) {
+  const state=easternReferenceStates.find(record=>record.id===id);
+  assert(state && state.endDate==='1941-08-25' && state.sourceIds.every(sourceId=>sourceIds.has(sourceId)), `Unverified eastern political reference: ${id}`);
+}
+assert(phaseThree.find(event=>event.date==='1941-08-29').defaultView==='tallinn' && phaseThree.find(event=>event.date==='1941-09-03').defaultView==='yelnya' && phaseThree.find(event=>event.date==='1941-09-08').defaultView==='leningrad', 'Phase III regional defaults are missing');
+for (const [index,event] of phaseThree.entries()) {
+  const article=articles.get(event.articleSlug);
+  assert(article && article.historicalDate===event.date && article.campaignId==='barbarossa-1941' && article.phaseId==='3', `Broken Phase III article identity: ${event.date}`);
+  assert(article.status==='research-brief' && article.author==='R.G. Cruise' && article.body==='' && !article.publicationDate, `Phase III must remain a clearly labeled research brief: ${event.date}`);
+  assert(article.outlineTopics?.length>=10 && article.chronologyNotes?.length>0, `Phase III outline is incomplete: ${event.date}`);
+  assert(article.previousArticleSlug===wholeCampaign[16+index].articleSlug && article.nextArticleSlug===phaseThree[index+1]?.articleSlug, `Broken Phase III reading sequence: ${event.date}`);
+  assert(event.snapshotStatus==='geographic-reference-only' && event.geographicFeatureIds.length===0 && event.mapAccuracy, `Phase III map status is inaccurate: ${event.date}`);
+  assert(event.defaultView && event.sourceIds.length>0 && event.sourceIds.every(id=>sourceIds.has(id)), `Phase III source or view missing: ${event.date}`);
+  assert(snapshotIndex[event.date]?.areas===0 && snapshotIndex[event.date]?.formations===0 && snapshotIndex[event.date]?.operations===0, `Phase III snapshot claims unbuilt military data: ${event.date}`);
+  for (const layer of datedLayers) assert(!layer.features.some(feature=>feature.properties.snapshots?.includes(event.date)), `Older military data leaks into Phase III: ${event.date}`);
+  assert(referenceBorders.features.every(feature=>feature.properties.snapshots.includes(event.date)), `Historical border reference missing for ${event.date}`);
+}
+assert(['berlin','moscow','warsaw','bucharest','helsinki','kiev'].every(id=>capitals.some(c=>c.id===id && c.endDate>='1941-09-29')), 'Phase III capital markers are missing');
+console.log('Validated nine Phase III research briefs, 26-date sequence, reference borders and absence of inherited military positions.');

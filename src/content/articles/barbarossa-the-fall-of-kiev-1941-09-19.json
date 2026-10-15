@@ -1,0 +1,48 @@
+{
+  "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+  "title": "The Fall of Kiev",
+  "subtitle": "German entry into Kiev and the unfinished pocket battle",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-19",
+  "historicalPeriod": "19 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "phase3-ushmm-kiev-occupation",
+    "phase3-ushmm-babyn-yar",
+    "cmh-blitz"
+  ],
+  "summary": "German forces entered Kiev; the occupation began while the wider battle against encircled Soviet armies continued.",
+  "body": "",
+  "location": "Kiev and the Dnieper region",
+  "outlineTopics": [
+    "German operations leading to the capture of Kiev.",
+    "German entry into the city on September 19.",
+    "The military importance of Kiev.",
+    "Soviet withdrawal and defensive actions.",
+    "The fate of Soviet formations still trapped east of the city.",
+    "The position of the Southwestern Front command.",
+    "German attempts to reduce the encircled Soviet armies.",
+    "Soviet breakout efforts and their difficulties.",
+    "The role of German artillery, infantry, and armored formations.",
+    "Soviet demolition of infrastructure during withdrawal.",
+    "The immediate establishment of German military control in the city.",
+    "The experiences of Kiev's civilian population.",
+    "Jewish civilians remaining in the city.",
+    "The beginning of German occupation policies and security operations.",
+    "The difference between capturing the city and completing the wider encirclement battle."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=94",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-encirclement-closes-1941-09-16",
+  "chronologyNotes": [
+    "The city was entered on 19 September. Babyn Yar began on 29 September; the wider pocket remained active after Kiev fell."
+  ],
+  "nextArticleSlug": "barbarossa-the-destruction-of-the-pocket-1941-09-26"
+}

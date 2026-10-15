@@ -1,27 +1,27 @@
 # Ostfront Atlas
 
-A developing public historical atlas of the Eastern Front, 1939–1945. The Poland collection covers the partition of Poland in 1939 with fixed Poland and surrounding-area references, 210 city points, 46 named rivers, an approximate date-filtered partition line, a five-date sourced timeline, published 23 August, 1 September, 17 September and 28 September chapters, one article placeholder, and a source register. Smaller surrounding places and tributaries appear at closer zoom. It also shows schematic German and Soviet invasion directions and broad 26 October occupation sectors. Exact day-by-day control limits and unit positions are not mapped.
+A React/Vite historical atlas covering the Partition of Poland (five dated maps) and Operation Barbarossa Phases I and II (seventeen dated maps). It uses one MapLibre engine, one country/control palette and dated source records. All 22 map selections are implemented locally as qualified regional interpretations.
 
-## Run locally
+## Run and verify
 
-Use Node.js 22 or later. Install dependencies with `npm install`, start with `npm run dev`, validate records with `npm run validate`, and build with `npm run build`. Open the local address printed by Vite.
+Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The current local review runs at http://127.0.0.1:5191/atlases/barbarossa-1941?date=1941-08-25&phase=2.
 
-## Content and geography
+Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. In this workspace use `../../work/map-venv/bin/python`. This entry point retains the earlier geography/chronology gates and checks all 22 dates and all 23 protected article hashes. `git diff --check` checks whitespace.
 
-- Add articles as JSON files in `src/content/articles/`; the filename and `slug` must match. The `body` field accepts Markdown and trusted local HTML. Optional `sections` (id/label pairs matching body headings), `dossierNumber`, `location`, `summary`, `previousArticleSlug`, `sourceMethod`, and `nextArticleSlug` fields enable the long-form dossier layout. Numbered citations link to source IDs; use matching first-use `cite-<sourceId>` anchors for return links. New files appear automatically in the index and at `/articles/<slug>`. The remaining 26 October date page is marked `"status": "placeholder"`; when an article is ready, replace its empty `body` with Markdown, add `author` and `publicationDate`, and remove `status`. The atlas links already point to these pages.
-- Add cited records to `src/data/sources.json` and use their stable IDs in timeline or article files.
-- The five timeline records live in `src/data/timeline.json`.
-- Local Natural Earth land, cities, and rivers are in `public/data/geography/`. Fixed 1939 Poland and surrounding outlines and area labels are in `public/data/history/` and stay visible across all dates.
-- Date-filtered historical geometry is separated into `public/data/history/poland-1939.geojson` (partition trace), `control-areas.geojson` (26 October occupation sectors), and `advance-axes.geojson` (schematic operational directions). Rebuild the control sectors with `scripts/build-control-areas.mjs` after changing the Poland outline or treaty trace. Every new feature needs stable IDs, dates, source IDs, accuracy and uncertainty notes. Coordinates use longitude, latitude order. Add only source-supported, clearly qualified features.
+## Shared cartography
 
-## Deployment
+`src/map/cartography.js` owns country, authority, coalition and actor colours and movement semantics. `mapStyle.js` draws the shared layers; `temporalGeography.js` resolves dated territorial records; `AtlasMap.jsx` handles the engine, label anchors and export; `pages/Atlas.jsx` handles date/region controls, search, feature sources and presentation. `src/map-workstation.css` owns the atlas layout.
 
-Connect a Netlify development project to this repository's `main` branch. `netlify.toml` sets `npm run build`, publishes `dist`, supplies client-side route fallback, and sends a `noindex` header. The custom domain is intentionally not connected.
+Dated political records are in `src/data/territorial-states.json`; fixed geographic masks are in `public/data/history/europe-geometries.geojson`. The military-control, military-operations, formation-positions, dated-fronts, historical-logistics and reference-borders GeoJSONs carry source IDs, dates and precision notes. No modern political outline is silently substituted. Formation points mean representative sectors, not verified headquarters. Operational reach does not mean secure control. Fine local boundaries and several August connecting fronts remain qualified; consult the feature notes.
 
-See [SOURCES.md](SOURCES.md) for data provenance and rights, and [CURRENT_STATE.md](CURRENT_STATE.md) for verified status and the next objective.
+Physical geography includes 993 settlement records, 787 river features and 216 lakes. The separately licensed Mshaga/Sinyukha file adds 11 natural waterway features. Capitals and administrative seats have independent date-dependent records. Country names remain enabled by default and independent of shading/border toggles. Presets, commander search, source panels, presentation and 2560 × 1440 PNG export are available.
 
-## Campaigns and authorship
+## Research and recovery
 
-`src/data/campaigns.js` registers the two collections, date records, map data and camera presets. Both routes use `Atlas.jsx`, `AtlasMap.jsx` and `makeMapStyle()`. Barbarossa Phase I uses `barbarossa-timeline.json` and a fixed 21 June 1941 territorial reference generated by `scripts/build-barbarossa-reference.py` (Shapely 2.x; see `scripts/map-requirements.txt`). Its eight dated frontlines remain under research. Each entry declares `snapshotStatus: research-pending` so the interface cannot imply a completed military situation.
+The current map review package is `../../outputs/all-maps-upgrade/`: coverage matrix, style guide, research/precision notes, visual evidence, exports, validation and recovery archive. `scripts/upgrade-map-system.py` and `map-research-records.py` reproduce this enrichment from its preserved before-state ZIP; keep that ZIP at the documented relative path. Read `public/data/history/MAP_DATA_NOTES.md` for geometry provenance and reuse rights. Source artwork stays outside the public site.
 
-All original article JSON must credit `R.G. Cruise`. Eight Barbarossa files use `status: research-brief`, an empty narrative body, `outlineTopics`, campaign/phase metadata and dated map links. Add verified long-form content and a publication date before changing a brief to published. The shared capital registry uses licensed Natural Earth city coordinates; capital designation and military control are distinct.
+## Articles and release status
+
+Article JSON files in `src/content/articles/` credit R.G. Cruise. Fourteen published studies and nine full unpublished Phase II review chapters are retained. This map assignment changed no article bytes or publication status. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
+
+This assignment is local review only. `netlify.toml` retains the existing Vite build, `dist` publish directory and client-route fallback. Production deployment and publication are separate actions. See `CURRENT_STATE.md` for the newest checkpoint and older verified live releases.

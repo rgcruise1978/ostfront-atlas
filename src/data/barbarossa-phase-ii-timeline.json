@@ -5,17 +5,22 @@
     "label": "10 July 1941",
     "kind": "Research snapshot",
     "title": "Beyond the Dnieper",
-    "summary": "Research focus: German river crossings, the two panzer groups and the Soviet Western Front’s developing defence.",
+    "summary": "German river crossings, the two panzer groups and the Soviet Western Front’s developing defence.",
     "articleSlug": "barbarossa-beyond-the-dnieper-1941-07-10",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "loc-lage-1941-07-10",
+      "p2-sbd37-054"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-07-10"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "smolensk",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-07-16",
@@ -23,17 +28,23 @@
     "label": "16 July 1941",
     "kind": "Research snapshot",
     "title": "Smolensk Under Assault",
-    "summary": "Research focus: The German entry into Smolensk, continuing Soviet positions and the northern counterstroke at Soltsy.",
+    "summary": "The German entry into Smolensk, continuing Soviet positions and the northern counterstroke at Soltsy.",
     "articleSlug": "barbarossa-smolensk-under-assault-1941-07-16",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "loc-lage-1941-07-16",
+      "p2-sbd37-060",
+      "p2-sbd37-140"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-07-16"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "smolensk",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-07-23",
@@ -41,17 +52,23 @@
     "label": "23 July 1941",
     "kind": "Research snapshot",
     "title": "The Red Army Strikes Back",
-    "summary": "Research focus: Soviet counteroffensives, relief attempts, Mogilev’s resistance and the developing Yelnya salient.",
+    "summary": "Soviet counteroffensives, relief attempts, Mogilev’s resistance and the developing Yelnya salient.",
     "articleSlug": "barbarossa-the-red-army-strikes-back-1941-07-23",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "loc-lage-1941-07-23",
+      "p2-sbd37-064",
+      "p2-sbd37-025"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-07-23"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "smolensk",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-07-30",
@@ -59,17 +76,22 @@
     "label": "30 July 1941",
     "kind": "Research snapshot",
     "title": "A Strategy Under Strain",
-    "summary": "Research focus: Directive No. 34, German supply and repair problems, Soviet reserves and continuing fighting across all three sectors.",
+    "summary": "Directive No. 34, German supply and repair problems, Soviet reserves and continuing fighting across all three sectors.",
     "articleSlug": "barbarossa-a-strategy-under-strain-1941-07-30",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "atlas-july30-map",
+      "blau-planning"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-07-30"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "theatre",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-08-06",
@@ -77,18 +99,26 @@
     "label": "6 August 1941",
     "kind": "Research snapshot",
     "title": "The Uman Encirclement",
-    "summary": "Research focus: The Uman pocket, Soviet breakout attempts, participating German and Soviet formations and prisoners of war.",
+    "summary": "The Uman pocket, Soviet breakout attempts, participating German and Soviet formations and prisoners of war.",
     "articleSlug": "barbarossa-the-uman-encirclement-1941-08-06",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
       "glantz-barbarossa-derailed-v1",
-      "dhm-uman-1941"
+      "dhm-uman-1941",
+      "p2-sbd39-195",
+      "p2-sbd39-197",
+      "p2-sbd39-200",
+      "blau-planning",
+      "cmh-blitz"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-08-06"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "uman",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-08-12",
@@ -96,17 +126,24 @@
     "label": "12 August 1941",
     "kind": "Research snapshot",
     "title": "The War Widens",
-    "summary": "Research focus: The Luga fighting, Soviet operations near Staraya Russa, Romanian operations around Odessa and competing German priorities.",
+    "summary": "The Luga fighting, Soviet operations near Staraya Russa, Romanian operations around Odessa and competing German priorities.",
     "articleSlug": "barbarossa-the-war-widens-1941-08-12",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "p2-11army-diary",
+      "p2-sbd40-001",
+      "p2-sbd40-182",
+      "blau-planning"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-08-12"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "luga",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-08-19",
@@ -114,17 +151,25 @@
     "label": "19 August 1941",
     "kind": "Research snapshot",
     "title": "The Fight for Gomel",
-    "summary": "Research focus: German and Soviet operations around Gomel, Sozh crossings and simultaneous fighting near Novgorod.",
+    "summary": "German and Soviet operations around Gomel, Sozh crossings and simultaneous fighting near Novgorod.",
     "articleSlug": "barbarossa-the-fight-for-gomel-1941-08-19",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "p2-gomel-19",
+      "p2-gomel-20",
+      "p2-sbd40-047",
+      "p2-11army-diary",
+      "blau-planning"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-08-19"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "gomel",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-08-21",
@@ -132,17 +177,25 @@
     "label": "21 August 1941",
     "kind": "Research snapshot",
     "title": "The Decision to Turn South",
-    "summary": "Research focus: The German decision to redirect effort toward Ukraine, Guderian’s forces and the continuing Soviet defence of Kiev.",
+    "summary": "The German decision to redirect effort toward Ukraine, Guderian’s forces and the continuing Soviet defence of Kiev.",
     "articleSlug": "barbarossa-the-decision-to-turn-south-1941-08-21",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "p2-gomel-21",
+      "p2-sbd40-047",
+      "p2-11army-diary",
+      "blau-planning",
+      "cmh-blitz"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-08-21"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "theatre",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   },
   {
     "id": "1941-08-25",
@@ -150,16 +203,24 @@
     "label": "25 August 1941",
     "kind": "Research snapshot",
     "title": "A Front Divided",
-    "summary": "Research focus: The three sectors, Soviet resistance, supply and replacement problems, occupation violence and the developing southward operations.",
+    "summary": "The three sectors, Soviet resistance, supply and replacement problems, occupation violence and the developing southward operations.",
     "articleSlug": "barbarossa-a-front-divided-1941-08-25",
     "phaseId": "2",
     "sourceIds": [
       "loc-barbarossa-atlas",
-      "glantz-barbarossa-derailed-v1"
+      "glantz-barbarossa-derailed-v1",
+      "p2-sbd41-001",
+      "p2-11army-diary",
+      "cmh-blitz",
+      "p2-hiio-kiviloo",
+      "p2-tallinn-mobilisation"
     ],
-    "geographicFeatureIds": [],
-    "snapshotStatus": "military-research-pending",
+    "geographicFeatureIds": [
+      "reach-1941-08-25"
+    ],
+    "snapshotStatus": "documented-regional-synthesis",
     "defaultView": "theatre",
-    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed."
+    "dateRationale": "An editorial snapshot; this date does not establish the beginning or completion of every battle discussed.",
+    "mapAccuracy": "Regional documentary synthesis. Named positions are supported; connecting operational edges are approximate and do not establish secure occupation."
   }
 ]

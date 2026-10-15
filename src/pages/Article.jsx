@@ -29,7 +29,7 @@ export default function Article() {
   const dossier = Boolean(article.sections?.length);
   const previous = article.previousArticleSlug && articleBySlug(article.previousArticleSlug);
   const next = article.nextArticleSlug && articleBySlug(article.nextArticleSlug);
-  const minutes = Math.ceil(article.body.replace(/<[^>]*>/g, ' ').split(/\s+/).length / 220);
+  const minutes = article.readingMinutes || Math.ceil(article.body.replace(/<[^>]*>/g, ' ').split(/\s+/).length / 220);
   const atlasLink = articleMapLink(article, searchParams.get('mapRegion'), searchParams.get('mapView'));
   return <article className={`page reading-page${dossier ? ' dossier-page' : ''}`} id="article-top">
     <Breadcrumbs items={[{label:"Collections",href:"/collections"},{label:collection.phase?`${collection.title} · Phase ${collection.phase.id}`:collection.title,href:collection.introPath},{label:article.historicalPeriod}]}/><Link className="back-link" to={backLink}>← All Historical Studies</Link>

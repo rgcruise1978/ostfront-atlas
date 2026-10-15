@@ -1,79 +1,153 @@
-import React,{useEffect,useRef,useState} from 'react';
+import React,{useEffect,useRef,useState,useImperativeHandle,forwardRef} from 'react';
 import * as maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url';
 import capitals from '../data/capitals.json';
 import {capitalStatus} from '../data/capitalStatus.js';
 import {makeMapStyle} from './mapStyle.js';
-import {historicalLayerGroups} from './cartography.js';
-import {emptyCollection,territorialState,datedFeatures} from './temporalGeography.js';
+import {historicalLayerGroups,movementKinds,controlColors,territorialCategories} from './cartography.js';
+import {emptyCollection,territorialState,easternPoliticalReference,datedFeatures} from './temporalGeography.js';
+import snapshots from '../data/map-snapshot-index.json';
 maplibregl.setWorkerUrl(workerUrl);
 const ids=v=>Array.isArray(v)?v:typeof v==='string'?JSON.parse(v):[];
-function addPatterns(map) {
- for(const name of ['occupation-hatch','claim-hatch','soviet-hatch','civil-dots','contested-cross']) {
+function addPatterns(map){
+ for(const name of ['occupation-hatch','claim-hatch','soviet-hatch','civil-dots','contested-cross','reference-hatch']){
   if(map.hasImage(name))continue;
-  const pixels=new Uint8Array(12*12*4);
-  for(let y=0;y<12;y++)for(let x=0;x<12;x++) {
-   const mark=name==='civil-dots'?(x===3&&y===3):name==='contested-cross'?((x+y)%12===0||(x-y+12)%12===0):(x+y)%12<2;
-   if(mark){const i=(y*12+x)*4; pixels[i]=name==='soviet-hatch'?105:45;pixels[i+1]=name==='soviet-hatch'?30:48;pixels[i+2]=name==='soviet-hatch'?35:52;pixels[i+3]=130;}
+  const pixels=new Uint8Array(16*16*4);
+  for(let y=0;y<16;y++)for(let x=0;x<16;x++){
+   const mark=name==='civil-dots'?(x===4&&y===4):name==='contested-cross'?((x+y)%16===0||(x-y+16)%16===0):(x+y)%16===0;
+   if(mark){const i=(y*16+x)*4;pixels[i]=name==='reference-hatch'?129:name==='soviet-hatch'?105:45;pixels[i+1]=name==='reference-hatch'?72:name==='soviet-hatch'?30:48;pixels[i+2]=name==='reference-hatch'?77:name==='soviet-hatch'?35:52;pixels[i+3]=110;}
   }
-  map.addImage(name,{width:12,height:12,data:pixels});
+  map.addImage(name,{width:16,height:16,data:pixels});
  }
 }
-const anchors={'German Reich':[9,51.2],'Soviet Union':[36,53.4],'Poland':[22,52.7],'Slovak Republic':[19.2,48.75],'Protectorate of Bohemia and Moravia':[15.0,49.5],'France':[2.1,46.5],'United Kingdom':[-3,55.4],'Norway':[9,62.3],'Sweden':[15.8,62.7],'Finland':[25.5,64],'Italy':[12.8,42.8],'Romania':[25.2,45.5],'Hungary':[19.7,47.1]};
-export default function AtlasMap({campaign,viewRequest,date,operationRegion='theatre',showCapitals,showPlaces,showRivers,showBoundary,showNeighbors,showControl,showMovements,showChanges,showRelief,onFeatureSelect,onViewChange}) {
- const node=useRef(null),mapRef=useRef(null),current=useRef({date,onFeatureSelect,onViewChange,viewRequest});current.current={date,onFeatureSelect,onViewChange,viewRequest};
- const [data,setData]=useState(null),[error,setError]=useState('');
- useEffect(()=>{
-  const abort=new AbortController();setData(null);
-  const load=url=>fetch(url,{signal:abort.signal}).then(r=>{if(!r.ok)throw new Error(url);return r.json();});
-  Promise.all(['/data/history/europe-geometries.geojson','/data/history/military-control.geojson','/data/history/military-operations.geojson','/data/history/territorial-changes.geojson',campaign.map.historicalUrl].map(load))
-   .then(([geometries,control,operations,changes,history])=>setData({geometries,control,operations,changes,history})).catch(e=>{if(e.name!=='AbortError')setError('The dated geographic data could not be loaded.');});
-  return()=>abort.abort();
- },[campaign]);
- useEffect(()=>{
-  if(!node.current)return;
-  const map=new maplibregl.Map({container:node.current,style:makeMapStyle(),center:campaign.map.center,zoom:4.7,minZoom:2.4,maxZoom:10,maxBounds:[[-25,33],[55,72]],attributionControl:false});mapRef.current=map;
-  map.on('styleimagemissing',()=>addPatterns(map));
-  map.addControl(new maplibregl.NavigationControl(),'top-right');map.addControl(new maplibregl.ScaleControl({maxWidth:120,unit:'metric'}),'bottom-left');map.addControl(new maplibregl.AttributionControl({compact:true}),'bottom-right');
-  const observer=new ResizeObserver(()=>map.resize());observer.observe(node.current);
-  map.on('load',()=>{addPatterns(map);const view=current.current.viewRequest;view?.coordinates?map.jumpTo({center:view.coordinates,zoom:view.zoom || 6.4}):map.fitBounds(view?.bounds || campaign.map.bounds,{padding:28,duration:0});});
-  map.on('moveend',()=>{const center=map.getCenter();current.current.onViewChange?.({coordinates:[Number(center.lng.toFixed(5)),Number(center.lat.toFixed(5))],zoom:Number(map.getZoom().toFixed(3))});});
-  const clickLayers=['capital-stars','capital-labels','engagement-dot','engagement-label','army-group-label','army-axis-label','advance-axis-line','advance-axis-head','places-dot','places-local-dot','history-point','history-line','boundary-line','control-fill','neighbors-fill'];
-  map.on('click',event=>{
-   const features=map.queryRenderedFeatures(event.point,{layers:clickLayers.filter(id=>map.getLayer(id))});
-   const chosen=clickLayers.map(id=>features.find(f=>f.layer.id===id)).find(Boolean);if(!chosen)return;
-   const p=chosen.properties,d=current.current.date;
-   if(chosen.layer.source==='capitals') {const c=capitals.find(c=>c.id===p.id);if(c)current.current.onFeatureSelect({kind:'capital',title:`${c.name} · ${c.capitalOf}`,note:capitalStatus(c,d),sourceIds:c.sourceIds,coordinates:c.coordinates,accuracy:c.accuracy});return;}
-   current.current.onFeatureSelect({...p,kind:p.category||'territory',title:p.title||p.displayName||p.name,note:p.note,selectedDate:d,referenceDate:p.selectedDate && p.selectedDate!==d ? p.selectedDate : undefined,sourceIds:ids(p.sourceIds||(p.sourceId?[p.sourceId]:[])),coordinates:chosen.geometry.type==='Point'?chosen.geometry.coordinates:null});
-  });
-  map.on('mousemove',event=>{map.getCanvas().style.cursor=map.queryRenderedFeatures(event.point,{layers:clickLayers.filter(id=>map.getLayer(id))}).length?'pointer':'';});
-
-  map.on('error',event=>{if(event.error)setError('A map layer could not be loaded. Please reload the page.');});
-  return()=>{observer.disconnect();map.remove();mapRef.current=null;};
- },[campaign]);
- useEffect(()=>{
-  const map=mapRef.current;if(!map)return;
-  const update=()=>{
-   if(data){
-    const referenceDate=campaign.map.territorialReferenceDate || date;
-    const states=territorialState(referenceDate,data.geometries);map.getSource('neighbors').setData(states);
-    map.getSource('areaLabels').setData({...emptyCollection,features:states.features.filter(f=>!['Algeria','Morocco','Tunisia','Gibraltar','Guernsey','Jersey','Isle of Man','Faroe Islands','Peripheral geography · status outside verified coverage'].includes(f.properties.name)).map(f=>({type:'Feature',properties:{...f.properties,label:({'Polish areas claimed for German incorporation':'German incorporation claims','Polish areas under German incorporation claim':'German incorporation claims','Former eastern Poland under Soviet incorporation claim':'Soviet incorporation claim','Eastern Poland under Soviet occupation':'Eastern Poland\nSoviet occupation','Soviet Union · occupied Polish treaty sector':'Soviet occupation\nTreaty sector','Germany · occupied Polish treaty sector':'German occupation\nTreaty sector'}[f.properties.name] || f.properties.name).replace(': German incorporation claim','').replace(' under German occupation','\nGerman occupation').replace(' under Soviet occupation','\nSoviet occupation'),primary:['German Reich','Soviet Union','Slovak Republic','Poland'].includes(f.properties.name),minor:f.properties.visualCategory==='unresolved'||['Andorra','Monaco','San Marino','Vatican City','Liechtenstein','Malta','Cyprus','Luxembourg','Free City of Danzig','Danzig: German incorporation claim'].includes(f.properties.name)},geometry:{type:'Point',coordinates:anchors[f.properties.name] || f.properties.labelCoordinates || [0,0]}})).filter(f=>f.geometry.coordinates[0]!==0)});
-    map.getSource('control').setData(datedFeatures(data.control,date));
-    map.getSource('operations').setData(datedFeatures(data.operations,date,operationRegion));
-    map.getSource('history').setData(datedFeatures(data.history,referenceDate));
-    map.getSource('changes').setData({...emptyCollection,features:data.changes.features.filter(f=>f.properties.snapshotDate===date)});
-   }
-   map.setFilter('capital-stars',['all',['<=',['get','startDate'],date],['>=',['get','endDate'],date]]);map.setFilter('capital-labels',['all',['<=',['get','startDate'],date],['>=',['get','endDate'],date]]);
-   for(const [group,visible] of [['capitals',showCapitals],['places',showPlaces],['rivers',showRivers],['boundary',showBoundary],['neighbors',showNeighbors],['control',showControl],['movements',showMovements],['changes',showChanges],['relief',showRelief]])for(const id of historicalLayerGroups[group])if(map.getLayer(id))map.setLayoutProperty(id,'visibility',visible?'visible':'none');
-  };
-  if(map.getSource('neighbors'))update();else map.once('load',update);
-  return()=>map.off('load',update);
- },[data,date,campaign,operationRegion,showCapitals,showPlaces,showRivers,showBoundary,showNeighbors,showControl,showMovements,showChanges,showRelief]);
- useEffect(()=>{
-  const map=mapRef.current;if(!map||!viewRequest)return;
-  const move=()=>viewRequest.coordinates?map.flyTo({center:viewRequest.coordinates,zoom:viewRequest.zoom || 6.4,duration:0}):map.fitBounds(viewRequest.bounds||campaign.map.bounds,{padding:28,duration:0});
-  if(map.getLayer('water'))move();else map.once('load',move);return()=>map.off('load',move);
- },[viewRequest,campaign]);
- return <div className="map-frame"><div ref={node} className="atlas-map" role="application" aria-label={`Interactive ${campaign.title} map; use region controls or zoom and pan`} />{error&&<p className="map-error" role="alert">{error}</p>}</div>;
+const majorNames=new Set(['GERMAN REICH','SOVIET UNION','POLAND','FRANCE','UNITED KINGDOM','ITALY','SPAIN','PORTUGAL','NORWAY','SWEDEN','FINLAND','ROMANIA','HUNGARY','BULGARIA','GREECE','YUGOSLAVIA','TURKEY','LITHUANIA','LATVIA','ESTONIA','BELGIUM','NETHERLANDS','DENMARK','SWITZERLAND','SLOVAKIA','IRELAND','CROATIA','BOHEMIA & MORAVIA','ALBANIA','ICELAND','ALGERIA','MOROCCO','TUNISIA']);
+const aliases={Minsk:'Minsk',Kyiv:'Kiev',Dnipro:'Dnepropetrovsk',Dnipropetrovsk:'Dnepropetrovsk',Khmelnytskyy:'Proskurov',Khmelnytskyi:'Proskurov',Ternopil:'Tarnopol',Lviv:'Lwów',Gdansk:'Danzig','Gdańsk':'Danzig',Kaliningrad:'Königsberg','Saint Petersburg':'Leningrad','St. Petersburg':'Leningrad',Gomel:'Gomel',Homyel:'Gomel',Brest:'Brest-Litovsk',Volgograd:'Stalingrad','Nizhny Novgorod':'Gorky',Samara:'Kuibyshev','Cluj-Napoca':'Cluj'};
+const degrees=r=>r*180/Math.PI;
+function withArrowheads(collection){
+ const heads=[];
+ for(const f of collection.features){
+  if(f.geometry.type!=='LineString')continue;const coords=f.geometry.coordinates;if(coords.length<2)continue;
+  const b=coords.at(-1);let a=coords.at(-2);if(Math.hypot(b[0]-a[0],b[1]-a[1])<.001)continue;
+  const dx=(b[0]-a[0])*Math.cos(b[1]*Math.PI/180),dy=b[1]-a[1];
+  // The triangle points east at zero degrees; MapLibre rotates clockwise.
+  heads.push({...f,geometry:{type:'Point',coordinates:b},properties:{...f.properties,id:f.properties.id+'-head',category:'arrowhead',bearing:degrees(Math.atan2(-dy,dx))}});
+ }
+ return {type:'FeatureCollection',features:[...collection.features,...heads]};
 }
+function labelsFor(states,map,formations=[]){
+ const b=map.getBounds(),c=map.getCenter(),w=b.getWest(),e=b.getEast(),s=b.getSouth(),n=b.getNorth();
+ const groups=new Map();
+ for(const f of states.features){
+  const p=f.properties;if(p.visualCategory==='unresolved')continue;
+  const name=p.countryName||p.name;const candidates=(p.labelAnchors||[p.labelCoordinates]).filter(x=>x&&x[0]>w&&x[0]<e&&x[1]>s&&x[1]<n);
+  if(!candidates.length)continue;
+  const preferred=p.labelCoordinates;
+  const datedCapitals=capitals.filter(x=>x.startDate<=f.properties.selectedDate&&f.properties.selectedDate<=x.endDate);
+  const spaced=candidates.filter(x=>{const q=map.project(x);return datedCapitals.every(k=>{const a=map.project(k.coordinates);return Math.hypot(q.x-a.x,q.y-a.y)>48;})&&formations.filter(k=>['army-group','front'].includes(k.properties.echelon)).every(k=>{const a=map.project(k.geometry.coordinates);return Math.abs(q.x-a.x)>95||Math.abs(q.y-a.y)>42;});});
+  const choices=spaced.length?spaced:candidates;
+  const coordinate=choices.find(x=>preferred&&x[0]===preferred[0]&&x[1]===preferred[1])||choices.reduce((a,x)=>Math.abs(x[0]-c.lng)+Math.abs(x[1]-c.lat)*1.4<Math.abs(a[0]-c.lng)+Math.abs(a[1]-c.lat)*1.4?x:a);
+  const group=groups.get(name);if(group)group.candidates.push({p,coordinate});else groups.set(name,{candidates:[{p,coordinate}]});
+ }
+ return {type:'FeatureCollection',features:[...groups].map(([name,value])=>{
+  const target=({'POLAND':[20,52],'FRANCE':[2,47]})[name]||[c.lng,c.lat];
+  const item=value.candidates.reduce((a,x)=>Math.abs(x.coordinate[0]-target[0])+Math.abs(x.coordinate[1]-target[1])<Math.abs(a.coordinate[0]-target[0])+Math.abs(a.coordinate[1]-target[1])?x:a);
+  return {type:'Feature',geometry:{type:'Point',coordinates:item.coordinate},properties:{...item.p,label:name,minor:!majorNames.has(name),subtitle:item.p.subtitle||''}};
+ })};
+}
+function countryCallouts(states){
+ const targets={'LUXEMBOURG':[3.3,49.25],'LIECHTENSTEIN':[11.9,47.6],'MONACO':[5.1,42.7],'SAN MARINO':[15.7,43.2],'VATICAN CITY':[10.5,40.7],'ANDORRA':[-.2,42.0],'DANZIG':[16.4,55.2]};
+ return {type:'FeatureCollection',features:states.features.filter(f=>targets[f.properties.countryName]).flatMap(f=>{
+  const p=f.properties,xy=p.labelCoordinates,to=targets[p.countryName];return [{type:'Feature',geometry:{type:'LineString',coordinates:[xy,to]},properties:{...p,label:p.countryName}},{type:'Feature',geometry:{type:'Point',coordinates:to},properties:{...p,label:p.countryName}}];
+ })};
+}
+function wrap(ctx,text,x,y,width,lineHeight,maxLines=3){
+ let line='',count=0;for(const word of text.split(/\s+/)){
+  const next=line?line+' '+word:word;if(ctx.measureText(next).width>width&&line){ctx.fillText(line,x,y);y+=lineHeight;count++;line=word;if(count>=maxLines-1)break;}else line=next;
+ }if(line)ctx.fillText(line,x,y);return y+lineHeight;
+}
+const AtlasMap=forwardRef(function AtlasMap({campaign,viewRequest,date,operationRegion='theatre',layers,onFeatureSelect,onViewChange,onInventory},ref){
+ const node=useRef(null),mapRef=useRef(null),current=useRef({});
+ current.current={date,onFeatureSelect,onViewChange,onInventory,viewRequest,layers};
+ const [data,setData]=useState(null),[error,setError]=useState(''),[loaded,setLoaded]=useState(false);
+ const statesRef=useRef(emptyCollection),formationsRef=useRef([]);
+ useImperativeHandle(ref,()=>({
+  async exportMap({title,label,preset}){
+   const map=mapRef.current;if(!map||!loaded)throw Error('The map is still loading.');
+   const previous={center:map.getCenter(),zoom:map.getZoom(),bearing:map.getBearing(),pitch:map.getPitch()},container=node.current,oldW=container.style.width,oldH=container.style.height;
+   let blob;
+   const textSizes=map.getStyle().layers.filter(l=>l.type==='symbol'&&l.layout?.['text-size']).map(l=>[l.id,l.layout['text-size']]);
+   try{
+   for(const [id,size] of textSizes){let enlarged=size;if(typeof size==='number')enlarged=size*1.65;else if(Array.isArray(size)&&size[0]==='interpolate'){enlarged=[...size];for(let i=4;i<enlarged.length;i+=2)if(typeof enlarged[i]==='number')enlarged[i]*=1.65;}map.setLayoutProperty(id,'text-size',enlarged);}
+   const bounds=map.getBounds();container.style.width='2560px';container.style.height='1110px';map.resize();map.fitBounds(bounds,{padding:45,duration:0});
+   await new Promise(resolve=>map.once('idle',resolve));
+   const canvas=document.createElement('canvas');canvas.width=2560;canvas.height=1440;const ctx=canvas.getContext('2d');
+   ctx.fillStyle='#F3EDDE';ctx.fillRect(0,0,2560,1440);ctx.fillStyle='#263331';ctx.font='bold 44px Georgia';ctx.fillText(title,64,68);ctx.font='25px Arial';ctx.fillText(label+'  ·  '+preset+'  ·  Ostfront Atlas',64,110);
+   const referenceOnly=snapshots[date]?.timeConvention?.startsWith('Geographic reference');
+   ctx.font='17px Arial';ctx.fillText(referenceOnly?'Geographic reference only · dated military reconstruction pending':'Dated regional synthesis · component reporting times and feature precision are recorded in the atlas',64,135);
+   ctx.drawImage(map.getCanvas(),0,140,2560,1110);
+   ctx.fillStyle='#263331';ctx.font='bold 18px Arial';ctx.fillText('N ↑',2490,185);
+   const metresPerPixel=Math.cos(map.getCenter().lat*Math.PI/180)*2*Math.PI*6378137/(512*2**map.getZoom());const km=[10,20,50,100,200,500,1000].find(x=>x*1000/metresPerPixel>=100)||1000;const px=km*1000/metresPerPixel;
+   ctx.fillStyle='#FFF9E9';ctx.fillRect(48,1170,Math.max(px+32,315),62);ctx.strokeStyle='#263331';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(64,1205);ctx.lineTo(64+px,1205);ctx.stroke();ctx.font='18px Arial';ctx.fillStyle='#263331';ctx.fillText(km+' km · scale near map centre',64,1190);
+   const keys=current.current.layers.control?(referenceOnly?[['#E6D1CD','Preinvasion Soviet political reference']]:[[controlColors.Germany,'German authority'],[controlColors['Soviet Union'],'Soviet authority'],[territorialCategories.operational.color,'Hatched: forward reach / occupation'],[territorialCategories.contested.color,'Contested / continued resistance']]):[];
+   keys.forEach(([color,text],i)=>{ctx.fillStyle=color;ctx.fillRect(64+i*610,1280,24,20);ctx.fillStyle='#263331';ctx.font='19px Arial';ctx.fillText(text,100+i*610,1297);});
+   ctx.font='18px Arial';const legend=[];if(!referenceOnly&&current.current.layers.movements)legend.push('Solid arrow: advance; broken: withdrawal; dotted: planned');if(!referenceOnly&&current.current.layers.formations)legend.push('XXXX: group/front; XXX: army; XX: division');if(current.current.layers.capitals)legend.push('★ capital; ◆ administrative seat');if(current.current.layers.alignment)legend.push('Outlines: ochre Axis; blue Allied; green co-belligerent');if(current.current.layers.logistics)legend.push('Purple: rail/road corridor; blue: sea link');wrap(ctx,legend.join('  ·  '),64,1332,2420,24,2);
+   ctx.font='16px Arial';wrap(ctx,(referenceOnly?'Faint eastern hatch shows preinvasion political geography, not control on this date. No dated military positions are asserted. ':'Approximate forward reach is distinct from secure control. Sources and feature limitations: companion atlas / review notes. ')+'Geography: University of Minnesota CC BY 3.0; adapted historical geometry CC BY-SA 4.0; Natural Earth public domain; additional waterways © OpenStreetMap contributors ODbL.',64,1373,2420,22,2);
+   blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));if(!blob)throw Error('The browser returned an empty image.');
+   }finally{
+   for(const [id,size] of textSizes)map.setLayoutProperty(id,'text-size',size);
+   container.style.width=oldW;container.style.height=oldH;map.resize();map.jumpTo(previous);
+   }
+   const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`ostfront-${date}-${preset.toLowerCase().replace(/[^a-z]+/g,'-')}.png`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);return a.download;
+  }
+ }),[loaded,date]);
+ useEffect(()=>{
+  const controller=new AbortController();const urls=['/data/history/europe-geometries.geojson','/data/history/military-control.geojson','/data/history/military-operations.geojson','/data/history/territorial-changes.geojson',campaign.map.historicalUrl,'/data/history/formation-positions.geojson','/data/history/dated-fronts.geojson','/data/history/historical-logistics.geojson','/data/history/reference-borders.geojson','/data/geography/europe-places.geojson'];
+  Promise.all(urls.map(url=>fetch(url,{signal:controller.signal}).then(r=>{if(!r.ok)throw Error(url);return r.json();}))).then(([geometries,control,operations,changes,history,formations,fronts,logistics,referenceBorders,places])=>setData({geometries,control,operations,changes,history,formations,fronts,logistics,referenceBorders,places})).catch(e=>{if(e.name!=='AbortError')setError('A historical map layer could not be loaded. Please reload.');});return()=>controller.abort();
+ },[campaign.id]);
+ useEffect(()=>{
+  const map=new maplibregl.Map({container:node.current,style:makeMapStyle(),center:campaign.map.center,zoom:4.4,minZoom:2.3,maxZoom:10,maxBounds:[[-25,32],[60,73]],canvasContextAttributes:{preserveDrawingBuffer:true,antialias:true},attributionControl:false});mapRef.current=map;
+  map.on('styleimagemissing',()=>addPatterns(map));
+  map.addControl(new maplibregl.NavigationControl(),'top-right');map.addControl(new maplibregl.FullscreenControl(),'top-right');map.addControl(new maplibregl.ScaleControl({maxWidth:130,unit:'metric'}),'bottom-left');map.addControl(new maplibregl.AttributionControl({compact:true}),'bottom-right');
+  const observer=new ResizeObserver(()=>map.resize());observer.observe(node.current);
+  map.on('load',()=>{addPatterns(map);const v=current.current.viewRequest;v?.coordinates?map.jumpTo({center:v.coordinates,zoom:v.zoom||6.2}):map.fitBounds(v?.bounds||campaign.map.bounds,{padding:35,duration:0});setLoaded(true);});
+  const updateLabels=()=>{if(map.getSource('areaLabels'))map.getSource('areaLabels').setData(labelsFor(statesRef.current,map,formationsRef.current));};
+  map.on('moveend',()=>{updateLabels();const c=map.getCenter();current.current.onViewChange?.({coordinates:[+c.lng.toFixed(5),+c.lat.toFixed(5)],zoom:+map.getZoom().toFixed(3)});});
+  const clickLayers=['formation-label','formation-detail-label','formation-symbol','capital-stars','capital-labels','engagement-dot','engagement-label','logistics-point','front-line','history-line','boundary-line','control-fill','neighbor-country-labels','neighbors-fill','eastern-reference-fill',...Object.keys(movementKinds).map(k=>'movement-'+k)];
+  map.on('click',event=>{
+   const features=map.queryRenderedFeatures(event.point,{layers:clickLayers.filter(id=>map.getLayer(id))}),chosen=clickLayers.map(id=>features.find(f=>f.layer.id===id)).find(Boolean);if(!chosen)return;
+   const p=chosen.properties,d=current.current.date;
+   if(chosen.layer.source==='capitals'){const c=capitals.find(c=>c.id===p.id);if(c)current.current.onFeatureSelect({kind:'capital',title:c.name+' · '+c.capitalOf,note:capitalStatus(c,d),sourceIds:c.sourceIds,coordinates:c.coordinates,accuracy:c.accuracy});return;}
+   current.current.onFeatureSelect({...p,kind:p.category||'territory',title:p.title||p.displayName||p.name,note:p.note,selectedDate:d,sourceIds:ids(p.sourceIds||(p.sourceId?[p.sourceId]:[])),coordinates:chosen.geometry.type==='Point'?chosen.geometry.coordinates:null});
+  });
+  map.on('mousemove',e=>{map.getCanvas().style.cursor=map.queryRenderedFeatures(e.point,{layers:clickLayers.filter(id=>map.getLayer(id))}).length?'pointer':'';});
+  map.on('error',event=>{if(event.error){console.error(event.error);setError('A map layer could not be rendered. Please reload.');}});
+  return()=>{observer.disconnect();map.remove();mapRef.current=null;setLoaded(false);};
+ },[campaign.id]);
+ useEffect(()=>{
+  const map=mapRef.current;if(!data||!loaded||!map)return;
+  const activeOps=datedFeatures(data.operations,date),activeFormations=datedFeatures(data.formations,date);formationsRef.current=activeFormations.features;
+  const states=territorialState(date,data.geometries),reference=easternPoliticalReference(date,data.geometries);
+  const labelStates={...states,features:[...states.features,...reference.features.filter(f=>['preinvasion-soviet-union','preinvasion-soviet-estonia'].includes(f.properties.id))]};
+  statesRef.current=labelStates;
+  map.getSource('neighbors').setData(states);map.getSource('easternReference').setData(reference);map.getSource('areaLabels').setData(labelsFor(labelStates,map,formationsRef.current));map.getSource('countryCallouts').setData(countryCallouts(states));
+  activeFormations.features=activeFormations.features.map(f=>({...f,properties:{...f.properties,symbol:['army-group','front'].includes(f.properties.echelon)?'XXXX':f.properties.echelon==='division'?'XX':'XXX'}}));
+  const collectionFeatures={control:datedFeatures(data.control,date),operations:withArrowheads(activeOps),history:datedFeatures(data.history,date),changes:{...emptyCollection,features:data.changes.features.filter(f=>f.properties.snapshotDate===date)},formations:activeFormations,fronts:datedFeatures(data.fronts,date),logistics:datedFeatures(data.logistics,date),referenceBorders:datedFeatures(data.referenceBorders,date)};
+  for(const [name,fc] of Object.entries(collectionFeatures))map.getSource(name).setData(fc);
+  map.getSource('places').setData({...data.places,features:data.places.features.filter(f=>!capitals.some(c=>c.startDate<=date&&date<=c.endDate&&Math.abs(c.coordinates[0]-f.geometry.coordinates[0])<.08&&Math.abs(c.coordinates[1]-f.geometry.coordinates[1])<.08)).map(f=>({...f,properties:{...f.properties,periodName:f.properties.name==='Wilno'&&date.startsWith('1941')?'Vilnius':aliases[f.properties.name.replace(/\s+/g,' ')]||f.properties.name}}))});
+  for(const id of ['capital-stars','capital-labels'])map.setFilter(id,['all',['<=',['get','startDate'],date],['>=',['get','endDate'],date]]);
+  const inventory={countries:[...states.features,...reference.features],operations:activeOps.features,formations:activeFormations.features,logistics:collectionFeatures.logistics.features,places:data.places.features};
+  current.current.onInventory?.(inventory);
+ },[data,date,loaded]);
+ useEffect(()=>{
+  const map=mapRef.current;if(!loaded||!map)return;
+  const groups={...historicalLayerGroups,movements:Object.keys(movementKinds).flatMap(k=>['movement-'+k,'movement-'+k+'-halo','movement-'+k+'-heads']).concat(['engagement-dot','engagement-label']),countries:['neighbor-country-labels','neighbor-primary-labels','neighbor-minor-labels','country-subtitle','country-callout-lines','country-callout-labels'],neighbors:['neighbors-border-halo','neighbors-line'],rivers:['rivers-line','rivers-label','lakes-label','river-detail-line','river-detail-label']};
+  for(const [group,list] of Object.entries(groups))for(const id of list)if(map.getLayer(id))map.setLayoutProperty(id,'visibility',layers[group]===false?'none':'visible');
+ },[loaded,layers]);
+ useEffect(()=>{
+  const map=mapRef.current;if(!loaded||!map||!viewRequest)return;
+  viewRequest.coordinates?map.flyTo({center:viewRequest.coordinates,zoom:viewRequest.zoom||6.2,duration:0}):map.fitBounds(viewRequest.bounds||campaign.map.bounds,{padding:35,duration:0});
+ },[loaded,viewRequest]);
+ return <div className="map-frame" data-date={date} data-map-ready={loaded&&!!data?'true':'false'}><div ref={node} className="atlas-map" role="application" aria-label={`Interactive ${campaign.title} map for ${date}; countries, formations and sources also available through search and the feature list`}/>{error&&<p className="map-error" role="alert">{error}</p>}</div>;
+});
+export default AtlasMap;

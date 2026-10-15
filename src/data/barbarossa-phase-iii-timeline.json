@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1941-08-26",
+    "date": "1941-08-26",
+    "label": "26 August 1941",
+    "kind": "Research snapshot",
+    "title": "The Southward Offensive",
+    "summary": "German redirection toward Ukraine and the Southwestern Front as the Desna and Dnieper sectors became central to strategy.",
+    "articleSlug": "barbarossa-the-southward-offensive-1941-08-26",
+    "phaseId": "3",
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz",
+      "p2-stahel-kiev"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "kiev",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=70",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-08-29",
+    "date": "1941-08-29",
+    "label": "29 August 1941",
+    "kind": "Research snapshot",
+    "title": "The Baltic Withdrawal",
+    "summary": "Tallinn’s fall on 28 August, the hazardous Soviet naval evacuation and Finnish operations toward Viipuri/Vyborg.",
+    "articleSlug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+    "phaseId": "3",
+    "sourceIds": [
+      "p2-tallinn-mobilisation",
+      "p2-hiio-kiviloo",
+      "frus-finland-25"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "tallinn",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=73",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-03",
+    "date": "1941-09-03",
+    "label": "3 September 1941",
+    "kind": "Research snapshot",
+    "title": "The Soviet Counterstroke",
+    "summary": "An ongoing Soviet offensive against the Yelnya salient, with German positions, Soviet objectives and the limits of early reports kept distinct.",
+    "articleSlug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+    "phaseId": "3",
+    "sourceIds": [
+      "p2-sbd41-001",
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "yelnya",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=78",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-08",
+    "date": "1941-09-08",
+    "label": "8 September 1941",
+    "kind": "Research snapshot",
+    "title": "Leningrad Cut Off",
+    "summary": "Shlisselburg’s capture severed the principal overland connection to Leningrad; Lake Ladoga remained a route across the water.",
+    "articleSlug": "barbarossa-leningrad-cut-off-1941-09-08",
+    "phaseId": "3",
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "loc-barbarossa-atlas"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "leningrad",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=83",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-12",
+    "date": "1941-09-12",
+    "label": "12 September 1941",
+    "kind": "Research snapshot",
+    "title": "The Kiev Trap",
+    "summary": "German mobile thrusts pressed toward a junction east of Kiev while the Soviet Southwestern Front still faced choices about withdrawal.",
+    "articleSlug": "barbarossa-the-kiev-trap-1941-09-12",
+    "phaseId": "3",
+    "sourceIds": [
+      "p2-stahel-kiev",
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "kiev",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=87",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-16",
+    "date": "1941-09-16",
+    "label": "16 September 1941",
+    "kind": "Research snapshot",
+    "title": "The Encirclement Closes",
+    "summary": "The reported German linkup near Lokhvytsia closed the principal outer ring while Soviet forces continued fighting inside it.",
+    "articleSlug": "barbarossa-the-encirclement-closes-1941-09-16",
+    "phaseId": "3",
+    "sourceIds": [
+      "p2-stahel-kiev",
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "kiev",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=91",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-19",
+    "date": "1941-09-19",
+    "label": "19 September 1941",
+    "kind": "Research snapshot",
+    "title": "The Fall of Kiev",
+    "summary": "German forces entered Kiev; the occupation began while the wider battle against encircled Soviet armies continued.",
+    "articleSlug": "barbarossa-the-fall-of-kiev-1941-09-19",
+    "phaseId": "3",
+    "sourceIds": [
+      "phase3-ushmm-kiev-occupation",
+      "phase3-ushmm-babyn-yar",
+      "cmh-blitz"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "kiev",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=94",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-26",
+    "date": "1941-09-26",
+    "label": "26 September 1941",
+    "kind": "Research snapshot",
+    "title": "The Destruction of the Pocket",
+    "summary": "The principal Kiev encirclement battle reached its conventional endpoint, while isolated resistance and the treatment of prisoners require separate evidence.",
+    "articleSlug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+    "phaseId": "3",
+    "sourceIds": [
+      "p2-stahel-kiev",
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "kiev",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=101",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  },
+  {
+    "id": "1941-09-29",
+    "date": "1941-09-29",
+    "label": "29 September 1941",
+    "kind": "Research snapshot",
+    "title": "Victory and Catastrophe",
+    "summary": "A theatre-wide assessment of the offensive and the beginning of the Babyn Yar massacre under German occupation of Kiev.",
+    "articleSlug": "barbarossa-victory-and-catastrophe-1941-09-29",
+    "phaseId": "3",
+    "sourceIds": [
+      "phase3-ushmm-babyn-yar",
+      "phase3-ushmm-kiev-occupation",
+      "cmh-blitz"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "theatre",
+    "dateRationale": "Selected editorial date. The article outline names related events but does not place later outcomes on this map.",
+    "mapAccuracy": "Geographic and political reference only. Dated operational reach, military control, front lines, formations and movements have not yet been reconstructed for this date.",
+    "candidateMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=104",
+    "candidateMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation."
+  }
+]

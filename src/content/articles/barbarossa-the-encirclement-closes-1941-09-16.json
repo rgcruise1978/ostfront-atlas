@@ -1,0 +1,48 @@
+{
+  "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+  "title": "The Encirclement Closes",
+  "subtitle": "The outer Kiev encirclement and continuing resistance",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-16",
+  "historicalPeriod": "16 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p2-stahel-kiev",
+    "cmh-blitz",
+    "blau-planning"
+  ],
+  "summary": "The reported German linkup near Lokhvytsia closed the principal outer ring while Soviet forces continued fighting inside it.",
+  "body": "",
+  "location": "Kiev and the Lokhvytsia region",
+  "outlineTopics": [
+    "German operations leading to the encirclement.",
+    "The movements of Guderian's and Kleist's armored formations.",
+    "The reported German linkup around Lokhvytsia.",
+    "The completion of the principal outer encirclement.",
+    "The geographical extent of the emerging pocket.",
+    "Soviet armies trapped or threatened within the encirclement.",
+    "The command crisis facing the Southwestern Front.",
+    "Soviet requests for permission to withdraw.",
+    "Stalin's decisions and their consequences.",
+    "Soviet efforts to organize breakout operations.",
+    "German infantry formations moving to reduce the pocket.",
+    "The difference between the mobile encirclement and the subsequent destruction of Soviet formations.",
+    "The operational importance of the Dnieper crossings.",
+    "German communications and supply problems.",
+    "The implications for the larger Eastern Front."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=91",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-kiev-trap-1941-09-12",
+  "chronologyNotes": [
+    "The reported linkup date and location need formation-level corroboration before a junction line is drawn. Soviet resistance within the ring continued."
+  ],
+  "nextArticleSlug": "barbarossa-the-fall-of-kiev-1941-09-19"
+}

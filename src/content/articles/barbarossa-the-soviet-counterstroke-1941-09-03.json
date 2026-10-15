@@ -1,0 +1,47 @@
+{
+  "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+  "title": "The Soviet Counterstroke",
+  "subtitle": "The Soviet offensive against the Yelnya salient",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "3",
+  "phase": "III — The Battle for Strategic Objectives",
+  "historicalDate": "1941-09-03",
+  "historicalPeriod": "3 September 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p2-sbd41-001",
+    "cmh-blitz",
+    "blau-planning"
+  ],
+  "summary": "An ongoing Soviet offensive against the Yelnya salient, with German positions, Soviet objectives and the limits of early reports kept distinct.",
+  "body": "",
+  "location": "Yelnya and the central front",
+  "outlineTopics": [
+    "The development of the Yelnya salient.",
+    "Its operational significance for Army Group Center.",
+    "German formations holding the salient.",
+    "Soviet attempts to eliminate the position during August.",
+    "The new offensive beginning August 30.",
+    "The Soviet Reserve Front and Georgy Zhukov's command responsibilities.",
+    "Soviet 24th Army and the principal participating formations.",
+    "Artillery concentration and the Soviet offensive plan.",
+    "German defensive preparations.",
+    "Soviet attacks against the salient's flanks.",
+    "German counterattacks and withdrawals.",
+    "The military situation by September 3.",
+    "Soviet losses and the operational limitations of the offensive.",
+    "The eventual connection between the Yelnya fighting and the emergence of Soviet Guards formations."
+  ],
+  "researchStatus": "Editorial outline and date association established. Full researched narrative, claim-level citations and the dated military situation remain to be written and reconstructed.",
+  "referenceMapUrl": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=78",
+  "referenceMapStatus": "Candidate German General Staff plate from the supplied chronological sequence. The plate title/date, operational content and reuse conditions have not been independently verified for digitisation.",
+  "previousArticleSlug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+  "chronologyNotes": [
+    "The salient had not been fully eliminated on 3 September; later withdrawal and Guards designations need their own dates."
+  ],
+  "nextArticleSlug": "barbarossa-leningrad-cut-off-1941-09-08"
+}

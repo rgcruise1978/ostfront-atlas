@@ -1,38 +1,79 @@
 [
   {
-    "id": "1939-08-23", "date": "1939-08-23", "label": "23 August 1939", "kind": "Pact",
+    "id": "1939-08-23",
+    "date": "1939-08-23",
+    "label": "23 August 1939",
+    "kind": "Pact",
     "title": "Molotov–Ribbentrop Pact",
     "summary": "Nazi Germany and the Soviet Union sign a nonaggression pact. A secret protocol sets out spheres of influence in eastern Europe, including a proposed division of Poland.",
-    "sourceIds": ["ushmm-german-soviet-pact"], "geographicFeatureIds": [],
+    "sourceIds": [
+      "ushmm-german-soviet-pact"
+    ],
+    "geographicFeatureIds": [],
     "articleSlug": "molotov-ribbentrop-pact-1939-08-23"
   },
   {
-    "id": "1939-09-01", "date": "1939-09-01", "label": "1 September 1939", "kind": "Invasion",
+    "id": "1939-09-01",
+    "date": "1939-09-01",
+    "label": "1 September 1939",
+    "kind": "Invasion",
     "title": "Germany invades Poland",
     "summary": "German forces invade Poland, beginning the war in Europe. This date marks the invasion, not a completed occupation or a change in Polish sovereignty.",
-    "sourceIds": ["ushmm-invasion-poland", "ushmm-1939-dates"], "geographicFeatureIds": [],
+    "sourceIds": [
+      "ushmm-invasion-poland",
+      "ushmm-1939-dates"
+    ],
+    "geographicFeatureIds": [],
     "articleSlug": "german-invasion-poland-1939-09-01"
   },
   {
-    "id": "1939-09-17", "date": "1939-09-17", "label": "17 September 1939", "kind": "Invasion",
+    "id": "1939-09-17",
+    "date": "1939-09-17",
+    "label": "17 September 1939",
+    "kind": "Invasion",
     "title": "The Soviet Union invades eastern Poland",
     "summary": "The Red Army invades Poland from the east. Soviet claims that the intervention was protective were official justifications, not a description adopted by this atlas.",
-    "sourceIds": ["ushmm-invasion-poland", "ushmm-german-soviet-pact"], "geographicFeatureIds": [],
+    "sourceIds": [
+      "ushmm-invasion-poland",
+      "ushmm-german-soviet-pact"
+    ],
+    "geographicFeatureIds": [],
     "articleSlug": "soviet-invasion-poland-1939-09-17"
   },
   {
-    "id": "1939-09-28", "date": "1939-09-28", "label": "28 September 1939", "kind": "Treaty",
+    "id": "1939-09-28",
+    "date": "1939-09-28",
+    "label": "28 September 1939",
+    "kind": "Treaty",
     "title": "German–Soviet Boundary and Friendship Treaty",
     "summary": "Germany and the Soviet Union sign a treaty revising their territorial arrangements for occupied Poland. The map shows an approximate trace of the agreed partition, not a reconstructed military front.",
-    "sourceIds": ["avalon-boundary-1939", "avalon-september-protocol", "boundary-potocki", "us-state-frus-1939-border-report", "ghdi-1939-partition-map"], "geographicFeatureIds": ["german-soviet-partition-line-1939-09-28"],
+    "sourceIds": [
+      "avalon-boundary-1939",
+      "avalon-september-protocol",
+      "boundary-potocki",
+      "us-state-frus-1939-border-report",
+      "ghdi-1939-partition-map"
+    ],
+    "geographicFeatureIds": [
+      "german-soviet-partition-line-1939-09-28"
+    ],
     "articleSlug": "german-soviet-boundary-treaty-1939-09-28"
   },
   {
-    "id": "1939-10-26", "date": "1939-10-26", "label": "26 October 1939", "kind": "Occupation administration",
+    "id": "1939-10-26",
+    "date": "1939-10-26",
+    "label": "26 October 1939",
+    "kind": "Occupation administration",
     "title": "German occupation administration takes shape",
     "summary": "Germany formally annexes several occupied Polish regions and places other German-occupied areas under the General Government. Eastern Poland remained under Soviet occupation; formal Soviet incorporation measures followed later. These acts did not establish recognized Polish consent or sovereignty.",
     "dateRationale": "The United States Holocaust Memorial Museum identifies 26 October as the date of German annexations and establishment of the General Government civilian administration.",
-    "sourceIds": ["ushmm-1939-dates", "ushmm-german-administration"], "geographicFeatureIds": ["german-soviet-partition-line-1939-09-28"],
+    "sourceIds": [
+      "ushmm-1939-dates",
+      "ushmm-german-administration"
+    ],
+    "geographicFeatureIds": [
+      "german-soviet-partition-line-1939-09-28"
+    ],
     "articleSlug": "german-occupation-administration-1939-10-26"
   }
 ]
