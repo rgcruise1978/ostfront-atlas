@@ -42,7 +42,7 @@ export default function Article() {
       <h1>{article.title}</h1><p className="section-lead">{article.subtitle.replace(/\bchapter\b/g, 'study')}</p>
       {article.summary && <p className="article-deck">{article.summary}</p>}
       <p className="article-meta">{review ? `By ${article.author || ORIGINAL_AUTHOR} · Prepared for review ${article.preparedDate}${article.revisionDate && article.revisionDate !== article.preparedDate ? ` · Revised ${article.revisionDate}` : ''} · ${minutes} min read` : draft ? `By ${ORIGINAL_AUTHOR} · ${article.status === 'research-brief' ? 'Research brief · full study in preparation' : 'Full study planned'}` : `By ${article.author || ORIGINAL_AUTHOR} · Published ${article.publicationDate}${dossier ? ` · Revised ${article.revisionDate || article.publicationDate} · ${minutes} min read` : ''}`}</p>
-      {review && <p className="study-review-notice"><strong>Unpublished review draft.</strong> Complete Historical Study prepared for editorial review.</p>}
+      {review && <p className="study-review-notice"><strong>Study — editorial review pending.</strong> Complete Historical Study prepared for editorial review.</p>}
       {dossier && <div className="article-facts"><span><b>When</b><time dateTime={article.historicalDate}>{article.historicalPeriod}</time></span><span><b>Where</b>{article.location}</span><span><b>In the atlas</b><Link to={atlasLink}>{article.historicalDate ? 'Explore this date ↗' : 'Explore the timeline ↗'}</Link></span></div>}
     </header>
     <div className={dossier ? 'dossier-layout' : undefined}>

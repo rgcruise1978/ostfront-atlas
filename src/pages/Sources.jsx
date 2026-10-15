@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react';
 import { Link, useLocation, useSearchParams } from 'react-router-dom';
-import sources from '../data/sources.json';
+import sourceRecords from '../data/sources.json';
+// Older gazetteer records do not contain the optional bibliography fields.
+const sources = sourceRecords.map(source => ({ ...source, type: source.type || 'Reference', supports: Array.isArray(source.supports) ? source.supports : [], reuseRights: source.reuseRights || 'No reproduction permission is recorded. Reference only; check the source provider before reusing material.' }));
 import { collections } from '../data/collections.js';
 import { articles } from '../content/articles.js';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
@@ -12,7 +14,7 @@ const referencedBy=id=>articles.filter(article=>article.sourceIds.includes(id));
 const relevantTo=(source,collection)=>collection.studies.some(article=>article.sourceIds.includes(source.id)) || collection.timeline.some(event=>event.sourceIds.includes(source.id) || source.supports.includes(event.date));
 function SourceRecord({source}) {
   const studies=referencedBy(source.id);
-  return <article id={source.id}><p className="article-meta">{source.type}{source.date?` · ${source.date}`:''}</p><h2><a href={source.url} target="_blank" rel="noreferrer">{source.title} ↗</a></h2><p><strong>{source.institution}</strong></p><p>{source.relevance}</p><dl><dt>Supports</dt><dd>{source.supports.join(', ')}</dd><dt>Use and uncertainty</dt><dd>{source.notes}</dd><dt>Rights</dt><dd>{source.reuseRights}</dd></dl>{studies.length>0&&<details className="source-reading-links"><summary>Referenced in {studies.length} {studies.length===1?'study':'studies'}</summary><ul>{studies.map(article=><li key={article.slug}><Link to={`/articles/${article.slug}#source-${source.id}`}>{article.title} · {article.historicalPeriod}</Link></li>)}</ul></details>}</article>;
+  return <article id={source.id}><p className="article-meta">{source.type}{source.date?` · ${source.date}`:''}</p><h2><a href={source.url} target="_blank" rel="noreferrer">{source.title} ↗</a></h2><p><strong>{source.institution}</strong></p><p>{source.relevance}</p><dl><dt>Supports</dt><dd>{source.supports.length ? source.supports.join(', ') : 'See the relevance statement and dated feature notes.'}</dd><dt>Use and uncertainty</dt><dd>{source.notes}</dd><dt>Rights</dt><dd>{source.reuseRights}</dd></dl>{studies.length>0&&<details className="source-reading-links"><summary>Referenced in {studies.length} {studies.length===1?'study':'studies'}</summary><ul>{studies.map(article=><li key={article.slug}><Link to={`/articles/${article.slug}#source-${source.id}`}>{article.title} · {article.historicalPeriod}</Link></li>)}</ul></details>}</article>;
 }
 export default function Sources() {
   const [params,setParams]=useSearchParams(), location=useLocation();
