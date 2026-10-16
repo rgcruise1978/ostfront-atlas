@@ -199,14 +199,15 @@ console.log('Validated eight complete published Barbarossa studies, dated map re
 const phaseTwo = read('src/data/barbarossa-phase-ii-timeline.json');
 const phaseThree = read('src/data/barbarossa-phase-iii-timeline.json');
 const phaseFour = read('src/data/barbarossa-phase-iv-timeline.json');
+const phaseFive = read('src/data/barbarossa-phase-v-timeline.json');
 const phaseTwoDates = ['1941-07-10','1941-07-16','1941-07-23','1941-07-30','1941-08-06','1941-08-12','1941-08-19','1941-08-21','1941-08-25'];
 const phaseThreeDates = ['1941-08-26','1941-08-29','1941-09-03','1941-09-08','1941-09-12','1941-09-16','1941-09-19','1941-09-26','1941-09-29'];
 const phaseFourDates = ['1941-09-30','1941-10-02','1941-10-07','1941-10-13','1941-10-16','1941-10-19','1941-10-24','1941-11-02','1941-11-09','1941-11-14'];
 assert(JSON.stringify(phaseTwo.map(event=>event.date)) === JSON.stringify(phaseTwoDates), 'Phase II dates differ from the fixed brief');
 assert(JSON.stringify(phaseThree.map(event=>event.date)) === JSON.stringify(phaseThreeDates), 'Phase III dates differ from the fixed brief');
 assert(JSON.stringify(phaseFour.map(event=>event.date)) === JSON.stringify(phaseFourDates), 'Phase IV dates differ from the fixed brief');
-const wholeCampaign = [...barbarossa, ...phaseTwo, ...phaseThree, ...phaseFour];
-assert(new Set(wholeCampaign.map(event=>event.id)).size === 36, 'Barbarossa dates must remain unique');
+const wholeCampaign = [...barbarossa, ...phaseTwo, ...phaseThree, ...phaseFour, ...phaseFive];
+assert(new Set(wholeCampaign.map(event=>event.id)).size === 44, 'Barbarossa dates must remain unique');
 const phaseOneLast = articles.get(barbarossa.at(-1).articleSlug);
 assert(phaseOneLast.nextArticleSlug === phaseTwo[0].articleSlug, 'Missing July 9 to July 10 study transition');
 const militaryLayers = [read('public/data/history/military-control.geojson'), read('public/data/history/military-operations.geojson')];
@@ -309,4 +310,19 @@ for (const [index,event] of phaseFour.entries()) {
   assert(referenceBorders.features.every(feature=>feature.properties.snapshots.includes(event.date)), `Historical border reference missing for ${event.date}`);
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id && c.endDate>='1941-11-14')), 'Phase IV primary capital markers are missing');
-console.log('Validated ten Phase IV records, study citations, reviewed publication hashes and counts, 36-date chronology, and honest map-status labels.');
+console.log('Validated ten Phase IV records, study citations, reviewed publication hashes and counts, 44-date chronology, and honest map-status labels.');
+
+const phaseFiveDates=['1941-11-15','1941-11-18','1941-11-21','1941-11-24','1941-11-28','1941-11-29','1941-12-02','1941-12-05'];
+assert(JSON.stringify(phaseFive.map(event=>event.date))===JSON.stringify(phaseFiveDates),'Phase V fixed dates changed');
+for(const [index,event] of phaseFive.entries()) {
+ const article=articles.get(event.articleSlug),snapshot=snapshotIndex[event.date];
+ assert(article?.historicalDate===event.date&&article.phaseId==='5'&&article.author==='R.G. Cruise','Phase V identity mismatch');
+ assert(article.status==='research-brief'&&!article.body&&!article.publicationDate&&article.outlineTopics.length>=14,'Unfinished Phase V article presented as complete');
+ assert(article.previousArticleSlug===wholeCampaign[35+index].articleSlug&&article.nextArticleSlug===phaseFive[index+1]?.articleSlug,'Phase V reading sequence mismatch');
+ assert(article.sourceIds.length>0&&article.sourceIds.every(id=>sourceIds.has(id)&&article.sourceLocators[id]?.length),'Phase V research references missing');
+ assert(event.snapshotStatus==='geographic-reference-only'&&event.geographicFeatureIds.length===0&&event.politicalReferenceDate==='1941-06-21','Phase V map status is misleading');
+ assert(['operations','areas','formations','logistics','fronts'].every(key=>snapshot[key]===0),'Unresearched Phase V military data claimed');
+ for(const layer of datedLayers) assert(!layer.features.some(feature=>feature.properties.snapshots?.includes(event.date)),'Earlier military geometry carried into Phase V');
+}
+assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id&&c.endDate>='1941-12-05')),'Phase V capital roles missing');
+console.log('Validated eight Phase V research briefs, exact dates, source references, chronological links and honest geographic-reference status.');
