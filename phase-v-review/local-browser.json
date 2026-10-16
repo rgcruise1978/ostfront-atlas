@@ -1,0 +1,548 @@
+[
+  {
+    "date": "1941-11-15",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-15",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Final Offensive",
+      "topics": 16,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-18",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-18",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Southern Pincer",
+      "topics": 15,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-21",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-21",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "Rostov Falls",
+      "topics": 16,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-24",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-24",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Northern Pincer",
+      "topics": 15,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-28",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-28",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "At the Moscow–Volga Canal",
+      "topics": 15,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-29",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-29",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "Rostov Retaken",
+      "topics": 18,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-12-02",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-12-02",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Limits of the Advance",
+      "topics": 20,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-12-05",
+    "width": 1440,
+    "map": {
+      "overflow": false,
+      "date": "1941-12-05",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "Barbarossa Exhausted",
+      "topics": 36,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "check": "IV/V boundary and layer preservation",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "check": "14 November article leads to 15 November",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "check": "Phase V campaign",
+    "width": 1440,
+    "chapters": 8,
+    "phases": 5,
+    "text": "8 research briefsEight dated research briefs by R.G. Cruise contain the planned subjects, starting references and chronology safeguards. Their full narratives and military map reconstructions are in preparation. Geographic reference views use a labelled earlier political frame; no Phase IV front or formation is carried forward. The sequence connects 14 November to 15 November and closes on 5 December, this atlas’s editorial endpoint.",
+    "overflow": false,
+    "failures": []
+  },
+  {
+    "check": "region preserves date",
+    "region": "north",
+    "failures": []
+  },
+  {
+    "check": "region preserves date",
+    "region": "center",
+    "failures": []
+  },
+  {
+    "check": "region preserves date",
+    "region": "south",
+    "failures": []
+  },
+  {
+    "check": "region preserves date",
+    "region": "finland",
+    "failures": []
+  },
+  {
+    "check": "region preserves date",
+    "region": "theatre",
+    "failures": []
+  },
+  {
+    "check": "reference PNG export",
+    "failures": []
+  },
+  {
+    "check": "existing collection map regression",
+    "date": "1939-09-28",
+    "failures": []
+  },
+  {
+    "check": "existing collection map regression",
+    "date": "1941-06-21",
+    "failures": []
+  },
+  {
+    "check": "existing collection map regression",
+    "date": "1941-08-25",
+    "failures": []
+  },
+  {
+    "check": "existing collection map regression",
+    "date": "1941-09-29",
+    "failures": []
+  },
+  {
+    "check": "existing collection map regression",
+    "date": "1941-11-14",
+    "failures": []
+  },
+  {
+    "check": "collections status",
+    "width": 1440,
+    "failures": []
+  },
+  {
+    "check": "navigation ranges",
+    "width": 1440,
+    "failures": [],
+    "rechecked": "local-navigation.json; menu case normalized because CSS transforms displayed labels to uppercase"
+  },
+  {
+    "date": "1941-11-15",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-15",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Final Offensive",
+      "topics": 16,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-18",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-18",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Southern Pincer",
+      "topics": 15,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-21",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-21",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "Rostov Falls",
+      "topics": 16,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-24",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-24",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Northern Pincer",
+      "topics": 15,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-28",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-28",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "At the Moscow–Volga Canal",
+      "topics": 15,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-11-29",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-11-29",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "Rostov Retaken",
+      "topics": 18,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-12-02",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-12-02",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "The Limits of the Advance",
+      "topics": 20,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "date": "1941-12-05",
+    "width": 390,
+    "map": {
+      "overflow": false,
+      "date": "1941-12-05",
+      "referenceNotice": true,
+      "military": {
+        "control": 0,
+        "formations": 0,
+        "fronts": 0,
+        "operations": 0,
+        "logistics": 0,
+        "history": 0
+      },
+      "referenceCountries": 61
+    },
+    "article": {
+      "title": "Barbarossa Exhausted",
+      "topics": 36,
+      "byline": "By R.G. Cruise · Research brief · full study in preparation",
+      "author": "R.G. Cruise",
+      "overflow": false,
+      "robots": "noindex, follow"
+    },
+    "failures": []
+  },
+  {
+    "check": "IV/V boundary and layer preservation",
+    "width": 390,
+    "failures": []
+  },
+  {
+    "check": "14 November article leads to 15 November",
+    "width": 390,
+    "failures": []
+  },
+  {
+    "check": "Phase V campaign",
+    "width": 390,
+    "chapters": 8,
+    "phases": 5,
+    "text": "8 research briefsEight dated research briefs by R.G. Cruise contain the planned subjects, starting references and chronology safeguards. Their full narratives and military map reconstructions are in preparation. Geographic reference views use a labelled earlier political frame; no Phase IV front or formation is carried forward. The sequence connects 14 November to 15 November and closes on 5 December, this atlas’s editorial endpoint.",
+    "overflow": false,
+    "failures": []
+  },
+  {
+    "check": "collections status",
+    "width": 390,
+    "failures": []
+  },
+  {
+    "check": "navigation ranges",
+    "width": 390,
+    "failures": [],
+    "rechecked": "local-navigation.json; menu case normalized because CSS transforms displayed labels to uppercase"
+  }
+]
