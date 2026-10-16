@@ -1,0 +1,23 @@
+{
+  "name": "Ost Krieg",
+  "short_name": "Ost Krieg",
+  "description": "The Eastern Front, 1939\u20131945",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F0E3C4",
+  "theme_color": "#B72D20",
+  "icons": [
+    {
+      "src": "/brand/ost-krieg-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brand/ost-krieg-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
