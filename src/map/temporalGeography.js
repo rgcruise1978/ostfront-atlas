@@ -20,7 +20,7 @@ export function territorialState(date,geometries) {
 }
 const easternReferenceIds=['soviet-union','soviet-poland-1941','soviet-estonia','finnish-cessions'];
 export function easternPoliticalReference(date,geometries) {
-  if(date<'1941-08-26'||date>'1941-11-14')return emptyCollection;
+  if(date<'1941-08-26'||date>'1941-12-05')return emptyCollection;
   const byId=new Map(geometries.features.map(f=>[f.properties.id,f.geometry]));
   return {type:'FeatureCollection',features:easternReferenceIds.map(id=>states.find(record=>record.id===id)).filter(Boolean).map(record=>({
     type:'Feature',geometry:byId.get(record.geometryRef),properties:{
