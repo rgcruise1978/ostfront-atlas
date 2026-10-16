@@ -1,7 +1,19 @@
+# October 16, 2026 — Phase V editorial release
+
+All eight Phase V studies have completed the substantive editorial and historical review and are prepared for the user-authorized production publication. 25,450 substantive words, 32 distinct references, 16 historical asides, 82 revised paragraphs. Review package: `phase-v-edit-review/REVIEW.txt`. Earlier 42 article files and all existing map geometry/palette remain unchanged. Phase V maps remain geographic references. Production release identity and public checks will be recorded in `phase-v-edit-review/release.json`.
+
+# October 15–16, 2026 — Eight complete Phase V studies ready for local review
+
+All eight studies (15 November–5 December 1941) are written, cited and installed as `ready-for-review`, by R.G. Cruise: 24,630 substantive words, 30 distinct sources, 331 citation occurrences and 16 historical asides. Counts exclude headings, citation markers and bibliography and match the rendered browser prose. Titles, dates, slugs and chronological links are retained. Collection, campaign, homepage, guide and metadata copy now distinguish the full review studies from geographic-reference maps.
+
+Validated: data and citation checks, production build and metadata, 82 protected earlier files, 42 published article hashes plus shared palette, and all 22 desktop/mobile article/collection checks. Saved manuscripts, evidence/access qualifications, progress, browser results and recovery archive are in `phase-v-writing/`; start with `REVIEW.txt`. Some scholarly references are public extracts; canal records are published transcriptions; local date discrepancies are explicitly retained.
+
+LOCAL REVIEW ONLY. No new production deployment. All 42 earlier published studies and all map data remain unchanged. Phase V military reconstruction is still pending. Review collection: http://127.0.0.1:5198/campaigns/barbarossa-1941?phase=5.
+
 # October 15, 2026 — Phase V foundation
 
-Completed: Five-phase Barbarossa navigation (44 selected dates); eight Phase V research briefs with 151 outline topics, source leads and chronological/map returns; 14–15 November continuity. Poland’s existing 1 September–26 October navigation range is confirmed. All 42 published article files, prior map data and shared palette are unchanged. Original article authors are R.G. Cruise.
-Verified: Data validator, production build and preservation gates pass. Browser review and deployment evidence are saved in `phase-v-review/` when complete.
+Completed: Published the first Phase V increment in PR #14, production merge `63514e0465b405c2a56273295feb6bfec8c47962`, Netlify deploy `6ad16a839d94caec92084d23` (ready, 15 October 2026, 8:06 p.m. Toronto). Five-phase Barbarossa navigation (44 selected dates); eight Phase V research briefs with 151 outline topics, source leads and chronological/map returns; 14–15 November continuity. Poland’s existing 1 September–26 October navigation range is confirmed. All 42 published article files, prior map data and shared palette are unchanged. Original article authors are R.G. Cruise.
+Verified: Data validator, production build, 82-file preservation gate, 37 local browser checks and 37 public browser checks pass. Includes all eight dates/briefs at desktop/mobile widths, cross-phase links, retained layers, map returns, regional controls, reference export and earlier maps. All original article authors are R.G. Cruise. Review and deployment evidence: `phase-v-review/`.
 Outstanding: Phase V full studies and dated military reconstruction. Initial maps are geographic references with the 21 June political frame clearly labelled; no earlier military state is carried forward.
 Historical evidence pending: Exact LOC situation sheets and printed dates, canal/bridge geometry, and unit/control chronology; the LOC collection endpoint was inaccessible. Starting CMH and Rostov Museum references were inspected; museum casualty claims are not adopted.
 Next: Complete Phase V geographic detail, beginning with verified Moscow–Volga Canal, Yakhroma/Dmitrov/Peremilovo settlements and transport context.
