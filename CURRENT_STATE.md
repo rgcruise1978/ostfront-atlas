@@ -1,3 +1,11 @@
+# Phase V maps — completed locally, publication in progress
+
+Eight dated regional reconstructions, 15 November–5 December 1941: 901 military/control/logistics/change records and all 281 study paragraphs linked through Study Context. Detailed Moscow–Volga Canal, Yakhroma, Mius, Istra and Don courses; dated formations, operations and civilian evidence. All 50 article files, earlier 41 map dates and the shared palette are preserved. Review and evidence limits: `phase-v-maps-review/RESEARCH_AND_COVERAGE.md`. Publication identity and public checks will be recorded in `phase-v-maps-review/release.json`.
+
+# October 16, 2026 — Phase V studies published and verified
+
+All eight edited Phase V studies are live: https://ostfront-atlas.netlify.app/campaigns/barbarossa-1941?phase=5. PR #15 merged as `ad76c0e7575c1c9bee4953d660abb5a0e6abd35c`; final homepage phase-count correction is production commit `71904251f8786ccf3c152214c7a3472481b44884`. Netlify deploy `6ad187da7eabb5506a56fad1` is ready. All 22 public desktop/mobile checks passed with complete article-text comparisons. Build/data/preservation checks pass. 25,450 substantive words; 32 distinct sources; all eight studies remain within 3,000–5,000 words. Earlier 42 article files and all map data/palette are unchanged. Phase V military mapping remains pending. Final review, evidence limitations, release identity and recovery archive are in `phase-v-edit-review/`.
+
 # October 16, 2026 — Phase V editorial release
 
 All eight Phase V studies have completed the substantive editorial and historical review and are prepared for the user-authorized production publication. 25,450 substantive words, 32 distinct references, 16 historical asides, 82 revised paragraphs. Review package: `phase-v-edit-review/REVIEW.txt`. Earlier 42 article files and all existing map geometry/palette remain unchanged. Phase V maps remain geographic references. Production release identity and public checks will be recorded in `phase-v-edit-review/release.json`.
