@@ -83,17 +83,17 @@ const AtlasMap=forwardRef(function AtlasMap({campaign,viewRequest,date,operation
    const bounds=map.getBounds();container.style.width='2560px';container.style.height='1110px';map.resize();map.fitBounds(bounds,{padding:45,duration:0});
    await new Promise(resolve=>map.once('idle',resolve));
    const canvas=document.createElement('canvas');canvas.width=2560;canvas.height=1440;const ctx=canvas.getContext('2d');
-   ctx.fillStyle='#F3EDDE';ctx.fillRect(0,0,2560,1440);ctx.fillStyle='#263331';ctx.font='bold 44px Georgia';ctx.fillText(title,64,68);ctx.font='25px Arial';ctx.fillText(label+'  ·  '+preset+'  ·  Ostfront Atlas',64,110);
+   ctx.fillStyle='#F0E3C4';ctx.fillRect(0,0,2560,1440);ctx.fillStyle='#201F1A';ctx.font='bold 44px Georgia';ctx.fillText(title,64,68);ctx.font='25px Arial';ctx.fillText(label+'  ·  '+preset+'  ·  Ost Krieg',64,110);
    const referenceOnly=snapshots[date]?.timeConvention?.startsWith('Geographic reference');
    ctx.font='17px Arial';ctx.fillText(referenceOnly?'Geographic reference only · dated military reconstruction pending':'Dated regional synthesis · component reporting times and feature precision are recorded in the atlas',64,135);
    ctx.drawImage(map.getCanvas(),0,140,2560,1110);
-   ctx.fillStyle='#263331';ctx.font='bold 18px Arial';ctx.fillText('N ↑',2490,185);
+   ctx.fillStyle='#201F1A';ctx.font='bold 18px Arial';ctx.fillText('N ↑',2490,185);
    const metresPerPixel=Math.cos(map.getCenter().lat*Math.PI/180)*2*Math.PI*6378137/(512*2**map.getZoom());const km=[10,20,50,100,200,500,1000].find(x=>x*1000/metresPerPixel>=100)||1000;const px=km*1000/metresPerPixel;
-   ctx.fillStyle='#FFF9E9';ctx.fillRect(48,1170,Math.max(px+32,315),62);ctx.strokeStyle='#263331';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(64,1205);ctx.lineTo(64+px,1205);ctx.stroke();ctx.font='18px Arial';ctx.fillStyle='#263331';ctx.fillText(km+' km · scale near map centre',64,1190);
+   ctx.fillStyle='#FFF9E9';ctx.fillRect(48,1170,Math.max(px+32,315),62);ctx.strokeStyle='#263331';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(64,1205);ctx.lineTo(64+px,1205);ctx.stroke();ctx.font='18px Arial';ctx.fillStyle='#201F1A';ctx.fillText(km+' km · scale near map centre',64,1190);
    const keys=current.current.layers.control?(referenceOnly?[['#E6D1CD','21 June political reference · dated control pending']]:[[controlColors.Germany,'German authority'],[controlColors['Soviet Union'],'Soviet authority'],[territorialCategories.operational.color,'Hatched: forward reach / occupation'],[territorialCategories.contested.color,'Contested / continued resistance']]):[];
    if(current.current.layers.control&&!referenceOnly&&date>='1941-08-29')keys.push([territorialCategories['finnish-operational'].color,'Finnish forward reach']);
    if(current.current.layers.control&&!referenceOnly&&date>='1941-09-30')keys.push([territorialCategories['romanian-military'].color,'Romanian administration']);
-   keys.forEach(([color,text],i)=>{ctx.fillStyle=color;ctx.fillRect(64+i*(2440/keys.length),1280,24,20);ctx.fillStyle='#263331';ctx.font=(keys.length>5?'15px':'19px')+' Arial';ctx.fillText(text,100+i*(2440/keys.length),1297);});
+   keys.forEach(([color,text],i)=>{ctx.fillStyle=color;ctx.fillRect(64+i*(2440/keys.length),1280,24,20);ctx.fillStyle='#201F1A';ctx.font=(keys.length>5?'15px':'19px')+' Arial';ctx.fillText(text,100+i*(2440/keys.length),1297);});
    ctx.font='18px Arial';const legend=[];if(!referenceOnly&&current.current.layers.movements)legend.push('Solid: advance · long dash: counterattack · short dash: withdrawal · compound: transfer · dotted: plan · broken: breakout · orange marker: checked · ⇢ naval');if(current.current.layers.civilian)legend.push('Violet ring / dashed route: civilian and occupation context');if(current.current.layers.changes)legend.push('Yellow: new reported reach · blue: withdrawn / revised reach');if(!referenceOnly&&current.current.layers.formations)legend.push('XXXXX: group/front; XXXX: army; XXX: corps; XX: division; ⚓ fleet');if(current.current.layers.capitals)legend.push('★ capital; ◆ administrative seat');if(!referenceOnly&&current.current.layers.alignment)legend.push('Outlines: ochre Axis; blue Allied; green co-belligerent');if(current.current.layers.logistics)legend.push('Purple: rail/road corridor; blue: sea link');wrap(ctx,legend.join('  ·  '),64,1332,2420,24,2);
    ctx.font='16px Arial';wrap(ctx,(referenceOnly?'Faded political reference: 21 June 1941, not control on the selected date. Phase V military reconstruction pending. ':(date>='1941-11-15'?'Regional reconstruction; approximate reach is not secure control. Military: Ziemke & Bauer, Moscow to Stalingrad (1987), maps 3–5; dated study references. ':'Approximate forward reach is distinct from secure control. Sources and feature limitations: companion atlas / review notes. '))+'Geography: University of Minnesota CC BY 3.0; adapted historical geometry CC BY-SA 4.0; Natural Earth public domain; additional waterways © OpenStreetMap contributors ODbL · openstreetmap.org/copyright.',64,1373,2420,22,2);
    blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));if(!blob)throw Error('The browser returned an empty image.');
@@ -101,7 +101,7 @@ const AtlasMap=forwardRef(function AtlasMap({campaign,viewRequest,date,operation
    for(const [id,size] of textSizes)map.setLayoutProperty(id,'text-size',size);
    container.style.width=oldW;container.style.height=oldH;map.resize();map.jumpTo(previous);
    }
-   const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`ostfront-${date}-${preset.toLowerCase().replace(/[^a-z]+/g,'-')}.png`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);return a.download;
+   const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`ost-krieg-${date}-${preset.toLowerCase().replace(/[^a-z]+/g,'-')}.png`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);return a.download;
   }
  }),[loaded,date]);
  useEffect(()=>{
