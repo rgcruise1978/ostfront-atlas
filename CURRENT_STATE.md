@@ -1,6 +1,38 @@
-# Phase V maps — completed locally, publication in progress
+# October 16, 2026 — approved current-site release
 
-Eight dated regional reconstructions, 15 November–5 December 1941: 901 military/control/logistics/change records and all 281 study paragraphs linked through Study Context. Detailed Moscow–Volga Canal, Yakhroma, Mius, Istra and Don courses; dated formations, operations and civilian evidence. All 50 article files, earlier 41 map dates and the shared palette are preserved. Review and evidence limits: `phase-v-maps-review/RESEARCH_AND_COVERAGE.md`. Publication identity and public checks will be recorded in `phase-v-maps-review/release.json`.
+The user authorized deployment of the current reviewed site: Ost Krieg visual identity and complete existing site, the Poland introduction and five revised studies, and the Barbarossa Phase I introduction and eight revised studies. This release retains all 50 studies and 49 dated maps, appends the reviewed prose sources, and preserves historical map geometry.
+
+Build, data, preservation, editorial and desktop/mobile browser checks passed before release. Hosted preview and production checks are recorded in the workspace release-2026-10-16 directory. The historical local-review notes below describe the earlier approval boundary; this entry records the subsequent publication authorization. Custom-domain and DNS settings are unchanged.
+
+---
+
+# Local Phase I editorial review — October 16, 2026
+
+The Phase I introduction and all eight studies (June 21–July 9, 1941) have completed historical and literary revision in this isolated local review copy. Twelve prose-only source records were appended. Maps, 42 unrelated articles, author/identity/date fields, section IDs, navigation and site presentation are preserved. Nothing in this review has been published or deployed.
+
+Deliverables and verification: `../Barbarossa-Phase-I-Revised.html`, `../Editorial-Report.txt`, `../evidence/`, and `../audit/`. The original state record follows for historical context; its earlier release statements do not publish these new revisions.
+
+---
+
+# Ost Krieg — tested local redesign preview
+
+Complete visual rework of the current Phase V release, using the exact user-supplied circular logo. Preview: http://127.0.0.1:5205/. The new identity covers shared navigation, all page templates, metadata, favicons, social image, print identity and map exports. Shared CSS is consolidated; historical cartographic colors remain separate.
+
+Base: local `122614eb8785ceef9b1db8f667278647faacc2fd`; all 164 relevant application/build/data files matched GitHub main `05084a535317a875679a29b37556cdf2ca7d49f0` before editing. All 50 article JSON files, historical/physical data, source records and map palette remain byte-identical. The rendered collection-introduction subtitle adopts the new identity while retaining the original publication JSON.
+
+Verified: production build; data and geographic validators; Phase IV/V regressions; 65 page routes/states and 49 maps at desktop/tablet/phone widths; all 50 rendered study bodies; 2,045 citation links/anchors; 49 date-selector changes; phase navigation, keyboard menu and skip link, search/reset, source pinning, layer controls, feature sources, study context, presentation, clipboard links, print identity, two PNG exports, and metadata on 61 static routes. Final template checks include 320, 390, 768 and 1440 px widths, no overflow, missing assets or browser errors, passing computed text contrast and 44 px tested control targets.
+
+Review evidence and screenshots: `../output/ost-krieg-review/REVIEW.txt`. Browser verification used Chromium (Brave) with emulated viewport sizes, not physical devices, Safari/Firefox or a screen-reader audit. Existing large-bundle build warnings remain. The initial legacy geography baseline predated published article corrections; the rerun used the verified pre-redesign hashes and passed without changing validation logic.
+
+LOCAL PREVIEW ONLY. No production publication, PR, repository rename, custom-domain or DNS operation. Next: review the preview before separately authorizing publication.
+
+---
+
+# Phase V maps — published and publicly verified
+
+All eight dated maps (15 November–5 December 1941) are live at https://ostfront-atlas.netlify.app/campaigns/barbarossa-1941?phase=5. PR #16 merged as `05084a535317a875679a29b37556cdf2ca7d49f0`; Netlify production deploy `6ad196c8237eae959e06dd14` is ready. All 29 public browser checks pass, covering every date at desktop/mobile sizes, six additional regions, two exports and Poland / Phases I–IV regressions. All 12 public map data files match local SHA-256 hashes.
+
+901 dated military, control, logistics and change records; 281 study paragraphs linked through Study Context; detailed canal/Yakhroma/Mius/Istra/Don waterways. All 50 article files, earlier 41 dated map records and shared palette are preserved. Historical precision remains explicitly regional. Review, source access, coverage, release evidence and complete recovery archive: `phase-v-maps-review/`. The local source checkpoint is `404f915`; production content matches the verified upload manifest.
 
 # October 16, 2026 — Phase V studies published and verified
 
