@@ -1,0 +1,94 @@
+{
+  "id": "barbarossa-phase-v-1941-12-05",
+  "slug": "barbarossa-exhausted-1941-12-05",
+  "title": "Barbarossa Exhausted",
+  "subtitle": "Phase V research brief · full historical study in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "5",
+  "phase": "V — The Offensive Exhausted",
+  "historicalDate": "1941-12-05",
+  "historicalPeriod": "5 December 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p5-cmh-moscow",
+    "p4-cmh-leningrad",
+    "p5-rostov-museum",
+    "ushmm-pow-treatment",
+    "p5-loc-atlas-candidate"
+  ],
+  "sourceLocators": {
+    "p5-cmh-moscow": [
+      "Chapter III, To Moscow. Starting operational and strategic reference; verify each eventual narrative claim and military feature independently."
+    ],
+    "ushmm-pow-treatment": [
+      "1941–January 1942 discussion of German prisoner policies. Later aggregate mortality must not be assigned to one selected day."
+    ],
+    "p5-loc-atlas-candidate": [
+      "Collection-level candidate only. No exact Phase V sheet or printed situation date verified in this increment."
+    ],
+    "p5-rostov-museum": [
+      "Chronological account of the 21–29 November fighting and named museum collections; precise military geometry and casualty claims remain to be corroborated."
+    ],
+    "p4-cmh-leningrad": [
+      "Leningrad/Ladoga discussion, printed pp.135–136. Later supply outcomes must be dated separately."
+    ]
+  },
+  "summary": "The concluding study will assess why Germany failed to achieve its invasion objectives, compare the three operational theatres and explain the transition to Soviet counteroffensive operations.",
+  "body": "",
+  "location": "The Eastern Front",
+  "outlineTopics": [
+    "The disposition of the three German army groups.",
+    "The position of Army Group North.",
+    "The continuing blockade of Leningrad.",
+    "The military situation around Tikhvin.",
+    "Soviet counterattacks in the northern sector.",
+    "Army Group Center's position around Moscow.",
+    "The failed northern and southern attempts to envelop the capital.",
+    "The condition of German armored and infantry formations.",
+    "The continued Soviet defense of Moscow and Tula.",
+    "Army Group South's situation after Rostov.",
+    "The continuing fighting in Crimea and around Sevastopol.",
+    "The military situation across occupied Ukraine.",
+    "German assumptions about the duration and character of the war.",
+    "The effect of Soviet mobilization and continued force generation.",
+    "Soviet reserves, industrial evacuation, and wartime production.",
+    "German logistical and transportation failures.",
+    "Equipment attrition and shortages of replacement vehicles.",
+    "Fuel and ammunition limitations.",
+    "German manpower losses.",
+    "The deterioration of German offensive capacity.",
+    "Soviet military adaptation and defensive operations.",
+    "The effects of weather, mud, freezing temperatures, and inadequate winter equipment.",
+    "The importance of Soviet command decisions and counterattacks.",
+    "The continued survival of the Soviet state.",
+    "The political significance of Moscow remaining under Soviet control.",
+    "British assistance and developing American material support to the Soviet Union.",
+    "Soviet diplomatic relations with Britain and the United States.",
+    "The effect of German occupation policies on Soviet civilian populations.",
+    "The continuing Nazi campaign of mass murder.",
+    "The treatment and mass death of Soviet prisoners of war.",
+    "The continuing humanitarian disaster in besieged Leningrad.",
+    "Soviet preparations for counteroffensive operations.",
+    "The initial attacks undertaken by the Kalinin Front on December 5, where verified.",
+    "The broader Soviet offensive beginning December 6.",
+    "The distinction between the conclusion of our Barbarossa narrative and the continuation of the war.",
+    "The historical significance of Germany's failure to achieve its original invasion objectives."
+  ],
+  "researchStatus": "Research brief and article route established. Full narrative, claim-level citations and dated military reconstruction remain in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Candidate atlas collection only. No exact sheet or daily situation date has been verified; an earlier or later sheet must not be relabelled.",
+  "previousArticleSlug": "barbarossa-the-limits-of-the-advance-1941-12-02",
+  "chronologyNotes": [
+    "5 December is this atlas’s editorial endpoint, not a universally accepted formal termination date for Operation Barbarossa.",
+    "Account for verified Kalinin Front attacks on 5 December; the broader operations beginning on 6 December are context, not completed Phase V movements.",
+    "Tikhvin’s later recapture and the subsequent winter campaign must not be projected backward or opened as an empty new collection."
+  ],
+  "preparedDate": "2026-10-15",
+  "mapStateId": "1941-12-05",
+  "sourceMethod": "Starting research references identify the planned evidence base. An outline is not a completed historical narrative or a verified tactical map.",
+  "campaignConclusion": true
+}

@@ -1,0 +1,65 @@
+{
+  "id": "barbarossa-phase-v-1941-11-15",
+  "slug": "barbarossa-the-final-offensive-1941-11-15",
+  "title": "The Final Offensive",
+  "subtitle": "Phase V research brief · full historical study in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "5",
+  "phase": "V — The Offensive Exhausted",
+  "historicalDate": "1941-11-15",
+  "historicalPeriod": "15 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p5-cmh-moscow",
+    "ushmm-pow-treatment",
+    "p5-loc-atlas-candidate"
+  ],
+  "sourceLocators": {
+    "p5-cmh-moscow": [
+      "Chapter III, To Moscow. Starting operational and strategic reference; verify each eventual narrative claim and military feature independently."
+    ],
+    "ushmm-pow-treatment": [
+      "1941–January 1942 discussion of German prisoner policies. Later aggregate mortality must not be assigned to one selected day."
+    ],
+    "p5-loc-atlas-candidate": [
+      "Collection-level candidate only. No exact Phase V sheet or printed situation date verified in this increment."
+    ]
+  },
+  "summary": "The renewed German offensive toward Moscow: its staggered opening, Soviet defensive responsibilities and the limits of German strength and supply.",
+  "body": "",
+  "location": "Northern and western approaches to Moscow",
+  "outlineTopics": [
+    "The military situation inherited from November 14.",
+    "Army Group Center's operational objectives.",
+    "Field Marshal Fedor von Bock's command.",
+    "The roles of 3rd and 4th Panzer Groups.",
+    "The operational objectives of the northern pincer.",
+    "The simultaneous importance of the southern approach through Tula.",
+    "Soviet Western Front under Georgy Zhukov.",
+    "Soviet Kalinin Front under Ivan Konev.",
+    "Soviet 16th and 30th Armies and their defensive responsibilities.",
+    "The military situation around Volokolamsk and Klin.",
+    "Soviet defensive preparations and reserve formations.",
+    "German infantry and armored strength after months of campaigning.",
+    "Fuel, ammunition, maintenance, and transportation limitations.",
+    "Autumn weather, freezing ground, and changing operational conditions.",
+    "German assumptions about Soviet remaining military strength.",
+    "Why Germany continued attempting a decisive offensive despite its weakened condition."
+  ],
+  "researchStatus": "Research brief and article route established. Full narrative, claim-level citations and dated military reconstruction remain in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Candidate atlas collection only. No exact sheet or daily situation date has been verified; an earlier or later sheet must not be relabelled.",
+  "previousArticleSlug": "barbarossa-the-edge-of-winter-1941-11-14",
+  "chronologyNotes": [
+    "The renewed offensive began in a sequence of attacks. Check each formation’s attack date rather than assigning every German army to 15 November.",
+    "The existing 14 November reconstruction is an earlier situation, not a verified map for this date."
+  ],
+  "preparedDate": "2026-10-15",
+  "mapStateId": "1941-11-15",
+  "sourceMethod": "Starting research references identify the planned evidence base. An outline is not a completed historical narrative or a verified tactical map.",
+  "nextArticleSlug": "barbarossa-the-southern-pincer-1941-11-18"
+}

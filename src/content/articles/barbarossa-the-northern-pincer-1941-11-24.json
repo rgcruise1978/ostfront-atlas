@@ -1,0 +1,64 @@
+{
+  "id": "barbarossa-phase-v-1941-11-24",
+  "slug": "barbarossa-the-northern-pincer-1941-11-24",
+  "title": "The Northern Pincer",
+  "subtitle": "Phase V research brief · full historical study in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "5",
+  "phase": "V — The Offensive Exhausted",
+  "historicalDate": "1941-11-24",
+  "historicalPeriod": "24 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p5-cmh-moscow",
+    "ushmm-pow-treatment",
+    "p5-loc-atlas-candidate"
+  ],
+  "sourceLocators": {
+    "p5-cmh-moscow": [
+      "Chapter III, To Moscow. Starting operational and strategic reference; verify each eventual narrative claim and military feature independently."
+    ],
+    "ushmm-pow-treatment": [
+      "1941–January 1942 discussion of German prisoner policies. Later aggregate mortality must not be assigned to one selected day."
+    ],
+    "p5-loc-atlas-candidate": [
+      "Collection-level candidate only. No exact Phase V sheet or printed situation date verified in this increment."
+    ]
+  },
+  "summary": "The northern pincer through Klin and Solnechnogorsk, Soviet withdrawals and reserve commitments, and the transport network leading toward the Moscow–Volga Canal.",
+  "body": "",
+  "location": "Klin, Solnechnogorsk and the northern Moscow approaches",
+  "outlineTopics": [
+    "The German offensive since November 15.",
+    "The roles of 3rd and 4th Panzer Groups.",
+    "Soviet 16th and 30th Armies.",
+    "Fighting along the Klin and Solnechnogorsk approaches.",
+    "The German capture of Klin during November 23–24, with the precise date checked against operational records.",
+    "Fighting around Solnechnogorsk and the timing of German entry.",
+    "Soviet defensive withdrawals and attempts to establish new positions.",
+    "German efforts to turn the Soviet northern flank.",
+    "The importance of the Leningrad–Moscow transport corridor.",
+    "The role of forests, roads, rivers, and settlements in limiting operational movement.",
+    "Soviet reserve formations.",
+    "German equipment losses and supply problems.",
+    "The danger of German advances toward the Moscow–Volga Canal.",
+    "The continuing central-front defense.",
+    "The relationship between German progress and the worsening condition of its mobile formations."
+  ],
+  "researchStatus": "Research brief and article route established. Full narrative, claim-level citations and dated military reconstruction remain in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Candidate atlas collection only. No exact sheet or daily situation date has been verified; an earlier or later sheet must not be relabelled.",
+  "previousArticleSlug": "barbarossa-rostov-falls-1941-11-21",
+  "chronologyNotes": [
+    "Verify the individual capture dates for Klin and Solnechnogorsk; 24 November is an editorial anchor, not a blanket capture date.",
+    "Separate observed control, contested settlements and intended objectives."
+  ],
+  "preparedDate": "2026-10-15",
+  "mapStateId": "1941-11-24",
+  "sourceMethod": "Starting research references identify the planned evidence base. An outline is not a completed historical narrative or a verified tactical map.",
+  "nextArticleSlug": "barbarossa-at-the-moscow-volga-canal-1941-11-28"
+}
