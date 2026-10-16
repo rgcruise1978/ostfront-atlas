@@ -24,11 +24,11 @@ export const campaigns = [
       { id: '2', title: 'Phase II: The Drive into the Soviet Interior', range: '10 July–25 August 1941', timeline: phaseTwoTimeline, status: 'Nine published studies · dated regional map syntheses' },
       { id: '3', title: 'Phase III: The Battle for Strategic Objectives', range: '26 August–29 September 1941', timeline: phaseThreeTimeline, status: 'Nine published studies · dated regional map syntheses' },
       { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten published studies · dated regional map reconstructions' },
-      { id: '5', title: 'Phase V: The Offensive Exhausted', range: '15 November–5 December 1941', timeline: phaseFiveTimeline, status: 'Eight research briefs · geographic reference maps' }
+      { id: '5', title: 'Phase V: The Offensive Exhausted', range: '15 November–5 December 1941', timeline: phaseFiveTimeline, status: 'Eight published studies · geographic reference maps' }
     ],
     map: { ...geography, center: [24, 54], bounds: [[4.5,43],[44,64]], referencePeriod: '1941-opening', placesUrl: '/data/geography/barbarossa-reference-places.geojson', boundaryUrl: geography.boundaryUrl, neighborsUrl: '/data/history/barbarossa-1941-neighbors.geojson', areaLabelsUrl: '/data/history/barbarossa-1941-area-labels.geojson', historicalUrl: '/data/history/barbarossa-1941-opening-frontier.geojson', controlUrl: '/data/history/barbarossa-1941-opening-control.geojson', operationsUrl: null },
     status: 'Dated territory and source-qualified operational areas',
-    description: 'Follow 44 selected dates through 5 December 1941. Phases I–IV have published studies and dated military maps. Phase V adds eight research briefs and geographic reference views while its full studies and military reconstructions are prepared.',
+    description: 'Follow 44 selected dates through 5 December 1941. Phases I–IV have published studies and dated military maps. Phase V adds eight published studies and geographic reference views; dated military reconstructions remain in preparation.',
     views: [
       { id: 'theatre', label: 'Full invasion theatre', bounds: [[4.5,43],[44,64]], phaseBounds: {'5':[[4.5,43],[44,67]]}, phaseLabels: {'5':'Entire Eastern Front'} },
       {id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]},

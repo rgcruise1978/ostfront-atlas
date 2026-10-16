@@ -1,0 +1,449 @@
+[
+  {
+    "id": "cmh-blitz",
+    "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+    "title": "Moscow to Stalingrad: Decision in the East (1987), Chapter II: The Blitzkrieg, pp. 25–46",
+    "date": "1987",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-2.html",
+    "type": "Official military history",
+    "relevance": "Opening operations, German assessments and Soviet mobilization; article locators restrict the account to the relevant early-war pages.",
+    "supports": [
+      "1941-07-01",
+      "1941-06-25",
+      "1941-07-06",
+      "1941-07-09",
+      "1941-06-21",
+      "1941-06-22",
+      "1941-06-28",
+      "1941-07-03"
+    ],
+    "notes": "Opened and checked for the local Barbarossa studies. Specific sections, pages or document locators appear with the article notes.",
+    "reuseRights": "Linked and cited; no reproduction licence for third-party editorial material is assumed."
+  },
+  {
+    "id": "ushmm-pow-treatment",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "The Treatment of Soviet POWs: Starvation, Disease, and Shootings, June 1941–January 1942",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-treatment-of-soviet-pows-starvation-disease-and-shootings-june-1941january-1942",
+    "type": "Historical reference",
+    "relevance": "Prisoner treatment and chronological limits: later mortality totals are not assigned to the initial encirclement day.",
+    "supports": [
+      "1941-06-28"
+    ],
+    "notes": "Opened and checked for the local Barbarossa studies. Specific sections, pages or document locators appear with the article notes.",
+    "reuseRights": "Linked and cited; no reproduction licence for third-party editorial material is assumed."
+  },
+  {
+    "id": "p4-harrison-industry",
+    "institution": "Mark Harrison · University of Warwick",
+    "title": "Industry and the Economy, draft chapter for The Soviet Union in World War II",
+    "date": "2009",
+    "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/industryeconomy2010.pdf",
+    "type": "Academic economic history chapter draft",
+    "relevance": "Documents the logistical costs, uneven restoration and survival value of Soviet industrial evacuation, including the October 1941 Kharkov tractor-plant example.",
+    "supports": [
+      "1941-10-16",
+      "1941-10-24",
+      "1941-11-02"
+    ],
+    "notes": "Public PDF pp. 1 and 10 inspected. Its later outcome evidence must be labelled retrospective in dated studies.",
+    "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+  },
+  {
+    "id": "p4-frus799",
+    "institution": "U.S. Department of State · Office of the Historian",
+    "title": "FRUS 1941, Volume I, Document 799: Roosevelt to Stalin, 30 October 1941",
+    "date": "1941-10-30",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d799",
+    "type": "Contemporary diplomatic document",
+    "relevance": "Billion-dollar Lend-Lease supply proposal and interest-free repayment terms.",
+    "supports": [
+      "1941-11-02",
+      "1941-11-14"
+    ],
+    "notes": "Full published document inspected. FRUS identifies this as a paraphrased text reprinted from the Department of State Bulletin.",
+    "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
+  },
+  {
+    "id": "p5-cmh-moscow",
+    "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+    "title": "Moscow to Stalingrad: Decision in the East, Chapter III: To Moscow",
+    "date": "1987",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-3.html",
+    "type": "Official military history",
+    "relevance": "Starting operational chronology for November–early December, German and Soviet commands, Rostov and the transition to Soviet counteroffensive operations.",
+    "supports": [
+      "1941-11-15",
+      "1941-11-18",
+      "1941-11-21",
+      "1941-11-24",
+      "1941-11-28",
+      "1941-11-29",
+      "1941-12-02",
+      "1941-12-05"
+    ],
+    "notes": "Chapter text inspected for the Phase V foundation. Printed pp. 50–51 distinguish the 15–16 November northern opening and 18 November southern attack; pp. 54–55 discuss Rostov; pp. 59–60 reserve armies and the canal sector; pp. 63–66 distinguish 5 and 6 December. Tactical positions and disputed settlement dates still require independent corroboration. German and Soviet claims are critically evaluated, not adopted automatically.",
+    "reuseRights": "Linked and paraphrased; no source artwork reproduced."
+  },
+  {
+    "id": "p5-rostov-museum",
+    "institution": "Rostov Regional Museum of Local Lore",
+    "title": "The Battle for Rostov-on-Don, 21–29 November 1941 (80th-anniversary historical account)",
+    "date": "2021",
+    "url": "https://www.rostovmuseum.ru/calendar/detail/?ID=3699",
+    "type": "Institutional local history",
+    "relevance": "Starting reference for the 21 November capture, 29 November recapture, Don crossings, local militia and personal collections.",
+    "supports": [
+      "1941-11-21",
+      "1941-11-29",
+      "1941-12-05"
+    ],
+    "notes": "Full institutional article inspected. Its capture/recapture sequence is checked alongside the CMH history. Commemorative framing, casualty totals, unit-specific assertions and quoted orders require critical corroboration before inclusion in a completed study or military layer. No quoted order or exact battlefield position is reproduced in this increment.",
+    "reuseRights": "Linked only; no permission to reproduce museum photographs or collection artwork is assumed."
+  },
+  {
+    "id": "p5-stahel-relaunch",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "The Battle for Moscow, chapter 5: Typhoon re-launched (public opening extract)",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/typhoon-relaunched/98FFE4424D50B7D14B9C10DAE0E3D923",
+    "type": "Academic monograph extract",
+    "date": null,
+    "relevance": "Staggered opening, Reinhardt’s assessment and Lama River attacks.",
+    "notes": "Only the public opening extract was inspected; the subscription chapter is not claimed as read.",
+    "supports": [
+      "1941-11-15",
+      "1941-11-28"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-stahel-intro",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "The Battle for Moscow (2015), Introduction, printed pp. 1–10",
+    "url": "https://assets.cambridge.org/97811070/87606/excerpt/9781107087606_excerpt.pdf",
+    "type": "Academic monograph excerpt",
+    "date": null,
+    "relevance": "Strategic interpretation and the documented 2012 recovery of a Soviet soldier near Vyazma.",
+    "notes": "The publisher’s ten-page excerpt was inspected; later chapters are not inferred from it.",
+    "supports": [
+      "1941-11-15"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-frus810",
+    "institution": "U.S. Department of State · Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 810: Edward Page memorandum, 15 November 1941",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d810",
+    "type": "Contemporary diplomatic document",
+    "date": null,
+    "relevance": "Harriman’s concern over petroleum equipment, technicians, interagency consultation and Soviet confidence.",
+    "notes": "Full published memorandum inspected. Administrative commitment is distinct from equipment delivered to troops.",
+    "supports": [
+      "1941-11-15"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-frus813",
+    "institution": "U.S. Department of State · Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 813: Hull to Winant, 24 November 1941",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d813",
+    "type": "Contemporary diplomatic document",
+    "date": null,
+    "relevance": "Shipping and aircraft assembly facilities for Soviet aid; acknowledged physical obstacles.",
+    "notes": "Full 24 November telegram inspected; the December editorial continuation is not backdated.",
+    "supports": [
+      "1941-11-24",
+      "1941-11-29",
+      "1941-12-05"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-tula-library",
+    "institution": "Boris Yeltsin Presidential Library",
+    "title": "The defence of Tula began: historical account of the October–December 1941 operation",
+    "url": "https://www.prlib.ru/node/619660",
+    "type": "Institutional historical synthesis",
+    "date": null,
+    "relevance": "Tula defence, local industrial activity, 239th Rifle Division and the bypass toward Kashira.",
+    "notes": "Russian text inspected and paraphrased. Commemorative language and precise advance dates require corroboration; reaching the Kashira approaches is not capture of Kashira.",
+    "supports": [
+      "1941-11-18"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-tula-regiment-order",
+    "institution": "Electronic Library of Historical Documents · Tula City Defence Committee",
+    "title": "Catalogue record: resolution forming the Tula Workers’ Regiment, 23 October 1941",
+    "url": "https://docs.historyrussia.org/ru/nodes/209877-iz-postanovleniya-tulskogo-gorodskogo-komiteta-oborony-o-formirovanii-tulskogo-rabochego-polka-23-oktyabrya-1941-g",
+    "type": "Archival document catalogue",
+    "date": null,
+    "relevance": "Document identity, issuing committee and formation date.",
+    "notes": "Catalogue only: PATO f. 3039, op. 1, d. 1, ll. 3–5; the full resolution was not inspected.",
+    "supports": [
+      "1941-11-18"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-stavka0428",
+    "institution": "Stavka · translation by James F. Gebhardt, The Russian Battlefield",
+    "title": "Order no. 0428, 17 November 1941: destruction of settlements behind German lines",
+    "url": "https://battlefield.ru/library/archives/reports/reports8.html",
+    "type": "Primary military order in published translation",
+    "date": null,
+    "relevance": "Shelter denial, destruction orders, evacuation instruction and reporting requirements.",
+    "notes": "Full English transcription inspected. Host cites TsAMO collection 208, index 2524, item 1, sheets 257–58. An order establishes intended policy, not compliance in every locality.",
+    "supports": [
+      "1941-11-18",
+      "1941-11-24",
+      "1941-12-05"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-stahel-long-road",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "The Battle for Moscow, chapter 6: The long road to Moscow (public extract)",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/long-road-to-moscow/BCE775F69E0312B3E3B73C1CDA7F5944",
+    "type": "Academic monograph extract",
+    "date": null,
+    "relevance": "Parallel British operations, Soviet local counterattacks and formation of reserves.",
+    "notes": "Public extract inspected; full chapter not accessed.",
+    "supports": [
+      "1941-11-18"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-stahel-frozen",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "The Battle for Moscow, chapter 8: The frozen offensive (public extract)",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/frozen-offensive/D77ACE20F67761484FD870977EE78D0D",
+    "type": "Academic monograph extract",
+    "date": null,
+    "relevance": "22 November German intelligence assessment and Soviet reserve deployment.",
+    "notes": "Public extract inspected; full chapter not accessed.",
+    "supports": [
+      "1941-11-24"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-stahel-wire",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "The Battle for Moscow, chapter 9: Down to the wire (public extract)",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/down-to-the-wire/D36FF8D956A5E722C86EEAAD5A2F75FF",
+    "type": "Academic monograph extract",
+    "date": null,
+    "relevance": "Dated German personnel losses and quoted soldiers’ letters and recollections.",
+    "notes": "Public extract inspected. Personnel figures retain their dates and geographic scope; retrospective recollections are identified.",
+    "supports": [
+      "1941-12-02"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-stahel-gates",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "The Battle for Moscow, chapter 10: To the gates of Moscow (public extract)",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/to-the-gates-of-moscow/AEF5D65058F1396A471089D77772E569",
+    "type": "Academic monograph extract",
+    "date": null,
+    "relevance": "Limits of operational-map proximity and reassessment of Kluge’s role.",
+    "notes": "Public extract inspected; full chapter not accessed.",
+    "supports": [
+      "1941-12-02"
+    ],
+    "reuseRights": "Referenced and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-guderian-flanks",
+    "institution": "Heinz Guderian · U.S. Army historical studies transcription",
+    "title": "Flank Defense in Far-Reaching Operations",
+    "url": "https://www.allworldwars.com/Flank-Defense-in-Far-Reaching-Operations-by-Heinz-Guderian.html",
+    "type": "Retrospective military study",
+    "date": null,
+    "relevance": "November section inspected; retrospective commander account, not independent corroboration of his judgements.",
+    "notes": "November section inspected; retrospective commander account, not independent corroboration of his judgements.",
+    "supports": [
+      "1941-11-18"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-winkler-rostov",
+    "institution": "Christina Winkler · University of Leicester",
+    "title": "The Holocaust in Rostov-on-Don: Official Russian Holocaust Remembrance Versus a Local Case Study (PhD, 2015)",
+    "url": "https://pstorage-leicester-213265548798.s3.amazonaws.com/18306515/2015WinklerCPhD.pdf",
+    "type": "Academic doctoral research",
+    "date": null,
+    "relevance": "Printed pp. 70–72 (PDF pp. 76–78) inspected for first-occupation testimony, registration and uncertain mortality; original witness interviews not independently accessed.",
+    "notes": "Printed pp. 70–72 (PDF pp. 76–78) inspected for first-occupation testimony, registration and uncertain mortality; original witness interviews not independently accessed.",
+    "supports": [
+      "1941-11-21",
+      "1941-11-29",
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-frus653",
+    "institution": "U.S. Department of State · Office of the Historian",
+    "title": "FRUS 1941, vol. I, document 653: Steinhardt to the Secretary of State, 9 November 1941",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d653",
+    "type": "Contemporary diplomatic document",
+    "date": null,
+    "relevance": "Full telegram and editorial note inspected; reports Dekanosov’s assessment and Cripps’s earlier proposal, not independently verified Soviet strength data.",
+    "notes": "Full telegram and editorial note inspected; reports Dekanosov’s assessment and Cripps’s earlier proposal, not independently verified Soviet strength data.",
+    "supports": [
+      "1941-11-21",
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-istra-museum",
+    "institution": "New Jerusalem Museum",
+    "title": "The New Jerusalem Museum during the war",
+    "url": "https://njerusalem.ru/news/muzej-novyj-ierusalim-v-gody-vojny/",
+    "type": "Institutional history",
+    "date": null,
+    "relevance": "Sections 1–5 inspected. Institutional commemoration used for evacuation records and local chronology; the unsupported first-liberated-city claim is rejected.",
+    "notes": "Sections 1–5 inspected. Institutional commemoration used for evacuation records and local chronology; the unsupported first-liberated-city claim is rejected.",
+    "supports": [
+      "1941-11-24"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-klin-museum",
+    "institution": "Tchaikovsky State Memorial Museum",
+    "title": "Preserving and reviving: wartime museum exhibition",
+    "url": "https://tchaikovsky.house/exhibition/sohranyaya-i-vozrozhdaya/",
+    "type": "Institutional history",
+    "date": null,
+    "relevance": "Institutional exhibition account. Names, evacuation and 22 November entry date read; contrasts with 23 November on the museum history page.",
+    "notes": "Institutional exhibition account. Names, evacuation and 22 November entry date read; contrasts with 23 November on the museum history page.",
+    "supports": [
+      "1941-11-24"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-klin-history",
+    "institution": "Tchaikovsky State Memorial Museum",
+    "title": "Museum history: 1941–1945",
+    "url": "https://tchaikovsky.house/muzei/history/",
+    "type": "Institutional history",
+    "date": null,
+    "relevance": "Institutional chronology records 23 November occupation; dates are compared with the exhibition and U.S. Army account.",
+    "notes": "Institutional chronology records 23 November occupation; dates are compared with the exhibition and U.S. Army account.",
+    "supports": [
+      "1941-11-24"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-canal-musienko",
+    "institution": "S. S. Rybakov · Moscow–Volga historical project",
+    "title": "Military events at the Komsomolsky hydraulic works, November–December 1941",
+    "url": "https://moskva-volga.ru/voennye-sobytiya-na-gidrouzle-komsomolskij-v-noyabre-dekabre-1941-goda/",
+    "type": "Documentary historical account",
+    "date": null,
+    "relevance": "Published recollections of engineer Ivan Musienko inspected; retrospective local testimony, not independent proof of exact hours, unit strength or all demolition claims.",
+    "notes": "Published recollections of engineer Ivan Musienko inspected; retrospective local testimony, not independent proof of exact hours, unit strength or all demolition claims.",
+    "supports": [
+      "1941-11-28"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-canal-report28",
+    "institution": "Western Front operational report · Lugovaya document transcription",
+    "title": "28 November 1941: Yakhroma bridgehead report",
+    "url": "https://lughistory.ru/hronika-vojny/hronika-28-11-1941/",
+    "type": "Documentary historical account",
+    "date": null,
+    "relevance": "Specific transcription citing TsAMO f. 208, op. 2511, d. 219, ll. 404–405 inspected. The archival original was not accessed; estimates and local times are not treated as independently verified.",
+    "notes": "Specific transcription citing TsAMO f. 208, op. 2511, d. 219, ll. 404–405 inspected. The archival original was not accessed; estimates and local times are not treated as independently verified. Also inspected the reproduced report of armoured-train commander Malyshev concerning damaged track and weapons; its statements are attributed to that report.",
+    "supports": [
+      "1941-11-28"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-dmitlag",
+    "institution": "Memory Map · Butovo memorial research",
+    "title": "Dmitlag: from the history of the Moscow–Volga Canal construction",
+    "url": "https://karta.psmb.ru/karta/articlesingle/dmitlag-iz-istorii-stroitelstva-kanala-moskva-volga/",
+    "type": "Documentary historical account",
+    "date": null,
+    "relevance": "Opening history of forced labour construction and camp organization inspected. No numerical mortality claim adopted.",
+    "notes": "Opening history of forced labour construction and camp organization inspected. No numerical mortality claim adopted.",
+    "supports": [
+      "1941-11-28"
+    ],
+    "reuseRights": "Linked and paraphrased; no images reproduced."
+  },
+  {
+    "id": "p5-radio-intelligence",
+    "institution": "U.S. Army historical study · declassified copy held by the National Security Agency",
+    "title": "German Radio Intelligence, manuscript P-038",
+    "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_240/41748549078781.pdf",
+    "type": "Postwar military study",
+    "date": null,
+    "relevance": "German signals intelligence on Soviet reorganization and the Rostov concentration.",
+    "notes": "Printed pp. 96–99 (PDF pp. 113–116) inspected. Retrospective German account; self-vindicating claims and compressed battle chronology require comparison with operational records.",
+    "supports": [
+      "1941-11-29"
+    ],
+    "reuseRights": "Linked and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-cmh-counteroffensive",
+    "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+    "title": "Moscow to Stalingrad: Decision in the East, Chapter IV: The Counteroffensive",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-4.html",
+    "type": "Official military history",
+    "date": "1987",
+    "relevance": "Printed pp. 69–73 inspected, especially p. 71 on Meretskov's position by 5 December. Events after the phase endpoint are explicitly dated as later developments.",
+    "notes": "Printed pp. 69–73 inspected, especially p. 71 on Meretskov's position by 5 December. Events after the phase endpoint are explicitly dated as later developments.",
+    "supports": [
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-cmh-crimea",
+    "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+    "title": "Moscow to Stalingrad: Decision in the East, Chapter VI: Crisis in the Crimea",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-6.html",
+    "type": "Official military history",
+    "date": "1987",
+    "relevance": "Printed pp. 105–107 inspected for the early-December southern front and Sevastopol. Later assault and landing outcomes are not assigned to 5 December.",
+    "notes": "Printed pp. 105–107 inspected for the early-December southern front and Sevastopol. Later assault and landing outcomes are not assigned to 5 December.",
+    "supports": [
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and paraphrased; no source images reproduced."
+  },
+  {
+    "id": "p5-leningrad-diaries",
+    "institution": "Lena Mukhina and Yura Ryabinkin · Arzamas documentary selection",
+    "title": "Blockade diaries: Lena Mukhina and Yura Ryabinkin, November 1941",
+    "url": "https://arzamas.academy/materials/1464",
+    "type": "Edited primary-source extracts",
+    "date": null,
+    "relevance": "Selected Russian diary text inspected: Mukhina, 21 November 1941; Ryabinkin, 6–7 November. Paraphrased without invented dialogue. The curated extracts, not the complete original manuscripts, were consulted.",
+    "notes": "Selected Russian diary text inspected: Mukhina, 21 November 1941; Ryabinkin, 6–7 November. Paraphrased without invented dialogue. The curated extracts, not the complete original manuscripts, were consulted.",
+    "supports": [
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and paraphrased; no source images reproduced."
+  }
+]

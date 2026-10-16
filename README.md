@@ -1,6 +1,6 @@
 # Ostfront Atlas
 
-A React/Vite historical atlas with 49 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–IV through December 5, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. The collection contains 42 published studies and eight Phase V research briefs by R.G. Cruise. Phase IV adds ten edited and source-checked studies; its ten map dates now have dated regional military reconstructions, source notes and complete linked article context.
+A React/Vite historical atlas with 49 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–V through December 5, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. The collection contains 50 published studies by R.G. Cruise. Phase IV adds ten edited and source-checked studies; its ten map dates now have dated regional military reconstructions, source notes and complete linked article context.
 
 ## Run and verify
 
@@ -38,8 +38,8 @@ The geography validator accepts `OSTFRONT_AUDIT_DIR` pointing to a writable fold
 
 Deployment of this corrected release to the existing Netlify site is authorized. Custom-domain DNS and search-index activation remain separate. See the accompanying local `launch-review` package for verification, retained historical limitations and domain instructions.
 
-## Phase V foundation
+## Phase V studies
 
-The five Barbarossa phases contain 44 selected dates through 5 December 1941. Phase V adds eight research briefs with outlines, starting references and previous/next links. Its full studies and dated military reconstructions are not yet complete. Initial maps use the shared physical geography and an explicitly labelled political reference for 21 June 1941; no earlier front, formation or occupied-area reconstruction is carried forward. The atlas closes this campaign on 5 December as an editorial endpoint, with no empty winter campaign.
+The five Barbarossa phases contain 44 selected dates through 5 December 1941. Phase V adds eight edited, cited studies of 3,000–5,000 substantive words with historical asides and chronological reading links. Its dated military reconstructions remain in preparation. Initial maps use the shared physical geography and an explicitly labelled political reference for 21 June 1941; no earlier front, formation or occupied-area reconstruction is carried forward. The atlas closes this campaign on 5 December as an editorial endpoint, with no empty winter campaign.
 
-`phase-v-review/checkpoint.json` protects all 42 published article files, historical/physical data and the shared palette. `scripts/validate-phase-five-foundation.py` verifies preservation, honest publication status, sources and capital-role extension. Browser checks and publication evidence are saved in `phase-v-review/`. Next: complete Phase V geographic detail, beginning with the Moscow–Volga Canal/Yakhroma region.
+`phase-v-review/checkpoint.json` protects all 42 published article files, historical/physical data and the shared palette. `scripts/validate-phase-five-foundation.py` verifies preservation, honest publication status, sources and capital-role extension. Foundation evidence is in `phase-v-review/`; study editorial, browser and release evidence is in `phase-v-edit-review/`. Next: complete Phase V geographic detail, beginning with the Moscow–Volga Canal/Yakhroma region.

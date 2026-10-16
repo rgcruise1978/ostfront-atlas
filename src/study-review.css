@@ -11,3 +11,9 @@
   line-height: 1.65;
   overflow-wrap: anywhere;
 }
+
+/* Phase V reference locators stay available without overwhelming the source list. */
+.article-sources .source-passages { margin: .7rem 0; font-size: .9rem; line-height: 1.6; }
+.article-sources .source-passages summary { cursor: pointer; font-weight: 600; }
+.article-sources .source-passages ul { padding-left: 1.3rem; }
+.article-sources .source-passages li { margin-bottom: .5rem; }

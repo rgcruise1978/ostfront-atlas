@@ -317,7 +317,19 @@ assert(JSON.stringify(phaseFive.map(event=>event.date))===JSON.stringify(phaseFi
 for(const [index,event] of phaseFive.entries()) {
  const article=articles.get(event.articleSlug),snapshot=snapshotIndex[event.date];
  assert(article?.historicalDate===event.date&&article.phaseId==='5'&&article.author==='R.G. Cruise','Phase V identity mismatch');
- assert(article.status==='research-brief'&&!article.body&&!article.publicationDate&&article.outlineTopics.length>=14,'Unfinished Phase V article presented as complete');
+ assert(article.status==='published'&&article.body&&article.preparedDate&&article.publicationDate&&article.reviewedDate&&article.reviewedBodySha256===createHash('sha256').update(article.body).digest('hex')&&article.outlineTopics.length>=14,'Phase V must contain complete reviewed published studies with matching review hashes');
+ const prose=article.body.replace(/<sup\b[\s\S]*?<\/sup>/g,'').replace(/<p\b[^>]*class="eyebrow"[^>]*>[\s\S]*?<\/p>/g,'').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g,'').replace(/<[^>]*>/g,' ').replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/&(?:amp|quot|apos|lt|gt);/g,entity=>({'&amp;':'&','&quot;':'"','&apos;':"'",'&lt;':'<','&gt;':'>'})[entity]);
+ const words=(prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu)||[]).length;
+ assert(words>=3000&&words<=5000&&words===article.substantiveWordCount&&words===article.narrativeWordCount,`${article.slug}: incorrect substantive word count (${words})`);
+ assert(article.sections.length>=6&&article.sections.length<=9&&article.sections.every(section=>article.body.includes(`id="${section.id}"`)),`${article.slug}: missing contents targets`);
+ const asideCount=(article.body.match(/<aside\b/g)||[]).length;
+ assert(asideCount>=2&&asideCount<=3,`${article.slug}: historical asides missing`);
+ const bodyIds=[...article.body.matchAll(/\bid="([^"]+)"/g)].map(match=>match[1]);
+ assert(new Set(bodyIds).size===bodyIds.length,`${article.slug}: duplicate article anchors`);
+ for(const [sourceIndex,id] of article.sourceIds.entries()) {
+  const citations=[...article.body.matchAll(/href="#source-([^"]+)"[^>]*>\[(\d+)\]/g)].filter(match=>match[1]===id);
+  assert(article.body.includes(`id="cite-${id}"`)&&citations.length&&citations.every(match=>Number(match[2])===sourceIndex+1),`${article.slug}: broken citation numbering or return target`);
+ }
  assert(article.previousArticleSlug===wholeCampaign[35+index].articleSlug&&article.nextArticleSlug===phaseFive[index+1]?.articleSlug,'Phase V reading sequence mismatch');
  assert(article.sourceIds.length>0&&article.sourceIds.every(id=>sourceIds.has(id)&&article.sourceLocators[id]?.length),'Phase V research references missing');
  assert(event.snapshotStatus==='geographic-reference-only'&&event.geographicFeatureIds.length===0&&event.politicalReferenceDate==='1941-06-21','Phase V map status is misleading');
@@ -325,4 +337,4 @@ for(const [index,event] of phaseFive.entries()) {
  for(const layer of datedLayers) assert(!layer.features.some(feature=>feature.properties.snapshots?.includes(event.date)),'Earlier military geometry carried into Phase V');
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id&&c.endDate>='1941-12-05')),'Phase V capital roles missing');
-console.log('Validated eight Phase V research briefs, exact dates, source references, chronological links and honest geographic-reference status.');
+console.log('Validated eight published Phase V studies with reviewed body hashes, substantive word counts, citations, contents, chronological links and geographic-reference map status.');
