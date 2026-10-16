@@ -1,0 +1,107 @@
+{
+  "result": "passed",
+  "articlesUnchanged": 50,
+  "paletteUnchanged": true,
+  "earlierDatesUnchanged": 41,
+  "earlierSourceRecordsUnchanged": 473,
+  "paragraphs": 281,
+  "features": 901,
+  "dates": [
+    {
+      "date": "1941-11-15",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 49,
+        "military-operations": 15,
+        "dated-fronts": 4,
+        "historical-logistics": 11,
+        "territorial-changes": 2
+      },
+      "paragraphs": 34
+    },
+    {
+      "date": "1941-11-18",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 72,
+        "military-operations": 17,
+        "dated-fronts": 4,
+        "historical-logistics": 12,
+        "territorial-changes": 2
+      },
+      "paragraphs": 35
+    },
+    {
+      "date": "1941-11-21",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 72,
+        "military-operations": 22,
+        "dated-fronts": 4,
+        "historical-logistics": 12,
+        "territorial-changes": 2
+      },
+      "paragraphs": 34
+    },
+    {
+      "date": "1941-11-24",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 71,
+        "military-operations": 24,
+        "dated-fronts": 4,
+        "historical-logistics": 12,
+        "territorial-changes": 2
+      },
+      "paragraphs": 35
+    },
+    {
+      "date": "1941-11-28",
+      "counts": {
+        "military-control": 4,
+        "formation-positions": 71,
+        "military-operations": 26,
+        "dated-fronts": 4,
+        "historical-logistics": 13,
+        "territorial-changes": 1
+      },
+      "paragraphs": 35
+    },
+    {
+      "date": "1941-11-29",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 73,
+        "military-operations": 26,
+        "dated-fronts": 4,
+        "historical-logistics": 13,
+        "territorial-changes": 2
+      },
+      "paragraphs": 36
+    },
+    {
+      "date": "1941-12-02",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 68,
+        "military-operations": 21,
+        "dated-fronts": 4,
+        "historical-logistics": 13,
+        "territorial-changes": 2
+      },
+      "paragraphs": 37
+    },
+    {
+      "date": "1941-12-05",
+      "counts": {
+        "military-control": 3,
+        "formation-positions": 71,
+        "military-operations": 32,
+        "dated-fronts": 4,
+        "historical-logistics": 13,
+        "territorial-changes": 2
+      },
+      "paragraphs": 35
+    }
+  ]
+}

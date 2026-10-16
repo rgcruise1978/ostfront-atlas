@@ -332,9 +332,13 @@ for(const [index,event] of phaseFive.entries()) {
  }
  assert(article.previousArticleSlug===wholeCampaign[35+index].articleSlug&&article.nextArticleSlug===phaseFive[index+1]?.articleSlug,'Phase V reading sequence mismatch');
  assert(article.sourceIds.length>0&&article.sourceIds.every(id=>sourceIds.has(id)&&article.sourceLocators[id]?.length),'Phase V research references missing');
- assert(event.snapshotStatus==='geographic-reference-only'&&event.geographicFeatureIds.length===0&&event.politicalReferenceDate==='1941-06-21','Phase V map status is misleading');
- assert(['operations','areas','formations','logistics','fronts'].every(key=>snapshot[key]===0),'Unresearched Phase V military data claimed');
- for(const layer of datedLayers) assert(!layer.features.some(feature=>feature.properties.snapshots?.includes(event.date)),'Earlier military geometry carried into Phase V');
+ assert(event.snapshotStatus==='dated-regional-synthesis'&&event.geographicFeatureIds.length>0&&!event.politicalReferenceDate,'Phase V reconstruction status invalid');
+ assert(['operations','areas','formations','logistics','fronts'].every(key=>snapshot[key]>0),'Phase V military layer missing');
+ for(const layer of datedLayers) for(const feature of layer.features.filter(f=>f.properties.snapshots?.includes(event.date))) {
+  const p=feature.properties;assert(p.id.startsWith('p5-')&&p.sourceIds?.length&&p.sourceIds.every(id=>sourceIds.has(id)&&p.sourceLocators?.[id]?.length),'Phase V feature lacks evidence or inherits an earlier position');
+  if(p.movementType!=='planned'&&p.movementEnd)assert(p.movementEnd<=event.date,'Future movement leaked into selected date');
+ }
+
 }
 assert(['berlin','moscow','warsaw','bucharest','helsinki'].every(id=>capitals.some(c=>c.id===id&&c.endDate>='1941-12-05')),'Phase V capital roles missing');
-console.log('Validated eight published Phase V studies with reviewed body hashes, substantive word counts, citations, contents, chronological links and geographic-reference map status.');
+console.log('Validated eight published Phase V studies with reviewed body hashes, substantive word counts, citations, contents, chronological links and sourced dated regional maps.');

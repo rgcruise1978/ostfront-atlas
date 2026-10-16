@@ -8,8 +8,9 @@ ROOT=Path(__file__).resolve().parents[1];OUT=Path(os.environ.get('OSTFRONT_AUDIT
 read=lambda p:json.loads((ROOT/p).read_text())
 mappedDates=[e['date'] for n in ['timeline','barbarossa-timeline','barbarossa-phase-ii-timeline','barbarossa-phase-iii-timeline'] for e in read('src/data/'+n+'.json')]
 referenceDates=[e['date'] for e in read('src/data/barbarossa-phase-iv-timeline.json')]
-dates=mappedDates+referenceDates
-assert len(dates)==len(set(dates))==41 and len(mappedDates)==31 and len(referenceDates)==10
+phaseFiveDates=[e['date'] for e in read('src/data/barbarossa-phase-v-timeline.json')]
+dates=mappedDates+referenceDates+phaseFiveDates
+assert len(dates)==len(set(dates))==49 and len(mappedDates)==31 and len(referenceDates)==10 and len(phaseFiveDates)==8
 sources={s['id'] for s in read('src/data/sources.json')};records=read('src/data/territorial-states.json')
 G={f['properties']['id']:shape(f['geometry']) for f in read('public/data/history/europe-geometries.geojson')['features']}
 assert len({r['id'] for r in records})==len(records)
@@ -70,8 +71,8 @@ for c in read('src/data/territorial-changes.json'):
  assert c['eventDate']<=c['effectiveVisualizationDate'] and all(i in sources for i in c['sourceIds']),c['id']
  assert all(k in c for k in ['previousControl','newControl','previousAdministration','newAdministration','sovereigntyOrClaim','featureIds','uncertainty'])
 
-# Phase IV is now a dated regional reconstruction with independent gates.
-for d in referenceDates:
+# Phases IV and V have dated regional reconstructions with independent gates.
+for d in referenceDates+phaseFiveDates:
  assert any(d in f['properties']['snapshots'] for f in collections['reference-borders']),d
  for name in ['military-control','military-operations','formation-positions','dated-fronts','historical-logistics']:
   assert any(d in f['properties']['snapshots'] for f in collections[name]),(d,name)
@@ -80,5 +81,5 @@ protected={p:h for p,h in json.loads((OUT/'before-hashes.json').read_text()).ite
 for p,h in protected.items():assert hashlib.sha256((ROOT/p).read_bytes()).hexdigest()==h,('Article changed',p)
 report=dict(result='passed',dates=rows,articlesUnchanged=len(protected),features={n:len(f) for n,f in collections.items()},precisionLimits=['Forward edges are regional syntheses, not surveyed continuous fronts','Several daily German sheets inaccessible: dated documentary synthesis and lower-confidence connecting sectors explicitly identified','Fine administrative boundaries retain documented limits','Modern natural river courses are a separately licensed physical reference'])
 (OUT/'data-validation.json').write_text(json.dumps(report,indent=2)+'\n')
-print('Passed 41 military map dates, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
+print('Passed 49 military map dates, geometry validity, sources, temporal records and',len(protected),'unchanged articles.')
 print(report['features'])

@@ -1,0 +1,13 @@
+{
+  "result": "passed",
+  "environment": "local production build 127.0.0.1:5201",
+  "checks": [
+    "Pavel Belov search returns dated 1st Guards Cavalry Corps",
+    "Feature panel displays commander, source passages, position and evidence limits",
+    "Copy link retains date phase region and actual camera",
+    "Presentation enters and exits",
+    "Ordered plans and historical supply toggles change checked state",
+    "Map feature link opens correct published study section",
+    "Article section returns to dated map and 35 context passages"
+  ]
+}

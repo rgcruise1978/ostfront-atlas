@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Moscow\u2013Volga Canal",
+    "relation": 1731767,
+    "version": 75,
+    "ways": 31,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/1731767/full.json",
+    "license": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+    "usage": "Separately attributed contemporary waterway centreline; 1941 engineering and levels not reconstructed"
+  },
+  {
+    "name": "Yakhroma",
+    "relation": 15886853,
+    "version": 22,
+    "ways": 23,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/15886853/full.json",
+    "license": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+    "usage": "Separately attributed contemporary waterway centreline; 1941 engineering and levels not reconstructed"
+  },
+  {
+    "name": "Mius",
+    "relation": 4803477,
+    "version": 53,
+    "ways": 40,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/4803477/full.json",
+    "license": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+    "usage": "Separately attributed contemporary waterway centreline; 1941 engineering and levels not reconstructed"
+  },
+  {
+    "name": "Istra",
+    "relation": 2469840,
+    "version": 41,
+    "ways": 29,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/2469840/full.json",
+    "license": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+    "usage": "Separately attributed contemporary waterway centreline; 1941 engineering and levels not reconstructed"
+  },
+  {
+    "name": "Don",
+    "relation": 416351,
+    "version": 179,
+    "ways": 264,
+    "url": "https://api.openstreetmap.org/api/0.6/relation/416351/full.json",
+    "license": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+    "usage": "Separately attributed contemporary waterway centreline; 1941 engineering and levels not reconstructed"
+  }
+]

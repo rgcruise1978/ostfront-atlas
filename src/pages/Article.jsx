@@ -26,9 +26,9 @@ export default function Article() {
   const review = article.status === 'ready-for-review';
   const campaign = campaignById(article.campaignId);
   const datedStudyMap = campaign?.timeline.find(entry => entry.date === article.historicalDate)?.snapshotStatus === 'dated-regional-synthesis';
-  const phaseFourMap=datedStudyMap&&article.phaseId==='4';
+  const phaseFourMap=datedStudyMap&&['4','5'].includes(article.phaseId);
   const sourceMethod = datedStudyMap && article.sourceMethod ? article.sourceMethod.replace('Phase III maps remain geographic references; dated military reconstruction is separate.', 'The companion map is a dated regional military reconstruction. Feature sources and precision notes distinguish reported positions from approximate connecting edges.') : article.sourceMethod;
-  const displayedSourceMethod=phaseFourMap?sourceMethod?.replace('The Phase IV companion map is geographic reference only; it does not claim verified dated military positions.','The companion map now provides a dated regional reconstruction. Feature sources and precision notes distinguish reported positions, approximate sectors and schematic corridors.'):sourceMethod;
+  const displayedSourceMethod=article.phaseId==='5'&&datedStudyMap?'The companion atlas provides dated regional military reconstructions with feature sources, event intervals, qualified geometry and context for every study section. '+(sourceMethod||'').replace(/Phase V[^.]*geographic[^.]*\./g,''):phaseFourMap?sourceMethod?.replace('The Phase IV companion map is geographic reference only; it does not claim verified dated military positions.','The companion map now provides a dated regional reconstruction. Feature sources and precision notes distinguish reported positions, approximate sectors and schematic corridors.'):sourceMethod;
   const cited = article.sourceIds.map(id => sources.find(source => source.id === id)).filter(Boolean);
   const dossier = Boolean(article.sections?.length);
   const adjacent=adjacentStudySlugs(article);
