@@ -1,0 +1,84 @@
+{
+  "result": "editorial pass complete; deployment pending",
+  "author": "R.G. Cruise",
+  "studies": [
+    {
+      "date": "1941-11-15",
+      "title": "The Final Offensive",
+      "slug": "barbarossa-the-final-offensive-1941-11-15",
+      "words": 3158,
+      "bodySha256": "09595b06ab6239b6c6f06789c7ad64195ed9351af581d11fd1f970a6ac78455c",
+      "sources": 8,
+      "citations": 36
+    },
+    {
+      "date": "1941-11-18",
+      "title": "The Southern Pincer",
+      "slug": "barbarossa-the-southern-pincer-1941-11-18",
+      "words": 3175,
+      "bodySha256": "cd1342b584e8d6d489a014f790782c726a617342a35e47b82232c10eed972f18",
+      "sources": 8,
+      "citations": 44
+    },
+    {
+      "date": "1941-11-21",
+      "title": "Rostov Falls",
+      "slug": "barbarossa-rostov-falls-1941-11-21",
+      "words": 3129,
+      "bodySha256": "67106288542014e4e6848becd5fc2ee0dc70dc8e309e7ece204d47e6dd89abea",
+      "sources": 6,
+      "citations": 36
+    },
+    {
+      "date": "1941-11-24",
+      "title": "The Northern Pincer",
+      "slug": "barbarossa-the-northern-pincer-1941-11-24",
+      "words": 3157,
+      "bodySha256": "0c237b6bdcc55b908ca6eae41f993d333a08d298eeb56f3b8c3dd2b40ff4e3cf",
+      "sources": 8,
+      "citations": 37
+    },
+    {
+      "date": "1941-11-28",
+      "title": "At the Moscow\u2013Volga Canal",
+      "slug": "barbarossa-at-the-moscow-volga-canal-1941-11-28",
+      "words": 3195,
+      "bodySha256": "07d47909f3ab2ac7d4f39c5833b6894ce0ca262a624dc119c48198e2a21d874c",
+      "sources": 5,
+      "citations": 45
+    },
+    {
+      "date": "1941-11-29",
+      "title": "Rostov Retaken",
+      "slug": "barbarossa-rostov-retaken-1941-11-29",
+      "words": 3190,
+      "bodySha256": "c35c645c29b771d8692acad739e26ba314b713d18243eb3d20f1e680bd3bf48e",
+      "sources": 4,
+      "citations": 41
+    },
+    {
+      "date": "1941-12-02",
+      "title": "The Limits of the Advance",
+      "slug": "barbarossa-the-limits-of-the-advance-1941-12-02",
+      "words": 3236,
+      "bodySha256": "897fce3761a0bec911ce0fc261eec16ccacc763d1c19c5bc632acb315b891e94",
+      "sources": 6,
+      "citations": 41
+    },
+    {
+      "date": "1941-12-05",
+      "title": "Barbarossa Exhausted",
+      "slug": "barbarossa-exhausted-1941-12-05",
+      "words": 3210,
+      "bodySha256": "e76ff4dc36dfae526d5ba4465d3846ad29a71303e643d17ee272fcb0c1ee944d",
+      "sources": 12,
+      "citations": 43
+    }
+  ],
+  "totalWords": 25450,
+  "distinctSources": 32,
+  "revisedParagraphs": 82,
+  "historicalAsides": 16,
+  "priorPublishedStudiesProtected": 42,
+  "mapStatus": "geographic-reference-only; unchanged"
+}

@@ -1,0 +1,39 @@
+PHASE V EDITORIAL AND HISTORICAL REVIEW
+Editorial review completed; publication authorized by the user. Production verification pending.
+
+Eight studies retain their titles, dates, slugs and author R.G. Cruise. 82 paragraphs received substantive revisions, with further small terminology and citation corrections. The collection contains 25,450 substantive words, 32 distinct references and 16 historical asides. Narrative counts exclude headings, aside labels, superscripts, bibliography and metadata.
+
+SUBSTANTIVE CHANGES
+15 November: sharpened the geographical objectives, Fourth Army dependence, staff strength estimates, Soviet reinforcement and the Stalin–Zhukov exchange.
+18 November: replaced repeated flank generalities with named routes, relief requirements, the 239th Division's escape and the distinction between railway orders and actual interdiction.
+21 November: clarified the simultaneous northern battle, Soviet survival, German withdrawal proposals and political considerations; added Kewes's Rostov recollection through Harrison.
+24 November: clarified Bock's revised directions, allocation of Soviet reserves, the widening gap and unit identities; reduced repeated introductory material.
+28 November: reconstructed arrival, crossing, contested foothold, redirection and abandonment; strengthened the railway-weapon and engineer accounts.
+29 November: distinguished recapture, the Mius withdrawal and the 1 December command change; tightened signals-intelligence claims and civilian testimony.
+2 December: added the specific 3–4 December railway/road advance, fuel shortage, threats to the wedge and 296th Division's delayed arrival, with later dates explicit.
+5 December: clarified staggered offensive dates, concrete objectives and the different situations at Moscow, Tikhvin, Rostov and Sevastopol; added Glantz's reserve-formation interpretation and a tightly attributed diary example.
+
+FACTUAL AND CITATION CORRECTIONS
+Belov's corps was redesignated from Second Cavalry Corps to First Guards on 26 November, rather than newly formed from arriving divisions; the contemporary Pravda announcement is now cited. The same announcement supports the 78th Rifle Division's change to Ninth Guards. Reinhardt's full name is consistent. The canal commander's name was omitted where the cited passage did not establish it. Radio-intelligence wording was narrowed to the actual report's general Soviet reorganization rather than an unsupported named-army identification. Ryabinkin's daily tasks follow the diary extract precisely.
+
+SOURCE LIMITS RETAINED
+The CMH operational history remains a major chronological source. Added Glantz interpretation and the contemporary unit announcement strengthen particular claims; they do not constitute independent corroboration of every movement. Stahel material is limited to accessible extracts, not a claim of consulting the full book. Canal documents are published transcriptions, not inspected archival originals. Guderian and signals personnel are retrospective and self-interested witnesses. Local museum chronologies require caution; the Klin discrepancy and the precise timing of canal withdrawal remain qualified. The 1941 Rostov killing total is not asserted. Magal family identity remains an attributed inference. Date windows are retained for subsequent events.
+
+LINKS AND PRESENTATION
+All bibliography URLs received a bounded HTTP check. The NSA scan returned 403; its source link was replaced with an accessible transcription of the same U.S. Army study while retaining the original archival URL and printed-page basis. Phase V references now offer expandable passage lists; claim-specific tooltip locators and numbered references remain. A mobile overflow caused by a raw source URL was corrected. Desktop and mobile headers/asides were visually inspected.
+
+PRESERVATION
+All 42 prior published articles retain their exact bytes. All existing physical/historical map data and shared palette are unchanged. Phase V maps remain geographic-reference-only and are labelled independently of publication status. Site-wide indexing safeguards remain unchanged.
+
+CHECKS
+Production Vite build, metadata generation, source/citation/data validation and the preservation validator passed. Browser checks exercise all eight studies at 1440 and 390px, complete rendered body comparisons, author/date, word counts, citations, return links, contents links, expandable locators, chronological links, map context and overflow. Collection/campaign/index checks run at both widths. Final public results and deployment identity will be saved after release.
+
+FILES
+before/: original manuscripts
+paragraph-revisions.json: 82 detailed before/after paragraph records
+collection-review.json: final counts and reviewed body hashes
+evidence-audit.json: source scopes, specific locators and retained versus refreshed access
+source-link-check.json: HTTP results, including access limitations
+local/ and production/: browser results and screenshots
+release.json: GitHub/Netlify production identity (after release)
+recovery-package.zip: manuscripts, installed JSON, source registry, review and validation records

@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "cmh-blitz",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-2.html",
+    "type": "Official military history",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Opening operations, German assessments and Soviet mobilization; article locators restrict the account to the relevant early-war pages.",
+    "limitations": "Opened and checked for the local Barbarossa studies. Specific sections, pages or document locators appear with the article notes.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Chapter II, printed pp. 43–46: Orsha conference and German resource estimates",
+        "Chapter II, printed pp. 44–45: dated German staff estimates at Orsha",
+        "Chapter II, printed pp. 44–45: effective divisional strength and vehicle categories",
+        "Chapter II, printed p. 45: railway conversion, captured rolling stock and transport shortage",
+        "Chapter II, printed p. 45: winter clothing left in storage because of competing transport requirements",
+        "Chapter II, printed pp. 44–46: Halder's argument, reduced objectives and decision to continue",
+        "Chapter II, printed p. 45: captured Soviet locomotives and cars, track gauge and estimated requirements",
+        "Chapter II, printed pp. 44–46: prospects for 1942 and continued offensive"
+      ],
+      "1941-11-18": [
+        "Chapter II, printed pp. 44–45: German vehicle and effective-strength limitations",
+        "Chapter II, printed p. 45: shortages of winter clothing and supply capacity",
+        "Chapter II, printed pp. 44–46: German recognition of a continuing eastern campaign"
+      ],
+      "1941-11-21": [
+        "Chapter II, printed pp. 34–36 and 40–42: southern objectives and command organization",
+        "Chapter II, printed pp. 34–36 and 40–42: Donets industrial objectives and southern advances",
+        "Chapter II, printed pp. 39–45: industrial disruption, evacuation and German transport limitations",
+        "Chapter II, printed pp. 32–36 and 40–42: Army Group South, Romanian participation and Eleventh Army's Crimean operation"
+      ],
+      "1941-12-02": [
+        "Chapter II, printed pp. 44–45: effective strength compared with nominal formations",
+        "Chapter II, printed pp. 37–39: civilian construction and militia organization",
+        "Chapter II, printed pp. 37–40: evacuation and industrial disruption"
+      ],
+      "1941-12-05": [
+        "Chapter II, printed pp. 43–46: transport capacity, winter preparations and serviceability",
+        "Chapter II, printed pp. 43–46"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "cmh-blitz",
+      "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+      "title": "Moscow to Stalingrad: Decision in the East (1987), Chapter II: The Blitzkrieg, pp. 25–46",
+      "date": "1987",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-2.html",
+      "type": "Official military history",
+      "relevance": "Opening operations, German assessments and Soviet mobilization; article locators restrict the account to the relevant early-war pages.",
+      "supports": [
+        "1941-07-01",
+        "1941-06-25",
+        "1941-07-06",
+        "1941-07-09",
+        "1941-06-21",
+        "1941-06-22",
+        "1941-06-28",
+        "1941-07-03"
+      ],
+      "notes": "Opened and checked for the local Barbarossa studies. Specific sections, pages or document locators appear with the article notes.",
+      "reuseRights": "Linked and cited; no reproduction licence for third-party editorial material is assumed."
+    }
+  },
+  {
+    "id": "p4-frus799",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d799",
+    "type": "Contemporary diplomatic document",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Billion-dollar Lend-Lease supply proposal and interest-free repayment terms.",
+    "limitations": "Full published document inspected. FRUS identifies this as a paraphrased text reprinted from the Department of State Bulletin.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Document 799, 30 October 1941: Roosevelt's financing and delivery commitment, distinguished from arrivals"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p4-frus799",
+      "institution": "U.S. Department of State · Office of the Historian",
+      "title": "FRUS 1941, Volume I, Document 799: Roosevelt to Stalin, 30 October 1941",
+      "date": "1941-10-30",
+      "url": "https://history.state.gov/historicaldocuments/frus1941v01/d799",
+      "type": "Contemporary diplomatic document",
+      "relevance": "Billion-dollar Lend-Lease supply proposal and interest-free repayment terms.",
+      "supports": [
+        "1941-11-02",
+        "1941-11-14"
+      ],
+      "notes": "Full published document inspected. FRUS identifies this as a paraphrased text reprinted from the Department of State Bulletin.",
+      "reuseRights": "Linked and paraphrased; no reproduction rights assumed."
+    }
+  },
+  {
+    "id": "p4-harrison-industry",
+    "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/industryeconomy2010.pdf",
+    "type": "Academic economic history chapter draft",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Documents the logistical costs, uneven restoration and survival value of Soviet industrial evacuation, including the October 1941 Kharkov tractor-plant example.",
+    "limitations": "Public PDF pp. 1 and 10 inspected. Its later outcome evidence must be labelled retrospective in dated studies.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Printed pp. 9–10: industrial evacuation, delays restarting production and conditions at receiving locations"
+      ],
+      "1941-11-21": [
+        "Printed p. 14: Karol Kewes’s recollection of Moussia and ration coupons in Rostov, autumn 1941"
+      ],
+      "1941-12-02": [
+        "Industry and economy, manuscript pp. 9–10: timing, rail transport and unprepared evacuation destinations"
+      ],
+      "1941-12-05": [
+        "Manuscript pp. 9–10: evacuation and industrial disruption",
+        "Manuscript pp. 9–10: evacuation, uneven restart and industrial disruption"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p4-harrison-industry",
+      "institution": "Mark Harrison · University of Warwick",
+      "title": "Industry and the Economy, draft chapter for The Soviet Union in World War II",
+      "date": "2009",
+      "url": "https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/industryeconomy2010.pdf",
+      "type": "Academic economic history chapter draft",
+      "relevance": "Documents the logistical costs, uneven restoration and survival value of Soviet industrial evacuation, including the October 1941 Kharkov tractor-plant example.",
+      "supports": [
+        "1941-10-16",
+        "1941-10-24",
+        "1941-11-02"
+      ],
+      "notes": "Public PDF pp. 1 and 10 inspected. Its later outcome evidence must be labelled retrospective in dated studies.",
+      "reuseRights": "Linked and paraphrased; no reproduction license assumed."
+    }
+  },
+  {
+    "id": "p5-canal-musienko",
+    "url": "https://moskva-volga.ru/voennye-sobytiya-na-gidrouzle-komsomolskij-v-noyabre-dekabre-1941-goda/",
+    "type": "Documentary historical account",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Published recollections of engineer Ivan Musienko inspected; retrospective local testimony, not independent proof of exact hours, unit strength or all demolition claims.",
+    "limitations": "Published recollections of engineer Ivan Musienko inspected; retrospective local testimony, not independent proof of exact hours, unit strength or all demolition claims.",
+    "locatorsByStudy": {
+      "1941-11-28": [
+        "Musienko's account of locks, bridges, water releases and destruction",
+        "Recollections of demolition preparations and the loss of communications on 28 November",
+        "Account of continuing local fighting and subsequent canal operations",
+        "Closing account of early-December fighting and the need for new crossings",
+        "Musienko's recollections of travel, shelter at the pumping installation and food shortages",
+        "Recollection of the food journey and delivery dated 6 December",
+        "Technical installations repurposed during the fighting"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-canal-musienko",
+      "institution": "S. S. Rybakov · Moscow–Volga historical project",
+      "title": "Military events at the Komsomolsky hydraulic works, November–December 1941",
+      "url": "https://moskva-volga.ru/voennye-sobytiya-na-gidrouzle-komsomolskij-v-noyabre-dekabre-1941-goda/",
+      "type": "Documentary historical account",
+      "date": null,
+      "relevance": "Published recollections of engineer Ivan Musienko inspected; retrospective local testimony, not independent proof of exact hours, unit strength or all demolition claims.",
+      "notes": "Published recollections of engineer Ivan Musienko inspected; retrospective local testimony, not independent proof of exact hours, unit strength or all demolition claims.",
+      "supports": [
+        "1941-11-28"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-canal-report28",
+    "url": "https://lughistory.ru/hronika-vojny/hronika-28-11-1941/",
+    "type": "Documentary historical account",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Specific transcription citing TsAMO f. 208, op. 2511, d. 219, ll. 404–405 inspected. The archival original was not accessed; estimates and local times are not treated as independently verified.",
+    "limitations": "Specific transcription citing TsAMO f. 208, op. 2511, d. 219, ll. 404–405 inspected. The archival original was not accessed; estimates and local times are not treated as independently verified. Also inspected the reproduced report of armoured-train commander Malyshev concerning damaged track and weapons; its statements are attributed to that report.",
+    "locatorsByStudy": {
+      "1941-11-28": [
+        "Western Front report transcription, TsAMO reference f. 208, op. 2511, d. 219, ll. 404–405",
+        "28 November report: local crossing and continued fighting",
+        "Report of tanks and infantry crossing the Yakhroma bridge and fighting around the eastern settlements",
+        "Transcription attributed to TsAMO f. 208, op. 2511, d. 219, ll. 404–405",
+        "Crossing against the Twenty-Ninth Rifle Brigade",
+        "Limited crossing force and continued fighting",
+        "Published 28 November documentary chronology: Twenty-Ninth and Fiftieth Rifle Brigades, Peremilovo fighting and repeated counterattacks; tactical detail remains attributed to the reproduced accounts",
+        "Published transcription of armoured-train commander Malyshev's report to Kuznetsov, passage beginning with the 28 November order; archival original not inspected",
+        "Malyshev report: damage and request for further employment instructions; interpretation of the documented limitation",
+        "Chronology's brigade entries and reproduced German reports on pressure against the bridgehead; exact hours and claimed losses not adopted",
+        "Reports of continuing Soviet pressure on 28 November",
+        "Report of fighting continuing throughout 28 November"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-canal-report28",
+      "institution": "Western Front operational report · Lugovaya document transcription",
+      "title": "28 November 1941: Yakhroma bridgehead report",
+      "url": "https://lughistory.ru/hronika-vojny/hronika-28-11-1941/",
+      "type": "Documentary historical account",
+      "date": null,
+      "relevance": "Specific transcription citing TsAMO f. 208, op. 2511, d. 219, ll. 404–405 inspected. The archival original was not accessed; estimates and local times are not treated as independently verified.",
+      "notes": "Specific transcription citing TsAMO f. 208, op. 2511, d. 219, ll. 404–405 inspected. The archival original was not accessed; estimates and local times are not treated as independently verified. Also inspected the reproduced report of armoured-train commander Malyshev concerning damaged track and weapons; its statements are attributed to that report.",
+      "supports": [
+        "1941-11-28"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-cmh-counteroffensive",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-4.html",
+    "type": "Official military history",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Printed pp. 69–73 inspected, especially p. 71 on Meretskov's position by 5 December. Events after the phase endpoint are explicitly dated as later developments.",
+    "limitations": "Printed pp. 69–73 inspected, especially p. 71 on Meretskov's position by 5 December. Events after the phase endpoint are explicitly dated as later developments.",
+    "locatorsByStudy": {
+      "1941-12-05": [
+        "Chapter IV, printed p. 71: Meretskov's position by 5 December",
+        "Chapter IV, printed pp. 69–73: Tikhvin, Ladoga approaches and the unfulfilled northern operational design",
+        "Chapter IV, printed pp. 69–73: later German withdrawal and Soviet recovery of Tikhvin on 9 December",
+        "Chapter IV, printed pp. 69–73: opening developments beyond the phase endpoint"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-cmh-counteroffensive",
+      "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+      "title": "Moscow to Stalingrad: Decision in the East, Chapter IV: The Counteroffensive",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-4.html",
+      "type": "Official military history",
+      "date": "1987",
+      "relevance": "Printed pp. 69–73 inspected, especially p. 71 on Meretskov's position by 5 December. Events after the phase endpoint are explicitly dated as later developments.",
+      "notes": "Printed pp. 69–73 inspected, especially p. 71 on Meretskov's position by 5 December. Events after the phase endpoint are explicitly dated as later developments.",
+      "supports": [
+        "1941-12-05"
+      ],
+      "reuseRights": "Linked and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-cmh-crimea",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-6.html",
+    "type": "Official military history",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Printed pp. 105–107 inspected for the early-December southern front and Sevastopol. Later assault and landing outcomes are not assigned to 5 December.",
+    "limitations": "Printed pp. 105–107 inspected for the early-December southern front and Sevastopol. Later assault and landing outcomes are not assigned to 5 December.",
+    "locatorsByStudy": {
+      "1941-12-05": [
+        "Chapter VI, printed pp. 105–106: continuing German control and Sevastopol resistance",
+        "Chapter VI, printed p. 105: early-December southern front",
+        "Chapter VI, printed p. 105: Sixth, Seventeenth and First Panzer Army positions",
+        "Chapter VI, printed pp. 105–106: Petrov, Oktyabrsky, reinforcement and preparations",
+        "Chapter VI, printed pp. 106–107: sea communications, terrain and competing demands",
+        "Chapter VI, printed pp. 105–107: early-December southern dispositions and continued Sevastopol defence"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-cmh-crimea",
+      "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+      "title": "Moscow to Stalingrad: Decision in the East, Chapter VI: Crisis in the Crimea",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-6.html",
+      "type": "Official military history",
+      "date": "1987",
+      "relevance": "Printed pp. 105–107 inspected for the early-December southern front and Sevastopol. Later assault and landing outcomes are not assigned to 5 December.",
+      "notes": "Printed pp. 105–107 inspected for the early-December southern front and Sevastopol. Later assault and landing outcomes are not assigned to 5 December.",
+      "supports": [
+        "1941-12-05"
+      ],
+      "reuseRights": "Linked and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-cmh-moscow",
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-3.html",
+    "type": "Official military history",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Starting operational chronology for November–early December, German and Soviet commands, Rostov and the transition to Soviet counteroffensive operations.",
+    "limitations": "Chapter text inspected for the Phase V foundation. Printed pp. 50–51 distinguish the 15–16 November northern opening and 18 November southern attack; pp. 54–55 discuss Rostov; pp. 59–60 reserve armies and the canal sector; pp. 63–66 distinguish 5 and 6 December. Tactical positions and disputed settlement dates still require independent corroboration. German and Soviet claims are critically evaluated, not adopted automatically.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Chapter III, printed pp. 49–51: dispositions and staggered 15, 16 and 18 November openings",
+        "Chapter III, printed pp. 47–51: Soviet replenishment and German offensive dispositions",
+        "Chapter III, printed pp. 49–50: German command relationships and geographical deployment",
+        "Chapter III, printed p. 50: Bock's deep objectives and Fourth Army's intended role",
+        "Chapter III, printed p. 50 and note 12: unchanged orders and Third Panzer Group's complaint",
+        "Chapter III, printed pp. 50–52: Fourth Army role, Serpukhov fighting, regimental strengths and proposed Protva withdrawal",
+        "Chapter III, printed pp. 51–53: contrasting progress and exhausted Fourth Army regiments",
+        "Chapter III, printed pp. 49–50: Soviet fronts, armies and defensive responsibilities",
+        "Chapter III, printed pp. 49–50: 10 and 17 November command transfers; pp. 57–60: Sixteenth and Thirtieth Armies",
+        "Chapter III, printed pp. 47–49: reinforcement, reserve formation and uneven readiness",
+        "Chapter III, printed p. 50, notes 13–14; p. 52: Serpukhov counterblows and Kluge's response",
+        "Chapter III, printed pp. 49–51: Stavka assignments to Kalinin, Southwestern, Southern and Leningrad commands",
+        "Chapter III, printed pp. 50–51: southern reinforcement and Meretskov's limited additions before the 19 November attack",
+        "Chapter III, printed p. 51: reported Stalin–Zhukov exchange on 19 November and promised reserve armies",
+        "Chapter III, printed pp. 50–51: northern attacks and Sixteenth Army counterblow",
+        "Chapter III, printed pp. 51–52: frozen ground, air support and German expectations of winter",
+        "Chapter III, printed pp. 50–52: southern first-day advance and Fourth Army's weakened regiments",
+        "Chapter III, printed pp. 48–49: militia, rifle formations and reinforcement",
+        "Chapter III, printed pp. 50–52: opening progress and discussion of the operation's prospects",
+        "Chapter III, printed pp. 50–53: Second Panzer Army's objectives and continuing defence of Tula"
+      ],
+      "1941-11-18": [
+        "Chapter III, printed pp. 49–53: Second Panzer Army's position, 18 November attack and continuing defence of Tula",
+        "Chapter III, printed pp. 50–52: first-day advance and strained German formations",
+        "Chapter III, printed pp. 50, 53 and 59–60: southern objectives, Tula defence and Soviet reinforcement",
+        "Chapter III, printed p. 49: Fiftieth Army's incorporation into Western Front",
+        "Chapter III, printed pp. 49–52: command transfer, Oka sector and Forty-Ninth Army counterblows",
+        "Chapter III, printed pp. 50, 53 and 57: Kashira and the developing Tula bulge",
+        "Chapter III, printed pp. 50–53: initial southern advance and later persistent Tula obstacle",
+        "Chapter III, printed pp. 50–53: army boundaries and separate difficulties",
+        "Chapter III, printed p. 52: Serpukhov counterblows, depleted regiments and Kluge's assessment",
+        "Chapter III, printed pp. 53, 57 and 59–60: surviving Soviet forces and reserve commitments",
+        "Chapter III, printed p. 51: approximately twenty-five-mile opening advance by one corps",
+        "Chapter III, printed pp. 53 and 57: later Seventeenth Panzer Division thrust and surviving Fiftieth Army",
+        "Chapter III, printed pp. 53 and 59: Soviet cavalry and armour response; Belov's corps and reinforcement allocation",
+        "Chapter III, printed p. 60: Golikov, 24 November marching order and movement from Syzran",
+        "Chapter III, printed pp. 59–60: separate reserve commitments and army assembly",
+        "Chapter III, printed pp. 50–53 and 59–60: local advance, continuing Tula defence and Soviet response",
+        "Chapter III, printed pp. 53 and 57–60: Tula and the southern reserve response",
+        "Chapter III, printed pp. 54–55 and 62–65: distinct Rostov sequence and later Tula operations"
+      ],
+      "1941-11-21": [
+        "Chapter III, printed pp. 51 and 54–55: Soviet attack on 17 November, German capture on 21 November and exposed flank",
+        "Chapter III, printed pp. 49, 51 and 54",
+        "Chapter III, printed pp. 54–55: Kleist's withdrawal order of 22 November and its cancellation",
+        "Chapter III, printed pp. 51 and 54–55: Rostov and the vulnerability of First Panzer Army",
+        "Chapter III, printed pp. 51 and 54–55: III and XIV Corps, Mackensen's assessment and Kleist's decisions",
+        "Chapter III, printed pp. 51, 54–55: northern Soviet offensive and the threat to Rostov communications",
+        "Chapter III, printed p. 51: reinforcements, participating armies, date and location",
+        "Chapter III, printed pp. 51 and 54–55: flank offensive and subsequent Soviet redirection",
+        "Chapter III, printed pp. 51 and 54–55: simultaneous German advance and flank defence; interpretation of the documented situation",
+        "Chapter III, printed pp. 51 and 54",
+        "Chapter III, printed pp. 51 and 54: separate Soviet groupings north of the German flank and south of the Don",
+        "Chapter III, printed p. 54: Stavka instructions of 22 and 24 November and Cherevichenko’s shift of effort",
+        "Chapter III, printed pp. 54–55: capture by Leibstandarte and continuing pressure on both corps",
+        "Chapter III, printed p. 54: attacks across the frozen Don and continuing Soviet operations",
+        "Chapter III, printed pp. 54–55: occupation and immediate withdrawal debate",
+        "Chapter III, printed pp. 54–55 and notes 26–27: orders of 22 and 23 November",
+        "Chapter III, printed pp. 54–55: proposed withdrawal and Mius position about forty-five miles west",
+        "Chapter III, printed p. 55 and note 29: Mackensen's 29 October assessment",
+        "Chapter III, printed p. 55: shortages reported by III Corps on 29 October",
+        "Chapter III, printed pp. 54–55 and note 29: Mackensen’s 29 October report, effective strength and shortages before Rostov",
+        "Chapter III, printed pp. 54–55: flank danger and proposed Mius withdrawal; logistical implications of the documented deployment",
+        "Chapter III, printed p. 54: Brauchitsch's objections and the Anti-Comintern Pact anniversary",
+        "Chapter III, printed pp. 51 and 54: Soviet forces conducting the southern operation",
+        "Chapter III, printed pp. 51–55: simultaneous successes, threats and command decisions"
+      ],
+      "1941-11-24": [
+        "Chapter III, printed pp. 52–53: orders of 20 November, Klin on 23 November and redirection of Third Panzer Group",
+        "Chapter III, printed pp. 49–50 and 52–53: army dispositions and interdependence",
+        "Chapter III, printed pp. 50–53 and 57–60",
+        "Chapter III, printed pp. 52–53: Bock's move and revised orders",
+        "Chapter III, printed p. 53: orders after the capture of Klin",
+        "Chapter III, printed p. 50: original deep objectives and Third Panzer Group's complaint about unclear missions",
+        "Chapter III, printed pp. 52–53 and 57: routes, German advance and Soviet army separation",
+        "Chapter III, printed p. 53: Fourth Panzer Group already at Solnechnogorsk when Klin fell",
+        "Chapter III, printed p. 53",
+        "Chapter III, printed pp. 57–59: Lelyushenko's appointment, Thirtieth Army's position and Sixteenth Army's stretched flank",
+        "Chapter III, printed p. 49: transfer of Thirtieth Army; pp. 57–60: subsequent deployments",
+        "Chapter III, printed p. 57: 27 November gap between Dmitrov and Krasnaya Polyana and positions of Thirtieth and Sixteenth Armies",
+        "Chapter III, printed pp. 50–51: Sixteenth Army's failed counterblow and Zhukov's request for additional armies",
+        "Chapter III, printed pp. 59–60 and note 35: reinforcement categories and variable tank strengths",
+        "Chapter III, printed pp. 59–60: formation and assembly of First Shock, Twentieth and Tenth armies",
+        "Chapter III, printed p. 53: Fourth Panzer Group's increasingly resistant front",
+        "Chapter III, printed p. 53: positions and obstacles on 28 November; later consequence of the 24 November advance",
+        "Chapter III, printed pp. 53 and 59–60: German delay and Soviet reserve deployment",
+        "Chapter III, printed pp. 59–60: Kuznetsov’s arrival on 23 November and the successive assembly of First Shock Army",
+        "Chapter III, printed p. 53 and note 23: intelligence assessment of unburned villages",
+        "Chapter III, printed p. 53 and note 24: deserter report and delayed transmission",
+        "Chapter III, printed pp. 53 and 61–64: intelligence failures, scarce reserves and difficulties of changing posture",
+        "Chapter III, printed pp. 51–53: cold, villages and military assessments",
+        "Chapter III, printed pp. 53 and 57–60: canal approach, changing missions and Soviet reserve commitment"
+      ],
+      "1941-11-28": [
+        "Chapter III, printed p. 53: arrival, crossing and Bock's order on the night of 28 November",
+        "Chapter III, printed pp. 53 and 59–60: Yakhroma, Dmitrov and First Shock Army",
+        "Chapter III, printed pp. 53 and 57–62",
+        "Chapter III, printed p. 53: bridgehead and its abandoned operational purpose",
+        "Chapter III, printed pp. 50 and 53: interdependent missions, Fourth Army's slow movement and Tula's continuing defence",
+        "Chapter III, printed p. 53: 27 November arrival and 28 November bridgehead",
+        "Chapter III, printed pp. 59–60: First Shock Army's assembly at Dmitrov and the widening gap",
+        "Chapter III, printed p. 53: isolated bridgehead and scant German reserves; operational interpretation",
+        "Chapter III, printed p. 53: positions of Fourth Panzer Group and Fourth Army on 28 November",
+        "Chapter III, printed pp. 50 and 53: original objectives and changed order on 28 November",
+        "Chapter III, printed p. 57: Dmitrov–Krasnaya Polyana gap and positions of Thirtieth and Sixteenth armies",
+        "Chapter III, printed pp. 59–60: Kuznetsov's arrival and First Shock Army's developing strength",
+        "Chapter III, printed pp. 57–60: Thirtieth, Sixteenth, First Shock and Twentieth armies",
+        "Chapter III, printed pp. 60–62 and 65–67: late-November commitment, early-December attacks and later general counteroffensive",
+        "Chapter III, printed pp. 59–60: First Shock Army's personnel and composition; limits of reserve readiness",
+        "Chapter III, printed pp. 53 and 59–62: German assessments and Soviet reserve commitment",
+        "Chapter III, printed p. 53: changed mission",
+        "Chapter III, printed p. 53: Lehrbrigade 900 and Bock's last available reserve",
+        "Chapter III, printed p. 53: crossing and night order",
+        "Chapter III, printed pp. 62–63 and 67: continuing First Shock Army operations near Yakhroma",
+        "Chapter III, printed pp. 53, 61–63 and 67: northern flank, redirected effort and later pressure",
+        "Chapter III, printed pp. 53–55 and 59–63: canal, reserve commitment and Rostov reversal"
+      ],
+      "1941-11-29": [
+        "Chapter III, printed pp. 55–57: 28 November evacuation order, Hitler's return and subsequent command dispute",
+        "Chapter III, printed pp. 51 and 54–55: continuing counteroffensive and concentration against Rostov",
+        "Chapter III, printed pp. 54–55: directive, recovery and Mius retreat",
+        "Chapter III, printed pp. 51 and 54: initial attack and Stavka instruction of 22 November",
+        "Chapter III, printed p. 54: 24 November directive and Cherevichenko's three-day redistribution",
+        "Chapter III, printed pp. 54–55: redistribution and growing concentration; operational implications",
+        "Chapter III, printed pp. 54–55: attacks from north and south",
+        "Chapter III, printed pp. 47–49 and 51–55: Soviet replenishment and continuing southern operations",
+        "Chapter III, printed p. 54: attacks across the frozen Don",
+        "Chapter III, printed pp. 54–55",
+        "Chapter III, printed pp. 54–55: III and XIV Corps and Mackensen's earlier strength assessment",
+        "Chapter III, printed p. 55: evacuation order and the subsequent position",
+        "Chapter III, printed pp. 55–57: consecutive evacuation and command decisions",
+        "Chapter III, printed p. 54: 22 November withdrawal proposal and 23 November cancellation",
+        "Chapter III, printed pp. 54–55: withdrawal decisions",
+        "Chapter III, printed p. 55: 30 November order and the Mius position",
+        "Chapter III, printed pp. 55–57: Hitler, Brauchitsch, Rundstedt and Reichenau",
+        "Chapter III, printed pp. 54–57: successive assessments and the unchanged operational necessity",
+        "Chapter III, printed p. 55: Reichenau's first day in command",
+        "Chapter III, printed pp. 55–57: 2 December visit and assurances concerning 1942",
+        "Chapter III, printed pp. 55–57: withdrawal, survival and expectations of renewed operations",
+        "Chapter III, printed pp. 55–57: front stabilized on the Mius",
+        "Chapter III, printed pp. 51 and 54–57: Soviet operation and German response",
+        "Chapter III, printed pp. 54–57: political objections, withdrawal and command consequences",
+        "Chapter III, printed pp. 54–55: Rostov evacuation and recovery; pp. 60–61: release of First Shock, Twentieth and Tenth armies to Zhukov on 29 November",
+        "Chapter III, printed pp. 54–57: intended objectives and actual Mius outcome",
+        "Chapter III, printed pp. 55–64: southern retreat and continuing Moscow attacks"
+      ],
+      "1941-12-02": [
+        "Chapter III, printed pp. 61–63: Bock's warning and attacks of 1–2 December",
+        "Chapter III, printed pp. 62–64: local attacks, limited reserves and exposed positions",
+        "Chapter III, printed pp. 55–67: distinct southern and central sequences",
+        "Chapter III, printed p. 62: 258th Division breakthrough and Bock's conflicting assessments",
+        "Chapter III, printed pp. 62–63: breakthrough and division's withdrawal from encirclement on 3 December",
+        "Chapter III, printed pp. 61–63: Bock's warnings, hopes and the attack's outcome",
+        "Chapter III, printed pp. 52 and 62–64",
+        "Chapter III, printed pp. 62–63: Kluge’s proposal on 3 December, Bock’s delay and Fourth Army’s transition to defence on 4 December",
+        "Chapter III, printed pp. 53 and 60–64: northern dispositions and continuing resistance",
+        "Chapter III, printed pp. 60–62: First Shock Army and the 2 December order to the Zakharov group",
+        "Chapter III, printed pp. 61–62: immediate and longer-term Soviet objectives",
+        "Chapter III, printed pp. 53, 57–60 and 62: Tula, Kashira, Soviet reinforcements and 2 December attack",
+        "Chapter III, printed pp. 59–60: Belov's grouping, Fiftieth Army and Tenth Army",
+        "Chapter III, printed p. 52: reduced German regiments and command losses",
+        "Chapter III, printed pp. 51–53 and 63–65: changing weather and operational effects",
+        "Chapter III, printed pp. 59–60 and 65–67: Soviet movement, readiness and uneven early counterattacks",
+        "Chapter III, printed p. 60 and note 41: Tenth Army, Syzran and movement orders",
+        "Chapter III, printed p. 60: Tenth Army deployment and limited motor transport",
+        "Chapter III, printed pp. 60–62: reserve armies and Stavka control over their use",
+        "Chapter III, printed pp. 61–62: Zhukov, Vasilevsky and differing descriptions of the counteroffensive decision",
+        "Chapter III, printed p. 60 and note 42: Stalin’s transfer of three armies to Zhukov on 29 November",
+        "Chapter III, printed p. 53: defended fieldworks on the northern approaches",
+        "Chapter III, printed pp. 59–62: continued reserve organization",
+        "Chapter III, printed pp. 62–64: documented formation-level operations",
+        "Chapter III, printed pp. 59–62: reserve readiness and commitment",
+        "Chapter III, printed p. 63: Bock's explanation to Jodl",
+        "Chapter III, printed pp. 63–67: Soviet timing, objectives and successive opening dates",
+        "Chapter III, printed pp. 61–67: remaining German attacks and Soviet capacity"
+      ],
+      "1941-12-05": [
+        "Chapter III, printed pp. 63–65: Guderian's assessments and proposed withdrawal on 5 December",
+        "Chapter III, printed pp. 61–67: preparations, Kalinin opening and staggered commitment",
+        "Chapter III, printed pp. 55–68",
+        "Chapter III, printed pp. 59–68",
+        "Chapter III, printed pp. 53 and 62–65: German dispositions and termination of attacks",
+        "Chapter III, printed pp. 65–66: Western Front counteroffensive directions toward Klin, Solnechnogorsk, Istra, Uzlovaya and Bogoroditsk",
+        "Chapter III, printed pp. 57–62 and 65–67: command arrangements and reserve readiness",
+        "Chapter III, printed pp. 64–68: 5 December Volga attack; Western Front on 6 December; Sixteenth Army on 7 December; Southwestern Front orders and Tenth Army’s incomplete arrival",
+        "Chapter III, printed pp. 64–66: Konev, Vasilevsky and the opening decisions",
+        "Chapter III, printed pp. 48 and 56–57: Army Group North and Tikhvin",
+        "Chapter III, printed pp. 51 and 56–57",
+        "Chapter III, printed p. 57: Volkhov on 1 December, reported twenty-nine trains on 2 December and Leeb’s concern about Soviet reinforcement",
+        "Chapter III, printed pp. 54–56: Rostov, command changes and withdrawal",
+        "Chapter III, printed p. 65: Guderian’s evening withdrawal proposal",
+        "Chapter III, printed p. 66 and note 60: strength categories and limitations",
+        "Chapter III, printed pp. 61–64: assessments of Soviet reserves and offensive prospects",
+        "Chapter III, printed pp. 51–53 and 63–67",
+        "Chapter III, printed pp. 59–68: force generation, planning and counteroffensive opening",
+        "Chapter III, printed pp. 64–68"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-cmh-moscow",
+      "institution": "Earl F. Ziemke and Magna E. Bauer · U.S. Army Center of Military History",
+      "title": "Moscow to Stalingrad: Decision in the East, Chapter III: To Moscow",
+      "date": "1987",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-3.html",
+      "type": "Official military history",
+      "relevance": "Starting operational chronology for November–early December, German and Soviet commands, Rostov and the transition to Soviet counteroffensive operations.",
+      "supports": [
+        "1941-11-15",
+        "1941-11-18",
+        "1941-11-21",
+        "1941-11-24",
+        "1941-11-28",
+        "1941-11-29",
+        "1941-12-02",
+        "1941-12-05"
+      ],
+      "notes": "Chapter text inspected for the Phase V foundation. Printed pp. 50–51 distinguish the 15–16 November northern opening and 18 November southern attack; pp. 54–55 discuss Rostov; pp. 59–60 reserve armies and the canal sector; pp. 63–66 distinguish 5 and 6 December. Tactical positions and disputed settlement dates still require independent corroboration. German and Soviet claims are critically evaluated, not adopted automatically.",
+      "reuseRights": "Linked and paraphrased; no source artwork reproduced."
+    }
+  },
+  {
+    "id": "p5-dmitlag",
+    "url": "https://karta.psmb.ru/karta/articlesingle/dmitlag-iz-istorii-stroitelstva-kanala-moskva-volga/",
+    "type": "Documentary historical account",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Opening history of forced labour construction and camp organization inspected. No numerical mortality claim adopted.",
+    "limitations": "Opening history of forced labour construction and camp organization inspected. No numerical mortality claim adopted.",
+    "locatorsByStudy": {
+      "1941-11-28": [
+        "Opening account of the canal's purposes and associated infrastructure",
+        "Opening sections: establishment of Dmitlag in 1932 and use of prisoner labour for canal construction",
+        "Canal infrastructure and civilian purposes"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-dmitlag",
+      "institution": "Memory Map · Butovo memorial research",
+      "title": "Dmitlag: from the history of the Moscow–Volga Canal construction",
+      "url": "https://karta.psmb.ru/karta/articlesingle/dmitlag-iz-istorii-stroitelstva-kanala-moskva-volga/",
+      "type": "Documentary historical account",
+      "date": null,
+      "relevance": "Opening history of forced labour construction and camp organization inspected. No numerical mortality claim adopted.",
+      "notes": "Opening history of forced labour construction and camp organization inspected. No numerical mortality claim adopted.",
+      "supports": [
+        "1941-11-28"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-frus653",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d653",
+    "type": "Contemporary diplomatic document",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Full telegram and editorial note inspected; reports Dekanosov’s assessment and Cripps’s earlier proposal, not independently verified Soviet strength data.",
+    "limitations": "Full telegram and editorial note inspected; reports Dekanosov’s assessment and Cripps’s earlier proposal, not independently verified Soviet strength data.",
+    "locatorsByStudy": {
+      "1941-11-21": [
+        "Document 653, telegram of 9 November: Dekanosov's assessments and criticism of British assistance",
+        "Editorial note 29: Steinhardt's report of Cripps's view, 28 October 1941",
+        "Document 653 and editorial note: assistance and distrust"
+      ],
+      "1941-12-05": [
+        "FRUS 1941, volume I, document 653: Soviet assessments and expectations of British assistance"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-frus653",
+      "institution": "U.S. Department of State · Office of the Historian",
+      "title": "FRUS 1941, vol. I, document 653: Steinhardt to the Secretary of State, 9 November 1941",
+      "url": "https://history.state.gov/historicaldocuments/frus1941v01/d653",
+      "type": "Contemporary diplomatic document",
+      "date": null,
+      "relevance": "Full telegram and editorial note inspected; reports Dekanosov’s assessment and Cripps’s earlier proposal, not independently verified Soviet strength data.",
+      "notes": "Full telegram and editorial note inspected; reports Dekanosov’s assessment and Cripps’s earlier proposal, not independently verified Soviet strength data.",
+      "supports": [
+        "1941-11-21",
+        "1941-12-05"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-frus810",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d810",
+    "type": "Contemporary diplomatic document",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Harriman’s concern over petroleum equipment, technicians, interagency consultation and Soviet confidence.",
+    "limitations": "Full published memorandum inspected. Administrative commitment is distinct from equipment delivered to troops.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "FRUS 1941, volume I, document 810, memorandum by Edward Page, 15 November 1941, printed pp. 860–861",
+        "Document 810: Harriman's concern about confidence and consultation with Lend-Lease authorities"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-frus810",
+      "institution": "U.S. Department of State · Office of the Historian",
+      "title": "FRUS 1941, vol. I, document 810: Edward Page memorandum, 15 November 1941",
+      "url": "https://history.state.gov/historicaldocuments/frus1941v01/d810",
+      "type": "Contemporary diplomatic document",
+      "date": null,
+      "relevance": "Harriman’s concern over petroleum equipment, technicians, interagency consultation and Soviet confidence.",
+      "notes": "Full published memorandum inspected. Administrative commitment is distinct from equipment delivered to troops.",
+      "supports": [
+        "1941-11-15"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-frus813",
+    "url": "https://history.state.gov/historicaldocuments/frus1941v01/d813",
+    "type": "Contemporary diplomatic document",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Shipping and aircraft assembly facilities for Soviet aid; acknowledged physical obstacles.",
+    "limitations": "Full 24 November telegram inspected; the December editorial continuation is not backdated.",
+    "locatorsByStudy": {
+      "1941-11-24": [
+        "Document 813, 24 November telegram: shipping instructions and aircraft assembly arrangements",
+        "Document 813: preliminary arrangements and difficulties in supply flow"
+      ],
+      "1941-12-05": [
+        "FRUS 1941, volume I, document 813, 24 November: shipping, protocol commitments and aircraft assembly",
+        "Document 813: practical distinction between commitments and delivery"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-frus813",
+      "institution": "U.S. Department of State · Office of the Historian",
+      "title": "FRUS 1941, vol. I, document 813: Hull to Winant, 24 November 1941",
+      "url": "https://history.state.gov/historicaldocuments/frus1941v01/d813",
+      "type": "Contemporary diplomatic document",
+      "date": null,
+      "relevance": "Shipping and aircraft assembly facilities for Soviet aid; acknowledged physical obstacles.",
+      "notes": "Full 24 November telegram inspected; the December editorial continuation is not backdated.",
+      "supports": [
+        "1941-11-24",
+        "1941-11-29",
+        "1941-12-05"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-glantz-survey",
+    "url": "https://open.clemson.edu/sti_pubs/217/",
+    "type": "Scholarly survey lecture",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Printed pp. 26–27 (PDF pages 26–27), reserve army formation and the consecutive operations comprising the winter counteroffensive. Full survey PDF consulted through a publicly accessible copy and identity checked against the Clemson institutional record.",
+    "limitations": "A 2001 interpretive survey, not a contemporary operational document. The November–December reserve totals are not treated as forces already available on 5 December. PDF consulted: https://www.glscott.org/uploads/2/1/3/3/21330938/soviet-german-war_1941-45.pdf",
+    "locatorsByStudy": {
+      "1941-12-05": [
+        "Printed pp. 26–27 (PDF pages 26–27): ten field armies raised over November–December, incomplete establishment and successive winter counteroffensive operations"
+      ]
+    },
+    "earlierAccessRecord": null
+  },
+  {
+    "id": "p5-guderian-flanks",
+    "url": "https://www.allworldwars.com/Flank-Defense-in-Far-Reaching-Operations-by-Heinz-Guderian.html",
+    "type": "Retrospective military study",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "November section inspected; retrospective commander account, not independent corroboration of his judgements.",
+    "limitations": "November section inspected; retrospective commander account, not independent corroboration of his judgements.",
+    "locatorsByStudy": {
+      "1941-11-18": [
+        "November operation narrative: 18th Panzer at Yefremov on 20 November, 10th and 29th Motorized routes, and the subsequent Kashira thrust; retrospective account",
+        "November assignments toward Stalinogorsk, Venev, Kashira and Mikhaylov",
+        "Late-November account of the 239th Division's breakout through the Twenty-Ninth Motorized Division",
+        "Paragraphs on the 17 November crisis of the 112th Infantry Division and the intervention of the 167th",
+        "Assignments to XXXXVII Corps formations at the opening of the 18 November offensive",
+        "Late-November breakout account: abandoned Soviet equipment, surviving men and German losses",
+        "November flank-defence narrative: 112th Division exhaustion and proposed relief by 56th Infantry Division from Karachev",
+        "Account of the revised objectives discussed on 24 November and the Tenth Motorized Division’s unsuccessful railway mission on 27 November",
+        "November section: eastern flank, Second and Fourth Armies, and demands on Second Panzer Army",
+        "November dispositions: XLIII Army Corps, 31st and 131st Infantry Divisions between the Upa and Oka, and the eastern flank missions",
+        "November operational assessment: twelve depleted divisions and reported infantry marches of five to ten kilometres; retrospective estimate"
+      ],
+      "1941-12-02": [
+        "December operation narrative: 3 December railway demolition, Serpukhov–Tula road, exhausted fuel and the continuing failure to close the Tula encirclement",
+        "Narrative for 4 December: Soviet forces beside the Serpukhov-road wedge, Third Panzer Division east of Tula and the required link with XLIII Corps",
+        "4 December: difficult march of the 296th Infantry Division to Yasnaya Polyana and no attack that day",
+        "27 November: failure of Tenth Motorized Division’s detachments to reach the Ryazan–Kolomna railway"
+      ],
+      "1941-12-05": [
+        "5 December: Soviet attack northeast of Venev, immobility of advanced XXIV Corps elements and decision to abandon the isolated offensive"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-guderian-flanks",
+      "institution": "Heinz Guderian · U.S. Army historical studies transcription",
+      "title": "Flank Defense in Far-Reaching Operations",
+      "url": "https://www.allworldwars.com/Flank-Defense-in-Far-Reaching-Operations-by-Heinz-Guderian.html",
+      "type": "Retrospective military study",
+      "date": null,
+      "relevance": "November section inspected; retrospective commander account, not independent corroboration of his judgements.",
+      "notes": "November section inspected; retrospective commander account, not independent corroboration of his judgements.",
+      "supports": [
+        "1941-11-18"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-istra-museum",
+    "url": "https://njerusalem.ru/news/muzej-novyj-ierusalim-v-gody-vojny/",
+    "type": "Institutional history",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Sections 1–5 inspected. Institutional commemoration used for evacuation records and local chronology; the unsupported first-liberated-city claim is rejected.",
+    "limitations": "Sections 1–5 inspected. Institutional commemoration used for evacuation records and local chronology; the unsupported first-liberated-city claim is rejected.",
+    "locatorsByStudy": {
+      "1941-11-24": [
+        "Sections 4–5: fighting around Istra and the Seventy-Eighth Rifle Division",
+        "Section 5: 26 November redesignation and 27–28 November withdrawal sequence",
+        "Section on evacuation: forty cases, 11 October preparations and removal with two vehicles on 4–5 November"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-istra-museum",
+      "institution": "New Jerusalem Museum",
+      "title": "The New Jerusalem Museum during the war",
+      "url": "https://njerusalem.ru/news/muzej-novyj-ierusalim-v-gody-vojny/",
+      "type": "Institutional history",
+      "date": null,
+      "relevance": "Sections 1–5 inspected. Institutional commemoration used for evacuation records and local chronology; the unsupported first-liberated-city claim is rejected.",
+      "notes": "Sections 1–5 inspected. Institutional commemoration used for evacuation records and local chronology; the unsupported first-liberated-city claim is rejected.",
+      "supports": [
+        "1941-11-24"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-klin-history",
+    "url": "https://tchaikovsky.house/muzei/history/",
+    "type": "Institutional history",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Institutional chronology records 23 November occupation; dates are compared with the exhibition and U.S. Army account.",
+    "limitations": "Institutional chronology records 23 November occupation; dates are compared with the exhibition and U.S. Army account.",
+    "locatorsByStudy": {
+      "1941-11-24": [
+        "Chronology entry for 23 November 1941"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-klin-history",
+      "institution": "Tchaikovsky State Memorial Museum",
+      "title": "Museum history: 1941–1945",
+      "url": "https://tchaikovsky.house/muzei/history/",
+      "type": "Institutional history",
+      "date": null,
+      "relevance": "Institutional chronology records 23 November occupation; dates are compared with the exhibition and U.S. Army account.",
+      "notes": "Institutional chronology records 23 November occupation; dates are compared with the exhibition and U.S. Army account.",
+      "supports": [
+        "1941-11-24"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-klin-museum",
+    "url": "https://tchaikovsky.house/exhibition/sohranyaya-i-vozrozhdaya/",
+    "type": "Institutional history",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Institutional exhibition account. Names, evacuation and 22 November entry date read; contrasts with 23 November on the museum history page.",
+    "limitations": "Institutional exhibition account. Names, evacuation and 22 November entry date read; contrasts with 23 November on the museum history page.",
+    "locatorsByStudy": {
+      "1941-11-24": [
+        "Opening account of German entry on 22 November",
+        "Opening exhibition account: August evacuation and Yuri Davydov",
+        "Named staff retained at the museum during occupation"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-klin-museum",
+      "institution": "Tchaikovsky State Memorial Museum",
+      "title": "Preserving and reviving: wartime museum exhibition",
+      "url": "https://tchaikovsky.house/exhibition/sohranyaya-i-vozrozhdaya/",
+      "type": "Institutional history",
+      "date": null,
+      "relevance": "Institutional exhibition account. Names, evacuation and 22 November entry date read; contrasts with 23 November on the museum history page.",
+      "notes": "Institutional exhibition account. Names, evacuation and 22 November entry date read; contrasts with 23 November on the museum history page.",
+      "supports": [
+        "1941-11-24"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "p5-leningrad-diaries",
+    "url": "https://arzamas.academy/materials/1464",
+    "type": "Edited primary-source extracts",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Selected Russian diary text inspected: Mukhina, 21 November 1941; Ryabinkin, 6–7 November. Paraphrased without invented dialogue. The curated extracts, not the complete original manuscripts, were consulted.",
+    "limitations": "Selected Russian diary text inspected: Mukhina, 21 November 1941; Ryabinkin, 6–7 November. Paraphrased without invented dialogue. The curated extracts, not the complete original manuscripts, were consulted.",
+    "locatorsByStudy": {
+      "1941-12-05": [
+        "Lena Mukhina, diary entry of 21 November 1941; Yura Ryabinkin, entries of 6–7 November 1941",
+        "Lena Mukhina, diary entry dated 21 November 1941, selected text reproduced by Arzamas",
+        "Edited diary extracts: Ryabinkin, 6–7 November 1941, exhaustion and daily tasks; Mukhina, 21 November, hunger on her seventeenth birthday"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-leningrad-diaries",
+      "institution": "Lena Mukhina and Yura Ryabinkin · Arzamas documentary selection",
+      "title": "Blockade diaries: Lena Mukhina and Yura Ryabinkin, November 1941",
+      "url": "https://arzamas.academy/materials/1464",
+      "type": "Edited primary-source extracts",
+      "date": null,
+      "relevance": "Selected Russian diary text inspected: Mukhina, 21 November 1941; Ryabinkin, 6–7 November. Paraphrased without invented dialogue. The curated extracts, not the complete original manuscripts, were consulted.",
+      "notes": "Selected Russian diary text inspected: Mukhina, 21 November 1941; Ryabinkin, 6–7 November. Paraphrased without invented dialogue. The curated extracts, not the complete original manuscripts, were consulted.",
+      "supports": [
+        "1941-12-05"
+      ],
+      "reuseRights": "Linked and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-pravda-guards",
+    "url": "https://electro.nekrasovka.ru/books/6145755/pages/2",
+    "type": "Contemporary official announcement",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Pravda no. 329 (8737), p. 2, announcement dated 26 November 1941. Digitized page OCR inspected for contemporary designations and commanders; unrelated battle claims are not adopted.",
+    "limitations": "Russian announcement paraphrased in English. Establishes the formal redesignations, not independent confirmation of the newspaper’s claims of battlefield losses.",
+    "locatorsByStudy": {
+      "1941-11-18": [
+        "Pravda, 27 November 1941, p. 2: Defence Commissariat announcement dated 26 November, Second Cavalry Corps redesignated First Guards under Pavel Alekseyevich Belov"
+      ],
+      "1941-11-24": [
+        "Pravda, 27 November 1941, p. 2: Defence Commissariat announcement dated 26 November, including the 78th Rifle Division and cavalry corps redesignations"
+      ]
+    },
+    "earlierAccessRecord": null
+  },
+  {
+    "id": "p5-radio-intelligence",
+    "url": "https://www.allworldwars.com/German-Radio-Intelligence-by-Albert-Praun.html",
+    "type": "Postwar military study",
+    "accessBasis": "Previously consulted NSA scan; accessible transcription checked during final review; original PDF returned HTTP 403.",
+    "scope": "German signals intelligence on Soviet reorganization and the Rostov concentration.",
+    "limitations": "Printed pp. 96–99 (PDF pp. 113–116) inspected. Retrospective German account; self-vindicating claims and compressed battle chronology require comparison with operational records. The NSA PDF returned HTTP 403 in the final link check; the reference now links to the accessible transcription of the same U.S. Army study. Printed-page locators refer to the consulted NSA scan, retained as archivalUrl.",
+    "locatorsByStudy": {
+      "1941-11-29": [
+        "Printed pp. 96–98, PDF pp. 113–115: radio networks and reappearance of divisional designations",
+        "Printed p. 99, PDF p. 116: Rostov network and uncertainty about divisional strength",
+        "Printed p. 96, PDF p. 113: expansion of coverage, improvised division of the Seventh Intercept Company and refused reinforcement",
+        "Printed pp. 98–99: concentration identified amid incomplete coverage"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-radio-intelligence",
+      "institution": "U.S. Army historical study · declassified copy held by the National Security Agency",
+      "title": "German Radio Intelligence, manuscript P-038",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_240/41748549078781.pdf",
+      "type": "Postwar military study",
+      "date": null,
+      "relevance": "German signals intelligence on Soviet reorganization and the Rostov concentration.",
+      "notes": "Printed pp. 96–99 (PDF pp. 113–116) inspected. Retrospective German account; self-vindicating claims and compressed battle chronology require comparison with operational records.",
+      "supports": [
+        "1941-11-29"
+      ],
+      "reuseRights": "Linked and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-rostov-museum",
+    "url": "https://www.rostovmuseum.ru/calendar/detail/?ID=3699",
+    "type": "Institutional local history",
+    "accessBasis": "Passages consulted during this editorial review",
+    "scope": "Starting reference for the 21 November capture, 29 November recapture, Don crossings, local militia and personal collections.",
+    "limitations": "Full institutional article inspected. Its capture/recapture sequence is checked alongside the CMH history. Commemorative framing, casualty totals, unit-specific assertions and quoted orders require critical corroboration before inclusion in a completed study or military layer. No quoted order or exact battlefield position is reproduced in this increment.",
+    "locatorsByStudy": {
+      "1941-11-21": [
+        "Historical account of Remezov, the Fifty-Sixth Army and the fighting on 17–21 November",
+        "Account of 17–21 November: divisional junction, industrial districts, Aksay and withdrawal"
+      ],
+      "1941-11-29": [
+        "Account of the Fifty-Sixth Army's Don assaults and Ninth Army's approach",
+        "Account of the 27 November assaults and defensive fire",
+        "Account of the militia regiment and the night of 27–28 November",
+        "Regional museum chronology, 29 November: 347th Rifle Division, Ninth Army and 230th NKVD Regiment among forces participating in the recovery; local retrospective account",
+        "29 November recovery chronology"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-rostov-museum",
+      "institution": "Rostov Regional Museum of Local Lore",
+      "title": "The Battle for Rostov-on-Don, 21–29 November 1941 (80th-anniversary historical account)",
+      "date": "2021",
+      "url": "https://www.rostovmuseum.ru/calendar/detail/?ID=3699",
+      "type": "Institutional local history",
+      "relevance": "Starting reference for the 21 November capture, 29 November recapture, Don crossings, local militia and personal collections.",
+      "supports": [
+        "1941-11-21",
+        "1941-11-29",
+        "1941-12-05"
+      ],
+      "notes": "Full institutional article inspected. Its capture/recapture sequence is checked alongside the CMH history. Commemorative framing, casualty totals, unit-specific assertions and quoted orders require critical corroboration before inclusion in a completed study or military layer. No quoted order or exact battlefield position is reproduced in this increment.",
+      "reuseRights": "Linked only; no permission to reproduce museum photographs or collection artwork is assumed."
+    }
+  },
+  {
+    "id": "p5-stahel-frozen",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/frozen-offensive/D77ACE20F67761484FD870977EE78D0D",
+    "type": "Academic monograph extract",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "22 November German intelligence assessment and Soviet reserve deployment.",
+    "limitations": "Public extract inspected; full chapter not accessed.",
+    "locatorsByStudy": {
+      "1941-11-24": [
+        "Public opening extract: Kinzel's 22 November assessment and reserve armies forming in the Volga region"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stahel-frozen",
+      "institution": "David Stahel · Cambridge University Press",
+      "title": "The Battle for Moscow, chapter 8: The frozen offensive (public extract)",
+      "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/frozen-offensive/D77ACE20F67761484FD870977EE78D0D",
+      "type": "Academic monograph extract",
+      "date": null,
+      "relevance": "22 November German intelligence assessment and Soviet reserve deployment.",
+      "notes": "Public extract inspected; full chapter not accessed.",
+      "supports": [
+        "1941-11-24"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-stahel-gates",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/to-the-gates-of-moscow/AEF5D65058F1396A471089D77772E569",
+    "type": "Academic monograph extract",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Limits of operational-map proximity and reassessment of Kluge’s role.",
+    "limitations": "Public extract inspected; full chapter not accessed.",
+    "locatorsByStudy": {
+      "1941-12-02": [
+        "Public opening extract: critique of the Kluge missed-opportunity interpretation",
+        "Public opening extract: headquarters maps and the deceptive impression of proximity",
+        "Public opening extract: critique of proximity as evidence of operational capability"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stahel-gates",
+      "institution": "David Stahel · Cambridge University Press",
+      "title": "The Battle for Moscow, chapter 10: To the gates of Moscow (public extract)",
+      "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/to-the-gates-of-moscow/AEF5D65058F1396A471089D77772E569",
+      "type": "Academic monograph extract",
+      "date": null,
+      "relevance": "Limits of operational-map proximity and reassessment of Kluge’s role.",
+      "notes": "Public extract inspected; full chapter not accessed.",
+      "supports": [
+        "1941-12-02"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-stahel-intro",
+    "url": "https://assets.cambridge.org/97811070/87606/excerpt/9781107087606_excerpt.pdf",
+    "type": "Academic monograph excerpt",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Strategic interpretation and the documented 2012 recovery of a Soviet soldier near Vyazma.",
+    "limitations": "The publisher’s ten-page excerpt was inspected; later chapters are not inferred from it.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Printed pp. 2–4: September 2012 recovery near Vyazma; first name and family notification"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stahel-intro",
+      "institution": "David Stahel · Cambridge University Press",
+      "title": "The Battle for Moscow (2015), Introduction, printed pp. 1–10",
+      "url": "https://assets.cambridge.org/97811070/87606/excerpt/9781107087606_excerpt.pdf",
+      "type": "Academic monograph excerpt",
+      "date": null,
+      "relevance": "Strategic interpretation and the documented 2012 recovery of a Soviet soldier near Vyazma.",
+      "notes": "The publisher’s ten-page excerpt was inspected; later chapters are not inferred from it.",
+      "supports": [
+        "1941-11-15"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-stahel-long-road",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/long-road-to-moscow/BCE775F69E0312B3E3B73C1CDA7F5944",
+    "type": "Academic monograph extract",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Parallel British operations, Soviet local counterattacks and formation of reserves.",
+    "limitations": "Public extract inspected; full chapter not accessed.",
+    "locatorsByStudy": {
+      "1941-11-18": [
+        "Chapter 6 public extract: 18 November opening of Crusader and parallel strategic pressures"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stahel-long-road",
+      "institution": "David Stahel · Cambridge University Press",
+      "title": "The Battle for Moscow, chapter 6: The long road to Moscow (public extract)",
+      "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/long-road-to-moscow/BCE775F69E0312B3E3B73C1CDA7F5944",
+      "type": "Academic monograph extract",
+      "date": null,
+      "relevance": "Parallel British operations, Soviet local counterattacks and formation of reserves.",
+      "notes": "Public extract inspected; full chapter not accessed.",
+      "supports": [
+        "1941-11-18"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-stahel-relaunch",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/typhoon-relaunched/98FFE4424D50B7D14B9C10DAE0E3D923",
+    "type": "Academic monograph extract",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Staggered opening, Reinhardt’s assessment and Lama River attacks.",
+    "limitations": "Only the public opening extract was inspected; the subscription chapter is not claimed as read.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Chapter 5, publicly accessible opening extract: XXVII Army Corps on 15 November, Reinhardt's assessment and destroyed bridges",
+        "Chapter 5 public opening extract: LVI Corps, Seventh Panzer and Fourteenth Motorized Infantry on 16 November"
+      ],
+      "1941-11-28": [
+        "Public opening extract: Funck and the Seventh Panzer Division"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stahel-relaunch",
+      "institution": "David Stahel · Cambridge University Press",
+      "title": "The Battle for Moscow, chapter 5: Typhoon re-launched (public opening extract)",
+      "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/typhoon-relaunched/98FFE4424D50B7D14B9C10DAE0E3D923",
+      "type": "Academic monograph extract",
+      "date": null,
+      "relevance": "Staggered opening, Reinhardt’s assessment and Lama River attacks.",
+      "notes": "Only the public opening extract was inspected; the subscription chapter is not claimed as read.",
+      "supports": [
+        "1941-11-15",
+        "1941-11-28"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-stahel-wire",
+    "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/down-to-the-wire/D36FF8D956A5E722C86EEAAD5A2F75FF",
+    "type": "Academic monograph extract",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Dated German personnel losses and quoted soldiers’ letters and recollections.",
+    "limitations": "Public extract inspected. Personnel figures retain their dates and geographic scope; retrospective recollections are identified.",
+    "locatorsByStudy": {
+      "1941-12-02": [
+        "Public opening extract: cumulative casualties to 26 November and exclusion of sickness",
+        "Public opening extract: 21 November letter and redistribution of personnel"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stahel-wire",
+      "institution": "David Stahel · Cambridge University Press",
+      "title": "The Battle for Moscow, chapter 9: Down to the wire (public extract)",
+      "url": "https://www.cambridge.org/core/books/abs/battle-for-moscow/down-to-the-wire/D36FF8D956A5E722C86EEAAD5A2F75FF",
+      "type": "Academic monograph extract",
+      "date": null,
+      "relevance": "Dated German personnel losses and quoted soldiers’ letters and recollections.",
+      "notes": "Public extract inspected. Personnel figures retain their dates and geographic scope; retrospective recollections are identified.",
+      "supports": [
+        "1941-12-02"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-stavka0428",
+    "url": "https://battlefield.ru/library/archives/reports/reports8.html",
+    "type": "Primary military order in published translation",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Shelter denial, destruction orders, evacuation instruction and reporting requirements.",
+    "limitations": "Full English transcription inspected. Host cites TsAMO collection 208, index 2524, item 1, sheets 257–58. An order establishes intended policy, not compliance in every locality.",
+    "locatorsByStudy": {
+      "1941-11-18": [
+        "Order 0428, 17 November 1941, opening rationale and clauses 1–3",
+        "Clauses 1, 3 and 4: geographical scope, population removal and reports of implementation",
+        "Opening assessment of German billeting and expulsion of inhabitants; attributed as the order's account"
+      ],
+      "1941-11-24": [
+        "Order 0428, 17 November: shelter destruction and population removal provisions",
+        "Order 0428: military importance assigned to village shelter"
+      ],
+      "1941-12-05": [
+        "Stavka Order No. 0428, 17 November 1941, especially clauses 1 and 3; translated document"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-stavka0428",
+      "institution": "Stavka · translation by James F. Gebhardt, The Russian Battlefield",
+      "title": "Order no. 0428, 17 November 1941: destruction of settlements behind German lines",
+      "url": "https://battlefield.ru/library/archives/reports/reports8.html",
+      "type": "Primary military order in published translation",
+      "date": null,
+      "relevance": "Shelter denial, destruction orders, evacuation instruction and reporting requirements.",
+      "notes": "Full English transcription inspected. Host cites TsAMO collection 208, index 2524, item 1, sheets 257–58. An order establishes intended policy, not compliance in every locality.",
+      "supports": [
+        "1941-11-18",
+        "1941-11-24",
+        "1941-12-05"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-tula-library",
+    "url": "https://www.prlib.ru/node/619660",
+    "type": "Institutional historical synthesis",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Tula defence, local industrial activity, 239th Rifle Division and the bypass toward Kashira.",
+    "limitations": "Russian text inspected and paraphrased. Commemorative language and precise advance dates require corroboration; reaching the Kashira approaches is not capture of Kashira.",
+    "locatorsByStudy": {
+      "1941-11-18": [
+        "Historical narrative: October defence, Fiftieth Army and the local formations that joined it",
+        "Closing historical paragraph: partial industrial evacuation, continued weapons manufacture and armoured-vehicle repair",
+        "Continued defence industry during evacuation",
+        "Passage on commitment and encirclement of the 239th Rifle Division",
+        "Defence, partial encirclement and continued industrial activity"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-tula-library",
+      "institution": "Boris Yeltsin Presidential Library",
+      "title": "The defence of Tula began: historical account of the October–December 1941 operation",
+      "url": "https://www.prlib.ru/node/619660",
+      "type": "Institutional historical synthesis",
+      "date": null,
+      "relevance": "Tula defence, local industrial activity, 239th Rifle Division and the bypass toward Kashira.",
+      "notes": "Russian text inspected and paraphrased. Commemorative language and precise advance dates require corroboration; reaching the Kashira approaches is not capture of Kashira.",
+      "supports": [
+        "1941-11-18"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-tula-regiment-order",
+    "url": "https://docs.historyrussia.org/ru/nodes/209877-iz-postanovleniya-tulskogo-gorodskogo-komiteta-oborony-o-formirovanii-tulskogo-rabochego-polka-23-oktyabrya-1941-g",
+    "type": "Archival document catalogue",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Document identity, issuing committee and formation date.",
+    "limitations": "Catalogue only: PATO f. 3039, op. 1, d. 1, ll. 3–5; the full resolution was not inspected.",
+    "locatorsByStudy": {
+      "1941-11-18": [
+        "Catalogue identity and archival reference for the 23 October 1941 resolution; full text not accessed",
+        "City defence committee resolution: documented organization of civilian workers for combat"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-tula-regiment-order",
+      "institution": "Electronic Library of Historical Documents · Tula City Defence Committee",
+      "title": "Catalogue record: resolution forming the Tula Workers’ Regiment, 23 October 1941",
+      "url": "https://docs.historyrussia.org/ru/nodes/209877-iz-postanovleniya-tulskogo-gorodskogo-komiteta-oborony-o-formirovanii-tulskogo-rabochego-polka-23-oktyabrya-1941-g",
+      "type": "Archival document catalogue",
+      "date": null,
+      "relevance": "Document identity, issuing committee and formation date.",
+      "notes": "Catalogue only: PATO f. 3039, op. 1, d. 1, ll. 3–5; the full resolution was not inspected.",
+      "supports": [
+        "1941-11-18"
+      ],
+      "reuseRights": "Referenced and paraphrased; no source images reproduced."
+    }
+  },
+  {
+    "id": "p5-winkler-rostov",
+    "url": "https://pstorage-leicester-213265548798.s3.amazonaws.com/18306515/2015WinklerCPhD.pdf",
+    "type": "Academic doctoral research",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Printed pp. 70–72 (PDF pp. 76–78) inspected for first-occupation testimony, registration and uncertain mortality; original witness interviews not independently accessed.",
+    "limitations": "Printed pp. 70–72 (PDF pp. 76–78) inspected for first-occupation testimony, registration and uncertain mortality; original witness interviews not independently accessed.",
+    "locatorsByStudy": {
+      "1941-11-21": [
+        "Printed pp. 70–72, especially first-occupation eyewitness accounts and anti-Jewish registration",
+        "Printed p. 72: uncertain first-occupation mortality and distinction from the second occupation"
+      ],
+      "1941-11-29": [
+        "Printed p. 72: interval before the second occupation",
+        "Printed pp. 70–72: first-occupation witness statements and their collection after Soviet recovery",
+        "Printed p. 71: Magal family testimony and the author's qualified inference",
+        "Printed pp. 70–72: language and evidentiary limitations of first-occupation accounts",
+        "Printed p. 72: subsequent return of evacuees and later second occupation"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "p5-winkler-rostov",
+      "institution": "Christina Winkler · University of Leicester",
+      "title": "The Holocaust in Rostov-on-Don: Official Russian Holocaust Remembrance Versus a Local Case Study (PhD, 2015)",
+      "url": "https://pstorage-leicester-213265548798.s3.amazonaws.com/18306515/2015WinklerCPhD.pdf",
+      "type": "Academic doctoral research",
+      "date": null,
+      "relevance": "Printed pp. 70–72 (PDF pp. 76–78) inspected for first-occupation testimony, registration and uncertain mortality; original witness interviews not independently accessed.",
+      "notes": "Printed pp. 70–72 (PDF pp. 76–78) inspected for first-occupation testimony, registration and uncertain mortality; original witness interviews not independently accessed.",
+      "supports": [
+        "1941-11-21",
+        "1941-11-29",
+        "1941-12-05"
+      ],
+      "reuseRights": "Linked and paraphrased; no images reproduced."
+    }
+  },
+  {
+    "id": "ushmm-pow-treatment",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-treatment-of-soviet-pows-starvation-disease-and-shootings-june-1941january-1942",
+    "type": "Historical reference",
+    "accessBasis": "Passage access retained from the preceding writing-stage research record; not represented as a new full-source reading",
+    "scope": "Prisoner treatment and chronological limits: later mortality totals are not assigned to the initial encirclement day.",
+    "limitations": "Opened and checked for the local Barbarossa studies. Specific sections, pages or document locators appear with the article notes.",
+    "locatorsByStudy": {
+      "1941-11-15": [
+        "Sections on starvation, shelter, forced marches and shootings in 1941; later cumulative totals are not assigned to 15 November"
+      ],
+      "1941-12-05": [
+        "Sections Germans Reject Geneva Convention, Policy of Mass Starvation in the East, Epidemics and Mass Shootings"
+      ]
+    },
+    "earlierAccessRecord": {
+      "id": "ushmm-pow-treatment",
+      "institution": "United States Holocaust Memorial Museum",
+      "title": "The Treatment of Soviet POWs: Starvation, Disease, and Shootings, June 1941–January 1942",
+      "date": null,
+      "url": "https://encyclopedia.ushmm.org/content/en/article/the-treatment-of-soviet-pows-starvation-disease-and-shootings-june-1941january-1942",
+      "type": "Historical reference",
+      "relevance": "Prisoner treatment and chronological limits: later mortality totals are not assigned to the initial encirclement day.",
+      "supports": [
+        "1941-06-28"
+      ],
+      "notes": "Opened and checked for the local Barbarossa studies. Specific sections, pages or document locators appear with the article notes.",
+      "reuseRights": "Linked and cited; no reproduction licence for third-party editorial material is assumed."
+    }
+  }
+]
