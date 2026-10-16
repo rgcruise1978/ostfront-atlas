@@ -1,4 +1,4 @@
-# Ostfront Atlas shared historical geography
+# Ost Krieg shared historical geography
 
 Prepared 14 October 2026. Regional reconstructions, not cadastral boundaries.
 

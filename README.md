@@ -1,12 +1,20 @@
-# Ostfront Atlas
+# Ost Krieg
 
 A React/Vite historical atlas with 49 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–V through December 5, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. The collection contains 50 published studies by R.G. Cruise. Phase IV adds ten edited and source-checked studies; its ten map dates now have dated regional military reconstructions, source notes and complete linked article context.
 
+## Ost Krieg design and assets
+
+The current preview uses the exact supplied circular emblem, a vermilion/cream/ink system, self-hosted Barlow Condensed Bold (SIL OFL 1.1; bundled license), and system Georgia for reading. No generated imagery, external font service, or new dependencies were added. `public/brand/ost-krieg-original.png` retains the original pixels and transparency. Web, favicon, home-screen and social assets are derivatives; `public/brand/ASSETS.md` records provenance and dimensions.
+
+All 50 article JSON files, historical records, map geometry, source relationships, country colors and routes are retained. Only the rendered introduction subtitle adopts the current identity; its original publication record is preserved. The repository name, hosting identity, existing origins and launch safeguards retain their technical identifiers.
+
+The former redesign, launch, navigation and phase CSS overrides have been retired. Shared design tokens are defined once in `src/styles.css`; cartographic colors remain in `src/map/cartography.js`.
+
 ## Run and verify
 
-Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The current local review runs at http://127.0.0.1:5196/collections.
+Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The Ost Krieg preview runs at http://127.0.0.1:5205. For a production-build preview, run `VITE_SITE_ORIGIN=http://127.0.0.1:5205 npm run build`, then `npm run preview -- --host 127.0.0.1 --port 5205 --strictPort`.
 
-Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. In this workspace use `../../work/map-venv/bin/python`. This entry point retains the earlier geography/chronology gates and checks the dated geography and all 32 protected article hashes. `git diff --check` checks whitespace.
+Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. Use a Python environment with the packages in `scripts/map-requirements.txt`. This entry point retains the geography/chronology gates for 49 dates. Set `OSTFRONT_AUDIT_DIR` to a writable review folder with pre-change `before-hashes.json`; the old Phase III baseline predates subsequent published article corrections. `git diff --check` checks whitespace.
 
 ## Shared cartography
 
@@ -30,13 +38,13 @@ The completed Phase III studies are included in the production publication relea
 
 ## Launch preparation — October 15, 2026
 
-The information menu contains About, How to Use this Site (`/guide`), and About the Author. `src/data/informationPages.js` is the shared menu configuration. Reading colors and typography are consolidated in `src/launch.css`; existing faction meanings remain unchanged.
+The information menu contains About, How to Use this Site (`/guide`), and About the Author. `src/data/informationPages.js` is the shared menu configuration. Reading colors, typography, navigation and page templates are consolidated in `src/styles.css`; map surroundings use `src/map-workstation.css`. Existing faction meanings remain unchanged.
 
 The default build is a review build and stays out of search indexes. It generates static route metadata, a sitemap, robots.txt and response headers. Only after domain-launch authorization, set `VITE_SITE_ORIGIN=https://ostfrontatlas.com` and `VITE_LAUNCH_READY=true` for the production build. Review-pending studies remain excluded from indexing. Do not set these values for previews.
 
 The geography validator accepts `OSTFRONT_AUDIT_DIR` pointing to a writable folder containing `before-hashes.json`, so checks can run in an isolated candidate. This folder receives `data-validation.json`. The launch review package includes that baseline and the audit results.
 
-Deployment of this corrected release to the existing Netlify site is authorized. Custom-domain DNS and search-index activation remain separate. See the accompanying local `launch-review` package for verification, retained historical limitations and domain instructions.
+The Ost Krieg redesign is a local review candidate. Production publication, custom-domain DNS and search-index activation are outside this task. See the accompanying local `launch-review` package for verification, retained historical limitations and domain instructions.
 
 ## Phase V studies
 
