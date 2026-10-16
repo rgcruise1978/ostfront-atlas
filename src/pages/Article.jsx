@@ -3,7 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { marked } from 'marked';
 import { articleBySlug, isArticleDraft, ORIGINAL_AUTHOR } from '../content/articles.js';
 import sources from '../data/sources.json';
-import { articleMapLink, campaignById } from '../data/campaigns.js';
+import { articleMapLink, campaignById, adjacentStudySlugs } from '../data/campaigns.js';
 import '../study-review.css';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import { collectionForArticle, indexReturnLink } from '../data/collections.js';
@@ -31,8 +31,9 @@ export default function Article() {
   const displayedSourceMethod=phaseFourMap?sourceMethod?.replace('The Phase IV companion map is geographic reference only; it does not claim verified dated military positions.','The companion map now provides a dated regional reconstruction. Feature sources and precision notes distinguish reported positions, approximate sectors and schematic corridors.'):sourceMethod;
   const cited = article.sourceIds.map(id => sources.find(source => source.id === id)).filter(Boolean);
   const dossier = Boolean(article.sections?.length);
-  const previous = article.previousArticleSlug && articleBySlug(article.previousArticleSlug);
-  const next = article.nextArticleSlug && articleBySlug(article.nextArticleSlug);
+  const adjacent=adjacentStudySlugs(article);
+  const previous = adjacent.previous && articleBySlug(adjacent.previous);
+  const next = adjacent.next && articleBySlug(adjacent.next);
   const minutes = article.readingMinutes || Math.ceil(article.body.replace(/<[^>]*>/g, ' ').split(/\s+/).length / 220);
   const atlasLink = articleMapLink(article, searchParams.get('mapRegion'), searchParams.get('mapView'));
   return <article className={`page reading-page${dossier ? ' dossier-page' : ''}`} id="article-top">

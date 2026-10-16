@@ -3,6 +3,7 @@ import barbarossaTimeline from './barbarossa-timeline.json';
 import phaseTwoTimeline from './barbarossa-phase-ii-timeline.json';
 import phaseThreeTimeline from './barbarossa-phase-iii-timeline.json';
 import phaseFourTimeline from './barbarossa-phase-iv-timeline.json';
+import phaseFiveTimeline from './barbarossa-phase-v-timeline.json';
 import { geography } from './geography.js';
 
 export const campaigns = [
@@ -16,23 +17,24 @@ export const campaigns = [
   },
   {
     id: 'barbarossa-1941', title: 'Operation Barbarossa', phase: 'Phase I: The Opening Assault',
-    range: '21 June–5 December 1941', coverageRange: '21 June–14 November 1941', startDate: '1941-06-21', endDate: '1941-11-14',
-    introPath: '/campaigns/barbarossa-1941', mapPath: '/atlases/barbarossa-1941', timeline: [...barbarossaTimeline, ...phaseTwoTimeline, ...phaseThreeTimeline, ...phaseFourTimeline],
+    range: '21 June–5 December 1941', coverageRange: '21 June–5 December 1941', startDate: '1941-06-21', endDate: '1941-12-05',
+    introPath: '/campaigns/barbarossa-1941', mapPath: '/atlases/barbarossa-1941', timeline: [...barbarossaTimeline, ...phaseTwoTimeline, ...phaseThreeTimeline, ...phaseFourTimeline, ...phaseFiveTimeline],
     phases: [
       { id: '1', title: 'Phase I: The Opening Assault', range: '21 June–9 July 1941', timeline: barbarossaTimeline, status: 'Eight published studies' },
       { id: '2', title: 'Phase II: The Drive into the Soviet Interior', range: '10 July–25 August 1941', timeline: phaseTwoTimeline, status: 'Nine published studies · dated regional map syntheses' },
       { id: '3', title: 'Phase III: The Battle for Strategic Objectives', range: '26 August–29 September 1941', timeline: phaseThreeTimeline, status: 'Nine published studies · dated regional map syntheses' },
-      { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten published studies · dated regional map reconstructions' }
+      { id: '4', title: 'Phase IV: The Autumn Offensive', range: '30 September–14 November 1941', timeline: phaseFourTimeline, status: 'Ten published studies · dated regional map reconstructions' },
+      { id: '5', title: 'Phase V: The Offensive Exhausted', range: '15 November–5 December 1941', timeline: phaseFiveTimeline, status: 'Eight research briefs · geographic reference maps' }
     ],
     map: { ...geography, center: [24, 54], bounds: [[4.5,43],[44,64]], referencePeriod: '1941-opening', placesUrl: '/data/geography/barbarossa-reference-places.geojson', boundaryUrl: geography.boundaryUrl, neighborsUrl: '/data/history/barbarossa-1941-neighbors.geojson', areaLabelsUrl: '/data/history/barbarossa-1941-area-labels.geojson', historicalUrl: '/data/history/barbarossa-1941-opening-frontier.geojson', controlUrl: '/data/history/barbarossa-1941-opening-control.geojson', operationsUrl: null },
     status: 'Dated territory and source-qualified operational areas',
-    description: 'Follow 36 selected dates through 14 November 1941. Phase IV has ten published studies with dated regional military reconstructions, logistics and linked study context.',
+    description: 'Follow 44 selected dates through 5 December 1941. Phases I–IV have published studies and dated military maps. Phase V adds eight research briefs and geographic reference views while its full studies and military reconstructions are prepared.',
     views: [
-      { id: 'theatre', label: 'Full invasion theatre', bounds: [[4.5,43],[44,64]] },
+      { id: 'theatre', label: 'Full invasion theatre', bounds: [[4.5,43],[44,64]], phaseBounds: {'5':[[4.5,43],[44,67]]}, phaseLabels: {'5':'Entire Eastern Front'} },
       {id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]},
-      { id: 'north', label: 'Army Group North · Baltic region', bounds: [[20, 54], [31, 61]] },
-      { id: 'center', label: 'Army Group Center · Belarus', bounds: [[21, 50], [36, 56.5]] },
-      { id: 'south', label: 'Army Group South · western Ukraine', bounds: [[21, 45], [34, 52]] },
+      { id: 'north', label: 'Army Group North · Baltic region', bounds: [[20, 54], [31, 61]], phaseBounds: {'5':[[26,56.5],[39.5,62.5]]}, phaseLabels: {'5':'Army Group North · Leningrad–Tikhvin'} },
+      { id: 'center', label: 'Army Group Center · Belarus', bounds: [[21, 50], [36, 56.5]], phaseBounds: {'5':[[30.5,52],[40.5,58.5]]}, phaseLabels: {'5':'Army Group Centre · Moscow approaches'} },
+      { id: 'south', label: 'Army Group South · western Ukraine', bounds: [[21, 45], [34, 52]], phaseBounds: {'5':[[28,43.5],[42,51.5]]}, phaseLabels: {'5':'Army Group South · Donbas–Rostov–Crimea'} },
       { id: 'lepel', label: 'Lepel–Senno–Orsha region', bounds: [[27.5, 54], [31, 56]] },
       { id: 'prut', label: 'Prut and Bessarabia', bounds: [[25, 45], [31, 49.5]] },
       { id: 'smolensk', label: 'Smolensk · Dnieper and Western Dvina', bounds: [[28, 52.5], [35.5, 56.5]] },
@@ -48,6 +50,9 @@ export const campaigns = [
       { id: 'tallinn', label: 'Tallinn · Gulf of Finland', bounds: [[22, 58.5], [31, 61.5]] },
       { id: 'yelnya', label: 'Yelnya · Smolensk', bounds: [[31, 53.4], [35, 55.5]] },
       { id: 'leningrad', label: 'Leningrad · Lake Ladoga', bounds: [[28, 58.9], [33, 61.8]] },
+      {id:'moscow-north',label:'Moscow · Klin and the northern approaches',bounds:[[35.2,55.45],[38.6,57.15]]},
+      {id:'yakhroma',label:'Yakhroma–Dmitrov · canal research area',bounds:[[37.05,56.05],[37.85,56.6]]},
+      {id:'lower-don',label:'Rostov-on-Don · lower Don region',bounds:[[38.1,46.75],[41.1,48.15]]},
       {id:'typhoon-opening',label:'Typhoon · all three opening sectors',bounds:[[30.6,50.9],[38.2,57.2]]},
       {id:'vyazma-bryansk',label:'Vyazma–Bryansk · pockets and pursuit',bounds:[[32.4,52.1],[36.9,56.1]]},
       {id:'crimea',label:'Crimea · Ishun, Sevastopol and Kerch',bounds:[[32.2,44.1],[36.9,46.5]]},
@@ -80,4 +85,10 @@ export function articleMapLink(article, regionId, mapView) {
   if ((regionId || defaultRegion) && campaign?.views.some(view => view.id === (regionId || defaultRegion))) params.set('region', regionId || defaultRegion);
   if (parseMapView(mapView)) params.set('view', mapView);
   return `${campaign?.mapPath || '/atlases/poland-1939'}${params.size ? `?${params}` : ''}`;
+}
+
+export function adjacentStudySlugs(article) {
+ const timeline=campaignById(article?.campaignId)?.timeline || [];
+ const index=timeline.findIndex(event=>event.articleSlug===article?.slug);
+ return {previous:article?.previousArticleSlug || (index>0?timeline[index-1].articleSlug:undefined),next:article?.nextArticleSlug || (index>=0?timeline[index+1]?.articleSlug:undefined)};
 }

@@ -1,3 +1,15 @@
+# October 15, 2026 — Phase V foundation
+
+Completed: Five-phase Barbarossa navigation (44 selected dates); eight Phase V research briefs with 151 outline topics, source leads and chronological/map returns; 14–15 November continuity. Poland’s existing 1 September–26 October navigation range is confirmed. All 42 published article files, prior map data and shared palette are unchanged. Original article authors are R.G. Cruise.
+Verified: Data validator, production build and preservation gates pass. Browser review and deployment evidence are saved in `phase-v-review/` when complete.
+Outstanding: Phase V full studies and dated military reconstruction. Initial maps are geographic references with the 21 June political frame clearly labelled; no earlier military state is carried forward.
+Historical evidence pending: Exact LOC situation sheets and printed dates, canal/bridge geometry, and unit/control chronology; the LOC collection endpoint was inaccessible. Starting CMH and Rostov Museum references were inspected; museum casualty claims are not adopted.
+Next: Complete Phase V geographic detail, beginning with verified Moscow–Volga Canal, Yakhroma/Dmitrov/Peremilovo settlements and transport context.
+
+# October 15, 2026 — All ten Phase IV maps published and verified
+
+Production PR #13 merged as `ac624a278c70b1dea04284766a50a529a19c67cd`. Netlify production deploy `6ad15b1f0f41025d3efb5427` is ready and published (23:01:06 UTC). All eleven public map-data files match the tested release. All 32 public browser checks passed: ten desktop dates, ten mobile dates, six secondary theatres, four earlier collections and two PNG exports. The public article-section-to-map-context link also passed. All 42 article JSON files and the shared palette remain unchanged. Source, coverage, precision and publication records are saved in `phase-iv-maps-review/`. Fine tactical precision remains qualified; inaccessible LOC sheets were not used.
+
 # October 15, 2026 — Phase IV map release candidate
 
 All ten maps have dated regional reconstructions using the shared cartography. Includes formation sectors, achieved/planned movement, control/continued-resistance shading, logistics, natural river additions, civilian context and all 341 published article paragraphs in linked panels. All 42 article JSON files and `cartography.js` are unchanged. Research, coverage, chronology and browser records: `phase-iv-maps-review/`. This checkpoint is local; production publication is recorded separately after verification.

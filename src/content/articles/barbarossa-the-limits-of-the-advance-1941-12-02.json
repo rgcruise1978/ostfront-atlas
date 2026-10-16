@@ -1,0 +1,69 @@
+{
+  "id": "barbarossa-phase-v-1941-12-02",
+  "slug": "barbarossa-the-limits-of-the-advance-1941-12-02",
+  "title": "The Limits of the Advance",
+  "subtitle": "Phase V research brief · full historical study in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "5",
+  "phase": "V — The Offensive Exhausted",
+  "historicalDate": "1941-12-02",
+  "historicalPeriod": "2 December 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p5-cmh-moscow",
+    "ushmm-pow-treatment",
+    "p5-loc-atlas-candidate"
+  ],
+  "sourceLocators": {
+    "p5-cmh-moscow": [
+      "Chapter III, To Moscow. Starting operational and strategic reference; verify each eventual narrative claim and military feature independently."
+    ],
+    "ushmm-pow-treatment": [
+      "1941–January 1942 discussion of German prisoner policies. Later aggregate mortality must not be assigned to one selected day."
+    ],
+    "p5-loc-atlas-candidate": [
+      "Collection-level candidate only. No exact Phase V sheet or printed situation date verified in this increment."
+    ]
+  },
+  "summary": "The final German attempts to force a decision around Moscow, Soviet defensive adaptation and reinforcements, and the interaction of attrition, transport, supply and weather.",
+  "body": "",
+  "location": "Moscow, its northern approaches and Tula",
+  "outlineTopics": [
+    "The German military situation at the beginning of December.",
+    "The condition of Army Group Center.",
+    "German attempts to continue advancing toward Moscow.",
+    "Fighting around the northern approaches.",
+    "The situation near Solnechnogorsk, Istra, and Krasnaya Polyana.",
+    "The continuing Soviet defense around Tula.",
+    "German 2nd Panzer Army and the southern pincer.",
+    "Soviet Western Front defensive operations.",
+    "Soviet 1st Shock Army and other reserve formations.",
+    "Soviet counterattacks against exposed German units.",
+    "Fuel and ammunition shortages.",
+    "Mechanical breakdowns and the condition of German armored formations.",
+    "German infantry losses and declining operational strength.",
+    "Winter equipment shortages.",
+    "The actual effects of weather on military operations.",
+    "Soviet defensive advantages and remaining vulnerabilities.",
+    "The continuing importance of Moscow's railway and industrial infrastructure.",
+    "German intelligence estimates concerning Soviet reserves.",
+    "The difference between approaching the Soviet capital and possessing the means to capture it.",
+    "The developing conditions for a wider Soviet counteroffensive."
+  ],
+  "researchStatus": "Research brief and article route established. Full narrative, claim-level citations and dated military reconstruction remain in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Candidate atlas collection only. No exact sheet or daily situation date has been verified; an earlier or later sheet must not be relabelled.",
+  "previousArticleSlug": "barbarossa-rostov-retaken-1941-11-29",
+  "chronologyNotes": [
+    "Do not turn disputed reconnaissance or closest-approach claims into verified occupation.",
+    "Moscow and Tula remain Soviet-held; no precise closest-approach line has been established here."
+  ],
+  "preparedDate": "2026-10-15",
+  "mapStateId": "1941-12-02",
+  "sourceMethod": "Starting research references identify the planned evidence base. An outline is not a completed historical narrative or a verified tactical map.",
+  "nextArticleSlug": "barbarossa-exhausted-1941-12-05"
+}

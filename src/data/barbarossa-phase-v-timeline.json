@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1941-11-15",
+    "date": "1941-11-15",
+    "label": "15 November 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "The Final Offensive",
+    "summary": "The renewed German offensive toward Moscow: its staggered opening, Soviet defensive responsibilities and the limits of German strength and supply.",
+    "articleSlug": "barbarossa-the-final-offensive-1941-11-15",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow-north",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-11-18",
+    "date": "1941-11-18",
+    "label": "18 November 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "The Southern Pincer",
+    "summary": "The research study will examine the renewed German attempt to bypass Soviet-held Tula and the roads, rivers, defenses and supply problems shaping the southern pincer.",
+    "articleSlug": "barbarossa-the-southern-pincer-1941-11-18",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "tula",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-11-21",
+    "date": "1941-11-21",
+    "label": "21 November 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "Rostov Falls",
+    "summary": "The German capture of Rostov on 21 November, the Soviet defense and withdrawals, and the continuing Soviet offensive against the wider German position.",
+    "articleSlug": "barbarossa-rostov-falls-1941-11-21",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-rostov-museum",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "lower-don",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-11-24",
+    "date": "1941-11-24",
+    "label": "24 November 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "The Northern Pincer",
+    "summary": "The northern pincer through Klin and Solnechnogorsk, Soviet withdrawals and reserve commitments, and the transport network leading toward the Moscow–Volga Canal.",
+    "articleSlug": "barbarossa-the-northern-pincer-1941-11-24",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow-north",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-11-28",
+    "date": "1941-11-28",
+    "label": "28 November 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "At the Moscow–Volga Canal",
+    "summary": "A planned local operational study of the canal crossings near Yakhroma, the temporary German bridgehead and Soviet resistance, with the sequence and geography to be established from dated evidence.",
+    "articleSlug": "barbarossa-at-the-moscow-volga-canal-1941-11-28",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "yakhroma",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-11-29",
+    "date": "1941-11-29",
+    "label": "29 November 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "Rostov Retaken",
+    "summary": "The Soviet recapture of Rostov on 29 November, the operations of the Southern Front and 56th Army, German withdrawal and the consequences for soldiers and civilians.",
+    "articleSlug": "barbarossa-rostov-retaken-1941-11-29",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-rostov-museum",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "lower-don",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-12-02",
+    "date": "1941-12-02",
+    "label": "2 December 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "The Limits of the Advance",
+    "summary": "The final German attempts to force a decision around Moscow, Soviet defensive adaptation and reinforcements, and the interaction of attrition, transport, supply and weather.",
+    "articleSlug": "barbarossa-the-limits-of-the-advance-1941-12-02",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "moscow",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  },
+  {
+    "id": "1941-12-05",
+    "date": "1941-12-05",
+    "label": "5 December 1941",
+    "kind": "Geographic reference · research pending",
+    "title": "Barbarossa Exhausted",
+    "summary": "The concluding study will assess why Germany failed to achieve its invasion objectives, compare the three operational theatres and explain the transition to Soviet counteroffensive operations.",
+    "articleSlug": "barbarossa-exhausted-1941-12-05",
+    "phaseId": "5",
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p5-rostov-museum",
+      "ushmm-pow-treatment",
+      "p5-loc-atlas-candidate"
+    ],
+    "geographicFeatureIds": [],
+    "snapshotStatus": "geographic-reference-only",
+    "defaultView": "theatre",
+    "dateRationale": "Fixed editorial date from the Phase V assignment; multi-day events retain their actual intervals when researched.",
+    "mapAccuracy": "Physical geography and a clearly labelled political reference for 21 June 1941 provide orientation. No dated Phase V military control, front, formation, movement or battle geometry has been reconstructed.",
+    "politicalReferenceDate": "1941-06-21"
+  }
+]

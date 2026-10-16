@@ -1,0 +1,69 @@
+{
+  "id": "barbarossa-phase-v-1941-11-21",
+  "slug": "barbarossa-rostov-falls-1941-11-21",
+  "title": "Rostov Falls",
+  "subtitle": "Phase V research brief · full historical study in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "5",
+  "phase": "V — The Offensive Exhausted",
+  "historicalDate": "1941-11-21",
+  "historicalPeriod": "21 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p5-cmh-moscow",
+    "p5-rostov-museum",
+    "ushmm-pow-treatment",
+    "p5-loc-atlas-candidate"
+  ],
+  "sourceLocators": {
+    "p5-cmh-moscow": [
+      "Chapter III, To Moscow. Starting operational and strategic reference; verify each eventual narrative claim and military feature independently."
+    ],
+    "ushmm-pow-treatment": [
+      "1941–January 1942 discussion of German prisoner policies. Later aggregate mortality must not be assigned to one selected day."
+    ],
+    "p5-loc-atlas-candidate": [
+      "Collection-level candidate only. No exact Phase V sheet or printed situation date verified in this increment."
+    ],
+    "p5-rostov-museum": [
+      "Chronological account of the 21–29 November fighting and named museum collections; precise military geometry and casualty claims remain to be corroborated."
+    ]
+  },
+  "summary": "The German capture of Rostov on 21 November, the Soviet defense and withdrawals, and the continuing Soviet offensive against the wider German position.",
+  "body": "",
+  "location": "Rostov-on-Don and the lower Don",
+  "outlineTopics": [
+    "Army Group South's situation during November.",
+    "Ewald von Kleist and German 1st Panzer Army.",
+    "German objectives in the Donbas and lower Don region.",
+    "The strategic importance of Rostov-on-Don.",
+    "Rostov as a transportation center and gateway toward the Caucasus.",
+    "German advances beginning November 17.",
+    "Soviet 56th Army and other defending formations.",
+    "Soviet Southern Front operations.",
+    "German entry into Rostov.",
+    "The city's capture on November 21.",
+    "Soviet withdrawals and continuing resistance.",
+    "German plans for further operations.",
+    "The difficulties facing German formations operating far from their supply bases.",
+    "Soviet preparations for counteroffensive operations.",
+    "Civilian experiences during the brief German occupation.",
+    "The importance of the battle for the wider Eastern Front."
+  ],
+  "researchStatus": "Research brief and article route established. Full narrative, claim-level citations and dated military reconstruction remain in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Candidate atlas collection only. No exact sheet or daily situation date has been verified; an earlier or later sheet must not be relabelled.",
+  "previousArticleSlug": "barbarossa-the-southern-pincer-1941-11-18",
+  "chronologyNotes": [
+    "Rostov’s capture on 21 November is not the end of fighting in the region.",
+    "Keep the city’s capture separate from Soviet counterattacks already under way and its recapture on 29 November."
+  ],
+  "preparedDate": "2026-10-15",
+  "mapStateId": "1941-11-21",
+  "sourceMethod": "Starting research references identify the planned evidence base. An outline is not a completed historical narrative or a verified tactical map.",
+  "nextArticleSlug": "barbarossa-the-northern-pincer-1941-11-24"
+}

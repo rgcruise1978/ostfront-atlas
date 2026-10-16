@@ -1,0 +1,64 @@
+{
+  "id": "barbarossa-phase-v-1941-11-28",
+  "slug": "barbarossa-at-the-moscow-volga-canal-1941-11-28",
+  "title": "At the Moscow–Volga Canal",
+  "subtitle": "Phase V research brief · full historical study in preparation",
+  "status": "research-brief",
+  "author": "R.G. Cruise",
+  "campaignId": "barbarossa-1941",
+  "phaseId": "5",
+  "phase": "V — The Offensive Exhausted",
+  "historicalDate": "1941-11-28",
+  "historicalPeriod": "28 November 1941",
+  "relatedAtlasIds": [
+    "barbarossa-1941"
+  ],
+  "sourceIds": [
+    "p5-cmh-moscow",
+    "ushmm-pow-treatment",
+    "p5-loc-atlas-candidate"
+  ],
+  "sourceLocators": {
+    "p5-cmh-moscow": [
+      "Chapter III, To Moscow. Starting operational and strategic reference; verify each eventual narrative claim and military feature independently."
+    ],
+    "ushmm-pow-treatment": [
+      "1941–January 1942 discussion of German prisoner policies. Later aggregate mortality must not be assigned to one selected day."
+    ],
+    "p5-loc-atlas-candidate": [
+      "Collection-level candidate only. No exact Phase V sheet or printed situation date verified in this increment."
+    ]
+  },
+  "summary": "A planned local operational study of the canal crossings near Yakhroma, the temporary German bridgehead and Soviet resistance, with the sequence and geography to be established from dated evidence.",
+  "body": "",
+  "location": "Yakhroma, Dmitrov and Peremilovo",
+  "outlineTopics": [
+    "German advances from Klin toward the canal.",
+    "The role of the German 7th Panzer Division.",
+    "The operational objectives of the German northern pincer.",
+    "The geography of the Moscow–Volga Canal.",
+    "The importance of Yakhroma and Dmitrov.",
+    "German attempts to secure crossings.",
+    "The fighting around the Yakhroma bridge.",
+    "German movement across the canal on November 28.",
+    "Soviet 1st Shock Army and its defensive responsibilities.",
+    "Soviet counterattacks against the German bridgehead.",
+    "The fighting around Peremilovo.",
+    "The role of Soviet infantry, armor, artillery, and supporting formations.",
+    "German supply and equipment limitations.",
+    "The consequences of Soviet resistance for the northern envelopment.",
+    "Why proximity to Moscow did not necessarily mean that the German army possessed the capacity to capture the city."
+  ],
+  "researchStatus": "Research brief and article route established. Full narrative, claim-level citations and dated military reconstruction remain in preparation.",
+  "referenceMapUrl": "https://www.loc.gov/item/map51000141/",
+  "referenceMapStatus": "Candidate atlas collection only. No exact sheet or daily situation date has been verified; an earlier or later sheet must not be relabelled.",
+  "previousArticleSlug": "barbarossa-the-northern-pincer-1941-11-24",
+  "chronologyNotes": [
+    "Distinguish arrival at the canal, initial crossings, bridgehead development, Soviet counterattacks and German withdrawal.",
+    "No exact bridgehead perimeter, bridge coordinate or tactical movement is verified in this foundation. Check conflicting crossing chronologies before plotting."
+  ],
+  "preparedDate": "2026-10-15",
+  "mapStateId": "1941-11-28",
+  "sourceMethod": "Starting research references identify the planned evidence base. An outline is not a completed historical narrative or a verified tactical map.",
+  "nextArticleSlug": "barbarossa-rostov-retaken-1941-11-29"
+}
