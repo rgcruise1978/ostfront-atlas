@@ -14,4 +14,3 @@ fs.writeFileSync('dist/robots.txt',launch?`User-agent: *\nAllow: /\nSitemap: ${o
 fs.writeFileSync('dist/sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+routes.filter(r=>r.published).map(r=>`<url><loc>${escape(origin+r.url)}</loc>${r.date?`<lastmod>${r.date}</lastmod>`:''}</url>`).join('\n')+'\n</urlset>\n');
 fs.writeFileSync('dist/_headers',launch?'/*\n  X-Content-Type-Options: nosniff\n':'/*\n  X-Robots-Tag: noindex, nofollow\n  X-Content-Type-Options: nosniff\n');
 console.log(`Metadata: ${routes.length} routes; ${launch?'production indexing enabled':'preview indexing blocked'}; origin ${origin}`);
-
