@@ -187,7 +187,7 @@ for (const collection of [openingControl, openingFrontier, openingNeighbors]) fo
 }
 assert(openingControl.features.some(feature=>feature.properties.id === 'barbarossa-soviet-bessarabia-bukovina'), 'The 1940 Romanian territorial change is missing');
 for (const name of ['Brest-Litovsk','Vilnius','Leningrad','Helsinki']) assert(openingPlaces.features.some(feature=>feature.properties.name===name), `Missing 1941 place ${name}`);
-for (const article of articles.values()) assert(article.author === 'R.G. Cruise', 'Original atlas author credit is inconsistent');
+for (const article of articles.values()) assert(article.author === 'Robert M. Dobo', 'Original atlas author credit is inconsistent');
 const capitals = read('src/data/capitals.json');
 assert(['berlin','moscow','warsaw','bratislava'].every(id=>capitals.some(c=>c.id===id)), 'Missing primary capital');
 for (const capital of capitals) {
@@ -214,7 +214,7 @@ const militaryLayers = [read('public/data/history/military-control.geojson'), re
 for (const [index,event] of phaseTwo.entries()) {
   const article = articles.get(event.articleSlug);
   assert(article && article.historicalDate === event.date && article.phaseId === '2' && article.campaignId === 'barbarossa-1941', 'Broken Phase II article identity');
-  assert(article.status === 'published' && article.publicationDate && article.preparedDate && article.author === 'R.G. Cruise' && article.reviewedDate, 'Phase II studies require completed review and publication metadata');
+  assert(article.status === 'published' && article.publicationDate && article.preparedDate && article.author === 'Robert M. Dobo' && article.reviewedDate, 'Phase II studies require completed review and publication metadata');
   assert(article.reviewedBodySha256 === createHash('sha256').update(article.body).digest('hex'), `${article.slug}: study text differs from its completed editorial review`);
   const prose = article.body.replace(/<sup\b[\s\S]*?<\/sup>/g, '').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/<[^>]*>/g, ' ').replace(/&amp;/g, '&');
   const words = (prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu) || []).length;
@@ -258,7 +258,7 @@ assert(phaseThree.find(event=>event.date==='1941-08-29').defaultView==='tallinn'
 for (const [index,event] of phaseThree.entries()) {
   const article=articles.get(event.articleSlug);
   assert(article && article.historicalDate===event.date && article.campaignId==='barbarossa-1941' && article.phaseId==='3', `Broken Phase III article identity: ${event.date}`);
-  assert(article.status==='published' && article.author==='R.G. Cruise' && article.preparedDate && article.body && article.publicationDate, `Phase III must contain a published full study: ${event.date}`);
+  assert(article.status==='published' && article.author==='Robert M. Dobo' && article.preparedDate && article.body && article.publicationDate, `Phase III must contain a published full study: ${event.date}`);
   const prose = article.body.replace(/<sup\b[\s\S]*?<\/sup>/g, '').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/<[^>]*>/g, ' ').replace(/&amp;/g, '&');
   const words = (prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu) || []).length;
   assert(words >= 3500 && words <= 5000 && words === article.narrativeWordCount, `${article.slug}: substantive prose word count is invalid (${words})`);
@@ -288,7 +288,7 @@ assert(phaseFour.length===10 && phaseThree.at(-1).date==='1941-09-29' && phaseFo
 for (const [index,event] of phaseFour.entries()) {
   const article=articles.get(event.articleSlug);
   assert(article?.historicalDate===event.date && article.campaignId==='barbarossa-1941' && article.phaseId==='4', `Broken Phase IV article identity: ${event.date}`);
-  assert(article.author==='R.G. Cruise' && ['research-brief','ready-for-review','published'].includes(article.status) && (article.status==='published' ? article.publicationDate && article.reviewedDate && article.reviewedBodySha256===createHash('sha256').update(article.body).digest('hex') : !article.publicationDate) && article.outlineTopics?.length>=10, `Phase IV entry has invalid authorship or review state: ${event.date}`);
+  assert(article.author==='Robert M. Dobo' && ['research-brief','ready-for-review','published'].includes(article.status) && (article.status==='published' ? article.publicationDate && article.reviewedDate && article.reviewedBodySha256===createHash('sha256').update(article.body).digest('hex') : !article.publicationDate) && article.outlineTopics?.length>=10, `Phase IV entry has invalid authorship or review state: ${event.date}`);
   if (article.status==='research-brief') assert(!article.body, `Phase IV brief has an unreviewed narrative: ${event.date}`);
   else {
     const prose=article.body.replace(/<sup\b[\s\S]*?<\/sup>/g,'').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g,'').replace(/<[^>]*>/g,' ').replace(/&amp;/g,'&');
@@ -316,7 +316,7 @@ const phaseFiveDates=['1941-11-15','1941-11-18','1941-11-21','1941-11-24','1941-
 assert(JSON.stringify(phaseFive.map(event=>event.date))===JSON.stringify(phaseFiveDates),'Phase V fixed dates changed');
 for(const [index,event] of phaseFive.entries()) {
  const article=articles.get(event.articleSlug),snapshot=snapshotIndex[event.date];
- assert(article?.historicalDate===event.date&&article.phaseId==='5'&&article.author==='R.G. Cruise','Phase V identity mismatch');
+ assert(article?.historicalDate===event.date&&article.phaseId==='5'&&article.author==='Robert M. Dobo','Phase V identity mismatch');
  assert(article.status==='published'&&article.body&&article.preparedDate&&article.publicationDate&&article.reviewedDate&&article.reviewedBodySha256===createHash('sha256').update(article.body).digest('hex')&&article.outlineTopics.length>=14,'Phase V must contain complete reviewed published studies with matching review hashes');
  const prose=article.body.replace(/<sup\b[\s\S]*?<\/sup>/g,'').replace(/<p\b[^>]*class="eyebrow"[^>]*>[\s\S]*?<\/p>/g,'').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g,'').replace(/<[^>]*>/g,' ').replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/&(?:amp|quot|apos|lt|gt);/g,entity=>({'&amp;':'&','&quot;':'"','&apos;':"'",'&lt;':'<','&gt;':'>'})[entity]);
  const words=(prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu)||[]).length;
