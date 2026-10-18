@@ -83,7 +83,7 @@ const AtlasMap=forwardRef(function AtlasMap({campaign,viewRequest,date,operation
    const bounds=map.getBounds();container.style.width='2560px';container.style.height='1110px';map.resize();map.fitBounds(bounds,{padding:45,duration:0});
    await new Promise(resolve=>map.once('idle',resolve));
    const canvas=document.createElement('canvas');canvas.width=2560;canvas.height=1440;const ctx=canvas.getContext('2d');
-   ctx.fillStyle='#F0E3C4';ctx.fillRect(0,0,2560,1440);ctx.fillStyle='#201F1A';ctx.font='bold 44px Georgia';ctx.fillText(title,64,68);ctx.font='25px Arial';ctx.fillText(label+'  ·  '+preset+'  ·  Ost Krieg',64,110);
+   ctx.fillStyle='#F0E3C4';ctx.fillRect(0,0,2560,1440);ctx.fillStyle='#201F1A';ctx.font='bold 44px Georgia';ctx.fillText(title,64,68);ctx.font='25px Arial';ctx.fillText(label+'  ·  '+preset+'  ·  Ostkrieg',64,110);
    const referenceOnly=snapshots[date]?.timeConvention?.startsWith('Geographic reference');
    ctx.font='17px Arial';ctx.fillText(referenceOnly?'Geographic reference only · dated military reconstruction pending':'Dated regional synthesis · component reporting times and feature precision are recorded in the atlas',64,135);
    ctx.drawImage(map.getCanvas(),0,140,2560,1110);

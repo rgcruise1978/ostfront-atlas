@@ -6,7 +6,7 @@ const matchColors=(field,colors,fallback)=>['match',['get',field],...Object.entr
 const actorColor=matchColors('actor',actorColors,'#5E5340');
 const point=(id,source,field,size,minzoom=0,filter)=>({id,type:'symbol',source,minzoom,...(filter?{filter}:{}),layout:{'text-field':field,'text-font':fonts,'text-size':size,'text-max-width':13,'text-allow-overlap':false,'text-padding':3},paint:{'text-color':'#22353F','text-halo-color':'#FFF9E9','text-halo-width':1.7}});
 export function makeMapStyle(){
- const style={version:8,name:'Ost Krieg · dated Europe',sources:{
+ const style={version:8,name:'Ostkrieg · dated Europe',sources:{
   land:{type:'geojson',data:'/data/geography/europe-land.geojson',attribution:'Historical outlines © University of Minnesota · CC BY 3.0 US'},
   relief:{type:'image',url:'/data/geography/europe-relief.jpg',coordinates:[[-25,73],[60,73],[60,32],[-25,32]]},
   neighbors:{type:'geojson',data:empty,attribution:'Historical geometry: <a href="/sources#europe-vector-1939">Goran tek-en, Alphathon, maix and contributors · adapted CC BY-SA 4.0</a>'},
