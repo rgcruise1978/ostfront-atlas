@@ -12,4 +12,16 @@
 
 # Build-generated dist/_headers keeps previews out of search.
 # Enable production indexing only during the approved domain launch:
-# VITE_SITE_ORIGIN=https://ostfrontatlas.com and VITE_LAUNCH_READY=true.
+# VITE_SITE_ORIGIN=https://ostkrieg.com and VITE_LAUNCH_READY=true.
+
+[context.production.environment]
+  VITE_SITE_ORIGIN = "https://ostkrieg.com"
+  VITE_LAUNCH_READY = "true"
+
+[context.deploy-preview.environment]
+  VITE_SITE_ORIGIN = "https://ostkrieg.com"
+  VITE_LAUNCH_READY = "false"
+
+[context.branch-deploy.environment]
+  VITE_SITE_ORIGIN = "https://ostkrieg.com"
+  VITE_LAUNCH_READY = "false"

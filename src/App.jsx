@@ -27,7 +27,7 @@ export default function App() {
   const activeCampaign = campaigns.find(c => [c.mapPath,c.introPath].includes(location.pathname)) || campaigns.find(c=>c.id===activeArticle?.campaignId);
   const activePhase = activeArticle ? phaseForDate(activeCampaign || {},activeArticle.historicalDate) : activeCampaign && selectedPhase(activeCampaign,new URLSearchParams(location.search));
   const viewingAtlas = Boolean(activeCampaign) || location.pathname === '/collections';
-  useEffect(()=>{if(location.pathname.startsWith('/articles/'))return;const titles={'/':'The Eastern Front','/collections':'Collections','/articles':'Historical Studies','/sources':'Sources','/guide':'How to Use this Site','/about':'About','/about-the-author':'About the Author'};document.title=`${titles[location.pathname] || (activeCampaign ? `${activeCampaign.title}${activePhase ? ` · Phase ${activePhase.id}` : ''}` : 'Page not found')} | Ost Krieg`;},[location.pathname,location.search,activeCampaign,activePhase]);
+  useEffect(()=>{if(location.pathname.startsWith('/articles/'))return;const titles={'/':'The Eastern Front','/collections':'Collections','/articles':'Historical Studies','/sources':'Sources','/guide':'How to Use this Site','/about':'About','/about-the-author':'About the Author'};document.title=`${titles[location.pathname] || (activeCampaign ? `${activeCampaign.title}${activePhase ? ` · Phase ${activePhase.id}` : ''}` : 'Page not found')} | Ostkrieg`;},[location.pathname,location.search,activeCampaign,activePhase]);
   useEffect(() => {
     if (!location.hash) window.scrollTo(0, 0);
   }, [location.pathname, location.hash]);
@@ -45,9 +45,9 @@ export default function App() {
     <header className="site-header">
       <div className="archive-strip"><span>Independent historical atlas</span><span>Europe · 1939—1945</span><span>Maps / chronology / evidence</span></div>
       <div className="header-inner">
-        <Link to="/" className="brand" aria-label="Ost Krieg, home">
+        <Link to="/" className="brand" aria-label="Ostkrieg, home">
           <img className="brand-emblem" src="/brand/ost-krieg-128.webp" srcSet="/brand/ost-krieg-128.webp 128w, /brand/ost-krieg-256.webp 256w, /brand/ost-krieg-384.webp 384w" sizes="(max-width: 750px) 76px, 112px" width="112" height="112" alt="" fetchPriority="high" />
-          <span className="brand-wordmark"><strong>OST <span>KRIEG</span></strong><small>The Eastern Front, 1939–1945</small></span>
+          <span className="brand-wordmark"><strong>OST<span>KRIEG</span></strong><small>The Eastern Front, 1939–1945</small></span>
         </Link>
         <p className="masthead-note">An independent historical atlas<br /><span>Maps · chronology · evidence</span></p>
       </div>
@@ -63,11 +63,11 @@ export default function App() {
       <nav className="secondary-navigation" aria-label="Information navigation">{informationPages.map(page => <NavLink key={page.path} to={page.path} onClick={() => setAtlasMenuOpen(false)}>{page.label}</NavLink>)}</nav>
       </div></div>
     </header>
-    <div className="print-identity">OST KRIEG · The Eastern Front, 1939–1945</div>
+    <div className="print-identity">OSTKRIEG · The Eastern Front, 1939–1945</div>
     <main id="main-content" tabIndex={-1}>
       <Routes>
         <Route path="/" element={<Home />} />
-        {campaigns.map(campaign => <Route key={campaign.id} path={campaign.mapPath} element={<Suspense fallback={<div className="page narrow" role="status">Loading Ost Krieg atlas…</div>}><Atlas key={campaign.id} campaignId={campaign.id} /></Suspense>} />)}
+        {campaigns.map(campaign => <Route key={campaign.id} path={campaign.mapPath} element={<Suspense fallback={<div className="page narrow" role="status">Loading Ostkrieg atlas…</div>}><Atlas key={campaign.id} campaignId={campaign.id} /></Suspense>} />)}
         <Route path="/collections" element={<Collections />} />
         <Route path="/about" element={<About />} />
         <Route path="/about-the-author" element={<Author />} />
@@ -80,6 +80,6 @@ export default function App() {
         <Route path="*" element={<div className="page narrow"><p className="eyebrow">Page not found</p><h1>There is no page at this address.</h1><Link to="/">Return home</Link></div>} />
       </Routes>
     </main>
-    <footer className="site-footer"><div className="footer-inner"><span className="footer-wordmark">OST KRIEG</span><span>An independent historical atlas · 1939–1945</span><nav className="footer-navigation" aria-label="Footer navigation"><div><strong>Explore</strong><Link to="/">Home</Link><Link to="/collections">All collections</Link><Link to="/articles">Historical Studies</Link></div><div><strong>Collections</strong>{collections.map(c=><Link key={c.key} to={c.introPath}>{c.title}{c.phase?` · Phase ${c.phase.id}`:""}</Link>)}</div><div><strong>Evidence and guidance</strong><Link to="/sources">Sources</Link>{informationPages.map(page => <Link key={page.path} to={page.path}>{page.label}</Link>)}</div></nav></div></footer>
+    <footer className="site-footer"><div className="footer-inner"><span className="footer-wordmark">OSTKRIEG</span><span>An independent historical atlas · 1939–1945</span><nav className="footer-navigation" aria-label="Footer navigation"><div><strong>Explore</strong><Link to="/">Home</Link><Link to="/collections">All collections</Link><Link to="/articles">Historical Studies</Link></div><div><strong>Collections</strong>{collections.map(c=><Link key={c.key} to={c.introPath}>{c.title}{c.phase?` · Phase ${c.phase.id}`:""}</Link>)}</div><div><strong>Evidence and guidance</strong><Link to="/sources">Sources</Link>{informationPages.map(page => <Link key={page.path} to={page.path}>{page.label}</Link>)}</div></nav></div></footer>
   </div>;
 }

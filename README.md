@@ -1,8 +1,8 @@
-# Ost Krieg
+# Ostkrieg
 
-A React/Vite historical atlas with 49 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–V through December 5, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. The collection contains 50 published studies by R.G. Cruise. Phase IV adds ten edited and source-checked studies; its ten map dates now have dated regional military reconstructions, source notes and complete linked article context.
+A React/Vite historical atlas with 49 dated map selections: Poland in 1939 and Operation Barbarossa Phases I–V through December 5, 1941. It uses one MapLibre engine, a shared country/control palette, and dated source records. The collection contains 50 published studies by Robert M. Dobo. Phase IV adds ten edited and source-checked studies; its ten map dates now have dated regional military reconstructions, source notes and complete linked article context.
 
-## Ost Krieg design and assets
+## Ostkrieg design and assets
 
 The current preview uses the exact supplied circular emblem, a vermilion/cream/ink system, self-hosted Barlow Condensed Bold (SIL OFL 1.1; bundled license), and system Georgia for reading. No generated imagery, external font service, or new dependencies were added. `public/brand/ost-krieg-original.png` retains the original pixels and transparency. Web, favicon, home-screen and social assets are derivatives; `public/brand/ASSETS.md` records provenance and dimensions.
 
@@ -12,7 +12,7 @@ The former redesign, launch, navigation and phase CSS overrides have been retire
 
 ## Run and verify
 
-Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The Ost Krieg preview runs at http://127.0.0.1:5205. For a production-build preview, run `VITE_SITE_ORIGIN=http://127.0.0.1:5205 npm run build`, then `npm run preview -- --host 127.0.0.1 --port 5205 --strictPort`.
+Use the installed Node runtime (20.19+). Run `npm install`, `npm run dev`, `npm run validate`, and `npm run build`. The Ostkrieg preview runs at http://127.0.0.1:5205. For a production-build preview, run `VITE_SITE_ORIGIN=http://127.0.0.1:5205 npm run build`, then `npm run preview -- --host 127.0.0.1 --port 5205 --strictPort`.
 
 Geographic validation additionally requires Shapely and pyproj: `python scripts/validate-map-geography.py`. Use a Python environment with the packages in `scripts/map-requirements.txt`. This entry point retains the geography/chronology gates for 49 dates. Set `OSTFRONT_AUDIT_DIR` to a writable review folder with pre-change `before-hashes.json`; the old Phase III baseline predates subsequent published article corrections. `git diff --check` checks whitespace.
 
@@ -30,7 +30,7 @@ The current map review package is `../../outputs/all-maps-upgrade/`: coverage ma
 
 ## Articles and release status
 
-Article JSON files in `src/content/articles/` credit R.G. Cruise. This release contains 50 published studies, including the nine Phase II studies whose completed editorial reviews were reconciled on October 15, 2026. The Phase III publication release includes its dated military companion maps and the consolidated editorial revisions. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
+Article JSON files in `src/content/articles/` credit Robert M. Dobo. This release contains 50 published studies, including the nine Phase II studies whose completed editorial reviews were reconciled on October 15, 2026. The Phase III publication release includes its dated military companion maps and the consolidated editorial revisions. Article Markdown/HTML, linked numbered citations, contents and chronological/map returns use the existing renderer. New source records go in `src/data/sources.json`.
 
 Phase IV has ten published studies, each containing 3,500–5,000 substantive words, linked numbered citations, historical asides and chronological reading links. The per-study review is recorded in `phase-iv-review/`. Its ten maps now provide dated regional military reconstructions, formation sectors, movement categories, control shading, logistics, civilian context and article-section links. Read `phase-iv-maps-review/RESEARCH_AND_COVERAGE.md` for evidence and retained precision limits.
 
@@ -40,11 +40,11 @@ The completed Phase III studies are included in the production publication relea
 
 The information menu contains About, How to Use this Site (`/guide`), and About the Author. `src/data/informationPages.js` is the shared menu configuration. Reading colors, typography, navigation and page templates are consolidated in `src/styles.css`; map surroundings use `src/map-workstation.css`. Existing faction meanings remain unchanged.
 
-The default build is a review build and stays out of search indexes. It generates static route metadata, a sitemap, robots.txt and response headers. Only after domain-launch authorization, set `VITE_SITE_ORIGIN=https://ostfrontatlas.com` and `VITE_LAUNCH_READY=true` for the production build. Review-pending studies remain excluded from indexing. Do not set these values for previews.
+The default build is a review build and stays out of search indexes. It generates static route metadata, a sitemap, robots.txt and response headers. Only after domain-launch authorization, set `VITE_SITE_ORIGIN=https://ostkrieg.com` and `VITE_LAUNCH_READY=true` for the production build. Review-pending studies remain excluded from indexing. Do not set these values for previews.
 
 The geography validator accepts `OSTFRONT_AUDIT_DIR` pointing to a writable folder containing `before-hashes.json`, so checks can run in an isolated candidate. This folder receives `data-validation.json`. The launch review package includes that baseline and the audit results.
 
-The Ost Krieg redesign is a local review candidate. Production publication, custom-domain DNS and search-index activation are outside this task. See the accompanying local `launch-review` package for verification, retained historical limitations and domain instructions.
+The Ostkrieg redesign is a local review candidate. Production publication, custom-domain DNS and search-index activation are outside this task. See the accompanying local `launch-review` package for verification, retained historical limitations and domain instructions.
 
 ## Phase V studies
 

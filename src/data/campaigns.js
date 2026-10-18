@@ -33,7 +33,7 @@ export const campaigns = [
       { id: 'theatre', label: 'Full invasion theatre', bounds: [[4.5,43],[44,64]], phaseBounds: {'5':[[4.5,43],[44,67]]}, phaseLabels: {'5':'Entire Eastern Front'} },
       {id:'europe',label:'European overview',bounds:[[-12,35],[45,69]]},
       { id: 'north', label: 'Army Group North · Baltic region', bounds: [[20, 54], [31, 61]], phaseBounds: {'5':[[26,56.5],[39.5,62.5]]}, phaseLabels: {'5':'Army Group North · Leningrad–Tikhvin'} },
-      { id: 'center', label: 'Army Group Center · Belarus', bounds: [[21, 50], [36, 56.5]], phaseBounds: {'5':[[30.5,52],[40.5,58.5]]}, phaseLabels: {'5':'Army Group Centre · Moscow approaches'} },
+      { id: 'center', label: 'Army Group Centre · Belarus', bounds: [[21, 50], [36, 56.5]], phaseBounds: {'5':[[30.5,52],[40.5,58.5]]}, phaseLabels: {'5':'Army Group Centre · Moscow approaches'} },
       { id: 'south', label: 'Army Group South · western Ukraine', bounds: [[21, 45], [34, 52]], phaseBounds: {'5':[[28,43.5],[42,51.5]]}, phaseLabels: {'5':'Army Group South · Donbas–Rostov–Crimea'} },
       { id: 'lepel', label: 'Lepel–Senno–Orsha region', bounds: [[27.5, 54], [31, 56]] },
       { id: 'prut', label: 'Prut and Bessarabia', bounds: [[25, 45], [31, 49.5]] },

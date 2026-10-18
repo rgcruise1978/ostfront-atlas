@@ -5,7 +5,7 @@
     "label": "23 August 1939",
     "kind": "Pact",
     "title": "Molotov–Ribbentrop Pact",
-    "summary": "Nazi Germany and the Soviet Union sign a nonaggression pact. A secret protocol sets out spheres of influence in eastern Europe, including a proposed division of Poland.",
+    "summary": "Germany and the Soviet Union promised nonaggression while secretly assigning spheres of influence across eastern Europe. Diplomatic records reveal the choices, deadlines, and territorial concessions behind a bargain that facilitated Germany’s attack on Poland.",
     "sourceIds": [
       "ushmm-german-soviet-pact"
     ],
@@ -18,7 +18,7 @@
     "label": "1 September 1939",
     "kind": "Invasion",
     "title": "Germany invades Poland",
-    "summary": "German forces invade Poland, beginning the war in Europe. This date marks the invasion, not a completed occupation or a change in Polish sovereignty.",
+    "summary": "German operational superiority met Polish resistance at bridges, fortified positions and railway crossings. The opening campaign depended on how quickly formations could move, recover and respond as threats developed along several axes.",
     "sourceIds": [
       "ushmm-invasion-poland",
       "ushmm-1939-dates"
@@ -32,7 +32,7 @@
     "label": "17 September 1939",
     "kind": "Invasion",
     "title": "The Soviet Union invades eastern Poland",
-    "summary": "The Red Army invades Poland from the east. Soviet claims that the intervention was protective were official justifications, not a description adopted by this atlas.",
+    "summary": "Moscow presented a prepared offensive as protection for threatened populations. Polish soldiers and civilians confronted shrinking opportunities for resistance, regrouping and escape as Soviet formations advanced from the east.",
     "sourceIds": [
       "ushmm-invasion-poland",
       "ushmm-german-soviet-pact"
@@ -46,7 +46,7 @@
     "label": "28 September 1939",
     "kind": "Treaty",
     "title": "German–Soviet Boundary and Friendship Treaty",
-    "summary": "Germany and the Soviet Union sign a treaty revising their territorial arrangements for occupied Poland. The map shows an approximate trace of the agreed partition, not a reconstructed military front.",
+    "summary": "The September treaty joined a revised territorial division to agreements on political suppression, selected migration, trade, and transit. Its implementation reached prisoners and refugees while Polish diplomacy and continued Allied war challenged the claim that Poland’s future was settled.",
     "sourceIds": [
       "avalon-boundary-1939",
       "avalon-september-protocol",
@@ -65,7 +65,7 @@
     "label": "26 October 1939",
     "kind": "Occupation administration",
     "title": "German occupation administration takes shape",
-    "summary": "Germany formally annexes several occupied Polish regions and places other German-occupied areas under the General Government. Eastern Poland remained under Soviet occupation; formal Soviet incorporation measures followed later. These acts did not establish recognized Polish consent or sovereignty.",
+    "summary": "Annexation and the General Government gave German conquest different administrative forms. Decrees concerning property, labour, policing and local authority brought the occupiers’ power into daily life while the recognized Polish government continued abroad.",
     "dateRationale": "The United States Holocaust Memorial Museum identifies 26 October as the date of German annexations and establishment of the General Government civilian administration.",
     "sourceIds": [
       "ushmm-1939-dates",

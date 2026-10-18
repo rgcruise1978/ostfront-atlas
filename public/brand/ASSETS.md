@@ -11,3 +11,6 @@ Source: the exact IMG_1673.png supplied by the user for this redesign. The uncha
 The adjacent site-name link supplies the accessible name, so the masthead image has empty alt text. Social metadata supplies a descriptive alternative. Transparency was checked on cream and near-black backgrounds.
 
 The supplied logo is used under the user's explicit authorization. No broader redistribution license is asserted. Barlow Condensed Bold is distributed under SIL OFL 1.1, with copyright and full license at `/fonts/BarlowCondensed-OFL.txt`; upstream: https://github.com/google/fonts/tree/main/ofl/barlowcondensed. Georgia and Arial are system fallbacks and are not distributed.
+
+
+17 October 2026: `ostkrieg-social.jpg` is the current 1200 × 630 sharing card, rendered from an original HTML/CSS typographic composition using the established palette and bundled Barlow font. It spells OSTKRIEG as one word. The supplied circular emblem remains unchanged.
