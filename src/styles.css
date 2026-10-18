@@ -1849,3 +1849,17 @@ main:focus {
     break-inside:avoid;
   }
 }
+
+/* Publication polish: consistent masthead, readable introductions and tidy cards. */
+.brand-wordmark strong { white-space:nowrap; }
+.collection-introduction { max-width:76ch; }
+.collection-introduction p { font-family:var(--reading); font-size:1.1rem; line-height:1.8; }
+.collection-introduction h2, .article-header h1, .section-heading h2 { text-wrap:balance; }
+.collection-card, .featured-grid>article, .campaign-chapters>article { min-width:0; }
+.article-body, .article-sources, .source-locators { overflow-wrap:break-word; }
+@media (max-width:420px) {
+  .brand { gap:14px; }
+  .brand strong { font-size:2.7rem; }
+  .brand small { font-size:.72rem; }
+  .collection-introduction p { font-size:1.03rem; }
+}
