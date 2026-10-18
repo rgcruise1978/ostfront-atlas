@@ -1771,11 +1771,11 @@
     "date": null,
     "url": "https://nuremberg.law.harvard.edu/documents/583-record-of-a-meeting?mode=text",
     "type": "Historical article research reference",
-    "relevance": "Contemporary internal record of planned labor exploitation, political suppression, resettlement, and military use. English text from the U.S. government’s 1946 Nazi Conspiracy and Aggression; not a verbatim speech transcript.",
+    "relevance": "Contemporary internal record of planned labour exploitation, political suppression, resettlement, and military use. English text from the U.S. government’s 1946 Nazi Conspiracy and Aggression; not a verbatim speech transcript.",
     "supports": [
       "1939-10-26-article"
     ],
-    "notes": "Checked October 14, 2026. Contemporary internal record of planned labor exploitation, political suppression, resettlement, and military use. English text from the U.S. government’s 1946 Nazi Conspiracy and Aggression; not a verbatim speech transcript.",
+    "notes": "Checked October 14, 2026. Contemporary internal record of planned labour exploitation, political suppression, resettlement, and military use. English text from the U.S. government’s 1946 Nazi Conspiracy and Aggression; not a verbatim speech transcript.",
     "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
   },
   {
@@ -1827,11 +1827,11 @@
     "date": null,
     "url": "https://www.iz.poznan.pl/archiwum/wp-content/uploads/2019/12/DOCUMENTA-OCCUPATIONIS-VI_ENG.pdf#page=98",
     "type": "Primary document collection",
-    "relevance": "Original German texts: founding decree, pp. 81–84; organizational ordinance, pp. 84–88; municipalities, pp. 108–111 (November 28); police, pp. 124–125; courts, pp. 144–146; Polish labor, pp. 425–427; identity cards, p. 516; schools, pp. 566–567 (October 31); printing, p. 595; Jewish badges, p. 744 (November 23); Jewish labor, pp. 774–775. Printed page numbers differ from PDF pages. The narrative paraphrases the decrees and distinguishes orders from their implementation.",
+    "relevance": "Original German texts: founding decree, pp. 81–84; organizational ordinance, pp. 84–88; municipalities, pp. 108–111 (November 28); police, pp. 124–125; courts, pp. 144–146; Polish labour, pp. 425–427; identity cards, p. 516; schools, pp. 566–567 (October 31); printing, p. 595; Jewish badges, p. 744 (November 23); Jewish labour, pp. 774–775. Printed page numbers differ from PDF pages. The narrative paraphrases the decrees and distinguishes orders from their implementation.",
     "supports": [
       "1939-10-26-article"
     ],
-    "notes": "Checked October 14, 2026. Original German texts: founding decree, pp. 81–84; organizational ordinance, pp. 84–88; municipalities, pp. 108–111 (November 28); police, pp. 124–125; courts, pp. 144–146; Polish labor, pp. 425–427; identity cards, p. 516; schools, pp. 566–567 (October 31); printing, p. 595; Jewish badges, p. 744 (November 23); Jewish labor, pp. 774–775. Printed page numbers differ from PDF pages. The narrative paraphrases the decrees and distinguishes orders from their implementation.",
+    "notes": "Checked October 14, 2026. Original German texts: founding decree, pp. 81–84; organizational ordinance, pp. 84–88; municipalities, pp. 108–111 (November 28); police, pp. 124–125; courts, pp. 144–146; Polish labour, pp. 425–427; identity cards, p. 516; schools, pp. 566–567 (October 31); printing, p. 595; Jewish badges, p. 744 (November 23); Jewish labour, pp. 774–775. Printed page numbers differ from PDF pages. The narrative paraphrases the decrees and distinguishes orders from their implementation.",
     "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
   },
   {
@@ -7373,5 +7373,359 @@
     ],
     "notes": "DOI 10.1080/13518046.2024.2340839. Author-hosted full article inspected; publisher PDF returned 403. Visit date distinguished from report date.",
     "reuseRights": "Linked and paraphrased; no article reproduced."
+  },
+  {
+    "id": "phase-i-kovno-seventh-fort-2026",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "The Holocaust in Kovno",
+    "date": null,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/kovno",
+    "type": "Museum historical synthesis",
+    "relevance": "Detention, deprivation, sexual violence and mass shootings at Kaunas’s Seventh Fort between 30 June and 7 July 1941; German and Lithuanian institutional involvement.",
+    "supports": [
+      "1941-07-09"
+    ],
+    "notes": "Relevant section inspected on 17 October 2026. The estimate concerns Jewish men killed across the stated interval; it is not a 6 July or 9 July daily total. Added for prose only; no geographic reconstruction is inferred.",
+    "reuseRights": "Linked and paraphrased. No photographs or substantial source text reproduced."
+  },
+  {
+    "id": "phase-i-riga-synagogue-2026",
+    "institution": "Yad Vashem",
+    "title": "Riga — The Encyclopedia of the Ghettos (Hebrew)",
+    "date": null,
+    "url": "https://wwv.yadvashem.org/yv/he/research/ghettos_encyclopedia/ghetto_details.asp?cid=1038",
+    "type": "Museum historical synthesis",
+    "relevance": "The deliberate burning of Riga’s Great Synagogue with Jews confined inside on 4 July 1941, during the first days of German occupation.",
+    "supports": [
+      "1941-07-09"
+    ],
+    "notes": "Hebrew text inspected on 17 October 2026; the dated paragraph is paraphrased, not quoted. The source’s numerical estimate is not adopted. Later ghetto and massacre chronology is not assigned to the opening phase. Prose only.",
+    "reuseRights": "Linked and paraphrased; no image or substantial source text reproduced."
+  },
+  {
+    "id": "phase-ii-jedwabne-ipn",
+    "institution": "Institute of National Remembrance",
+    "title": "We Commemorated the Victims of the Crime in Jedwabne",
+    "date": "2026-07-10",
+    "url": "https://eng.ipn.gov.pl/en/news/12535,We-Commemorated-the-Victims-of-the-Crime-in-Jedwabne.html",
+    "type": "Institutional summary of historical and investigative findings",
+    "relevance": "Massacre of 10 July 1941; minimum victim count, identified local participation and German presence.",
+    "supports": [
+      "1941-07-10"
+    ],
+    "notes": "Full institutional account inspected. Minimum count and limits of the investigation retained; no collective national guilt inferred.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "phase-ii-order0250",
+    "institution": "People’s Commissariat of Defence of the USSR",
+    "title": "Order No. 0250, 28 July 1941; Russkiy arkhiv: Velikaya Otechestvennaya, vol. 13 (2–2) (1997), pp. 37–38",
+    "date": "1941-07-28",
+    "url": "https://ru.wikisource.org/wiki/Приказ_НКО_СССР_от_28.07.1941_№_0250",
+    "type": "Primary military order, published transcription",
+    "relevance": "Announcement of the trial of Pavlov, Klimovskikh, Grigoryev and Korobkov on 22 July, execution of their sentences and instructions for circulation.",
+    "supports": [
+      "1941-07-23"
+    ],
+    "notes": "Russian transcription inspected. Official accusations remain attributed; no claim of direct inspection of the original or an independent finding of culpability.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "phase-ii-goering710",
+    "institution": "Harvard Law School Library · Nuremberg Trials Project",
+    "title": "Instructions to Heydrich to prepare for the final solution of the Jewish question (PS-710)",
+    "date": "1941-07-31",
+    "url": "https://nuremberg.law.harvard.edu/documents/542-instructions-to-heydrich-to-prepare?mode=text&q=ps-710",
+    "type": "Primary document, English documentary translation",
+    "relevance": "Göring’s authorisation of Heydrich to prepare and coordinate a Europe-wide programme, 31 July 1941.",
+    "supports": [
+      "1941-07-30"
+    ],
+    "notes": "English translation inspected, printed p. 525. Does not itself specify a killing method or establish the beginning of genocide.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "phase-ii-romania",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Romania",
+    "date": "n.d.",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/romania",
+    "type": "Museum historical synthesis",
+    "relevance": "Romanian army and gendarmerie killings; German and Romanian participation at Kishinev in July 1941, the ghetto and forced labour.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Section Romania in the German-Soviet War, June 1941 inspected. Later deportations distinguished from the July–August chronology.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "phase-ii-pripet",
+    "institution": "Yad Vashem · SS cavalry report signed Magill",
+    "title": "The Pripet Marshes (July 27–August 11, 1941)",
+    "date": "1941-08-12",
+    "url": "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%205318.pdf",
+    "type": "Primary perpetrator report, English documentary extract",
+    "relevance": "Anti-Jewish killing operation, attempted drowning of women and children, absence of reported battle, and the report’s claimed total of 6,526.",
+    "supports": [
+      "1941-08-12"
+    ],
+    "notes": "Two-page translation inspected. Its heading appears to misnumber the cavalry regiment; the prose does not reproduce that designation. Source cites Kriegstagebuch des Kommandostabes Reichsführer-SS, Vienna, 1965, pp. 217–220. Report totals and euphemisms are attributed.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "phase-ii-groscurth",
+    "institution": "Institute of Contemporary History · Bayerischer Rundfunk · VEJ documentary edition",
+    "title": "Oberstleutnant Helmuth Groscurth informiert Generalfeldmarschall Walther von Reichenau am 21. August 1941 über das Schicksal der jüdischen Kinder von Belaja Cerkov (Dok. 07-062)",
+    "date": "1941-08-21",
+    "url": "https://die-quellen-sprechen.de/07-062.html",
+    "type": "Primary report, German documentary extract",
+    "relevance": "Groscurth’s visit of 20 August, notification by chaplains, Ukrainian guards, intervention, proposed concealment and compromised concluding assessment.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Published German extract inspected; omissions in that edition are visible. The report is not treated as an unambiguous refusal of genocide or evidence of divisional mutiny.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "phase-ii-bila-tserkva",
+    "institution": "German Resistance Memorial Centre · Silent Heroes Memorial Centre",
+    "title": "Making Crimes Public",
+    "date": "n.d.",
+    "url": "https://www.gedenkstaette-stille-helden.de/en/silent-heroes/topics/protest-and-resistance/making-crimes-public",
+    "type": "Memorial historical synthesis",
+    "relevance": "Temporary postponement, Reichenau’s approval and murder of approximately ninety Jewish children at Bila Tserkva on 22 August 1941.",
+    "supports": [
+      "1941-08-25"
+    ],
+    "notes": "Opening section inspected in the full retrieved page. Its interpretation of Groscurth’s effort to save the children is assessed beside his report of 21 August.",
+    "reuseRights": "Linked and paraphrased for these studies; no photographs, maps or full third-party texts reproduced."
+  },
+  {
+    "id": "p3r-kamenets",
+    "institution": "United States Holocaust Memorial Museum",
+    "title": "Kamenets-Podolsk",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/kamenets-podolsk",
+    "date": null,
+    "type": "Historical evidence for Phase III prose",
+    "relevance": "Hungarian deportations and German mass murder of local and deported Jews, 26–28 August 1941.",
+    "notes": "Museum synthesis inspected. The 23,600 figure is attributed to Jeckeln’s report and covers the whole action. Used for prose only; the opening sentence’s June occupation dating is not adopted.",
+    "supports": [
+      "1941-08-26"
+    ],
+    "reuseRights": "Linked and paraphrased; no third-party images or full source texts reproduced."
+  },
+  {
+    "id": "p3r-maripuu",
+    "institution": "Meelis Maripuu; Estonian Jewish Museum digital copy",
+    "title": "The Execution of Estonian Jews in the Local Detention Institutions in 1941–1942",
+    "url": "https://muuseum.jewish.ee/history/Holocaust/Estonia%201940-45_eng.pdf",
+    "date": null,
+    "type": "Historical evidence for Phase III prose",
+    "relevance": "PDF pp. 6–7: Tallinn arrests, separation and detention of Jews; Sandberger’s 10 September orders.",
+    "notes": "English-language research paper inspected. The author assesses contemporary German records and later Soviet investigations critically; unresolved dates and counts remain qualified. No original archival file inspected.",
+    "supports": [
+      "1941-08-29"
+    ],
+    "reuseRights": "Linked and paraphrased; no third-party images or full source texts reproduced."
+  },
+  {
+    "id": "p3r-order001919",
+    "institution": "Soviet Supreme Command; Tver State University Library",
+    "title": "Directive No. 001919, 12 September 1941: blocking detachments in rifle divisions",
+    "url": "https://library.tversu.ru/images/stories/fil1/vov_doc/4)%20%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%20%D0%A1%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%20%D0%92%D0%93%D0%9A.pdf",
+    "date": "1941-09-12",
+    "type": "Historical evidence for Phase III prose",
+    "relevance": "Preamble and paragraphs 1–5: composition, subordination, duties, lethal coercion and five-day formation deadline.",
+    "notes": "Two-page reproduction citing Stalin, Sochineniia, volume 18 (Tver, 2006), pp. 255–256. Inspected Russian text; English paraphrase by Ostkrieg. Order is not evidence of uniform implementation or a count of executions.",
+    "supports": [
+      "1941-09-12"
+    ],
+    "reuseRights": "Linked and paraphrased; no third-party images or full source texts reproduced."
+  },
+  {
+    "id": "p3r-berdychiv",
+    "institution": "Foundation Memorial to the Murdered Jews of Europe",
+    "title": "Memorial to the murdered Jews of Berdychiv",
+    "url": "https://www.memorialmuseums.org/memorialmuseum/memorial-to-the-murdered-jews-of-berdychiv?locale=en",
+    "date": null,
+    "type": "Historical evidence for Phase III prose",
+    "relevance": "Historical background and Victims sections: ghetto, 15 September massacre, perpetrators, approximate 12,000 victims.",
+    "notes": "The approximate event total follows the foundation’s account; later occupation totals and the different number on a memorial are not substituted for it. Jeckeln’s regional title follows the existing scholarly biography, not an inconsistent title elsewhere on this page.",
+    "supports": [
+      "1941-09-16"
+    ],
+    "reuseRights": "Linked and paraphrased; no third-party images or full source texts reproduced."
+  },
+  {
+    "id": "p3r-berkhoff-2015",
+    "institution": "Karel C. Berkhoff; Sciences Po Mass Violence and Resistance Research Network",
+    "title": "Babi Yar (2015)",
+    "date": null,
+    "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/babi-yar.html",
+    "type": "Academic historical synthesis",
+    "relevance": "Inspected sections on actors, chronology, witnesses and later evidence. Command responsibilities and uncertainty about transfers are preserved; does not prove every quoted wartime assertion.",
+    "notes": "Working .html address inspected on 17 October 2026. Prose-only replacement for an older URL returning 404; existing shared/map source record is preserved. Consulted Decision-Makers, Organizers and Actors and the chronology. Precise military-command transfer remains uncertain.",
+    "supports": [
+      "1941-09-19"
+    ],
+    "reuseRights": "Linked reference; short original paraphrases; no third-party media reproduced."
+  },
+  {
+    "id": "p4-review-hoth",
+    "institution": "David Stahel · Cambridge University Press",
+    "title": "Operation Typhoon, chapter 3: Viaz’ma and Briansk",
+    "date": "2013",
+    "url": "https://www.cambridge.org/core/books/abs/operation-typhoon/viazma-and-briansk/F82717A09015069DEFFA227BC82C28AA",
+    "type": "Academic monograph, public chapter summary",
+    "relevance": "Hoth’s departure from Third Panzer Group on 9 October and succession by Georg-Hans Reinhardt.",
+    "supports": [
+      "1941-10-13"
+    ],
+    "notes": "Public summary inspected on 17 October 2026; full chapter, pp. 84–110, not claimed as consulted.",
+    "reuseRights": "Linked and paraphrased. No source text or images reproduced in the review package."
+  },
+  {
+    "id": "p4-review-milshtein",
+    "institution": "Solomon Milshtein, NKVD · Russian transcription reproduced by Khronos",
+    "title": "Report to L. P. Beria on detained, arrested and executed servicemen, October 1941",
+    "date": "1941-10",
+    "url": "https://www.hrono.ru/dokum/194_dok/19411010mil.php",
+    "type": "Contemporary security report, online transcription",
+    "relevance": "Army-wide report covering the invasion to 10 October: 657,364 detained, 25,878 arrested and 10,201 executions; most detained men returned to the front.",
+    "supports": [
+      "1941-10-13",
+      "1941-11-14"
+    ],
+    "notes": "Russian transcription inspected and paraphrased in English; core figures corroborated in Edele’s public extract. The page gives RGANI f. 89, op. 18, d. 8, ll. 1–3 and credits the Alexander Yakovlev site. The underlying manuscript was not inspected. The signature leaves the day blank in October; 10 October is the reporting cut-off. The printed 632,486 returned plus 25,878 arrested exceeds the headline total by 1,000; listed regional executions also do not fully reconcile. No silent correction or phase-specific total is inferred.",
+    "reuseRights": "Linked and paraphrased. No source text or images reproduced in the review package."
+  },
+  {
+    "id": "p4-review-reichenau",
+    "institution": "Walter von Reichenau and Gerd von Rundstedt · transcription at NS-Archiv",
+    "title": "Verhalten der Truppe im Ostraum (10 October 1941), with Rundstedt’s covering letter (12 October 1941)",
+    "date": "1941-10-10",
+    "url": "https://www.ns-archiv.de/krieg/untermenschen/reichenau-befehl.php",
+    "type": "Contemporary criminal order and endorsement, German transcription",
+    "relevance": "Sixth Army’s antisemitic ideological instructions, denial of food assistance, collective punishment and army-group endorsement.",
+    "supports": [
+      "1941-10-24",
+      "1941-11-14"
+    ],
+    "notes": "German text inspected and paraphrased in English on 17 October 2026. The host credits John Mendelson, ed., The Holocaust, vol. 10 (1982), pp. 7ff. Original facsimile not inspected. The order’s allegations about Jews and resistance are perpetrator propaganda, not accepted factual premises; instructions and endorsement are distinguished from implementation in a particular locality.",
+    "reuseRights": "Linked and paraphrased. No source text or images reproduced in the review package."
+  },
+  {
+    "id": "p4-review-rations",
+    "institution": "Nicolas Werth · I.B.Tauris",
+    "title": "Introduction to Alexander Werth, Leningrad 1943: Inside a City Under Siege",
+    "date": "2015",
+    "url": "https://api.pageplace.de/preview/DT0400.9780857724748_A39797791/preview-9780857724748_A39797791.pdf",
+    "type": "Historical introduction, publisher preview",
+    "relevance": "Printed pp. xxii–xxiii establish the bread entitlements of 13 November and distinguish the later reduction on 20 November.",
+    "supports": [
+      "1941-11-14"
+    ],
+    "notes": "Publisher preview inspected, particularly printed pp. xxii–xxiii. Used for ration categories and dates only. Its separate statement placing Tikhvin’s capture on 9 November conflicts with the chronology used here and is not followed. Entitlements are not actual delivery records or measures of total nutrition.",
+    "reuseRights": "Linked and paraphrased. No source text or images reproduced in the review package."
+  },
+  {
+    "id": "p4-review-terrain",
+    "institution": "U.S. Department of the Army, German Report Series",
+    "title": "Terrain Factors in the Russian Campaign, DA Pamphlet 20-290 (1951)",
+    "date": "1951",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo111060/pdf/GOVPUB-D114-PURL-gpo111060.pdf",
+    "type": "Postwar German-authored military study, official PDF",
+    "relevance": "Desna–Orel geography, the southern opening and transport constraints.",
+    "supports": [
+      "1941-10-07",
+      "1941-10-13"
+    ],
+    "notes": "Official GovInfo PDF inspected, especially printed pp. 10–12. Added as a prose-specific accessible record because the older shared source URL failed. German retrospective explanations are not accepted as sufficient accounts of Soviet resistance. The older shared record and map citations remain unchanged.",
+    "reuseRights": "Linked and paraphrased. No source text or images reproduced in the review package."
+  },
+  {
+    "id": "p5-review-keller",
+    "institution": "Rolf Keller · United States Holocaust Memorial Museum",
+    "title": "“Racism versus Pragmatism: Forced Labor of Soviet Prisoners of War in Germany (1941–1942)”, in Forced and Slave Labor in Nazi-Dominated Europe",
+    "date": "2004",
+    "url": "https://www.ushmm.org/m/pdfs/Publication_OP_2004-02.pdf",
+    "type": "Academic symposium paper",
+    "relevance": "Discriminatory prisoner rations, forced labour and the interruption of prisoner transports on 14 November 1941.",
+    "notes": "Printed pp. 114–115 (PDF pp. 120–121) inspected. Employment figures concern Soviet POWs in Germany; later December mortality is not backdated.",
+    "supports": [
+      "1941-11-15"
+    ],
+    "reuseRights": "Linked and briefly paraphrased; no source illustrations or full texts reproduced in the delivery package."
+  },
+  {
+    "id": "p5-review-destruction-report",
+    "institution": "Western Front Military Council · English translation by James F. Gebhardt",
+    "title": "Report to Stalin and Shaposhnikov on implementation of Stavka Order No. 0428, 29 November 1941",
+    "date": "1941-11-29",
+    "url": "https://battlefield.ru/library/archives/reports/reports8_1.html",
+    "type": "Contemporary military report in published translation",
+    "relevance": "Reported implementation of the shelter-denial order: teams, resources and claimed destruction of 398 settlements.",
+    "notes": "Entire published translation inspected and wording compared with a Russian reproduction at https://bessmertnybarak.com/article/prikaz_stavki_0428/. These are reproductions of the same report, not independent confirmation. Their archival references differ; the original was not inspected. The Russian reproduction gives TsAMO f. 326, op. 5045, d. 1, ll. 62–63, while the translation repeats the order’s locator. The displayed army breakdown sums to 398. The stated destruction and damage are report claims; no independently audited civilian loss or evacuation total is established.",
+    "supports": [
+      "1941-11-18"
+    ],
+    "reuseRights": "Linked and briefly paraphrased; no source illustrations or full texts reproduced in the delivery package."
+  },
+  {
+    "id": "p5-review-reichenau",
+    "institution": "Sixth Army and Army Group South · NS-Archiv documentary transcription",
+    "title": "Das Verhalten der Truppe im Ostraum: Reichenau order of 10 October 1941 and Rundstedt covering letter of 12 October 1941",
+    "date": "1941-10-10 / 1941-10-12",
+    "url": "https://www.ns-archiv.de/krieg/untermenschen/reichenau-befehl.php",
+    "type": "Contemporary command documents in transcription",
+    "relevance": "Prior endorsement of anti-Jewish violence, food deprivation and criminal occupation policy by the commanders involved in the December command change.",
+    "notes": "German transcription inspected and paraphrased. Earlier policy context is explicitly dated. Command endorsement does not establish individual perpetration of every Rostov killing.",
+    "supports": [
+      "1941-11-29"
+    ],
+    "reuseRights": "Linked and briefly paraphrased; no source illustrations or full texts reproduced in the delivery package."
+  },
+  {
+    "id": "p5-review-otto",
+    "institution": "Reinhard Otto · United States Holocaust Memorial Museum",
+    "title": "“The Fate of Soviet Soldiers in German Captivity”, in The Holocaust in the Soviet Union: Symposium Presentations",
+    "date": "2005",
+    "url": "https://www.ushmm.org/m/pdfs/Publication_OP_2005-10.pdf",
+    "type": "Academic symposium paper",
+    "relevance": "German inspection report of 1 December 1941 on food deprivation and deaths at the Michailowski prisoner collecting point in Belarus.",
+    "notes": "Printed p. 132 (PDF p. 142) and note 16 on printed p. 137 inspected. Otto cites Bundesarchiv Militärarchiv RH 22/251; that original was not accessed. More than 10,000 held and 144 deaths concern one collecting point and one reported night, not the Moscow battle.",
+    "supports": [
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and briefly paraphrased; no source illustrations or full texts reproduced in the delivery package."
+  },
+  {
+    "id": "p5-review-rations",
+    "institution": "Boris Yeltsin Presidential Library",
+    "title": "Президентская библиотека представляет историю начала блокады Ленинграда в документах и воспоминаниях",
+    "date": "2015-09-08",
+    "url": "https://www.prlib.ru/node/659123",
+    "type": "Institutional documentary presentation",
+    "relevance": "Reproduced decree setting basic bread entitlements from 20 November 1941, differentiated by civilian category.",
+    "notes": "The passage quoting the decree was inspected in Russian and paraphrased: 125 grams for employees, dependants and children; 250 grams for workers and engineering staff. These are entitlements, not proof of complete delivery to each person or a measure of the entire diet. Full original decree not separately inspected.",
+    "supports": [
+      "1941-12-05"
+    ],
+    "reuseRights": "Linked and briefly paraphrased; no source illustrations or full texts reproduced in the delivery package."
+  },
+  {
+    "id": "p5-review-bundesarchiv-units",
+    "institution": "Bundesarchiv",
+    "title": "Unternehmen Barbarossa – der deutsche Überfall auf die Sowjetunion in den Quellen des Heeres und der Waffen-SS",
+    "date": null,
+    "url": "https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/unternehmen-barbarossa-der-deutsche-ueberfall-auf-die-sowjetunion-in-den-quellen-des-heeres-und-der-waffen-ss/",
+    "type": "Archive research guide and formation inventory",
+    "relevance": "Period formation nomenclature: III and XIV Army Corps (motorised) and the Leibstandarte as a separately listed formation. Not evidence of specific combat positions or individual crimes.",
+    "supports": [
+      "1941-11-21",
+      "1941-11-29"
+    ],
+    "notes": "Inspected the guide’s Army Group South / Panzergruppe 1 section, which identifies RH 24-3, RH 24-14 and RS 18. No underlying operational file or complete organisational card series was inspected. Used for nomenclature alongside the campaign account.",
+    "reuseRights": "Linked and paraphrased; no reproduction licence assumed."
   }
 ]
