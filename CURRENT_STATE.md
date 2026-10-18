@@ -1,3 +1,13 @@
+# 17 October 2026 — consolidated Ostkrieg publication release
+
+Authorised release of all five 17 October Barbarossa editorial packages: 44 revised studies, five introductions and their additional sources. All 50 studies and 49 dated maps remain available. Canadian English is applied to site-authored copy; original source titles, locators and direct quotations retain their wording. The name is Ostkrieg throughout the interface, metadata, print and map exports. Robert M. Dobo remains the author.
+
+The 627 Phase IV/V map-side study passages are synchronised with the revised articles. Existing exact-text geographic associations are retained; revised passages without a separately checked association remain explicitly contextual. No historical geometry, feature dates, source IDs or map colours were changed. Canonical metadata uses https://ostkrieg.com; only production enables indexing. Reading layout and narrow-screen masthead spacing receive small refinements.
+
+Build, data/citation validation, map-preservation and context checks are recorded in the release workspace. Preview and live verification follow the repository release. Earlier checkpoints below are historical records.
+
+---
+
 # October 16, 2026 — approved current-site release
 
 The user authorized deployment of the current reviewed site: Ost Krieg visual identity and complete existing site, the Poland introduction and five revised studies, and the Barbarossa Phase I introduction and eight revised studies. This release retains all 50 studies and 49 dated maps, appends the reviewed prose sources, and preserves historical map geometry.
