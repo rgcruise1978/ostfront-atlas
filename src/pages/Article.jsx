@@ -13,11 +13,11 @@ export default function Article() {
   const [searchParams] = useSearchParams();
   const article = articleBySlug(slug);
   useEffect(() => {
-    document.title = article ? `${article.title} | Ost Krieg` : 'Study not found | Ost Krieg';
+    document.title = article ? `${article.title} | Ostkrieg` : 'Study not found | Ostkrieg';
     const anchor = document.getElementById(window.location.hash.slice(1));
     if (anchor) anchor.scrollIntoView();
     else window.scrollTo(0, 0);
-    return () => { document.title = 'Ost Krieg'; };
+    return () => { document.title = 'Ostkrieg'; };
   }, [slug, article]);
   if (!article) return <div className="page narrow"><h1>Study not found</h1><Link to="/articles">Return to Historical Studies</Link></div>;
   const collection=collectionForArticle(article);
