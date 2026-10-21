@@ -53,5 +53,5 @@ for (const article of poland) {
     checkedLinks++;
   }
 }
-for (const article of articles.filter(article => article.campaignId !== 'poland-1939')) assert(!article.evidenceNotes, 'Part I notes leaked to another collection');
+for (const article of articles.filter(article => article.campaignId !== 'poland-1939')) assert(!article.evidenceNotes?.some(note => note.id.startsWith('part-i-note-')), 'Part I notes leaked to another collection');
 console.log(`Validated 6 Poland pages, 15 linked asides, 2 tables, all 116 notes and ${checkedLinks} body links.`);

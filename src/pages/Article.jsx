@@ -8,6 +8,7 @@ import '../study-review.css';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import { collectionForArticle, indexReturnLink } from '../data/collections.js';
 import { PolandReadingNavigation, PolandStudyContents, PolandEvidenceNotes } from '../components/PolandReading.jsx';
+import { BarbarossaOpeningNavigation, BarbarossaOpeningContents, BarbarossaOpeningEvidenceNotes } from '../components/BarbarossaOpeningReading.jsx';
 
 export default function Article() {
   const { slug } = useParams();
@@ -33,12 +34,13 @@ export default function Article() {
   const cited = article.sourceIds.map(id => sources.find(source => source.id === id)).filter(Boolean);
   const dossier = Boolean(article.sections?.length);
   const poland = article.campaignId === 'poland-1939';
+  const opening = article.campaignId === 'barbarossa-1941' && collection?.phase?.id === '1';
   const adjacent=adjacentStudySlugs(article);
   const previous = adjacent.previous && articleBySlug(adjacent.previous);
   const next = adjacent.next && articleBySlug(adjacent.next);
   const minutes = article.readingMinutes || Math.ceil(article.body.replace(/<[^>]*>/g, ' ').split(/\s+/).length / 220);
   const atlasLink = articleMapLink(article, searchParams.get('mapRegion'), searchParams.get('mapView'));
-  return <article className={`page reading-page${dossier ? ' dossier-page' : ''}${poland ? ' poland-study' : ''}`} id="article-top">
+  return <article className={`page reading-page${dossier ? ' dossier-page' : ''}${poland ? ' poland-study' : ''}${opening ? ' barbarossa-opening' : ''}`} id="article-top">
     <Breadcrumbs items={[{label:"Collections",href:"/collections"},{label:collection.phase?`${collection.title} · Phase ${collection.phase.id}`:collection.title,href:collection.introPath},{label:article.historicalPeriod}]}/><Link className="back-link" to={backLink}>← All Historical Studies</Link>
     {previous && <p className="previous-chapter"><Link to={`/articles/${previous.slug}`}>← Previous Study · {previous.historicalPeriod}</Link></p>}
     <header className="article-header">
@@ -52,11 +54,13 @@ export default function Article() {
       {dossier && <div className="article-facts"><span><b>When</b><time dateTime={article.historicalDate}>{article.historicalPeriod}</time></span><span><b>Where</b>{article.location}</span><span><b>In the atlas</b><Link to={atlasLink}>{article.historicalDate ? 'Explore this date ↗' : 'Explore the timeline ↗'}</Link></span></div>}
     </header>
     {poland && <PolandReadingNavigation currentSlug={slug} />}
+    {opening && <BarbarossaOpeningNavigation currentSlug={slug} />}
     <div className={dossier ? 'dossier-layout' : undefined}>
-      {dossier && (poland ? <PolandStudyContents article={article} /> : <nav className="article-contents" aria-label="Study contents"><p className="eyebrow">In this study</p><ol>{article.sections.map(section => <li key={section.id}><a href={`#${section.id}`}>{section.label}</a>{phaseFourMap&&<Link className="section-map-link" to={`${atlasLink}&section=${section.id}`}>Map &amp; context ↗</Link>}</li>)}</ol><a className="contents-sources" href="#article-sources">Sources and Further Reading</a><a className="contents-top" href="#article-top">↑ Back to top</a></nav>)}
+      {dossier && (poland ? <PolandStudyContents article={article} /> : opening ? <BarbarossaOpeningContents article={article} /> : <nav className="article-contents" aria-label="Study contents"><p className="eyebrow">In this study</p><ol>{article.sections.map(section => <li key={section.id}><a href={`#${section.id}`}>{section.label}</a>{phaseFourMap&&<Link className="section-map-link" to={`${atlasLink}&section=${section.id}`}>Map &amp; context ↗</Link>}</li>)}</ol><a className="contents-sources" href="#article-sources">Sources and Further Reading</a><a className="contents-top" href="#article-top">↑ Back to top</a></nav>)}
       <div className="article-reading-column">
         {draft ? <div className="empty-state research-brief"><h2>{article.outlineTopics ? 'Study research brief' : 'Full study in preparation'}</h2><p>{article.outlineTopics ? 'This page records the planned subject of the study. Its historical narrative and dated military map situation are still in preparation.' : 'The full study for this date is in preparation. Its atlas entry and linked sources are available now.'}</p>{article.outlineTopics && <><h3>Questions and topics for research</h3><ul>{article.outlineTopics.map(topic => <li key={topic}>{topic}</li>)}</ul>{article.referenceMapUrl && <p><a href={article.referenceMapUrl} target="_blank" rel="noreferrer">Candidate operational map reference ↗</a><br /><small>{article.referenceMapStatus}</small></p>}</>}<div className="research-chronology"><strong>Chronology to preserve</strong>{article.chronologyNotes?.map(note => <p key={note}>{note}</p>)}</div><p><Link to={atlasLink}>Return to this dated map entry →</Link></p></div> : <div className="article-body" dangerouslySetInnerHTML={{ __html: marked.parse(article.body) }} />}
         {poland && <PolandEvidenceNotes article={article} />}
+        {opening && <BarbarossaOpeningEvidenceNotes article={article} />}
         {next && <nav className="next-chapter" aria-label="Continue the chronology"><p className="eyebrow">Next Study · {next.historicalPeriod}</p><h2>{next.title}</h2><p>{isArticleDraft(next) ? 'The next full study is in preparation. Its dated atlas entry and sources are available now.' : next.subtitle}</p><div><Link to={`/articles/${next.slug}`}>{isArticleDraft(next) ? 'View the next date' : 'Read the Next Study'} →</Link><Link to={articleMapLink(next)}>Open this date in the atlas ↗</Link></div></nav>}
         <section className="article-sources" id="article-sources"><h2>{draft ? 'Starting research references' : dossier ? 'Sources and Further Reading' : 'Sources and Further Reading'}</h2>
           {dossier && <p className="source-method">{displayedSourceMethod || "The narrative draws on the treaty texts, contemporary diplomatic correspondence and historical scholarship. Diplomatic reports record their authors\u2019 perceptions and claims; they are read with that limitation. The August protocol and the September boundary treaty are treated separately. Follow a numbered citation to its source below; \u201cReturn to text\u201d takes you to its first use."}</p>}

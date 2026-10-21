@@ -1,0 +1,23 @@
+/* Operation Barbarossa I reuses the existing reading system and sepia tokens. */
+.barbarossa-reading-nav { margin:28px 0; padding:16px 0; border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); }
+.barbarossa-reading-nav summary { min-height:44px; padding:10px 0; font:700 .85rem/1.5 var(--ui); color:var(--ink); }
+.barbarossa-reading-nav summary>span { font-weight:400; color:var(--muted); margin-left:12px; }
+.barbarossa-reading-nav ol { display:grid; grid-template-columns:repeat(9,minmax(0,1fr)); gap:8px; list-style:none; margin:8px 0 4px; padding:0; }
+.barbarossa-reading-nav a { display:flex; flex-direction:column; justify-content:center; height:100%; min-height:76px; padding:10px; border:1px solid var(--rule); text-decoration:none; color:var(--ink); font:.8rem/1.45 var(--ui); }
+.barbarossa-reading-nav a>span { color:var(--muted); font-size:.75rem; margin-bottom:4px; }
+.barbarossa-reading-nav a:hover { border-color:var(--red-dark); text-decoration:underline; }
+.barbarossa-reading-nav a[aria-current="page"] { background:var(--ink); color:var(--paper-light); border-color:var(--ink); }
+.barbarossa-reading-nav a[aria-current="page"]>span { color:var(--paper-light); }
+.barbarossa-opening .evidence-note-ref { font-style:italic; margin-left:5px; }
+.barbarossa-opening :is(.article-body h2,.article-body h3,.source-ref,.article-sources li) { scroll-margin-top:30px; }
+.barbarossa-opening .source-locators { overflow-wrap:anywhere; }
+.barbarossa-opening .evidence-related-studies { font:.9rem/1.8 var(--ui); }
+.barbarossa-opening .evidence-related-studies a { display:inline-block; padding-block:8px; }
+@media (max-width:1100px) { .barbarossa-reading-nav ol { grid-template-columns:repeat(3,minmax(0,1fr)); } }
+@media (max-width:750px) {
+  .barbarossa-reading-nav ol { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .barbarossa-reading-nav summary>span { display:block; margin-left:0; }
+  .barbarossa-opening .article-contents { max-height:none; }
+  .barbarossa-opening .article-body p { overflow-wrap:break-word; }
+}
+@media print { .barbarossa-reading-nav { display:none; } }
