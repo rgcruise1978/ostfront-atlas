@@ -1,0 +1,35 @@
+/* Reading navigation and evidence notes are scoped to the Poland collection. */
+.poland-reading-nav { margin:32px 0 0; padding:22px 0 0; border-top:1px solid var(--rule); }
+.poland-reading-nav .eyebrow { margin-bottom:12px; }
+.poland-reading-nav ol { display:grid; grid-template-columns:repeat(6,minmax(0,1fr)); padding:0; margin:0; list-style:none; gap:8px; }
+.poland-reading-nav a { display:flex; flex-direction:column; justify-content:center; height:100%; min-height:76px; padding:12px; border:1px solid var(--rule); color:var(--ink); text-decoration:none; font:.88rem/1.4 var(--ui); }
+.poland-reading-nav a span { font-size:.75rem; color:var(--muted); margin-bottom:5px; }
+.poland-reading-nav a:hover { border-color:var(--red-dark); text-decoration:underline; }
+.poland-reading-nav a[aria-current="page"] { border-color:var(--red-dark); background:var(--ink); color:var(--paper-light); }
+.poland-reading-nav a[aria-current="page"] span { color:var(--paper-light); }
+.poland-contents summary { min-height:44px; padding:4px 0 14px; font:700 .82rem/1.5 var(--ui); text-transform:uppercase; letter-spacing:.08em; }
+.poland-contents ul { padding-left:15px; border-left:1px solid var(--rule); margin:0 0 12px 2px; list-style:none; }
+.poland-contents ul a { font-size:.8rem; color:var(--muted); }
+.poland-contents .contents-sources { display:flex; }
+.poland-study .evidence-note-ref { font-style:italic; margin-left:5px; }
+.evidence-notes { margin-top:46px; padding-top:28px; border-top:1px solid var(--rule); font:.95rem/1.75 var(--ui); scroll-margin-top:28px; }
+.evidence-notes h2 { font-size:2rem; }
+.evidence-notes>p { color:var(--muted); max-width:65ch; }
+.evidence-notes summary { min-height:44px; padding:14px 0; font-weight:700; color:var(--red-dark); }
+.evidence-notes ol { list-style-type:lower-alpha; padding-left:28px; }
+.evidence-notes li { margin:16px 0 25px; padding-left:5px; scroll-margin-top:28px; }
+.evidence-notes li::marker { font-weight:700; color:var(--red-dark); }
+.evidence-notes li:target { outline:2px solid var(--red-dark); outline-offset:8px; }
+.evidence-notes li p { margin-bottom:6px; overflow-wrap:anywhere; }
+.evidence-note-links { display:flex; flex-wrap:wrap; gap:0 6px; align-items:center; font-size:.85rem; }
+.evidence-note-links>a { display:inline-flex; align-items:center; justify-content:center; min-width:44px; min-height:44px; padding:0 5px; }
+.evidence-note-links .citation-return { margin-left:8px; }
+@media (max-width:1000px) { .poland-reading-nav ol { grid-template-columns:repeat(3,minmax(0,1fr)); } }
+@media (max-width:750px) {
+  .poland-reading-nav ol { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .poland-reading-nav a { min-height:70px; }
+  .poland-contents { border-top-width:2px; border-bottom:1px solid var(--rule); padding-top:8px; }
+  .poland-contents summary { padding:12px 0; }
+  .poland-contents .contents-top { display:flex!important; }
+}
+@media print { .poland-reading-nav,.poland-contents { display:none; } .evidence-notes details::details-content { display:block; } }

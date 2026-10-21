@@ -24,7 +24,7 @@
   font:16px/1.6 var(--ui);
   font-synthesis:none;
   color:var(--ink);
-  background:var(--paper);
+  background:var(--paper-light);
 }
 * {
   box-sizing:border-box;
