@@ -1,0 +1,2122 @@
+{
+  "sourceFile": "Ostkrieg_Volume_One_version_3_2_13.docx",
+  "sourceSha256": "9dc5f301f3517a7f61c386653db9192486896b184a0015944dce4e7e74b32342",
+  "part": "Part II — Operation Barbarossa I: The Opening Assault",
+  "chapterRange": [
+    6,
+    13
+  ],
+  "dateRange": [
+    "1941-06-21",
+    "1941-07-09"
+  ],
+  "stopBefore": "Part III — Operation Barbarossa II: The Drive into the Soviet Interior",
+  "baselineCommit": "b0ca099537d4910425578b0ebc910262d1e21d29",
+  "coverage": [
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 117,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 4,
+      "webParagraph": 0,
+      "anchor": "part-ii-note-117",
+      "passageAnchor": "ref-part-ii-note-117",
+      "sourceIds": [
+        "blau-planning",
+        "phase-i-cmh-eve"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 118,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 7,
+      "webParagraph": 3,
+      "anchor": "part-ii-note-118",
+      "passageAnchor": "ref-part-ii-note-118",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 119,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 12,
+      "webParagraph": 7,
+      "anchor": "part-ii-note-119",
+      "passageAnchor": "ref-part-ii-note-119",
+      "sourceIds": [
+        "blau-planning",
+        "directive-21",
+        "phase-i-cmh-eve",
+        "kipp-covering"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 120,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 16,
+      "webParagraph": 10,
+      "anchor": "part-ii-note-120",
+      "passageAnchor": "ref-part-ii-note-120",
+      "sourceIds": [
+        "directive-21",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 121,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 19,
+      "webParagraph": 11,
+      "anchor": "part-ii-note-121",
+      "passageAnchor": "ref-part-ii-note-121",
+      "sourceIds": [
+        "directive-21",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 122,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 21,
+      "webParagraph": 12,
+      "anchor": "part-ii-note-122",
+      "passageAnchor": "ref-part-ii-note-122",
+      "sourceIds": [
+        "phase-i-cmh-eve"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 123,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 26,
+      "webParagraph": 16,
+      "anchor": "part-ii-note-123",
+      "passageAnchor": "ref-part-ii-note-123",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "blau-planning",
+        "phase-i-stuelpnagel"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 124,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 31,
+      "webParagraph": 20,
+      "anchor": "part-ii-note-124",
+      "passageAnchor": "ref-part-ii-note-124",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "kipp-covering"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 125,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 35,
+      "webParagraph": 23,
+      "anchor": "part-ii-note-125",
+      "passageAnchor": "ref-part-ii-note-125",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "phase-i-glantz-directives"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 126,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 38,
+      "webParagraph": 24,
+      "anchor": "part-ii-note-126",
+      "passageAnchor": "ref-part-ii-note-126",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 127,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 43,
+      "webParagraph": 27,
+      "anchor": "part-ii-note-127",
+      "passageAnchor": "ref-part-ii-note-127",
+      "sourceIds": [
+        "directive-21",
+        "blau-planning",
+        "frus-finland-25"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 128,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 45,
+      "webParagraph": 29,
+      "anchor": "part-ii-note-128",
+      "passageAnchor": "ref-part-ii-note-128",
+      "sourceIds": [
+        "blau-planning",
+        "phase-i-cmh-eve"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 129,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 48,
+      "webParagraph": 31,
+      "anchor": "part-ii-note-129",
+      "passageAnchor": "ref-part-ii-note-129",
+      "sourceIds": [
+        "barbarossa-jurisdiction",
+        "commissar-order"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 130,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 51,
+      "webParagraph": 32,
+      "anchor": "part-ii-note-130",
+      "passageAnchor": "ref-part-ii-note-130",
+      "sourceIds": [
+        "directive-21",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 6,
+      "manuscriptNote": 131,
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "sourceBlock": 53,
+      "webParagraph": 33,
+      "anchor": "part-ii-note-131",
+      "passageAnchor": "ref-part-ii-note-131",
+      "sourceIds": [
+        "phase-i-economic-directives"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 6,
+      "sourceBlock": 18,
+      "manuscriptTitle": "May 15: preparations complete",
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "anchor": "aside-a-preparation-date-is-not-a-city-deadline",
+      "webTitle": "A preparation date is not a city deadline",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 6,
+      "sourceBlock": 37,
+      "manuscriptTitle": "Stalin was powerful before he held every wartime title",
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "anchor": "aside-stalin-was-powerful-before-he-held-every-wartime-title",
+      "webTitle": "Stalin was powerful before he held every wartime title",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 6,
+      "sourceBlock": 50,
+      "manuscriptTitle": "An offensive presented as a precaution",
+      "slug": "barbarossa-before-the-storm-1941-06-21",
+      "anchor": "preparation-cover",
+      "webTitle": "An offensive presented as a precaution",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 132,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 5,
+      "webParagraph": 1,
+      "anchor": "part-ii-note-132",
+      "passageAnchor": "ref-part-ii-note-132",
+      "sourceIds": [
+        "frus-molotov-22",
+        "frus-berlin-22"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 133,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 6,
+      "webParagraph": 2,
+      "anchor": "part-ii-note-133",
+      "passageAnchor": "ref-part-ii-note-133",
+      "sourceIds": [
+        "phase-i-cmh-eve"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 134,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 12,
+      "webParagraph": 7,
+      "anchor": "part-ii-note-134",
+      "passageAnchor": "ref-part-ii-note-134",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "cmh-blitz",
+        "kipp-covering"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 135,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 15,
+      "webParagraph": 8,
+      "anchor": "part-ii-note-135",
+      "passageAnchor": "ref-part-ii-note-135",
+      "sourceIds": [
+        "kipp-covering"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 136,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 20,
+      "webParagraph": 12,
+      "anchor": "part-ii-note-136",
+      "passageAnchor": "ref-part-ii-note-136",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "cmh-blitz",
+        "blau-planning",
+        "kipp-covering"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 137,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 24,
+      "webParagraph": 15,
+      "anchor": "part-ii-note-137",
+      "passageAnchor": "ref-part-ii-note-137",
+      "sourceIds": [
+        "loc-lage-1941-06-22",
+        "blau-planning",
+        "brest-akhmetova",
+        "phase-i-ganzer-brest"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 138,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 26,
+      "webParagraph": 17,
+      "anchor": "part-ii-note-138",
+      "passageAnchor": "ref-part-ii-note-138",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "cmh-blitz",
+        "sbd-western-june"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 139,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 31,
+      "webParagraph": 21,
+      "anchor": "part-ii-note-139",
+      "passageAnchor": "ref-part-ii-note-139",
+      "sourceIds": [
+        "cmh-blitz",
+        "sbd-southwestern-june"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 140,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 34,
+      "webParagraph": 22,
+      "anchor": "part-ii-note-140",
+      "passageAnchor": "ref-part-ii-note-140",
+      "sourceIds": [
+        "loc-lage-1941-06-22"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 141,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 40,
+      "webParagraph": 27,
+      "anchor": "part-ii-note-141",
+      "passageAnchor": "ref-part-ii-note-141",
+      "sourceIds": [
+        "phase-i-glantz-directives",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 142,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 42,
+      "webParagraph": 28,
+      "anchor": "part-ii-note-142",
+      "passageAnchor": "ref-part-ii-note-142",
+      "sourceIds": [
+        "sbd-western-june"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 143,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 44,
+      "webParagraph": 30,
+      "anchor": "part-ii-note-143",
+      "passageAnchor": "ref-part-ii-note-143",
+      "sourceIds": [
+        "commissar-order",
+        "barbarossa-jurisdiction",
+        "phase-i-romer-commissar"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 144,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 48,
+      "webParagraph": 33,
+      "anchor": "part-ii-note-144",
+      "passageAnchor": "ref-part-ii-note-144",
+      "sourceIds": [
+        "churchill-22",
+        "frus-welles-23"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 145,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 51,
+      "webParagraph": 34,
+      "anchor": "part-ii-note-145",
+      "passageAnchor": "ref-part-ii-note-145",
+      "sourceIds": [
+        "frus-molotov-22"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 7,
+      "manuscriptNote": 146,
+      "slug": "barbarossa-begins-1941-06-22",
+      "sourceBlock": 53,
+      "webParagraph": 35,
+      "anchor": "part-ii-note-146",
+      "passageAnchor": "ref-part-ii-note-146",
+      "sourceIds": [
+        "directive-21"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 7,
+      "sourceBlock": 14,
+      "manuscriptTitle": "What “destroyed” can hide",
+      "slug": "barbarossa-begins-1941-06-22",
+      "anchor": "aside-what-destroyed-can-hide",
+      "webTitle": "What “destroyed” can hide",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 7,
+      "sourceBlock": 33,
+      "manuscriptTitle": "Rovno, Rivne and the same road junction",
+      "slug": "barbarossa-begins-1941-06-22",
+      "anchor": "aside-rovno-rivne-and-the-same-road-junction",
+      "webTitle": "Rovno, Rivne and the same road junction",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 7,
+      "sourceBlock": 50,
+      "manuscriptTitle": "Diplomatic notification after fighting began",
+      "slug": "barbarossa-begins-1941-06-22",
+      "anchor": "molotov-message",
+      "webTitle": "Diplomatic notification after fighting began",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 147,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 5,
+      "webParagraph": 1,
+      "anchor": "part-ii-note-147",
+      "passageAnchor": "ref-part-ii-note-147",
+      "sourceIds": [
+        "sbd-34-019",
+        "sbd-34-029"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 148,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 7,
+      "webParagraph": 3,
+      "anchor": "part-ii-note-148",
+      "passageAnchor": "ref-part-ii-note-148",
+      "sourceIds": [
+        "sbd-34-019",
+        "sbd-34-029",
+        "sbd-36-010",
+        "sbd-36-015",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 149,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 10,
+      "webParagraph": 5,
+      "anchor": "part-ii-note-149",
+      "passageAnchor": "ref-part-ii-note-149",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 150,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 12,
+      "webParagraph": 7,
+      "anchor": "part-ii-note-150",
+      "passageAnchor": "ref-part-ii-note-150",
+      "sourceIds": [
+        "sbd-34-012"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 151,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 16,
+      "webParagraph": 10,
+      "anchor": "part-ii-note-151",
+      "passageAnchor": "ref-part-ii-note-151",
+      "sourceIds": [
+        "sbd-34-019",
+        "phase-i-zardinskas-raseiniai"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 152,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 19,
+      "webParagraph": 11,
+      "anchor": "part-ii-note-152",
+      "passageAnchor": "ref-part-ii-note-152",
+      "sourceIds": [
+        "phase-i-zardinskas-raseiniai"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 153,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 22,
+      "webParagraph": 13,
+      "anchor": "part-ii-note-153",
+      "passageAnchor": "ref-part-ii-note-153",
+      "sourceIds": [
+        "sbd-34-029"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 154,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 25,
+      "webParagraph": 15,
+      "anchor": "part-ii-note-154",
+      "passageAnchor": "ref-part-ii-note-154",
+      "sourceIds": [
+        "sbd-34-029"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 155,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 26,
+      "webParagraph": 16,
+      "anchor": "part-ii-note-155",
+      "passageAnchor": "ref-part-ii-note-155",
+      "sourceIds": [
+        "phase-i-capenko-29th-corps"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 156,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 27,
+      "webParagraph": 17,
+      "anchor": "part-ii-note-156",
+      "passageAnchor": "ref-part-ii-note-156",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 157,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 32,
+      "webParagraph": 21,
+      "anchor": "part-ii-note-157",
+      "passageAnchor": "ref-part-ii-note-157",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "sbd-36-010",
+        "sbd-36-015"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 158,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 35,
+      "webParagraph": 22,
+      "anchor": "part-ii-note-158",
+      "passageAnchor": "ref-part-ii-note-158",
+      "sourceIds": [
+        "sbd-36-010"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 159,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 41,
+      "webParagraph": 26,
+      "anchor": "part-ii-note-159",
+      "passageAnchor": "ref-part-ii-note-159",
+      "sourceIds": [
+        "frus-finland-25",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 160,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 45,
+      "webParagraph": 29,
+      "anchor": "part-ii-note-160",
+      "passageAnchor": "ref-part-ii-note-160",
+      "sourceIds": [
+        "stahlecker-kaunas",
+        "phase-i-ushmm-kovno"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 8,
+      "manuscriptNote": 161,
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "sourceBlock": 48,
+      "webParagraph": 30,
+      "anchor": "part-ii-note-161",
+      "passageAnchor": "ref-part-ii-note-161",
+      "sourceIds": [
+        "stahlecker-kaunas"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 8,
+      "sourceBlock": 18,
+      "manuscriptTitle": "One tank and the scale of a claim",
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "anchor": "aside-one-tank-and-the-scale-of-a-claim",
+      "webTitle": "One tank and the scale of a claim",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 8,
+      "sourceBlock": 34,
+      "manuscriptTitle": "Sheets, rockets and a missing map",
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "anchor": "counterattack-signals",
+      "webTitle": "Sheets, rockets and a missing map",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 8,
+      "sourceBlock": 47,
+      "manuscriptTitle": "A report that describes its own deception",
+      "slug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "anchor": "aside-a-report-that-describes-its-own-deception",
+      "webTitle": "A report that describes its own deception",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 162,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 7,
+      "webParagraph": 3,
+      "anchor": "part-ii-note-162",
+      "passageAnchor": "ref-part-ii-note-162",
+      "sourceIds": [
+        "sbd-35-057",
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 163,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 12,
+      "webParagraph": 7,
+      "anchor": "part-ii-note-163",
+      "passageAnchor": "ref-part-ii-note-163",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 164,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 16,
+      "webParagraph": 10,
+      "anchor": "part-ii-note-164",
+      "passageAnchor": "ref-part-ii-note-164",
+      "sourceIds": [
+        "sbd-35-044",
+        "sbd-western-june"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 165,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 18,
+      "webParagraph": 12,
+      "anchor": "part-ii-note-165",
+      "passageAnchor": "ref-part-ii-note-165",
+      "sourceIds": [
+        "sbd-35-050",
+        "sbd-35-057"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 166,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 23,
+      "webParagraph": 16,
+      "anchor": "part-ii-note-166",
+      "passageAnchor": "ref-part-ii-note-166",
+      "sourceIds": [
+        "sbd-35-148"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 167,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 24,
+      "webParagraph": 17,
+      "anchor": "part-ii-note-167",
+      "passageAnchor": "ref-part-ii-note-167",
+      "sourceIds": [
+        "sbd-35-057"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 168,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 28,
+      "webParagraph": 20,
+      "anchor": "part-ii-note-168",
+      "passageAnchor": "ref-part-ii-note-168",
+      "sourceIds": [
+        "blau-planning",
+        "sbd-35-050"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 169,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 31,
+      "webParagraph": 21,
+      "anchor": "part-ii-note-169",
+      "passageAnchor": "ref-part-ii-note-169",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 170,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 33,
+      "webParagraph": 22,
+      "anchor": "part-ii-note-170",
+      "passageAnchor": "ref-part-ii-note-170",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 171,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 37,
+      "webParagraph": 25,
+      "anchor": "part-ii-note-171",
+      "passageAnchor": "ref-part-ii-note-171",
+      "sourceIds": [
+        "ushmm-bialystok-27",
+        "yad-bialystok-testimonies"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 172,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 39,
+      "webParagraph": 27,
+      "anchor": "part-ii-note-172",
+      "passageAnchor": "ref-part-ii-note-172",
+      "sourceIds": [
+        "commissar-order",
+        "ushmm-pow-treatment"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 9,
+      "manuscriptNote": 173,
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "sourceBlock": 44,
+      "webParagraph": 31,
+      "anchor": "part-ii-note-173",
+      "passageAnchor": "ref-part-ii-note-173",
+      "sourceIds": [
+        "sbd-35-057",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 9,
+      "sourceBlock": 30,
+      "manuscriptTitle": "Closed does not mean surrendered",
+      "slug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "anchor": "aside-closed-does-not-mean-surrendered",
+      "webTitle": "Closed does not mean surrendered",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 174,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 5,
+      "webParagraph": 1,
+      "anchor": "part-ii-note-174",
+      "passageAnchor": "ref-part-ii-note-174",
+      "sourceIds": [
+        "sbd-36-037",
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 175,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 6,
+      "webParagraph": 2,
+      "anchor": "part-ii-note-175",
+      "passageAnchor": "ref-part-ii-note-175",
+      "sourceIds": [
+        "ushmm-lwow-pogrom"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 176,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 12,
+      "webParagraph": 7,
+      "anchor": "part-ii-note-176",
+      "passageAnchor": "ref-part-ii-note-176",
+      "sourceIds": [
+        "blau-planning",
+        "phase-i-cmh-eve",
+        "sbd-36-036",
+        "sbd-36-185"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 177,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 17,
+      "webParagraph": 11,
+      "anchor": "part-ii-note-177",
+      "passageAnchor": "ref-part-ii-note-177",
+      "sourceIds": [
+        "sbd-36-015",
+        "sbd-36-185",
+        "sbd-36-010"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 178,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 20,
+      "webParagraph": 13,
+      "anchor": "part-ii-note-178",
+      "passageAnchor": "ref-part-ii-note-178",
+      "sourceIds": [
+        "sbd-36-022",
+        "isaev-dubno"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 179,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 23,
+      "webParagraph": 16,
+      "anchor": "part-ii-note-179",
+      "passageAnchor": "ref-part-ii-note-179",
+      "sourceIds": [
+        "sbd-36-185"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 180,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 27,
+      "webParagraph": 19,
+      "anchor": "part-ii-note-180",
+      "passageAnchor": "ref-part-ii-note-180",
+      "sourceIds": [
+        "sbd-36-036",
+        "sbd-36-037"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 181,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 30,
+      "webParagraph": 22,
+      "anchor": "part-ii-note-181",
+      "passageAnchor": "ref-part-ii-note-181",
+      "sourceIds": [
+        "sbd-36-036",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 182,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 33,
+      "webParagraph": 24,
+      "anchor": "part-ii-note-182",
+      "passageAnchor": "ref-part-ii-note-182",
+      "sourceIds": [
+        "lviv-prison-research"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 183,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 35,
+      "webParagraph": 26,
+      "anchor": "part-ii-note-183",
+      "passageAnchor": "ref-part-ii-note-183",
+      "sourceIds": [
+        "nara-hitlers-shadow",
+        "himka-lviv"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 184,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 39,
+      "webParagraph": 29,
+      "anchor": "part-ii-note-184",
+      "passageAnchor": "ref-part-ii-note-184",
+      "sourceIds": [
+        "himka-lviv",
+        "ushmm-lwow-pogrom"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 185,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 42,
+      "webParagraph": 30,
+      "anchor": "part-ii-note-185",
+      "passageAnchor": "ref-part-ii-note-185",
+      "sourceIds": [
+        "ushmm-lwow-pogrom"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 186,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 44,
+      "webParagraph": 31,
+      "anchor": "part-ii-note-186",
+      "passageAnchor": "ref-part-ii-note-186",
+      "sourceIds": [
+        "himka-lviv",
+        "ushmm-lwow-pogrom"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 10,
+      "manuscriptNote": 187,
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "sourceBlock": 47,
+      "webParagraph": 33,
+      "anchor": "part-ii-note-187",
+      "passageAnchor": "ref-part-ii-note-187",
+      "sourceIds": [
+        "loc-lage-1941-07-01",
+        "sbd-34-052",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 10,
+      "sourceBlock": 41,
+      "manuscriptTitle": "Why familiar totals can mislead",
+      "slug": "barbarossa-the-war-moves-east-1941-07-01",
+      "anchor": "aside-why-familiar-totals-can-mislead",
+      "webTitle": "Why familiar totals can mislead",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 188,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 4,
+      "webParagraph": 1,
+      "anchor": "part-ii-note-188",
+      "passageAnchor": "ref-part-ii-note-188",
+      "sourceIds": [
+        "stalin-3-july",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 189,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 9,
+      "webParagraph": 5,
+      "anchor": "part-ii-note-189",
+      "passageAnchor": "ref-part-ii-note-189",
+      "sourceIds": [
+        "stalin-3-july",
+        "directive-21",
+        "loc-lage-1941-07-03"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 190,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 14,
+      "webParagraph": 9,
+      "anchor": "part-ii-note-190",
+      "passageAnchor": "ref-part-ii-note-190",
+      "sourceIds": [
+        "cmh-blitz",
+        "gko-30-june",
+        "stalin-3-july"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 191,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 18,
+      "webParagraph": 12,
+      "anchor": "part-ii-note-191",
+      "passageAnchor": "ref-part-ii-note-191",
+      "sourceIds": [
+        "garf-war-decisions",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 192,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 19,
+      "webParagraph": 13,
+      "anchor": "part-ii-note-192",
+      "passageAnchor": "ref-part-ii-note-192",
+      "sourceIds": [
+        "sbd-33-33",
+        "sbd-36-237"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 193,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 23,
+      "webParagraph": 16,
+      "anchor": "part-ii-note-193",
+      "passageAnchor": "ref-part-ii-note-193",
+      "sourceIds": [
+        "evacuation-council",
+        "garf-war-decisions",
+        "stalin-3-july"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 194,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 25,
+      "webParagraph": 18,
+      "anchor": "part-ii-note-194",
+      "passageAnchor": "ref-part-ii-note-194",
+      "sourceIds": [
+        "stalin-3-july"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 195,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 26,
+      "webParagraph": 19,
+      "anchor": "part-ii-note-195",
+      "passageAnchor": "ref-part-ii-note-195",
+      "sourceIds": [
+        "budnitskii-extrajudicial-2022"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 196,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 29,
+      "webParagraph": 21,
+      "anchor": "part-ii-note-196",
+      "passageAnchor": "ref-part-ii-note-196",
+      "sourceIds": [
+        "romanian-prut-record",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 197,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 32,
+      "webParagraph": 24,
+      "anchor": "part-ii-note-197",
+      "passageAnchor": "ref-part-ii-note-197",
+      "sourceIds": [
+        "sbd-36-237",
+        "phase-i-cmh-eve",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 198,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 34,
+      "webParagraph": 25,
+      "anchor": "part-ii-note-198",
+      "passageAnchor": "ref-part-ii-note-198",
+      "sourceIds": [
+        "sbd-36-237"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 199,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 38,
+      "webParagraph": 28,
+      "anchor": "part-ii-note-199",
+      "passageAnchor": "ref-part-ii-note-199",
+      "sourceIds": [
+        "romania-commission-iasi",
+        "ushmm-iasi-photo"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 200,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 40,
+      "webParagraph": 30,
+      "anchor": "part-ii-note-200",
+      "passageAnchor": "ref-part-ii-note-200",
+      "sourceIds": [
+        "romania-commission-iasi"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 201,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 41,
+      "webParagraph": 31,
+      "anchor": "part-ii-note-201",
+      "passageAnchor": "ref-part-ii-note-201",
+      "sourceIds": [
+        "romania-commission-rescue"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 202,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 45,
+      "webParagraph": 34,
+      "anchor": "part-ii-note-202",
+      "passageAnchor": "ref-part-ii-note-202",
+      "sourceIds": [
+        "stalin-3-july",
+        "frus-aid-26",
+        "frus-aid-27"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 203,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 47,
+      "webParagraph": 35,
+      "anchor": "part-ii-note-203",
+      "passageAnchor": "ref-part-ii-note-203",
+      "sourceIds": [
+        "frus-aid-27"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 11,
+      "manuscriptNote": 204,
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "sourceBlock": 50,
+      "webParagraph": 37,
+      "anchor": "part-ii-note-204",
+      "passageAnchor": "ref-part-ii-note-204",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "stalin-3-july"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 11,
+      "sourceBlock": 33,
+      "manuscriptTitle": "An order with conflicting dates",
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "anchor": "aside-an-order-with-conflicting-dates",
+      "webTitle": "An order with conflicting dates",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 11,
+      "sourceBlock": 46,
+      "manuscriptTitle": "The alliance began with inventories",
+      "slug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "anchor": "aside-the-alliance-began-with-inventories",
+      "webTitle": "The alliance began with inventories",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 205,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 4,
+      "webParagraph": 1,
+      "anchor": "part-ii-note-205",
+      "passageAnchor": "ref-part-ii-note-205",
+      "sourceIds": [
+        "sbd-33-35",
+        "sbd-33-33",
+        "sbd-33-46"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 206,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 7,
+      "webParagraph": 3,
+      "anchor": "part-ii-note-206",
+      "passageAnchor": "ref-part-ii-note-206",
+      "sourceIds": [
+        "blau-planning",
+        "loc-lage-1941-07-06"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 207,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 9,
+      "webParagraph": 5,
+      "anchor": "part-ii-note-207",
+      "passageAnchor": "ref-part-ii-note-207",
+      "sourceIds": [
+        "cmh-blitz",
+        "sbd-33-33"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 208,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 14,
+      "webParagraph": 9,
+      "anchor": "part-ii-note-208",
+      "passageAnchor": "ref-part-ii-note-208",
+      "sourceIds": [
+        "sbd-33-33",
+        "sbd-33-39",
+        "sbd-33-40",
+        "sbd-33-35"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 209,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 16,
+      "webParagraph": 10,
+      "anchor": "part-ii-note-209",
+      "passageAnchor": "ref-part-ii-note-209",
+      "sourceIds": [
+        "sbd-33-33",
+        "sbd-33-39"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 210,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 19,
+      "webParagraph": 12,
+      "anchor": "part-ii-note-210",
+      "passageAnchor": "ref-part-ii-note-210",
+      "sourceIds": [
+        "sbd-33-40"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 211,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 21,
+      "webParagraph": 14,
+      "anchor": "part-ii-note-211",
+      "passageAnchor": "ref-part-ii-note-211",
+      "sourceIds": [
+        "sbd-33-35"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 212,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 22,
+      "webParagraph": 15,
+      "anchor": "part-ii-note-212",
+      "passageAnchor": "ref-part-ii-note-212",
+      "sourceIds": [
+        "dickson-lepel"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 213,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 25,
+      "webParagraph": 17,
+      "anchor": "part-ii-note-213",
+      "passageAnchor": "ref-part-ii-note-213",
+      "sourceIds": [
+        "sbd-33-35"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 214,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 26,
+      "webParagraph": 18,
+      "anchor": "part-ii-note-214",
+      "passageAnchor": "ref-part-ii-note-214",
+      "sourceIds": [
+        "dickson-lepel"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 215,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 27,
+      "webParagraph": 19,
+      "anchor": "part-ii-note-215",
+      "passageAnchor": "ref-part-ii-note-215",
+      "sourceIds": [
+        "sbd-33-35"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 216,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 32,
+      "webParagraph": 23,
+      "anchor": "part-ii-note-216",
+      "passageAnchor": "ref-part-ii-note-216",
+      "sourceIds": [
+        "sbd-33-37"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 217,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 34,
+      "webParagraph": 25,
+      "anchor": "part-ii-note-217",
+      "passageAnchor": "ref-part-ii-note-217",
+      "sourceIds": [
+        "dickson-lepel",
+        "sbd-33-46"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 218,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 39,
+      "webParagraph": 29,
+      "anchor": "part-ii-note-218",
+      "passageAnchor": "ref-part-ii-note-218",
+      "sourceIds": [
+        "sbd-33-35",
+        "sbd-33-39",
+        "sbd-33-46",
+        "sbd-33-50"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 219,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 41,
+      "webParagraph": 30,
+      "anchor": "part-ii-note-219",
+      "passageAnchor": "ref-part-ii-note-219",
+      "sourceIds": [
+        "commissar-order"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 220,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 43,
+      "webParagraph": 32,
+      "anchor": "part-ii-note-220",
+      "passageAnchor": "ref-part-ii-note-220",
+      "sourceIds": [
+        "phase-i-yv-minsk",
+        "commissar-order"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 221,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 45,
+      "webParagraph": 33,
+      "anchor": "part-ii-note-221",
+      "passageAnchor": "ref-part-ii-note-221",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 12,
+      "manuscriptNote": 222,
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "sourceBlock": 49,
+      "webParagraph": 36,
+      "anchor": "part-ii-note-222",
+      "passageAnchor": "ref-part-ii-note-222",
+      "sourceIds": [
+        "sbd-33-39",
+        "sbd-33-35",
+        "sbd-33-37",
+        "sbd-33-46",
+        "sbd-33-50",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 12,
+      "sourceBlock": 15,
+      "manuscriptTitle": "Which date belongs to the plan?",
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "anchor": "aside-which-date-belongs-to-the-plan",
+      "webTitle": "Which date belongs to the plan?",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 12,
+      "sourceBlock": 44,
+      "manuscriptTitle": "The distance behind the spearheads",
+      "slug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+      "anchor": "aside-the-map-records-an-assessment",
+      "webTitle": "The map records an assessment",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 223,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 4,
+      "webParagraph": 1,
+      "anchor": "part-ii-note-223",
+      "passageAnchor": "ref-part-ii-note-223",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz",
+        "pskov-library"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 224,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 9,
+      "webParagraph": 5,
+      "anchor": "part-ii-note-224",
+      "passageAnchor": "ref-part-ii-note-224",
+      "sourceIds": [
+        "loc-lage-1941-07-09",
+        "sbd-33-46",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 225,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 12,
+      "webParagraph": 7,
+      "anchor": "part-ii-note-225",
+      "passageAnchor": "ref-part-ii-note-225",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "pskov-library",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 226,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 15,
+      "webParagraph": 10,
+      "anchor": "part-ii-note-226",
+      "passageAnchor": "ref-part-ii-note-226",
+      "sourceIds": [
+        "sbd-34-078",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 227,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 16,
+      "webParagraph": 11,
+      "anchor": "part-ii-note-227",
+      "passageAnchor": "ref-part-ii-note-227",
+      "sourceIds": [
+        "phase-i-riga-synagogue-2026"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 228,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 19,
+      "webParagraph": 13,
+      "anchor": "part-ii-note-228",
+      "passageAnchor": "ref-part-ii-note-228",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "loc-lage-1941-07-09"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 229,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 22,
+      "webParagraph": 16,
+      "anchor": "part-ii-note-229",
+      "passageAnchor": "ref-part-ii-note-229",
+      "sourceIds": [
+        "sbd-33-46",
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 230,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 25,
+      "webParagraph": 18,
+      "anchor": "part-ii-note-230",
+      "passageAnchor": "ref-part-ii-note-230",
+      "sourceIds": [
+        "phase-i-cmh-eve",
+        "blau-planning",
+        "loc-lage-1941-07-09"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 231,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 28,
+      "webParagraph": 21,
+      "anchor": "part-ii-note-231",
+      "passageAnchor": "ref-part-ii-note-231",
+      "sourceIds": [
+        "blau-planning",
+        "sbd-36-036",
+        "loc-lage-1941-07-09"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 232,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 31,
+      "webParagraph": 23,
+      "anchor": "part-ii-note-232",
+      "passageAnchor": "ref-part-ii-note-232",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 233,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 34,
+      "webParagraph": 26,
+      "anchor": "part-ii-note-233",
+      "passageAnchor": "ref-part-ii-note-233",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 234,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 36,
+      "webParagraph": 27,
+      "anchor": "part-ii-note-234",
+      "passageAnchor": "ref-part-ii-note-234",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 235,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 39,
+      "webParagraph": 29,
+      "anchor": "part-ii-note-235",
+      "passageAnchor": "ref-part-ii-note-235",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 236,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 41,
+      "webParagraph": 31,
+      "anchor": "part-ii-note-236",
+      "passageAnchor": "ref-part-ii-note-236",
+      "sourceIds": [
+        "blau-planning",
+        "sbd-33-46",
+        "cmh-blitz"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 237,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 43,
+      "webParagraph": 32,
+      "anchor": "part-ii-note-237",
+      "passageAnchor": "ref-part-ii-note-237",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 238,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 46,
+      "webParagraph": 34,
+      "anchor": "part-ii-note-238",
+      "passageAnchor": "ref-part-ii-note-238",
+      "sourceIds": [
+        "phase-i-kovno-seventh-fort-2026"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 239,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 48,
+      "webParagraph": 36,
+      "anchor": "part-ii-note-239",
+      "passageAnchor": "ref-part-ii-note-239",
+      "sourceIds": [
+        "heydrich-2-july",
+        "stahlecker-kaunas"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 240,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 49,
+      "webParagraph": 37,
+      "anchor": "part-ii-note-240",
+      "passageAnchor": "ref-part-ii-note-240",
+      "sourceIds": [
+        "phase-i-kay-pows"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 241,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 53,
+      "webParagraph": 40,
+      "anchor": "part-ii-note-241",
+      "passageAnchor": "ref-part-ii-note-241",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "sbd-33-37"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "note",
+      "chapter": 13,
+      "manuscriptNote": 242,
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "sourceBlock": 55,
+      "webParagraph": 41,
+      "anchor": "part-ii-note-242",
+      "passageAnchor": "ref-part-ii-note-242",
+      "sourceIds": [
+        "directive-21",
+        "blau-planning"
+      ],
+      "action": "Full endnote retained and linked to its corresponding passage; source IDs and return link provided."
+    },
+    {
+      "kind": "aside",
+      "chapter": 13,
+      "sourceBlock": 35,
+      "manuscriptTitle": "The missing tank cars",
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "anchor": "aside-the-missing-tank-cars",
+      "webTitle": "The missing tank cars",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 13,
+      "sourceBlock": 42,
+      "manuscriptTitle": "A formation can survive its label",
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "anchor": "aside-a-formation-can-survive-its-label",
+      "webTitle": "A formation can survive its label",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 13,
+      "sourceBlock": 54,
+      "manuscriptTitle": "The objective still ahead",
+      "slug": "barbarossa-eighteen-days-of-war-1941-07-09",
+      "anchor": "aside-the-objective-still-ahead",
+      "webTitle": "The objective still ahead",
+      "action": "Existing web aside reconciled with Part II and linked from its study contents."
+    }
+  ],
+  "preservation": {
+    "baselineCommit": "b0ca099537d4910425578b0ebc910262d1e21d29",
+    "changedExistingPaths": [
+      "src/data/sources.json",
+      "src/pages/Article.jsx",
+      "src/pages/Campaign.jsx",
+      "src/content/articles/barbarossa-the-war-moves-east-1941-07-01.json",
+      "src/content/articles/barbarossa-the-first-counterattacks-1941-06-25.json",
+      "src/content/articles/barbarossa-the-battle-beyond-minsk-1941-07-06.json",
+      "src/content/articles/barbarossa-eighteen-days-of-war-1941-07-09.json",
+      "src/content/articles/barbarossa-before-the-storm-1941-06-21.json",
+      "src/content/articles/barbarossa-begins-1941-06-22.json",
+      "src/content/articles/barbarossa-the-encirclement-of-minsk-1941-06-28.json",
+      "src/content/articles/barbarossa-the-soviet-union-responds-1941-07-03.json",
+      "scripts/validate-poland-part-i.mjs"
+    ],
+    "unrelatedArticlesPreserved": 42,
+    "publicFilesPreserved": 61,
+    "existingSourcesPreserved": 523,
+    "newSources": 2,
+    "mapDataPreserved": true,
+    "allExistingSectionIdsPreserved": true,
+    "brokenInternalLinks": [],
+    "coverage": {
+      "asides": 18,
+      "endnotes": 126
+    }
+  },
+  "limitations": [
+    "This reconciles the supplied proofread Part II with the existing website; it is not a new independent audit of every historical claim.",
+    "New biography and directive references and the updated Lwów/Kovno museum passages were inspected; retained references use the existing source register.",
+    "Soviet records are published transcriptions; original archival files and all cited print editions were not independently inspected.",
+    "Historical map data is unchanged. The main canvas already uses the exact header sepia #FAF3E3."
+  ]
+}

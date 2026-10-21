@@ -1,3 +1,13 @@
+# October 21, 2026 — Operation Barbarossa I and Part II
+
+The Phase I introduction and eight existing web studies are reconciled with Part II of Ostkrieg Volume One version 3.2.13, Chapters 6–13 (21 June–9 July 1941). The integration preserves the web structure, all existing section anchors, 18 asides and all 126 native endnotes. A nine-stop collection reading path, collapsible phone contents, aside links and evidence-note return links connect the section. The main canvas retains the exact header sepia #FAF3E3, already present in the preceding production release.
+
+All 42 other article files, all 61 public files and the historical map data remain byte-identical to main b0ca099537d4910425578b0ebc910262d1e21d29. The 523 existing source records are preserved; two Part II references are appended. The Poland validator now checks for Part I note identifiers specifically, allowing the separately authorized Part II notes without weakening its Poland coverage checks.
+
+Run `node scripts/validate-data.mjs`, `node scripts/validate-poland-part-i.mjs` and `node scripts/validate-barbarossa-part-ii.mjs`. `barbarossa-part-ii-review.json` records every note and aside, source boundaries, preservation and verification limits. Local desktop/phone browser checks cover all eight studies, all 126 note links/returns, all 18 aside destinations, direct note links, page titles, the shared background and map availability. This entry records the verified candidate; hosted preview and production verification are separate release steps.
+
+---
+
 # October 20, 2026 — Poland Part I update
 
 The existing Poland introduction and five studies are reconciled with Part I of Volume One version 3.1.5. All 15 manuscript asides, two tables and 116 endnotes are retained, with linked evidence notes and returns, a six-page reading path and collapsible phone contents. The shared page canvas now uses the header’s existing #FAF3E3 sepia. All 44 other article files, all historical map data and the 520 existing source records remain unchanged; three Poland references are appended.
