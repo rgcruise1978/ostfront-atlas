@@ -1,0 +1,2273 @@
+{
+  "sourceFile": "Ostkrieg_Volume_One_version_3_4_31.docx",
+  "sourceSha256": "480aa6c24a353c88ca69df3c9353b250bc528b009d509dbb5f32f0041107ca23",
+  "part": "Part IV — Operation Barbarossa III: The Battle for Strategic Objectives",
+  "chapterRange": [
+    23,
+    31
+  ],
+  "dateRange": [
+    "1941-08-26",
+    "1941-09-29"
+  ],
+  "stopBefore": "Part V — Operation Barbarossa IV: The Autumn Offensive",
+  "studies": [
+    {
+      "chapter": 23,
+      "title": "The Southward Offensive",
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "date": "1941-08-26",
+      "asides": 3,
+      "notes": 16,
+      "webParagraphs": 31,
+      "revisedParagraphs": 9,
+      "retainedParagraphs": 22,
+      "narrativeWordCount": 3186,
+      "readingMinutes": 15
+    },
+    {
+      "chapter": 24,
+      "title": "The Baltic Withdrawal",
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "date": "1941-08-29",
+      "asides": 2,
+      "notes": 17,
+      "webParagraphs": 32,
+      "revisedParagraphs": 9,
+      "retainedParagraphs": 23,
+      "narrativeWordCount": 3311,
+      "readingMinutes": 16
+    },
+    {
+      "chapter": 25,
+      "title": "The Soviet Counterstroke",
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "date": "1941-09-03",
+      "asides": 2,
+      "notes": 14,
+      "webParagraphs": 34,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 26,
+      "narrativeWordCount": 3313,
+      "readingMinutes": 16
+    },
+    {
+      "chapter": 26,
+      "title": "Leningrad Cut Off",
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "date": "1941-09-08",
+      "asides": 2,
+      "notes": 13,
+      "webParagraphs": 33,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 25,
+      "narrativeWordCount": 3252,
+      "readingMinutes": 15
+    },
+    {
+      "chapter": 27,
+      "title": "The Kiev Trap",
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "date": "1941-09-12",
+      "asides": 2,
+      "notes": 17,
+      "webParagraphs": 35,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 27,
+      "narrativeWordCount": 3467,
+      "readingMinutes": 16
+    },
+    {
+      "chapter": 28,
+      "title": "The Encirclement Closes",
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "date": "1941-09-16",
+      "asides": 2,
+      "notes": 12,
+      "webParagraphs": 34,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 26,
+      "narrativeWordCount": 3224,
+      "readingMinutes": 15
+    },
+    {
+      "chapter": 29,
+      "title": "The Fall of Kiev",
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "date": "1941-09-19",
+      "asides": 2,
+      "notes": 12,
+      "webParagraphs": 36,
+      "revisedParagraphs": 9,
+      "retainedParagraphs": 27,
+      "narrativeWordCount": 3208,
+      "readingMinutes": 15
+    },
+    {
+      "chapter": 30,
+      "title": "The Destruction of the Pocket",
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "date": "1941-09-26",
+      "asides": 2,
+      "notes": 12,
+      "webParagraphs": 37,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 29,
+      "narrativeWordCount": 3284,
+      "readingMinutes": 15
+    },
+    {
+      "chapter": 31,
+      "title": "Victory and Catastrophe",
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "date": "1941-09-29",
+      "asides": 2,
+      "notes": 19,
+      "webParagraphs": 36,
+      "revisedParagraphs": 11,
+      "retainedParagraphs": 25,
+      "narrativeWordCount": 3136,
+      "readingMinutes": 15
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 382,
+      "sourceBlock": 6,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-382",
+      "passageAnchor": "ref-part-iv-note-382",
+      "sourceIds": [
+        "p2-stahel-kiev",
+        "p3-sbd43",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "57cdb1baea96a8f251f36f3e0646fda6e49128f9f8abacacb1ea54992727f0b0"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 383,
+      "sourceBlock": 7,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-383",
+      "passageAnchor": "ref-part-iv-note-383",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "3e2e45da2f79c6daf378f8c000314eec74692a49f333fd63b7f769f188d1c883"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 384,
+      "sourceBlock": 11,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-384",
+      "passageAnchor": "ref-part-iv-note-384",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-guderian-flank"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "5bb4d1f9d817cdbb3aebc7e476d9e85cc113c10efdd055882ba38a0088a83904"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 385,
+      "sourceBlock": 13,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-385",
+      "passageAnchor": "ref-part-iv-note-385",
+      "sourceIds": [
+        "p3-sbd43"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4f0aa3a8b1b7f30dab50c45711b84e6f8154651e7608647a991af6b88a7fc862"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 386,
+      "sourceBlock": 17,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-386",
+      "passageAnchor": "ref-part-iv-note-386",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "8ad5bebaa735f024fc65259c5ce7b42bc991651c04704aed2da6e526f9ad6ebb"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 387,
+      "sourceBlock": 19,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-387",
+      "passageAnchor": "ref-part-iv-note-387",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "40b0e305426c6026dc7d975173337269b6e69cc61272a180fb57b0c70f596a86"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 388,
+      "sourceBlock": 21,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-388",
+      "passageAnchor": "ref-part-iv-note-388",
+      "sourceIds": [
+        "p3-sbd43"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "98c94551d18b3632f410c47d19c66abbb78339b5ab1fbde34f77576bc6becff4"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 389,
+      "sourceBlock": 23,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-389",
+      "passageAnchor": "ref-part-iv-note-389",
+      "sourceIds": [
+        "p3-sbd43"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "fc3c75c1e0d8ec4ba6ec93ca03dca8c74126a2aecb177a0ef028bfdad6f17854"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 390,
+      "sourceBlock": 25,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-390",
+      "passageAnchor": "ref-part-iv-note-390",
+      "sourceIds": [
+        "p3-sbd43"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "7c79be40cda92530ad5547f7578bdc0cc26b305177e6d4424b45b652a312a64c"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 391,
+      "sourceBlock": 30,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-391",
+      "passageAnchor": "ref-part-iv-note-391",
+      "sourceIds": [
+        "p3-sbd43"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "db086b95451f29b58f4d031bdb7d8bf05b2c6b74b815a4976bb6f3a9dc0d7738"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 392,
+      "sourceBlock": 31,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-392",
+      "passageAnchor": "ref-part-iv-note-392",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4a1ce1418ae87da0f053233cc9c0ed9ebf9f6a4a0fe588d5a90edaaeec3a74aa"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 393,
+      "sourceBlock": 33,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-393",
+      "passageAnchor": "ref-part-iv-note-393",
+      "sourceIds": [
+        "p3-grossman-retreat"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9ba1280b0fe3f0ae867fcf8caa3e086a3800a57b08afe94c3b0bb10138fc14aa"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 394,
+      "sourceBlock": 36,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-394",
+      "passageAnchor": "ref-part-iv-note-394",
+      "sourceIds": [
+        "p3-southern-august"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "2e192b4e71452e88b33990696ee6d36db29c9d3432be1b8fb56bf2b1d2a3816b"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 395,
+      "sourceBlock": 37,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-395",
+      "passageAnchor": "ref-part-iv-note-395",
+      "sourceIds": [
+        "p2-frus765"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "35926488bbd6e0879bdce98a27799dcda754f341ea2c79d95e6b15c55e1a4970"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 396,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-396",
+      "passageAnchor": "ref-part-iv-note-396",
+      "sourceIds": [
+        "p3-bergen-chaplains"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "f3c1a9395f06f5860b1a2e760e559fa25288e34f36f3b1eb9506bdd988dfc98e"
+    },
+    {
+      "kind": "note",
+      "chapter": 23,
+      "manuscriptNoteId": 397,
+      "sourceBlock": 41,
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "part-iv-note-397",
+      "passageAnchor": "ref-part-iv-note-397",
+      "sourceIds": [
+        "p3r-kamenets"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d1e42744646f1b9e577208ed892aaee76b19335ac5c00f04e90cf7900ed8de0b"
+    },
+    {
+      "kind": "aside",
+      "chapter": 23,
+      "sourceBlock": 24,
+      "manuscriptTitle": "A minefield on the wrong side of the report",
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "aside-a-minefield-on-the-wrong-side-of-the-report",
+      "webTitle": "A minefield on the wrong side of the report",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 23,
+      "sourceBlock": 32,
+      "manuscriptTitle": "Grossman on the retreat",
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "aside-grossman-s-road-out-of-the-retreat",
+      "webTitle": "Grossman’s road out of the retreat",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 23,
+      "sourceBlock": 38,
+      "manuscriptTitle": "Children beyond the operational map",
+      "slug": "barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "aside-children-beyond-the-operational-map",
+      "webTitle": "Children beyond the operational map",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 398,
+      "sourceBlock": 5,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-398",
+      "passageAnchor": "ref-part-iv-note-398",
+      "sourceIds": [
+        "p3-tallinn-land",
+        "p3-baltic-chronology"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "0edb0ff33b3be5abac997a07bd6643b21b55c3ec790dd3374967114a00ad7d6c"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 399,
+      "sourceBlock": 7,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-399",
+      "passageAnchor": "ref-part-iv-note-399",
+      "sourceIds": [
+        "p2-tallinn-mobilisation"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9a99feeffc5446cbd0d39ec83ddab4b6690181b93547dc0826afd59ec46fb66e"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 400,
+      "sourceBlock": 11,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-400",
+      "passageAnchor": "ref-part-iv-note-400",
+      "sourceIds": [
+        "p2-hiio-kiviloo",
+        "p3-tallinn-land"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "87be0fe8208568f890c59abb34241a7e0fc2d8185225d75ae7cdf9fa6bd7d4fd"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 401,
+      "sourceBlock": 14,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-401",
+      "passageAnchor": "ref-part-iv-note-401",
+      "sourceIds": [
+        "p3-tallinn-land"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "5544940f62e1bcefa01d50e19f9fdb51ab8a97837e3156f7c1c727569da23b34"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 402,
+      "sourceBlock": 18,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-402",
+      "passageAnchor": "ref-part-iv-note-402",
+      "sourceIds": [
+        "p3-tallinn-land"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "195d46db9ed2bca79e2c4ba66529f39adefcb2ee07c1178504e47aa8a612cfd2"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 403,
+      "sourceBlock": 20,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-403",
+      "passageAnchor": "ref-part-iv-note-403",
+      "sourceIds": [
+        "p2-tallinn-mobilisation"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d0194a450982030416e8c410a3be4c921ac13dcb391550bae5c2222a3c753ffe"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 404,
+      "sourceBlock": 22,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-404",
+      "passageAnchor": "ref-part-iv-note-404",
+      "sourceIds": [
+        "p3-zubkov-tallinn"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "2651c907d5dde77d8badcbc093cec0b8c518e995422832751cfdeb6df16fdea6"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 405,
+      "sourceBlock": 25,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-405",
+      "passageAnchor": "ref-part-iv-note-405",
+      "sourceIds": [
+        "p3-baltic-chronology"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d5a7eb912ef4687f35aed700105473f78e30a7794907fde62675e8c09453e887"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 406,
+      "sourceBlock": 27,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-406",
+      "passageAnchor": "ref-part-iv-note-406",
+      "sourceIds": [
+        "p3-zubkov-tallinn"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4145c9cd419167892ea7d975dfea8ca60b60b9fd1b872a10826230dc91d26ca2"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 407,
+      "sourceBlock": 28,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-407",
+      "passageAnchor": "ref-part-iv-note-407",
+      "sourceIds": [
+        "p3-baltic-chronology"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "54f656ad93cc2ede211754e13c916f3d59dd154aa63ad9d4a0c933f78fd666c5"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 408,
+      "sourceBlock": 31,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-408",
+      "passageAnchor": "ref-part-iv-note-408",
+      "sourceIds": [
+        "p3-juminda-survivors",
+        "p3-zubkov-tallinn"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "0a3038ebe12b147fe1b90d9293c4aaa84c1fc55687b7016415d19d121e4edb3c"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 409,
+      "sourceBlock": 33,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-409",
+      "passageAnchor": "ref-part-iv-note-409",
+      "sourceIds": [
+        "p3-juminda-survivors"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "c9edd9e6c7e172ed253074b5dcd5be5aac4b56755fde08c8689fb78c5db5d618"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 410,
+      "sourceBlock": 35,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-410",
+      "passageAnchor": "ref-part-iv-note-410",
+      "sourceIds": [
+        "p3-eestirand"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "7ff6007f9914585643cde7daff139a8d56d3e107ab302c8e6e01c859830667bf"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 411,
+      "sourceBlock": 37,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-411",
+      "passageAnchor": "ref-part-iv-note-411",
+      "sourceIds": [
+        "p3-tallinn-land"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "23cacec8c51b07dcf2c9f477ef99dd6525712d5830b88c64683e74fa677ef359"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 412,
+      "sourceBlock": 38,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-412",
+      "passageAnchor": "ref-part-iv-note-412",
+      "sourceIds": [
+        "p3r-maripuu"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "0b41323f613da347c8d348458ad0a9835bab3323779952f1f12d7d2cda318d15"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 413,
+      "sourceBlock": 41,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-413",
+      "passageAnchor": "ref-part-iv-note-413",
+      "sourceIds": [
+        "p3-karjalainen-isthmus",
+        "p3-yle-isthmus"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "45ceb24b4274291bcd3f950a7706bc7b2ee896cb4818b5490f40c35b8c7e014a"
+    },
+    {
+      "kind": "note",
+      "chapter": 24,
+      "manuscriptNoteId": 414,
+      "sourceBlock": 43,
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "part-iv-note-414",
+      "passageAnchor": "ref-part-iv-note-414",
+      "sourceIds": [
+        "p3-frus71",
+        "p3-frus68"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "f0bb96b66a6f56a1508fcdb63aa1bfa2a294740102daaa171b7b50174693b34c"
+    },
+    {
+      "kind": "aside",
+      "chapter": 24,
+      "sourceBlock": 19,
+      "manuscriptTitle": "A departure that did not mean consent",
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "aside-a-departure-that-did-not-mean-consent",
+      "webTitle": "A departure that did not mean consent",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 24,
+      "sourceBlock": 32,
+      "manuscriptTitle": "Heino Niidas and the work of staying afloat",
+      "slug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "aside-heino-niidas-and-the-work-of-staying-afloat",
+      "webTitle": "Heino Niidas and the work of staying afloat",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 415,
+      "sourceBlock": 6,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-415",
+      "passageAnchor": "ref-part-iv-note-415",
+      "sourceIds": [
+        "blau-planning",
+        "p3-glantz-yelnya",
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "0e8b51685b4556bbd5a05d507b7c1e9cb6a51083216ccb4445167b22298ab912"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 416,
+      "sourceBlock": 12,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-416",
+      "passageAnchor": "ref-part-iv-note-416",
+      "sourceIds": [
+        "p3-sbd31",
+        "p3-glantz-yelnya"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "a9269d57fc22488500263baeee5011cc8ba63fcb9d3fb63f280daeb4c7e3bf2c"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 417,
+      "sourceBlock": 14,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-417",
+      "passageAnchor": "ref-part-iv-note-417",
+      "sourceIds": [
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "db63637a2ecceb17160aab1a8b125ce833c6eab30d83e769bd75e0653cdd0f90"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 418,
+      "sourceBlock": 18,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-418",
+      "passageAnchor": "ref-part-iv-note-418",
+      "sourceIds": [
+        "p3-glantz-yelnya"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "8640bd1851094a64a23b7786d3ca92c58650f9c0fb971af92c42c8c73be772e8"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 419,
+      "sourceBlock": 22,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-419",
+      "passageAnchor": "ref-part-iv-note-419",
+      "sourceIds": [
+        "p3-glantz-yelnya",
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "102f6a646f6ec1e6d80fda228786f6d05e42b265fb675fd7a8731451c7199390"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 420,
+      "sourceBlock": 24,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-420",
+      "passageAnchor": "ref-part-iv-note-420",
+      "sourceIds": [
+        "p3-glantz-yelnya"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "e491f0b7a1ed54ea97437fa1d76393662c89383ac6e4e10349dd463664c004c7"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 421,
+      "sourceBlock": 27,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-421",
+      "passageAnchor": "ref-part-iv-note-421",
+      "sourceIds": [
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4eddb7ebf9b152d7e842764b3a372b11e2f93422374aab71c2dbe3b63f720467"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 422,
+      "sourceBlock": 30,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-422",
+      "passageAnchor": "ref-part-iv-note-422",
+      "sourceIds": [
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "8c1a4bdad821cedb29cbbd44e3e1c96614f5494891930d98859531073281c42b"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 423,
+      "sourceBlock": 32,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-423",
+      "passageAnchor": "ref-part-iv-note-423",
+      "sourceIds": [
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "a6b416ed9416f99728594cb8d169707fb07a5ad275910082b8f2fb4290192083"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 424,
+      "sourceBlock": 35,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-424",
+      "passageAnchor": "ref-part-iv-note-424",
+      "sourceIds": [
+        "p3-simonov-yelnya"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "56c81e6a2ecf5cbc37097392d55430b01be475646eee8ca63a55e80f54ff9434"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 425,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-425",
+      "passageAnchor": "ref-part-iv-note-425",
+      "sourceIds": [
+        "p3-allied-correspondence"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4a6889b34aa89bc58b8d4f6791d95b1136ae5f81bc710301fb11e64d806b8442"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 426,
+      "sourceBlock": 43,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-426",
+      "passageAnchor": "ref-part-iv-note-426",
+      "sourceIds": [
+        "p3-glantz-yelnya-withdrawal",
+        "p3-glantz-yelnya",
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "1e3925e7fcfe7e187e97109b43f7b1c611714437a2796dbe4ef80270f40d29d4"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 427,
+      "sourceBlock": 44,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-427",
+      "passageAnchor": "ref-part-iv-note-427",
+      "sourceIds": [
+        "p3-glantz-yelnya-losses"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "f253b4ce24e49dede2ddbe2ce60bb1d06c1dd51639ac0b7e27139197ac3ba81a"
+    },
+    {
+      "kind": "note",
+      "chapter": 25,
+      "manuscriptNoteId": 428,
+      "sourceBlock": 45,
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "part-iv-note-428",
+      "passageAnchor": "ref-part-iv-note-428",
+      "sourceIds": [
+        "p3-sbd31"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "2bf216be9698a6174e5793f74c8037e9fc39dbf171dac4bfc4581fb2e1db65c2"
+    },
+    {
+      "kind": "aside",
+      "chapter": 25,
+      "sourceBlock": 23,
+      "manuscriptTitle": "A commander lost during the attack",
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "aside-a-commander-lost-during-the-attack",
+      "webTitle": "A commander lost during the attack",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 25,
+      "sourceBlock": 34,
+      "manuscriptTitle": "The earlier battle remembered",
+      "slug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "aside-the-earlier-battle-remembered",
+      "webTitle": "The earlier battle remembered",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 429,
+      "sourceBlock": 7,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-429",
+      "passageAnchor": "ref-part-iv-note-429",
+      "sourceIds": [
+        "blau-planning",
+        "p3-mosunov-54"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d74fb60e80839994d3f8722d6b3e1c735d5fcd6b3466aef57d3cbd967d4789cf"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 430,
+      "sourceBlock": 11,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-430",
+      "passageAnchor": "ref-part-iv-note-430",
+      "sourceIds": [
+        "p3-leningrad-documents"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "918d5ca9e369b0abb2d568dda4ea052224d3b57dd41a3568b9efb4bfeaa3f775"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 431,
+      "sourceBlock": 14,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-431",
+      "passageAnchor": "ref-part-iv-note-431",
+      "sourceIds": [
+        "p3-leningrad-documents"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "50905cacb9fe772d848d3969583bcff6dd8e0dc8e3cf4612e60e8358652a3e2d"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 432,
+      "sourceBlock": 16,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-432",
+      "passageAnchor": "ref-part-iv-note-432",
+      "sourceIds": [
+        "p3-mosunov-54"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "b5d39504398b9fcb912f4d91594283ea9579cff2b16172fb92aa7402cb335461"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 433,
+      "sourceBlock": 19,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-433",
+      "passageAnchor": "ref-part-iv-note-433",
+      "sourceIds": [
+        "p3-leningrad-documents"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "98fe37aba011a4abd2a6f6b4250228a467f995e3ab0611448cf058800db05c2b"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 434,
+      "sourceBlock": 21,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-434",
+      "passageAnchor": "ref-part-iv-note-434",
+      "sourceIds": [
+        "p3-leningrad-documents"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "e588da7be33aee4becd57931f9d2ed5403cd086455269c67e74e8f4a97d6859f"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 435,
+      "sourceBlock": 26,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-435",
+      "passageAnchor": "ref-part-iv-note-435",
+      "sourceIds": [
+        "p3-leningrad-food",
+        "p3-ladoga-library"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "53f61db87f4d728773a07fdf128e8d8365874b62ab36df28dcb118cfa9c3353e"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 436,
+      "sourceBlock": 28,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-436",
+      "passageAnchor": "ref-part-iv-note-436",
+      "sourceIds": [
+        "p3-ryabinkin"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "478a5b94484d13bab8ce4788fccbc10ec64b6fb8d5d61d2f84d491992a7d9fb6"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 437,
+      "sourceBlock": 30,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-437",
+      "passageAnchor": "ref-part-iv-note-437",
+      "sourceIds": [
+        "p3-ladoga-library"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "235422c8be9aba474b80f44d9af0453560c8401faae96e569ad3b91d9f8c1fa9"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 438,
+      "sourceBlock": 34,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-438",
+      "passageAnchor": "ref-part-iv-note-438",
+      "sourceIds": [
+        "p3-skryabina",
+        "p3-kirschenbaum-memory"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "411e52b3d3644ec3fac9f5b65565a93822c22b730afb07722761c88ff319905e"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 439,
+      "sourceBlock": 36,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-439",
+      "passageAnchor": "ref-part-iv-note-439",
+      "sourceIds": [
+        "p3-skryabina"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "ef99b13145af97593b735f11099ad7172e0c05f2d6908630a049bcab9e979324"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 440,
+      "sourceBlock": 41,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-440",
+      "passageAnchor": "ref-part-iv-note-440",
+      "sourceIds": [
+        "p3-nca-leningrad",
+        "p3-nca-july16"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "8052546587862c50d1c056e92b692dc0387741117a5b68d60097566f00f0226c"
+    },
+    {
+      "kind": "note",
+      "chapter": 26,
+      "manuscriptNoteId": 441,
+      "sourceBlock": 43,
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "part-iv-note-441",
+      "passageAnchor": "ref-part-iv-note-441",
+      "sourceIds": [
+        "p3-allied-correspondence"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "912db6f9250076eaf497bda0e3c8c802de6743819e47e62a677f470acab039e0"
+    },
+    {
+      "kind": "aside",
+      "chapter": 26,
+      "sourceBlock": 27,
+      "manuscriptTitle": "A mother’s assignment, a child’s uncertainty",
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "aside-a-mother-s-assignment-a-child-s-uncertainty",
+      "webTitle": "A mother’s assignment, a child’s uncertainty",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 26,
+      "sourceBlock": 35,
+      "manuscriptTitle": "Carrying a sleeping child downstairs",
+      "slug": "barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "aside-carrying-a-sleeping-child-downstairs",
+      "webTitle": "Carrying a sleeping child downstairs",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 442,
+      "sourceBlock": 5,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-442",
+      "passageAnchor": "ref-part-iv-note-442",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "28ce380a018be51967ddbdab1dab53911f04b2de989772ed244cda0015267ea9"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 443,
+      "sourceBlock": 9,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-443",
+      "passageAnchor": "ref-part-iv-note-443",
+      "sourceIds": [
+        "p3-guderian-flank"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "094aa7cd0fa6f2750b18c26a6e2ae8aa15d2d2d4de9f1923227742e88e776985"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 444,
+      "sourceBlock": 13,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-444",
+      "passageAnchor": "ref-part-iv-note-444",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "6251c7cdf364eeed73e587823ddf61221232d909fc9d007788bff3d81ceeb66f"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 445,
+      "sourceBlock": 16,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-445",
+      "passageAnchor": "ref-part-iv-note-445",
+      "sourceIds": [
+        "p3-sbd40",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "a82f841083f28f1b9daa1801392efc68020e40a45c3874f6da7af7efd3b8c3e0"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 446,
+      "sourceBlock": 19,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-446",
+      "passageAnchor": "ref-part-iv-note-446",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9b4ae3765efb2db4cd6d74f0f5c7b9ae22d8e8f262dcaf8d0b69eac56dff51fc"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 447,
+      "sourceBlock": 21,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-447",
+      "passageAnchor": "ref-part-iv-note-447",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "6dfe2016d67c691ab98b80fb81154f5fec13f3409d5a647d9e4d360b372335ff"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 448,
+      "sourceBlock": 26,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-448",
+      "passageAnchor": "ref-part-iv-note-448",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "14d98bdcd4ac89487e51573a9191cae3c7a34c2a22448db569f48947c61ab6aa"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 449,
+      "sourceBlock": 28,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-449",
+      "passageAnchor": "ref-part-iv-note-449",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "89d95cd8e8af54fa88cd56520d99061d50cd9db7890fd36ddf656ad412969872"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 450,
+      "sourceBlock": 29,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-450",
+      "passageAnchor": "ref-part-iv-note-450",
+      "sourceIds": [
+        "p3r-order001919"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "5a450c80ca7aeae78785e392e5e657587089e5195c4862779f0691ec41f14bf5"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 451,
+      "sourceBlock": 32,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-451",
+      "passageAnchor": "ref-part-iv-note-451",
+      "sourceIds": [
+        "p3-guderian-flank",
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "47c4284a56532ba14764c2b762f6107a6ab3f34571ad4c9bb5c8e8b6aafc50a9"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 452,
+      "sourceBlock": 34,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-452",
+      "passageAnchor": "ref-part-iv-note-452",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9349ce348606ca6a9616cbae99923df979226b751d5dd7fe5ebd05dbdef6b916"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 453,
+      "sourceBlock": 35,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-453",
+      "passageAnchor": "ref-part-iv-note-453",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "bcd1695f2468c2a320c187987c08ca52ce6fca6f5e82df7285d216a73c752fe0"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 454,
+      "sourceBlock": 37,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-454",
+      "passageAnchor": "ref-part-iv-note-454",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9da38fa780c8e88692e382e206fa4c02d159a80803e694edf898827bb6a1069f"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 455,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-455",
+      "passageAnchor": "ref-part-iv-note-455",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "432867690feda7caa09cc7ebcdc2628b0192d0fa4b26f32dab8274d72b39d331"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 456,
+      "sourceBlock": 42,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-456",
+      "passageAnchor": "ref-part-iv-note-456",
+      "sourceIds": [
+        "p3-frus202"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d6fee6223a5b5a1f54ef45e2509c865610e19954e2f7ab46eb8afce3294f1720"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 457,
+      "sourceBlock": 43,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-457",
+      "passageAnchor": "ref-part-iv-note-457",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "a4465ac1189b74958b45333248def73dd6e27df00bbb20d2ef52246c300a8299"
+    },
+    {
+      "kind": "note",
+      "chapter": 27,
+      "manuscriptNoteId": 458,
+      "sourceBlock": 45,
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "part-iv-note-458",
+      "passageAnchor": "ref-part-iv-note-458",
+      "sourceIds": [
+        "p2-stahel-kiev"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "f2f30d9b71c879fe00ba1905fedd8b5cb0df7d5aaf61d69c290852f16d1043c8"
+    },
+    {
+      "kind": "aside",
+      "chapter": 27,
+      "sourceBlock": 20,
+      "manuscriptTitle": "New tanks, unfamiliar crews",
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "aside-new-tanks-unfamiliar-crews",
+      "webTitle": "New tanks, unfamiliar crews",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 27,
+      "sourceBlock": 38,
+      "manuscriptTitle": "Timoshenko’s arrival under air attack",
+      "slug": "barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "aside-timoshenko-s-arrival-under-air-attack",
+      "webTitle": "Timoshenko’s arrival under air attack",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 459,
+      "sourceBlock": 6,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-459",
+      "passageAnchor": "ref-part-iv-note-459",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "7601855014c6de6315dd9872c73baeb9dd5280f76878f58c31de4bd95705a290"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 460,
+      "sourceBlock": 11,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-460",
+      "passageAnchor": "ref-part-iv-note-460",
+      "sourceIds": [
+        "p3-guderian-flank",
+        "p3-kirchubel-panzer"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "eb55ab6d8953245cba39f18e67f2fa69bec8fdc94f2bf955e54aaba1cce36fa6"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 461,
+      "sourceBlock": 13,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-461",
+      "passageAnchor": "ref-part-iv-note-461",
+      "sourceIds": [
+        "p3-guderian-flank"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "2d071bc59ebd2610d7698557d79cbfa1f1f6bc777776bc8d782265c0ea5ad7cc"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 462,
+      "sourceBlock": 17,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-462",
+      "passageAnchor": "ref-part-iv-note-462",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "51e755ac231593ec26f334f30a8f7f9be1618966f3861bc0c29cbe8be0036a73"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 463,
+      "sourceBlock": 19,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-463",
+      "passageAnchor": "ref-part-iv-note-463",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "e114aca7fc4a82c460d4be32758cdf5c219e3f3bf75900ee0e618b0814c1d6cd"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 464,
+      "sourceBlock": 24,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-464",
+      "passageAnchor": "ref-part-iv-note-464",
+      "sourceIds": [
+        "p3-sbd40",
+        "p3-guderian-flank"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "7f95eb1563fe7109dedd83fdecf21dd06e442bbda0137cb75d8c04d4ec569fbf"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 465,
+      "sourceBlock": 27,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-465",
+      "passageAnchor": "ref-part-iv-note-465",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "5a2bd3ed856d24caec1881146a782defbfa9e45974da12453bf0298e82556b56"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 466,
+      "sourceBlock": 33,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-466",
+      "passageAnchor": "ref-part-iv-note-466",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "6af9c9959969cb56fb5ec016119eadcb8714a5fd17bc8f5d982bf60b8823e205"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 467,
+      "sourceBlock": 36,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-467",
+      "passageAnchor": "ref-part-iv-note-467",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "043284097d323bc37d23a195696df538e7dada7964560e4c3d75fe2bfb1a183c"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 468,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-468",
+      "passageAnchor": "ref-part-iv-note-468",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "957c7559540debba58f354b18d008547db1931631321a5f0cd769be5ceccc783"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 469,
+      "sourceBlock": 41,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-469",
+      "passageAnchor": "ref-part-iv-note-469",
+      "sourceIds": [
+        "p3r-berdychiv"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4f0f68db18387f9662c13b25ae591dbf88c90ea870547e51a46602eb0d73f0e4"
+    },
+    {
+      "kind": "note",
+      "chapter": 28,
+      "manuscriptNoteId": 470,
+      "sourceBlock": 44,
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "part-iv-note-470",
+      "passageAnchor": "ref-part-iv-note-470",
+      "sourceIds": [
+        "p3-guderian-flank"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "7541cbe30242b9697c0044e4457b7b6d79857036b153e602e30ad54a69b27168"
+    },
+    {
+      "kind": "aside",
+      "chapter": 28,
+      "sourceBlock": 12,
+      "manuscriptTitle": "The telephone line across the junction",
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "aside-the-telephone-line-across-the-junction",
+      "webTitle": "The telephone line across the junction",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 28,
+      "sourceBlock": 38,
+      "manuscriptTitle": "A flight out of the pocket",
+      "slug": "barbarossa-the-encirclement-closes-1941-09-16",
+      "anchor": "aside-a-flight-out-of-the-pocket",
+      "webTitle": "A flight out of the pocket",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 471,
+      "sourceBlock": 4,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-471",
+      "passageAnchor": "ref-part-iv-note-471",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-yad-kiev"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "cf1c78a53b9f5e971f3feaf81e34eafaeab16849c325959ed805c29c1ca94ce8"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 472,
+      "sourceBlock": 9,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-472",
+      "passageAnchor": "ref-part-iv-note-472",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "ecd3b002dc24777adae4c8e2d8130778114ce6a04fb05d348d1075c9c1ac5bf3"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 473,
+      "sourceBlock": 12,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-473",
+      "passageAnchor": "ref-part-iv-note-473",
+      "sourceIds": [
+        "p3r-berkhoff-2015",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "94d9a7c890992ebf0807734a26690463437757d6ec8284225c296634334d74ff"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 474,
+      "sourceBlock": 15,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-474",
+      "passageAnchor": "ref-part-iv-note-474",
+      "sourceIds": [
+        "p3-khoroshunova-arrival"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "0d32e660117e33f38ddb2cdcaba68e4b0fe119efaefac6a86e8e8f1357fd4f1a"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 475,
+      "sourceBlock": 18,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-475",
+      "passageAnchor": "ref-part-iv-note-475",
+      "sourceIds": [
+        "p3-conservatoire",
+        "p3-malakov-occupation"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "896529f5c86805b8b06b8850caa5f998e4f19cd4b507fb700eced4d836b8f2ce"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 476,
+      "sourceBlock": 20,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-476",
+      "passageAnchor": "ref-part-iv-note-476",
+      "sourceIds": [
+        "p3-pavliuk"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "ed683103a4d84b39b2f3353fa33c57e29d59f10573010ae3dc2e5e9b803df058"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 477,
+      "sourceBlock": 23,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-477",
+      "passageAnchor": "ref-part-iv-note-477",
+      "sourceIds": [
+        "p3-herasymova"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "dfc69dd89c11259088d0b92ab482ff71a109b76c4fb4554c3f7ba535c36ad673"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 478,
+      "sourceBlock": 28,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-478",
+      "passageAnchor": "ref-part-iv-note-478",
+      "sourceIds": [
+        "p3r-berkhoff-2015",
+        "p3-malakov-occupation"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "2bda05c112cfea2bebda89407ecab2917df47694de2d4ce0b0b43bc653f39ec9"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 479,
+      "sourceBlock": 33,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-479",
+      "passageAnchor": "ref-part-iv-note-479",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4ae6988076d14f7a11743fe705159c3ae5ca039cc8a6871c6abeed64d9329270"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 480,
+      "sourceBlock": 36,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-480",
+      "passageAnchor": "ref-part-iv-note-480",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "5d44461ba5324ac50bc394fcefc3c31764453d544fc9115b9761e813e88ddc41"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 481,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-481",
+      "passageAnchor": "ref-part-iv-note-481",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "83e75aa31cccfdc2de9380b5cda5a9cff962b9c6eb7e2a533070da50c80898b5"
+    },
+    {
+      "kind": "note",
+      "chapter": 29,
+      "manuscriptNoteId": 482,
+      "sourceBlock": 43,
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "part-iv-note-482",
+      "passageAnchor": "ref-part-iv-note-482",
+      "sourceIds": [
+        "p3-yad-kiev",
+        "p3r-berkhoff-2015",
+        "p3-pavliuk"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "281b9278122d81328e9fa6160197d2294eb6cdd2136fed203f7510dff4bea56d"
+    },
+    {
+      "kind": "aside",
+      "chapter": 29,
+      "sourceBlock": 14,
+      "manuscriptTitle": "A soldier sheltered on Andriivskyi Descent",
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "aside-a-soldier-sheltered-on-andriivskyi-descent",
+      "webTitle": "A soldier sheltered on Andriivskyi Descent",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 29,
+      "sourceBlock": 22,
+      "manuscriptTitle": "Protecting the windows with bedding",
+      "slug": "barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "aside-protecting-the-windows-with-bedding",
+      "webTitle": "Protecting the windows with bedding",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 483,
+      "sourceBlock": 4,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-483",
+      "passageAnchor": "ref-part-iv-note-483",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-guderian-flank"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "8302bac95f4d3f879101ca9de4707a697c76b9aa134bf320b96cd9ca102ed247"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 484,
+      "sourceBlock": 11,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-484",
+      "passageAnchor": "ref-part-iv-note-484",
+      "sourceIds": [
+        "p3-guderian-flank",
+        "cmh-blitz",
+        "p3-esu-kiev"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "e96716604ea5d08f920c48231893ba47647da6bb41a2bad9157d33a214a4b5ca"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 485,
+      "sourceBlock": 13,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-485",
+      "passageAnchor": "ref-part-iv-note-485",
+      "sourceIds": [
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "c4a4cfef5cf8abf4b73baf25a089d2dada560254a880b3680e00775bcaf50a6e"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 486,
+      "sourceBlock": 18,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-486",
+      "passageAnchor": "ref-part-iv-note-486",
+      "sourceIds": [
+        "p3-sbd40",
+        "p3-esu-kirponos",
+        "p3-esu-kiev"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "6556b8baeebafa84abc5ffa2c308e65daac51377125d04f8efcee4b700c2ae38"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 487,
+      "sourceBlock": 24,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-487",
+      "passageAnchor": "ref-part-iv-note-487",
+      "sourceIds": [
+        "p3-guderian-flank",
+        "p3-sbd40"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d57bd0f57f04f5b612d5252d37c9741b838fddeb9634bcb484b633a315d50c18"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 488,
+      "sourceBlock": 25,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-488",
+      "passageAnchor": "ref-part-iv-note-488",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "10432eef0f49489afac9c0798c4f0bfe669e851c0e719f8b44256a4f91c0c1db"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 489,
+      "sourceBlock": 29,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-489",
+      "passageAnchor": "ref-part-iv-note-489",
+      "sourceIds": [
+        "p3-pohl-pows",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "dd09c10bd7830b378c87c60fee677641002de9dc3a1b01fa67b9df99451e84a2"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 490,
+      "sourceBlock": 36,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-490",
+      "passageAnchor": "ref-part-iv-note-490",
+      "sourceIds": [
+        "p3-nca-pows",
+        "p3-pohl-pows"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "daab1fd8a644ad68af0fd795edb31f1ca0238313c08e0e5345b689c4bc6f78f6"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 491,
+      "sourceBlock": 38,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-491",
+      "passageAnchor": "ref-part-iv-note-491",
+      "sourceIds": [
+        "p3-nca-pows"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "77a56cd77c47b251c1fce0f38433b00f46082e65c0ad0f2e02682cc5f76040a5"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 492,
+      "sourceBlock": 41,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-492",
+      "passageAnchor": "ref-part-iv-note-492",
+      "sourceIds": [
+        "p3-rosenberg-pows"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "3e70f9f2f2f442eaf566d36634219f73504a44f1fd941dd87544ce3ef0fc7aba"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 493,
+      "sourceBlock": 45,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-493",
+      "passageAnchor": "ref-part-iv-note-493",
+      "sourceIds": [
+        "p3-davydov"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "e5cd237bfb7b6c5f51d7d4957683f23ce9d0ae5c449e4aae578cccea6d2cd2db"
+    },
+    {
+      "kind": "note",
+      "chapter": 30,
+      "manuscriptNoteId": 494,
+      "sourceBlock": 50,
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "part-iv-note-494",
+      "passageAnchor": "ref-part-iv-note-494",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "4d0de412b351919d62dbd63504f1312d9cb5e1543486744e3a675e270e62eb34"
+    },
+    {
+      "kind": "aside",
+      "chapter": 30,
+      "sourceBlock": 37,
+      "manuscriptTitle": "A warning read and rejected",
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "aside-a-warning-read-and-rejected",
+      "webTitle": "A warning read and rejected",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 30,
+      "sourceBlock": 44,
+      "manuscriptTitle": "Volodymyr Davydov’s route west",
+      "slug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+      "anchor": "aside-volodymyr-davydov-s-route-west",
+      "webTitle": "Volodymyr Davydov’s route west",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 495,
+      "sourceBlock": 5,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-495",
+      "passageAnchor": "ref-part-iv-note-495",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p3-no3140"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9a03184a20f13a085f34ae579f44aa517a8e987880efd0d9532b6308ef6a3d0b"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 496,
+      "sourceBlock": 10,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-496",
+      "passageAnchor": "ref-part-iv-note-496",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-ladoga-library"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "1dd76adee03dc3b63893119cd61b66a4cbcad3603720b518219e1b885fc73c78"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 497,
+      "sourceBlock": 11,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-497",
+      "passageAnchor": "ref-part-iv-note-497",
+      "sourceIds": [
+        "p3-nca-leningrad"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "cdc00207fb355aae4924f7b6f2f6b4ced22c8394a28bd97820068250a441430c"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 498,
+      "sourceBlock": 12,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-498",
+      "passageAnchor": "ref-part-iv-note-498",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "e81e6f81d7b68fe128e307bd7308a5653928ea1b840ca47bc8efbbe6e334baca"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 499,
+      "sourceBlock": 14,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-499",
+      "passageAnchor": "ref-part-iv-note-499",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "72c142412a945c4feffe28b1073f3f4c84cdf89bee52bb034afebd11e1c751a3"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 500,
+      "sourceBlock": 17,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-500",
+      "passageAnchor": "ref-part-iv-note-500",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "9df9d7b35ebddbc72874d9a2eaf3ffcf00a3a0255cb539edc9c4885fb48ef9d1"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 501,
+      "sourceBlock": 22,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-501",
+      "passageAnchor": "ref-part-iv-note-501",
+      "sourceIds": [
+        "p3-guderian-flank",
+        "blau-planning"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "c5d4b13e6694d1b02b959269cb20592d58bbb7663a549cea5767365dea9e4e31"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 502,
+      "sourceBlock": 25,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-502",
+      "passageAnchor": "ref-part-iv-note-502",
+      "sourceIds": [
+        "p3-frus783"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "6b3fbb9398049f5ae433ccc2a68b290de08d1cd4f2dbae46a8f24f195c166924"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 503,
+      "sourceBlock": 27,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-503",
+      "passageAnchor": "ref-part-iv-note-503",
+      "sourceIds": [
+        "p3-frus783"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "411c5bb40aa33021e8ed6c8af461e4e76cfebc11f13b04637391a5e779129766"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 504,
+      "sourceBlock": 30,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-504",
+      "passageAnchor": "ref-part-iv-note-504",
+      "sourceIds": [
+        "p3-frus787",
+        "p3-frus786"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "5004f7e0e89be89f31b417dfd9329afefd5619d77765232b336037c30ee7afe8"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 505,
+      "sourceBlock": 31,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-505",
+      "passageAnchor": "ref-part-iv-note-505",
+      "sourceIds": [
+        "p3-frus262"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "0d12089ba666ec05fb27216b4c3823a9d0df34bd791ad88206019da50f7a4cef"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 506,
+      "sourceBlock": 36,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-506",
+      "passageAnchor": "ref-part-iv-note-506",
+      "sourceIds": [
+        "p3-no3140",
+        "p3-ushmm-babyn",
+        "p3-struve-jeckeln",
+        "p3-dhm-babij"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "a37b74364063ef3ffdd295ce12cdf5b25b0b90dbb8325bc507346341acdf0dbc"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 507,
+      "sourceBlock": 39,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-507",
+      "passageAnchor": "ref-part-iv-note-507",
+      "sourceIds": [
+        "p3-pronicheva",
+        "p3-dhm-babij",
+        "p3-no3140"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "96149ba27fa7a25818bb8095cb8ecb6d0a3baa922f8bf4b40ad115a110b78683"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 508,
+      "sourceBlock": 41,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-508",
+      "passageAnchor": "ref-part-iv-note-508",
+      "sourceIds": [
+        "p3-pronicheva"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "32be3e400bf085408034fd8cb538af4ae4b2ebe7ef15f54ee107b1968d57bfe4"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 509,
+      "sourceBlock": 42,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-509",
+      "passageAnchor": "ref-part-iv-note-509",
+      "sourceIds": [
+        "p3-pronicheva"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "92015606e3fcef18e0fad0868c2d0f3333614f4dad251a7529006e48886e1dbc"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 510,
+      "sourceBlock": 44,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-510",
+      "passageAnchor": "ref-part-iv-note-510",
+      "sourceIds": [
+        "p3-ushmm-babyn",
+        "p3-no3140"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "ed8d61709b37706d8986aa296f916343b6ef3dfbf72f7169840a01aaa98890f7"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 511,
+      "sourceBlock": 46,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-511",
+      "passageAnchor": "ref-part-iv-note-511",
+      "sourceIds": [
+        "p3-no3140"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "b862e88dbbfb22ed0b834cd9f9609bbae4aacf41b188203a82283f9e981d1c95"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 512,
+      "sourceBlock": 48,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-512",
+      "passageAnchor": "ref-part-iv-note-512",
+      "sourceIds": [
+        "p3-pronicheva"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "ce9cb5519a24b15c559b7d12c9d11bfd20933f9281f5cbf5f1263f3e374be2a7"
+    },
+    {
+      "kind": "note",
+      "chapter": 31,
+      "manuscriptNoteId": 513,
+      "sourceBlock": 51,
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "part-iv-note-513",
+      "passageAnchor": "ref-part-iv-note-513",
+      "sourceIds": [
+        "blau-planning",
+        "p3-no3140"
+      ],
+      "action": "Full native note retained, linked to the supporting passage and registered sources.",
+      "textSha256": "d574036c5f1f51b9128cdd05119ddb461c0c3ccfd05f874066c2a9de9811bb5a"
+    },
+    {
+      "kind": "aside",
+      "chapter": 31,
+      "sourceBlock": 26,
+      "manuscriptTitle": "The ambassadors leave the room",
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "aside-the-ambassadors-leave-the-room",
+      "webTitle": "The ambassadors leave the room",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    },
+    {
+      "kind": "aside",
+      "chapter": 31,
+      "sourceBlock": 40,
+      "manuscriptTitle": "Dina Pronicheva accompanies her family",
+      "slug": "barbarossa-victory-and-catastrophe-1941-09-29",
+      "anchor": "aside-dina-pronicheva-accompanies-her-family",
+      "webTitle": "Dina Pronicheva accompanies her family",
+      "action": "Adapted for web reading, with its source qualification and a contents link."
+    }
+  ],
+  "preservation": {
+    "baselineCommit": "24d80a41986cc8ea310acebb3676a5e9005c63a9",
+    "changedExistingPaths": [
+      "CURRENT_STATE.md",
+      "scripts/validate-data.mjs",
+      "src/content/articles/barbarossa-leningrad-cut-off-1941-09-08.json",
+      "src/content/articles/barbarossa-the-baltic-withdrawal-1941-08-29.json",
+      "src/content/articles/barbarossa-the-destruction-of-the-pocket-1941-09-26.json",
+      "src/content/articles/barbarossa-the-encirclement-closes-1941-09-16.json",
+      "src/content/articles/barbarossa-the-fall-of-kiev-1941-09-19.json",
+      "src/content/articles/barbarossa-the-kiev-trap-1941-09-12.json",
+      "src/content/articles/barbarossa-the-southward-offensive-1941-08-26.json",
+      "src/content/articles/barbarossa-the-soviet-counterstroke-1941-09-03.json",
+      "src/content/articles/barbarossa-victory-and-catastrophe-1941-09-29.json",
+      "src/pages/Article.jsx",
+      "src/pages/Campaign.jsx"
+    ],
+    "unrelatedArticlesPreserved": 41,
+    "publicFilesPreserved": 61,
+    "existingSourcesPreserved": 525,
+    "mapAndTimelineDataPreserved": true,
+    "allExistingSectionIdsPreserved": true,
+    "originalManuscriptReadOnly": true,
+    "sourceStatus": {
+      "originalPathAvailable": false,
+      "originalSha256": "480aa6c24a353c88ca69df3c9353b250bc528b009d509dbb5f32f0041107ca23",
+      "capturedPartIVMatchesCurrentFile": true,
+      "currentFile": "Ostkrieg_Volume_One_version_3_5_32.docx",
+      "readOnly": true
+    },
+    "brokenInternalLinks": 0
+  },
+  "targetedReferenceChecks": [
+    {
+      "source": "p3-grossman-retreat",
+      "finding": "The cited extract is headed TWO, The Terrible Retreat. Its chapter number is corrected for this study without modifying the shared source record. The exact edition remains unidentified.",
+      "url": "https://erenow.org/ww/awriteratwar/5.php"
+    },
+    {
+      "source": "p3-bergen-chaplains",
+      "finding": "The publisher PDF places the Piatsetski discussion on printed page 7, matching Part IV note 396. Corrected the study-specific locator from page 6.",
+      "url": "https://assets.cambridge.org/97811087/20823/excerpt/9781108720823_excerpt.pdf"
+    }
+  ],
+  "limitations": [
+    "This reconciles the supplied proofread Part IV with the existing website; it is not an independent audit of every historical claim.",
+    "Original archival files and every cited print edition were not independently inspected. Native-note access limits and qualifications are retained.",
+    "Historical map geometry, timeline data and source records are unchanged. Phase III has no separately stored passage-level Study Context. Dated study/map links are checked without regenerating historical map data."
+  ]
+}

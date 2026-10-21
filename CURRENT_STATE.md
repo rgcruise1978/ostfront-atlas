@@ -405,3 +405,14 @@ The other 41 article files, 525 source records, all timeline data and all 61 pub
 Validation: production build; main data/citation validator; Part III coverage and note-text validator; Poland and Part II regression checks; browser checks for all nine studies, 139 note links/returns and 18 aside links at desktop and phone sizes. See `barbarossa-part-iii-review.json` for chapter coverage and preservation evidence. The Phase II validator now checks the actual narrative count without the obsolete 3,500-word minimum; complete source-note and aside coverage is verified separately. Deployment status is reported separately from source validation.
 
 Next: no expansion into other manuscript parts without a separate instruction.
+
+
+## Part IV manuscript update — 21 October 2026
+
+Updated only Operation Barbarossa III from version 3.4.31, Part IV, chapters 23–31 (26 August–29 September 1941). Revised 78 existing passages and retained 230 after comparison; all 19 asides are adapted and linked from the contents, and all 132 native endnotes retain their exact text, source links and passage returns. The collection introduction and all nine studies share reading navigation. Phone contents and collection navigation collapse; detailed notes and source passages open on demand, including direct fragment links. Existing study identities, URLs, section IDs, chronology and dated atlas links remain stable.
+
+The other 41 studies, 525 shared source records, timeline data and 61 public map/asset files are unchanged. The manuscript was accessed read-only. Its supplied path was later replaced by version 3.5.32; a comparison confirmed that Part IV and its notes are identical to the captured version 3.4.31 input. The study-specific Grossman chapter locator and Bergen page locator were checked against the cited extract and publisher PDF. This is manuscript reconciliation, not a new independent audit of every historical claim.
+
+Validation: production build; main data/citation validator; scripts/validate-part-iv.mjs for all 132 exact note texts and 19 aside targets; regression checks for Poland and Parts II/III; desktop and phone browser review of all nine studies; all 132 note links and returns and 19 aside links exercised locally. The obsolete Phase III word-count limits were replaced with accurate counts; complete content and evidence coverage is checked separately. See barbarossa-part-iv-review.json for the crosswalk and preservation findings.
+
+Publication and public verification are reported separately from local validation. No expansion into another manuscript part is included.
