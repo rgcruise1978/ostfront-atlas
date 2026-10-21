@@ -7727,5 +7727,47 @@
     ],
     "notes": "Inspected the guide’s Army Group South / Panzergruppe 1 section, which identifies RH 24-3, RH 24-14 and RS 18. No underlying operational file or complete organisational card series was inspected. Used for nomenclature alongside the campaign account.",
     "reuseRights": "Linked and paraphrased; no reproduction licence assumed."
+  },
+  {
+    "id": "poland-frus-denunciation-1939",
+    "institution": "U.S. Department of State, Office of the Historian",
+    "title": "Grummon to the Secretary of State, July 1, 1939, document 320, editorial note 4",
+    "date": "1939-07-01",
+    "url": "https://history.state.gov/historicaldocuments/frus1939v01/d320",
+    "type": "Published diplomatic document and editorial annotation",
+    "relevance": "Editorial note 4 identifies the German memorandum of April 28, 1939, denouncing the German–Polish declaration of nonaggression.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Checked October 20, 2026. The annotation cites German White Book, document 213, page 222. The German original cited there was not independently inspected.",
+    "reuseRights": "Linked and paraphrased; no document image reproduced."
+  },
+  {
+    "id": "poland-dawsey-shared-enmity",
+    "institution": "The National WWII Museum",
+    "title": "Jason Dawsey, A Shared Enmity: Germany, Japan, and the Creation of the Tripartite Pact",
+    "date": "2021-12-10",
+    "url": "https://www.nationalww2museum.org/war/articles/germany-japan-tripartite-pact",
+    "type": "Historical museum article",
+    "relevance": "Japan’s reaction to the August 1939 German–Soviet agreement during the fighting at Khalkhin Gol/​Nomonhan.",
+    "supports": [
+      "1939-08-23-article"
+    ],
+    "notes": "Title and authorship checked October 20, 2026. Part I note 19 uses the shortened title Shared Enmity. This Poland-only record corrects the older abbreviated title without changing references in other collections.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "poland-underground-transition",
+    "institution": "Institute of National Remembrance",
+    "title": "From the Union of Armed Struggle to the Home Army",
+    "date": "2025-02-13",
+    "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/9247,From-the-Union-of-Armed-Struggle-to-the-Home-Army.html",
+    "type": "Historical institutional article",
+    "relevance": "Formation of the Union of Armed Struggle in November 1939, its takeover of the Service for Poland’s Victory structures, and renaming in February 1942.",
+    "supports": [
+      "1939-10-26-article"
+    ],
+    "notes": "Checked October 20, 2026: opening and The Union of Armed Struggle section only. Later operations, aggregate strengths and losses are not adopted.",
+    "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
   }
 ]
