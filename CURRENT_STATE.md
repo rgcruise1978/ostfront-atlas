@@ -394,3 +394,14 @@ Five Poland studies revised directly in src/content/articles; shared navigation 
 
 ## Poland collection introduction — 14 October 2026
 The existing introduction was rewritten to approximately 2,300 words with 25 references (two USHMM), linked superscript citations, contents navigation and links to all five studies. It now appears first through explicit collection-introduction metadata. Build and data validation pass; bibliography return links and narrow-screen reading checked. Local only, not deployed. Backup, revised files and screenshots: ../../outputs/poland-introduction-revision/. This supersedes the prior editorial report’s note about the stale introduction.
+
+
+## Part III manuscript update — 21 October 2026
+
+Updated only the nine existing Operation Barbarossa II studies and their collection introduction from manuscript version 3.3.22, Part III, chapters 14–22 (10 July–25 August 1941). Reconciled 72 web passages and retained 260 existing passages after comparison. All 18 asides and all 139 native notes have passage links, source links and return anchors. The collection has connected reading navigation; section contents include asides; phone contents and detailed evidence collapse for readability. Existing study URLs, section IDs, date/atlas links and chronology remain stable.
+
+The other 41 article files, 525 source records, all timeline data and all 61 public map/asset files are unchanged. The original DOCX is unchanged. This is a manuscript reconciliation, not a new independent historical audit. The 23 July midnight boundary was checked against the published Soviet report (24:00 on 22 July).
+
+Validation: production build; main data/citation validator; Part III coverage and note-text validator; Poland and Part II regression checks; browser checks for all nine studies, 139 note links/returns and 18 aside links at desktop and phone sizes. See `barbarossa-part-iii-review.json` for chapter coverage and preservation evidence. The Phase II validator now checks the actual narrative count without the obsolete 3,500-word minimum; complete source-note and aside coverage is verified separately. Deployment status is reported separately from source validation.
+
+Next: no expansion into other manuscript parts without a separate instruction.

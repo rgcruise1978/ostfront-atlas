@@ -1,0 +1,2354 @@
+{
+  "sourceFile": "Ostkrieg_Volume_One_version_3_3_22.docx",
+  "sourceSha256": "840804c572ae5625c15b4a4649a562bfdad660d816b1e55efeda82be80941ca1",
+  "part": "Part III — Operation Barbarossa II: The Drive into the Soviet Interior",
+  "chapterRange": [
+    14,
+    22
+  ],
+  "dateRange": [
+    "1941-07-10",
+    "1941-08-25"
+  ],
+  "stopBefore": "Part IV — Operation Barbarossa III: The Battle for Strategic Objectives",
+  "baselineCommit": "c094499eb91257ca1cd576fc5318c5f9de90f07d",
+  "coverage": [
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 243,
+      "sourceBlock": 3,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-243",
+      "passageAnchor": "ref-part-iii-note-243",
+      "sourceIds": [
+        "p2-sbd37-054"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f80ee5630b4f198eb011148e824cc0038678ce0f310c897d02da017f824925f4"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 244,
+      "sourceBlock": 8,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-244",
+      "passageAnchor": "ref-part-iii-note-244",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e3a0df0a6077e85d0d7619c8006f0a696068081ec4436339deedb0e46786df46"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 245,
+      "sourceBlock": 12,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-245",
+      "passageAnchor": "ref-part-iii-note-245",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "bfbb366cf49f8a05843303095a2394f54b95c995ce658d3d3db3d431d9208e5e"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 246,
+      "sourceBlock": 18,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-246",
+      "passageAnchor": "ref-part-iii-note-246",
+      "sourceIds": [
+        "p2-sbd37-054",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a3afb3a7824a376591a625ea52bd41254b7b8087c5e7c3caf6e1aeb027f4eeac"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 247,
+      "sourceBlock": 20,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-247",
+      "passageAnchor": "ref-part-iii-note-247",
+      "sourceIds": [
+        "p2-sbd37-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "0daa11bd254b0bb60506d9a70e9658c4bcd92200fc64f35cf50b1393de79af48"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 248,
+      "sourceBlock": 25,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-248",
+      "passageAnchor": "ref-part-iii-note-248",
+      "sourceIds": [
+        "p2-sbd37-054"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c7251a719a2a88ead1dae1e64594c6db0fd7f18514a50e63e520b633f423d1d5"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 249,
+      "sourceBlock": 29,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-249",
+      "passageAnchor": "ref-part-iii-note-249",
+      "sourceIds": [
+        "p2-sbd37-054",
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "3be182b859e5a53b61041358d66101da40e0a596a4388b530a31a5bee3a59cd9"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 250,
+      "sourceBlock": 33,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-250",
+      "passageAnchor": "ref-part-iii-note-250",
+      "sourceIds": [
+        "p2-manley-displacement",
+        "evacuation-council"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "15d203b79863746fa1b031be76eb222af2db09e986fa859042f83f04f915c9da"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 251,
+      "sourceBlock": 35,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-251",
+      "passageAnchor": "ref-part-iii-note-251",
+      "sourceIds": [
+        "phase-ii-jedwabne-ipn"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "0da9be4165929645e13b0cc8ef892c64a4c29c9f17f49247ecf2cec7dfb14180"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 252,
+      "sourceBlock": 38,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-252",
+      "passageAnchor": "ref-part-iii-note-252",
+      "sourceIds": [
+        "p2-friedman-vitebsk"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9e9842a2ebf4ff9874059a4d015bcb2fb8bd9c1bd24ccc2390703d0a4a81e8a0"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 253,
+      "sourceBlock": 41,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-253",
+      "passageAnchor": "ref-part-iii-note-253",
+      "sourceIds": [
+        "blau-planning",
+        "p2-sbd37-001",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "ee5dd599814f8efae9cdc9b26d4805f710fbad89c156540d0d75c3774ac1a9b7"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 254,
+      "sourceBlock": 43,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-254",
+      "passageAnchor": "ref-part-iii-note-254",
+      "sourceIds": [
+        "p2-hansard-allies",
+        "p2-frus726"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "db22583758e22617f692b0f6a15fe28c349f080d0e1f5cf8dff5ccfa3e9b1c94"
+    },
+    {
+      "kind": "note",
+      "chapter": 14,
+      "manuscriptNoteId": 255,
+      "sourceBlock": 47,
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "part-iii-note-255",
+      "passageAnchor": "ref-part-iii-note-255",
+      "sourceIds": [
+        "p2-sbd37-009"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "04fe20a7210c24d6a74b709f10aed1c7aaf01ad00c6e87c986277b33ff9ab581"
+    },
+    {
+      "kind": "aside",
+      "chapter": 14,
+      "sourceBlock": 19,
+      "manuscriptTitle": "A short message from Zhukov",
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "aside-a-short-message-from-zhukov",
+      "webTitle": "A short message from Zhukov",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 14,
+      "sourceBlock": 37,
+      "manuscriptTitle": "When the witnesses could not be found",
+      "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "vitebsk-missing-testimony",
+      "webTitle": "When the witnesses could not be found",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 256,
+      "sourceBlock": 3,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-256",
+      "passageAnchor": "ref-part-iii-note-256",
+      "sourceIds": [
+        "cmh-blitz",
+        "p2-sbd37-060"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "b5ce7f02e26848a29aa3f251a52e3c190729f13c3f4653d24151146e86502dfb"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 257,
+      "sourceBlock": 8,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-257",
+      "passageAnchor": "ref-part-iii-note-257",
+      "sourceIds": [
+        "p2-dhm-smolensk",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "409f34cc2e7a40fc4637bcb35ba4a3b2398dad5e83ccc414293bd786c075cff4"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 258,
+      "sourceBlock": 9,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-258",
+      "passageAnchor": "ref-part-iii-note-258",
+      "sourceIds": [
+        "p2-sbd37-140"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a1bd066dd2124dc3a1450f4c7c3d9e5fabb9b6e3fb4180c8eb528fbee60f6d63"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 259,
+      "sourceBlock": 14,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-259",
+      "passageAnchor": "ref-part-iii-note-259",
+      "sourceIds": [
+        "p2-sbd37-060"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "eb1f59019ceebef9817d5d6d53e5a37933e9addb0605d9e9acddd6dae95bcaef"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 260,
+      "sourceBlock": 17,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-260",
+      "passageAnchor": "ref-part-iii-note-260",
+      "sourceIds": [
+        "p2-sbd37-020"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "d2e06e459c7890f3f183212fd1f4b99baf4476e053bc015460581e48105be925"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 261,
+      "sourceBlock": 20,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-261",
+      "passageAnchor": "ref-part-iii-note-261",
+      "sourceIds": [
+        "p2-sbd37-020"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "84b90cced43220dfbdd3e30dab2f163882a53aeb4bc9b9e8662820e82598d741"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 262,
+      "sourceBlock": 25,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-262",
+      "passageAnchor": "ref-part-iii-note-262",
+      "sourceIds": [
+        "p2-sbd37-140"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "0fb87f835bf99a2ac9e0cca751d1ce356df8be941ae62f93aac6a84bc514fac4"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 263,
+      "sourceBlock": 30,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-263",
+      "passageAnchor": "ref-part-iii-note-263",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e487e80b46d1c7c336ab10aa9e7b3149591eb09d815f90fbade3579ffcabf230"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 264,
+      "sourceBlock": 34,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-264",
+      "passageAnchor": "ref-part-iii-note-264",
+      "sourceIds": [
+        "p2-ponomarev"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9c209ace4282cd025338f5eb08be297dd4b6bce3677f3e56bae6403d00e4684c"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 265,
+      "sourceBlock": 38,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-265",
+      "passageAnchor": "ref-part-iii-note-265",
+      "sourceIds": [
+        "p2-soltsy-records"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "dfaccad43aa8c4799663fbad113a8213c564eccd8c29975a4e255ad15b5397b2"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 266,
+      "sourceBlock": 40,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-266",
+      "passageAnchor": "ref-part-iii-note-266",
+      "sourceIds": [
+        "p2-soltsy-records"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "47961542462103bc773cfbcaf0c97a49805711e9ede6dd78596c00b0d747dae2"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 267,
+      "sourceBlock": 43,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-267",
+      "passageAnchor": "ref-part-iii-note-267",
+      "sourceIds": [
+        "p2-yv-smolensk"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "5ecb75b50c9ad458d6bcd351aadb933a9303848745018e492aa459fd78def37c"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 268,
+      "sourceBlock": 46,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-268",
+      "passageAnchor": "ref-part-iii-note-268",
+      "sourceIds": [
+        "p2-bormann-july16"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f09ba936d07f02b8059d53e6b6ee31b3766a95f4698e12aca475acbb06795f9d"
+    },
+    {
+      "kind": "note",
+      "chapter": 15,
+      "manuscriptNoteId": 269,
+      "sourceBlock": 48,
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "part-iii-note-269",
+      "passageAnchor": "ref-part-iii-note-269",
+      "sourceIds": [
+        "p2-hansard-allies"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "d2146ccf6ec9c3a169f529d284993f47f478c8d158b7ba03eaf51d873008b845"
+    },
+    {
+      "kind": "aside",
+      "chapter": 15,
+      "sourceBlock": 33,
+      "manuscriptTitle": "Ponomarev’s mess tin",
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "ponomarev-tin",
+      "webTitle": "Ponomarev’s mess tin",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 15,
+      "sourceBlock": 39,
+      "manuscriptTitle": "The officer left at the apparatus",
+      "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "aside-the-officer-left-at-the-apparatus",
+      "webTitle": "The officer left at the apparatus",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 270,
+      "sourceBlock": 3,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-270",
+      "passageAnchor": "ref-part-iii-note-270",
+      "sourceIds": [
+        "p2-sbd37-006"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6b26b027a941b3d2aa2961bfb61b0d27d4943e4569628e7b5aec54aae27ed0df"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 271,
+      "sourceBlock": 8,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-271",
+      "passageAnchor": "ref-part-iii-note-271",
+      "sourceIds": [
+        "p2-sbd37-006",
+        "cmh-blitz",
+        "p2-sbd37-025"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "4b0d75351a5b9065bfcfbf648e92801360e76b87107cc067d4ca88d8c30242e5"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 272,
+      "sourceBlock": 14,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-272",
+      "passageAnchor": "ref-part-iii-note-272",
+      "sourceIds": [
+        "p2-sbd37-025",
+        "p2-sbd37-008"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "db24fad8854dc057d5e2a6ba56a9aad35ea3d054f89ae55a13ad6a39e60ef8c0"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 273,
+      "sourceBlock": 19,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-273",
+      "passageAnchor": "ref-part-iii-note-273",
+      "sourceIds": [
+        "p2-sbd37-032",
+        "p2-sbd37-064"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9be66e1f11e11484cc97f0a66dc0ea9f15a3289643012ea90553c088ea538c67"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 274,
+      "sourceBlock": 23,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-274",
+      "passageAnchor": "ref-part-iii-note-274",
+      "sourceIds": [
+        "p2-sbd37-064"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f1f012b3cd934368fb6c1848002ff116ffe99775a7f3444dc438ee9e0ff97732"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 275,
+      "sourceBlock": 24,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-275",
+      "passageAnchor": "ref-part-iii-note-275",
+      "sourceIds": [
+        "p2-sbd37-064"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "1f392dbce9b682b58e19d86c4270701ab4c3c3dc8c05dfab40f0394bcc68e480"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 276,
+      "sourceBlock": 27,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-276",
+      "passageAnchor": "ref-part-iii-note-276",
+      "sourceIds": [
+        "p2-sbd37-032"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "1f3e954f666e87ca07ea06b47936a5f9aed3e74247e94ebe246b96bac10247d6"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 277,
+      "sourceBlock": 29,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-277",
+      "passageAnchor": "ref-part-iii-note-277",
+      "sourceIds": [
+        "p2-sbd37-032"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a88ac986b62bca16152c44b5029c1d581d3a6eea289c7c44887bf16c68a0ade4"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 278,
+      "sourceBlock": 33,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-278",
+      "passageAnchor": "ref-part-iii-note-278",
+      "sourceIds": [
+        "p2-glantz-myths",
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "45d8782986f5ab830f8e5eeca5297370d4688234b7adba7eb07e69e29f9e4eaf"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 279,
+      "sourceBlock": 34,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-279",
+      "passageAnchor": "ref-part-iii-note-279",
+      "sourceIds": [
+        "phase-ii-order0250"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "1ce79555757a5556a69f174cea41c723b138fc09391a744d1dc696f3ecfe8aac"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 280,
+      "sourceBlock": 37,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-280",
+      "passageAnchor": "ref-part-iii-note-280",
+      "sourceIds": [
+        "p2-sbd37-032",
+        "p2-sbd37-064"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a6452202d19e6bf1b974f3b9980567c7bd3276d626f328ebad227720659dae1f"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 281,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-281",
+      "passageAnchor": "ref-part-iii-note-281",
+      "sourceIds": [
+        "p2-yahad-mogilev"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "644770d2d0344e223e83bb922acbc644e5447e008b9d8e28b82ba50128f93187"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 282,
+      "sourceBlock": 41,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-282",
+      "passageAnchor": "ref-part-iii-note-282",
+      "sourceIds": [
+        "p2-yahad-mogilev"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "abf67304c45053cb33f2b98f5e8c671245a906aa25d75c83b0e5c844b7578144"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 283,
+      "sourceBlock": 44,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-283",
+      "passageAnchor": "ref-part-iii-note-283",
+      "sourceIds": [
+        "p2-frus251"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "66c30c4579ce1c07428ae3766a9474dfed5e9e5694b0c5de97e590044e3b56fa"
+    },
+    {
+      "kind": "note",
+      "chapter": 16,
+      "manuscriptNoteId": 284,
+      "sourceBlock": 49,
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "part-iii-note-284",
+      "passageAnchor": "ref-part-iii-note-284",
+      "sourceIds": [
+        "p2-sbd37-032"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "01b545d198a0530ffa8d54dddd177d57ebe7f78fa1fec1ad77c6ca11741b9322"
+    },
+    {
+      "kind": "aside",
+      "chapter": 16,
+      "sourceBlock": 26,
+      "manuscriptTitle": "Three salvos remaining",
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "rudnya-salvos",
+      "webTitle": "Three salvos remaining",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 16,
+      "sourceBlock": 40,
+      "manuscriptTitle": "A witness whose date remains uncertain",
+      "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "aside-a-witness-whose-date-remains-uncertain",
+      "webTitle": "A witness whose date remains uncertain",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 285,
+      "sourceBlock": 3,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-285",
+      "passageAnchor": "ref-part-iii-note-285",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e362a4ba11d5b5aece5bc9f8f59c9ffa5d47c9e846b79d5a43f6fcabfecda775"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 286,
+      "sourceBlock": 8,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-286",
+      "passageAnchor": "ref-part-iii-note-286",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "91324bb670239954f3da75b60506e341ba1f53c2e7d594d67ffe2435820eaf10"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 287,
+      "sourceBlock": 11,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-287",
+      "passageAnchor": "ref-part-iii-note-287",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f9c69e6e14996d97ce10b2ba2fa45382b744b569f147b3652cb7366b746a48da"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 288,
+      "sourceBlock": 16,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-288",
+      "passageAnchor": "ref-part-iii-note-288",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c09de612c4091766f11e7b765eba1cd5722c8d9e808ee2318f4a0d2c9c709a45"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 289,
+      "sourceBlock": 17,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-289",
+      "passageAnchor": "ref-part-iii-note-289",
+      "sourceIds": [
+        "phase-ii-goering710"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c207f292abac3a7f695dc1a91287871808aabab8bb7982b6105be90ef5d36415"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 290,
+      "sourceBlock": 22,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-290",
+      "passageAnchor": "ref-part-iii-note-290",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c8e12a510fe79fe1613a58c93da3ba5f7687faf7af32b2cf33972d4676e8363b"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 291,
+      "sourceBlock": 27,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-291",
+      "passageAnchor": "ref-part-iii-note-291",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "bb4e7f88a53a0a838e2f6093a71edb8f02bdf90cf4816ed384f63d75863dad53"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 292,
+      "sourceBlock": 31,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-292",
+      "passageAnchor": "ref-part-iii-note-292",
+      "sourceIds": [
+        "p2-sbd37-039"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a141aa51ede26bfe84a14ee096104f3169b3d4239658afc5d7709bed7282ad9a"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 293,
+      "sourceBlock": 33,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-293",
+      "passageAnchor": "ref-part-iii-note-293",
+      "sourceIds": [
+        "p2-sbd37-039"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c36c16baa52f7e4976a61e3ed315eb8bd03133c8db5efc1a11f5a4e00c703e3f"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 294,
+      "sourceBlock": 37,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-294",
+      "passageAnchor": "ref-part-iii-note-294",
+      "sourceIds": [
+        "p2-frus253"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6ef0657abedc4edba534bbbdf1efa3f2038c08269188df6ce8dda7be82a94914"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 295,
+      "sourceBlock": 39,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-295",
+      "passageAnchor": "ref-part-iii-note-295",
+      "sourceIds": [
+        "p2-hoover-bokota"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "bfbbf756a5897845601a95a8077f2c93a80fc42e8fd322c1d6548dbcea693584"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 296,
+      "sourceBlock": 43,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-296",
+      "passageAnchor": "ref-part-iii-note-296",
+      "sourceIds": [
+        "p2-frus752"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "b32db9b53b664a40d925601dd028e79111ac24a27453386c4f7e537af6c878ba"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 297,
+      "sourceBlock": 45,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-297",
+      "passageAnchor": "ref-part-iii-note-297",
+      "sourceIds": [
+        "p2-frus752"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "efba409cbac3f7d137ab89f916da46da967ea9603a0c16e9df9b816a32f386d8"
+    },
+    {
+      "kind": "note",
+      "chapter": 17,
+      "manuscriptNoteId": 298,
+      "sourceBlock": 47,
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "part-iii-note-298",
+      "passageAnchor": "ref-part-iii-note-298",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9ece96a58988001e288e8a5210f6488ec9a6e05c06323b83603ce4d260e8f62c"
+    },
+    {
+      "kind": "aside",
+      "chapter": 17,
+      "sourceBlock": 32,
+      "manuscriptTitle": "Changing the radio network",
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "aside-three-changes-of-radio-data",
+      "webTitle": "Three changes of radio data",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 17,
+      "sourceBlock": 38,
+      "manuscriptTitle": "A family history beyond the signature",
+      "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "aside-a-family-history-beyond-the-signature",
+      "webTitle": "A family history beyond the signature",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 299,
+      "sourceBlock": 3,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-299",
+      "passageAnchor": "ref-part-iii-note-299",
+      "sourceIds": [
+        "p2-sbd39-195"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c9a8171cb14532ed8488050b2803526019effd2436bc31f7a428a3a5723777a9"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 300,
+      "sourceBlock": 7,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-300",
+      "passageAnchor": "ref-part-iii-note-300",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "de037f900b27464ca332f8f3b48367ab04c11dea2c1a87b86e2fdb8af54cb26f"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 301,
+      "sourceBlock": 9,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-301",
+      "passageAnchor": "ref-part-iii-note-301",
+      "sourceIds": [
+        "p2-sbd39-202"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "ea06473c695baf43607e10f138ed5f6a8718b43645677c8f3644f3124ba3155c"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 302,
+      "sourceBlock": 12,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-302",
+      "passageAnchor": "ref-part-iii-note-302",
+      "sourceIds": [
+        "p2-sbd38-015"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f142dc54d284f2c5a8ef47e67c266b08c91ea0e81e04d0fddc0a00f3ae24a94d"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 303,
+      "sourceBlock": 14,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-303",
+      "passageAnchor": "ref-part-iii-note-303",
+      "sourceIds": [
+        "p2-sbd39-201"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "d9a3499b6dc6162c837499f0d5ceb68b85095df98d6cafd3bca32faeeda52740"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 304,
+      "sourceBlock": 17,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-304",
+      "passageAnchor": "ref-part-iii-note-304",
+      "sourceIds": [
+        "p2-sbd39-202"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "20d5c52e06ff53468f92ebd53b066f3a0e9f1807e0fc84b548059413638122cd"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 305,
+      "sourceBlock": 21,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-305",
+      "passageAnchor": "ref-part-iii-note-305",
+      "sourceIds": [
+        "p2-sbd39-022",
+        "p2-sbd39-195",
+        "cmh-blitz",
+        "dhm-uman-1941"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6bd233c115f7b1145cdef33c7632626ec425cdf50d2d9b0d4d08538afcb5c477"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 306,
+      "sourceBlock": 26,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-306",
+      "passageAnchor": "ref-part-iii-note-306",
+      "sourceIds": [
+        "p2-sbd39-197",
+        "p2-sbd39-195",
+        "p2-sbd39-200",
+        "p2-sbd39-198"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "2bab74e28d6cb0098942aa86cf00c44d085617b83be1ca3887c70b48067a6dab"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 307,
+      "sourceBlock": 29,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-307",
+      "passageAnchor": "ref-part-iii-note-307",
+      "sourceIds": [
+        "p2-sbd39-199"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9e5bb64c0a95de83bf60405dd4beb8acd509637137cbc2a1d08e4745e1b886f3"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 308,
+      "sourceBlock": 32,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-308",
+      "passageAnchor": "ref-part-iii-note-308",
+      "sourceIds": [
+        "p2-sbd39-022",
+        "p2-sbd39-195"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "1604e5f602a4405f9bb65d9adbe5a09dfe2e5c67732b4cf3bea6ffe555d583d8"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 309,
+      "sourceBlock": 37,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-309",
+      "passageAnchor": "ref-part-iii-note-309",
+      "sourceIds": [
+        "p2-uman-photo",
+        "dhm-uman-1941",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "d5085205d95d7326860f10b3f266ac576f6be9eeed5a5c91bc2dcf27f0db5d2c"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 310,
+      "sourceBlock": 38,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-310",
+      "passageAnchor": "ref-part-iii-note-310",
+      "sourceIds": [
+        "p2-pow-treatment"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "0f60b67d19639ffb9063f279fcb28b70f720f43ad07a90f4020a711dad370274"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 311,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-311",
+      "passageAnchor": "ref-part-iii-note-311",
+      "sourceIds": [
+        "p2-uman-generals"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "3ea2f6b8a5c7fa063b154383c93d9e86b2eca0dbfe83beaeebb5c011d2b2e0f4"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 312,
+      "sourceBlock": 42,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-312",
+      "passageAnchor": "ref-part-iii-note-312",
+      "sourceIds": [
+        "p2-uman-murder"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "37c3ba2a2fbdd7e32583fd4ee5ebd93f1fb370abf1301a225af3cff83d3cf826"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 313,
+      "sourceBlock": 44,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-313",
+      "passageAnchor": "ref-part-iii-note-313",
+      "sourceIds": [
+        "p2-buzia"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "7cc84aabad97dcdfb5c8ed92e7f17d23e33789ef580841c016771231cc6628c2"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 314,
+      "sourceBlock": 47,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-314",
+      "passageAnchor": "ref-part-iii-note-314",
+      "sourceIds": [
+        "p2-sbd39-022"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9d5b56cc9b9d25db21d033ccda8415f85f57f3901f3e8d8f01e8feeae3f1bb53"
+    },
+    {
+      "kind": "note",
+      "chapter": 18,
+      "manuscriptNoteId": 315,
+      "sourceBlock": 48,
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "part-iii-note-315",
+      "passageAnchor": "ref-part-iii-note-315",
+      "sourceIds": [
+        "p2-frus752"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "84828648cf3bd21a98e309b96924595c66764a03875d79e14d5002f806d5b71c"
+    },
+    {
+      "kind": "aside",
+      "chapter": 18,
+      "sourceBlock": 28,
+      "manuscriptTitle": "No safe place for a messenger",
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "uman-messenger",
+      "webTitle": "No safe place for a messenger",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 18,
+      "sourceBlock": 43,
+      "manuscriptTitle": "Buzia Leibovych’s later escape",
+      "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "aside-buzia-leibovych-s-later-escape",
+      "webTitle": "Buzia Leibovych’s later escape",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 316,
+      "sourceBlock": 3,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-316",
+      "passageAnchor": "ref-part-iii-note-316",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "ea72c7d33bffdf9c83bbd6f6ba8ea36770c3e0edd5761e52eb7d2bff76f7c5f2"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 317,
+      "sourceBlock": 4,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-317",
+      "passageAnchor": "ref-part-iii-note-317",
+      "sourceIds": [
+        "p2-sbd40-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "90df402be73d18f1ff65fe257de4b394879e7b7721d95cdb90b19ecb90499d8a"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 318,
+      "sourceBlock": 9,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-318",
+      "passageAnchor": "ref-part-iii-note-318",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "d9130bf54aac21cec7a45d965bc000061f06133287930c0248f0e0207cc984ba"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 319,
+      "sourceBlock": 14,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-319",
+      "passageAnchor": "ref-part-iii-note-319",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "aeb20173e276eab635254a41e15091a718fd50bbeba3a18e6c7dce5425128ffe"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 320,
+      "sourceBlock": 16,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-320",
+      "passageAnchor": "ref-part-iii-note-320",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "3eaf15e590bf826e18499ee50bf567deb1a7cd847102291b049b1555864b597b"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 321,
+      "sourceBlock": 20,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-321",
+      "passageAnchor": "ref-part-iii-note-321",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f760645c1277989b969da7962b655ac4507b0e12e54399e33df8187b85793694"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 322,
+      "sourceBlock": 22,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-322",
+      "passageAnchor": "ref-part-iii-note-322",
+      "sourceIds": [
+        "blau-planning",
+        "p2-forczyk-demyansk"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "40cae761d5b1588cb58237a685e1d8e79a180d9975cf23971850c8e3971ebc38"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 323,
+      "sourceBlock": 25,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-323",
+      "passageAnchor": "ref-part-iii-note-323",
+      "sourceIds": [
+        "p2-halunga",
+        "cmh-blitz",
+        "p2-sbd40-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6dabb5e40ef6ebb9e08a48c3b65373bb102051a8031902269043ee0aaa6d9ce6"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 324,
+      "sourceBlock": 26,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-324",
+      "passageAnchor": "ref-part-iii-note-324",
+      "sourceIds": [
+        "phase-ii-romania"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "89fe7188546dc3f6b04003cc8d18ef3ef0c71be80dbb721a91a83f0fbb1c6c43"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 325,
+      "sourceBlock": 27,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-325",
+      "passageAnchor": "ref-part-iii-note-325",
+      "sourceIds": [
+        "p2-halunga"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6f4e05064e0a773cd36aff208b792b6e3de43b8d8b4a61d75eafd2f7fcdf2f7c"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 326,
+      "sourceBlock": 29,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-326",
+      "passageAnchor": "ref-part-iii-note-326",
+      "sourceIds": [
+        "p2-sbd40-182"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "4789fec7f3d47d047e386340ed998c8942b9dcb8fbee2cfcc8cb76b43a9ffa94"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 327,
+      "sourceBlock": 34,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-327",
+      "passageAnchor": "ref-part-iii-note-327",
+      "sourceIds": [
+        "p2-sbd39-195",
+        "p2-sbd40-001",
+        "p2-odessa-001066",
+        "p2-odessa-context",
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f99279e0edda30734d4e1aba31322dcd1ba70c46699fd145f075cb92794e6f94"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 328,
+      "sourceBlock": 36,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-328",
+      "passageAnchor": "ref-part-iii-note-328",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "4393b6fd2916e11132bfd8010c61fad68e8175fd5c9f8bb6123536b7fbc62c0c"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 329,
+      "sourceBlock": 37,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-329",
+      "passageAnchor": "ref-part-iii-note-329",
+      "sourceIds": [
+        "p2-odessa-context"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "51415348cfd7021a7b046ee179e0a5e078a4cb6e666727e53be2832fbb2ef643"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 330,
+      "sourceBlock": 40,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-330",
+      "passageAnchor": "ref-part-iii-note-330",
+      "sourceIds": [
+        "p2-gauzner"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "18d60abb8a6627fc50c4f69d0a0c69b581a2bc3351f08e4998687647ba40de9f"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 331,
+      "sourceBlock": 42,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-331",
+      "passageAnchor": "ref-part-iii-note-331",
+      "sourceIds": [
+        "phase-ii-pripet"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "0520075408258498afa1c5712f996e7ad863580597043360042eec0f49d60eb8"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 332,
+      "sourceBlock": 45,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-332",
+      "passageAnchor": "ref-part-iii-note-332",
+      "sourceIds": [
+        "blau-planning",
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c44810796a74cc4b18af168baa6b97497499582041f841201c3e018b8d8665a0"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 333,
+      "sourceBlock": 47,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-333",
+      "passageAnchor": "ref-part-iii-note-333",
+      "sourceIds": [
+        "p2-frus763",
+        "p2-frus764",
+        "p2-frus760"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "4e98dec47c6d5c223a9e671727fb115cc932b07248a28dce53a8546a7a9cb4a0"
+    },
+    {
+      "kind": "note",
+      "chapter": 19,
+      "manuscriptNoteId": 334,
+      "sourceBlock": 50,
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "part-iii-note-334",
+      "passageAnchor": "ref-part-iii-note-334",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "eb55f394d99cdbb7dbb45652c7c04de615cd0025a37f6f61bd09c4a92ab95ce9"
+    },
+    {
+      "kind": "aside",
+      "chapter": 19,
+      "sourceBlock": 15,
+      "manuscriptTitle": "Seven tanks in an army’s daily record",
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "aside-seven-tanks-in-an-army-s-daily-record",
+      "webTitle": "Seven tanks in an army’s daily record",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 19,
+      "sourceBlock": 39,
+      "manuscriptTitle": "A room beside his father’s workshop",
+      "slug": "barbarossa-the-war-widens-1941-08-12",
+      "anchor": "gauzner-workshop",
+      "webTitle": "A room beside his father’s workshop",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 335,
+      "sourceBlock": 3,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-335",
+      "passageAnchor": "ref-part-iii-note-335",
+      "sourceIds": [
+        "p2-gomel-19"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "1fa470c960ad00a989df6b06d7ba7725c35f98934a40d45f633093c501106c46"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 336,
+      "sourceBlock": 6,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-336",
+      "passageAnchor": "ref-part-iii-note-336",
+      "sourceIds": [
+        "p2-gomel-19",
+        "p2-gomel-21"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "60b9d78eba7de33cc53032733aba5b6e15aa57669385100698279c1d1d497c3c"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 337,
+      "sourceBlock": 9,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-337",
+      "passageAnchor": "ref-part-iii-note-337",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz",
+        "p2-glantz-gomel"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "bc56d58a059afd74ac0cb9779e600e23b124e177191147406e719b5f89c1bd3d"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 338,
+      "sourceBlock": 13,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-338",
+      "passageAnchor": "ref-part-iii-note-338",
+      "sourceIds": [
+        "p2-gomel-12"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "bae92572a0e387adf4276084dd4687bf65e535121e2a6cc20803848ffbae54e1"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 339,
+      "sourceBlock": 15,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-339",
+      "passageAnchor": "ref-part-iii-note-339",
+      "sourceIds": [
+        "p2-gomel-19"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a239010f8d858d63af142d82e866e1245d59a1d0cd71ace6d90b58b9b75fb016"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 340,
+      "sourceBlock": 18,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-340",
+      "passageAnchor": "ref-part-iii-note-340",
+      "sourceIds": [
+        "p2-gomel-19"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "68ae04b5efd040a70aafb5e1b952c1f19267c10da6cdc49514a3534fffb38e5e"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 341,
+      "sourceBlock": 21,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-341",
+      "passageAnchor": "ref-part-iii-note-341",
+      "sourceIds": [
+        "p2-gomel-19"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "dd0b001dbb44697ae346021f90bea2dbff88c85aa46c89aa83ecbeaff20e8fa9"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 342,
+      "sourceBlock": 26,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-342",
+      "passageAnchor": "ref-part-iii-note-342",
+      "sourceIds": [
+        "p2-gomel-21",
+        "p2-polin-gomel",
+        "p2-gomel-20"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "ca8e49c7e5e16be4d549426ea1d13bae9708a3a3e92aad3e33ced4a2b291d873"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 343,
+      "sourceBlock": 28,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-343",
+      "passageAnchor": "ref-part-iii-note-343",
+      "sourceIds": [
+        "p2-gomel-19"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "082f793eef947633b96a6a02d45bbb0467eaf35c02c27417cedbe4f1c34bec4a"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 344,
+      "sourceBlock": 34,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-344",
+      "passageAnchor": "ref-part-iii-note-344",
+      "sourceIds": [
+        "p2-gomel-21",
+        "p2-gomel-20"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c375e3484fdfe9bcc267aa25fd0dccc5e4ef83c60069c7fac482f3d01f6fc29d"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 345,
+      "sourceBlock": 36,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-345",
+      "passageAnchor": "ref-part-iii-note-345",
+      "sourceIds": [
+        "p2-gomel-21"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e0a4f00d8576df2fe7c8d491a1707508b53709b4451cc1bb35137ddb190063f2"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 346,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-346",
+      "passageAnchor": "ref-part-iii-note-346",
+      "sourceIds": [
+        "p2-smilovitsky-gomel",
+        "p2-polin-gomel"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "8bfc1b07bd02c034f289bdf01fa7f65ef41835611d0699c22f5e5cb5b969f444"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 347,
+      "sourceBlock": 40,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-347",
+      "passageAnchor": "ref-part-iii-note-347",
+      "sourceIds": [
+        "p2-polin-gomel"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "2ce6fa973b7ff2ca3fa887dd5eaa395e22aa10713b7152db5b1b0680d9f079a8"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 348,
+      "sourceBlock": 43,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-348",
+      "passageAnchor": "ref-part-iii-note-348",
+      "sourceIds": [
+        "p2-lipkina"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "db06be27db4643bc20a5fb29b7983d888108ba48bc36d24b3d6852a783cb26fe"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 349,
+      "sourceBlock": 45,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-349",
+      "passageAnchor": "ref-part-iii-note-349",
+      "sourceIds": [
+        "p2-gomel-19"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "8230f941dbf44f8a4b80048d23d869d8edd34abe6ea1a9868b46f475bc1461e0"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 350,
+      "sourceBlock": 48,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-350",
+      "passageAnchor": "ref-part-iii-note-350",
+      "sourceIds": [
+        "p2-sbd40-047"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e5243cdc8dc940c0e53f953cf6ac610ff009ebe07a117c44e7eca3dfc38c559c"
+    },
+    {
+      "kind": "note",
+      "chapter": 20,
+      "manuscriptNoteId": 351,
+      "sourceBlock": 50,
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "part-iii-note-351",
+      "passageAnchor": "ref-part-iii-note-351",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9950766d5f5033be0701e77501528352b6465535a091f8e745623dcab8052681"
+    },
+    {
+      "kind": "aside",
+      "chapter": 20,
+      "sourceBlock": 27,
+      "manuscriptTitle": "A sapper looking for his own regiment",
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "aside-a-sapper-looking-for-his-own-regiment",
+      "webTitle": "A sapper looking for his own regiment",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 20,
+      "sourceBlock": 42,
+      "manuscriptTitle": "A school became a hospital",
+      "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "lipkina-hospital",
+      "webTitle": "A school became a hospital",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 352,
+      "sourceBlock": 3,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-352",
+      "passageAnchor": "ref-part-iii-note-352",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "69cad430944f2ae88024352d29801d3d7931500b62b897ad3e4944f169bf7c72"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 353,
+      "sourceBlock": 9,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-353",
+      "passageAnchor": "ref-part-iii-note-353",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "acbfde909185be342e60a9251a0c906e906051b30bac41278b2ba05f776e8424"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 354,
+      "sourceBlock": 14,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-354",
+      "passageAnchor": "ref-part-iii-note-354",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz",
+        "p2-gomel-21"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e4c1fbc2ccbf2e3299ea540404fd3e3c8a17ea60a119b5ec5b429120111ad904"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 355,
+      "sourceBlock": 17,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-355",
+      "passageAnchor": "ref-part-iii-note-355",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "852964900867fb52ff99f0927828eff9233cd59fd558049824433e7cb38fca65"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 356,
+      "sourceBlock": 22,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-356",
+      "passageAnchor": "ref-part-iii-note-356",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "b3061f476cc45f0159e80318dca92a3baa2f7998bfb33c8cae4bc52fd51bb8e1"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 357,
+      "sourceBlock": 25,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-357",
+      "passageAnchor": "ref-part-iii-note-357",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "00a4254d150c751081ad6aa2e1bf31a524e9cb9b59105dd83504752e249342c1"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 358,
+      "sourceBlock": 28,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-358",
+      "passageAnchor": "ref-part-iii-note-358",
+      "sourceIds": [
+        "blau-planning",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "86d15498d1bfde4afffbaf0ac9f395b4ad351eb900183660c4446185877b7f08"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 359,
+      "sourceBlock": 33,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-359",
+      "passageAnchor": "ref-part-iii-note-359",
+      "sourceIds": [
+        "cmh-blitz",
+        "p2-sbd40-047"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "d04f1eb171402da8517008ad8c852a9e1944a2f317aca3c78d483a5a34ac58b4"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 360,
+      "sourceBlock": 39,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-360",
+      "passageAnchor": "ref-part-iii-note-360",
+      "sourceIds": [
+        "p2-order270"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "bb4322a8f0307076ce43ec83318c3b037933842db9cdf870432e24d99ff0b7b7"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 361,
+      "sourceBlock": 40,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-361",
+      "passageAnchor": "ref-part-iii-note-361",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6bad2da43460b487f481a822d7d7db12c158f5f622285a0715f213a9a3a94e88"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 362,
+      "sourceBlock": 42,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-362",
+      "passageAnchor": "ref-part-iii-note-362",
+      "sourceIds": [
+        "p2-margolina"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "86e91c0b1d9b0a6d4ead63c3fcacf44b1a2672d7228ad3b286fdbd5ae550b74f"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 363,
+      "sourceBlock": 46,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-363",
+      "passageAnchor": "ref-part-iii-note-363",
+      "sourceIds": [
+        "p2-frus765"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "5852f6d46691bfb8125492b916a95f078d4a2e2d2c84c84c013343511e6b6af8"
+    },
+    {
+      "kind": "note",
+      "chapter": 21,
+      "manuscriptNoteId": 364,
+      "sourceBlock": 48,
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "part-iii-note-364",
+      "passageAnchor": "ref-part-iii-note-364",
+      "sourceIds": [
+        "blau-planning",
+        "p2-stahel-kiev"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c62e2f9f77ad0ebe973d86508f5909bdaa0193777e033afb0585b619a393e42f"
+    },
+    {
+      "kind": "aside",
+      "chapter": 21,
+      "sourceBlock": 16,
+      "manuscriptTitle": "A staff officer’s calendar",
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "warlimont-calendar",
+      "webTitle": "A staff officer’s calendar",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 21,
+      "sourceBlock": 41,
+      "manuscriptTitle": "Schoolbooks on an evacuation train",
+      "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "aside-schoolbooks-on-an-evacuation-train",
+      "webTitle": "Schoolbooks on an evacuation train",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 365,
+      "sourceBlock": 3,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-365",
+      "passageAnchor": "ref-part-iii-note-365",
+      "sourceIds": [
+        "p2-sbd41-001",
+        "cmh-blitz"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "fa0d3faed1e705bda9aa9f91e01a5ccf8b96788d35741163a15cd1961ee5db2c"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 366,
+      "sourceBlock": 8,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-366",
+      "passageAnchor": "ref-part-iii-note-366",
+      "sourceIds": [
+        "p2-sbd41-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "190bf9cf1ab90af1601af154387ad63cbd6de3ef067a521b91ae78430355ef24"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 367,
+      "sourceBlock": 10,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-367",
+      "passageAnchor": "ref-part-iii-note-367",
+      "sourceIds": [
+        "p2-sbd41-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "c0ea94c1fb4fcc4101bf4b92e71833bbd6815f22e50cbc4437dfbf3e2bfba4d1"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 368,
+      "sourceBlock": 13,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-368",
+      "passageAnchor": "ref-part-iii-note-368",
+      "sourceIds": [
+        "cmh-blitz",
+        "p2-sbd41-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "5bf2075e701a36d8f508a8c3f06c30aacc26b10c695d46edbf473f8e296cad26"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 369,
+      "sourceBlock": 15,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-369",
+      "passageAnchor": "ref-part-iii-note-369",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "f86a804dc6a2c8325c170773d9653c5835932e6ec7de8af06dc53c723e5f7572"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 370,
+      "sourceBlock": 16,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-370",
+      "passageAnchor": "ref-part-iii-note-370",
+      "sourceIds": [
+        "cmh-blitz",
+        "p2-sbd41-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "b9bb3478cc1e6d8bb01ef46d3b4adab43e70bfe8a6dded4d1998e004c91dba2b"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 371,
+      "sourceBlock": 21,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-371",
+      "passageAnchor": "ref-part-iii-note-371",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "7f5abbe6caa9692ec25e6757ac77e8f9fcec4dc769e81a87751b1ed305c2595c"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 372,
+      "sourceBlock": 23,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-372",
+      "passageAnchor": "ref-part-iii-note-372",
+      "sourceIds": [
+        "p2-11army-diary"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "9533eb0b589067c2da334bf443b42394433fc613db52c3db978e40da80d681da"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 373,
+      "sourceBlock": 26,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-373",
+      "passageAnchor": "ref-part-iii-note-373",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "2b3076d0881b0e9ff51833ab78931072f713c94f6ba228282910bda0ad4c45e7"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 374,
+      "sourceBlock": 29,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-374",
+      "passageAnchor": "ref-part-iii-note-374",
+      "sourceIds": [
+        "p2-tallinn-mobilisation",
+        "p2-hiio-kiviloo"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a2812848cc774e06c11590e0661486072ed340a5141238ec05f739e2c995057c"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 375,
+      "sourceBlock": 32,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-375",
+      "passageAnchor": "ref-part-iii-note-375",
+      "sourceIds": [
+        "p2-mukhina"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "ded6e793e2ec354c8f01957255624bab7f0a8a066c6ce0894e23ffdb8941d139"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 376,
+      "sourceBlock": 36,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-376",
+      "passageAnchor": "ref-part-iii-note-376",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "e82bfa7426989f89c9975f7ff351aff1d1d110b922f68039f63914a506806e7a"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 377,
+      "sourceBlock": 37,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-377",
+      "passageAnchor": "ref-part-iii-note-377",
+      "sourceIds": [
+        "p2-odessa-001066",
+        "p2-sbd40-001"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "a720f196feb8dc6610acd1265014f8d476792ee13781113dc42ebdbcdf34fe97"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 378,
+      "sourceBlock": 42,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-378",
+      "passageAnchor": "ref-part-iii-note-378",
+      "sourceIds": [
+        "phase-ii-bila-tserkva",
+        "phase-ii-groscurth"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "6bc7ff93c3029a56d12ccd4f3c95fd193dc2e340973df43b75f263297e12b52e"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 379,
+      "sourceBlock": 43,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-379",
+      "passageAnchor": "ref-part-iii-note-379",
+      "sourceIds": [
+        "p2-order270"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "fb5bc37e1d40555592eab841b589384223049b88aa41609d4dc781f4f71883ed"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 380,
+      "sourceBlock": 45,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-380",
+      "passageAnchor": "ref-part-iii-note-380",
+      "sourceIds": [
+        "p2-dervish"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "8b7a45c197224218793c9e0acd499b837ce89aff241f8d0a9c35fa49404132a9"
+    },
+    {
+      "kind": "note",
+      "chapter": 22,
+      "manuscriptNoteId": 381,
+      "sourceBlock": 48,
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "part-iii-note-381",
+      "passageAnchor": "ref-part-iii-note-381",
+      "sourceIds": [
+        "p2-frus3-398",
+        "p2-frus3-399",
+        "p2-frus3-401"
+      ],
+      "action": "Full native note retained with linked sources and return to its supporting passage.",
+      "textSha256": "712f2afe8ddb57b3d589c9871b99800957a96c227421a94249773cb0da5c3982"
+    },
+    {
+      "kind": "aside",
+      "chapter": 22,
+      "sourceBlock": 22,
+      "manuscriptTitle": "Morozov’s missing division",
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "aside-morozov-s-missing-division",
+      "webTitle": "Morozov’s missing division",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 22,
+      "sourceBlock": 31,
+      "manuscriptTitle": "Lena Mukhina before the blockade",
+      "slug": "barbarossa-a-front-divided-1941-08-25",
+      "anchor": "mukhina-labour",
+      "webTitle": "Lena Mukhina before the blockade",
+      "action": "Existing aside reconciled with Part III and linked from study contents."
+    }
+  ],
+  "preservation": {
+    "baselineCommit": "c094499eb91257ca1cd576fc5318c5f9de90f07d",
+    "changedExistingPaths": [
+      "scripts/validate-data.mjs",
+      "src/pages/Article.jsx",
+      "src/pages/Campaign.jsx",
+      "src/content/articles/barbarossa-the-decision-to-turn-south-1941-08-21.json",
+      "src/content/articles/barbarossa-the-war-widens-1941-08-12.json",
+      "src/content/articles/barbarossa-a-strategy-under-strain-1941-07-30.json",
+      "src/content/articles/barbarossa-the-red-army-strikes-back-1941-07-23.json",
+      "src/content/articles/barbarossa-a-front-divided-1941-08-25.json",
+      "src/content/articles/barbarossa-the-fight-for-gomel-1941-08-19.json",
+      "src/content/articles/barbarossa-the-uman-encirclement-1941-08-06.json",
+      "src/content/articles/barbarossa-smolensk-under-assault-1941-07-16.json",
+      "src/content/articles/barbarossa-beyond-the-dnieper-1941-07-10.json"
+    ],
+    "unrelatedArticlesPreserved": 41,
+    "publicFilesPreserved": 61,
+    "existingSourcesPreserved": 525,
+    "newSourceRecords": 0,
+    "mapAndTimelineDataPreserved": true,
+    "allExistingSectionIdsPreserved": true,
+    "originalManuscriptPreserved": true,
+    "brokenInternalLinks": 0,
+    "studies": [
+      {
+        "chapter": 14,
+        "title": "Beyond the Dnieper",
+        "slug": "barbarossa-beyond-the-dnieper-1941-07-10",
+        "date": "1941-07-10",
+        "asides": 2,
+        "notes": 13,
+        "webParagraphs": 36,
+        "revisedParagraphs": 9,
+        "retainedParagraphs": 27,
+        "readingMinutes": 15,
+        "narrativeWordCount": 3185
+      },
+      {
+        "chapter": 15,
+        "title": "Smolensk Under Assault",
+        "slug": "barbarossa-smolensk-under-assault-1941-07-16",
+        "date": "1941-07-16",
+        "asides": 2,
+        "notes": 14,
+        "webParagraphs": 37,
+        "revisedParagraphs": 7,
+        "retainedParagraphs": 30,
+        "readingMinutes": 16,
+        "narrativeWordCount": 3340
+      },
+      {
+        "chapter": 16,
+        "title": "The Red Army Strikes Back",
+        "slug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+        "date": "1941-07-23",
+        "asides": 2,
+        "notes": 15,
+        "webParagraphs": 37,
+        "revisedParagraphs": 9,
+        "retainedParagraphs": 28,
+        "readingMinutes": 15,
+        "narrativeWordCount": 3249
+      },
+      {
+        "chapter": 17,
+        "title": "A Strategy Under Strain",
+        "slug": "barbarossa-a-strategy-under-strain-1941-07-30",
+        "date": "1941-07-30",
+        "asides": 2,
+        "notes": 14,
+        "webParagraphs": 37,
+        "revisedParagraphs": 6,
+        "retainedParagraphs": 31,
+        "readingMinutes": 16,
+        "narrativeWordCount": 3316
+      },
+      {
+        "chapter": 18,
+        "title": "The Uman Encirclement",
+        "slug": "barbarossa-the-uman-encirclement-1941-08-06",
+        "date": "1941-08-06",
+        "asides": 2,
+        "notes": 17,
+        "webParagraphs": 36,
+        "revisedParagraphs": 11,
+        "retainedParagraphs": 25,
+        "readingMinutes": 15,
+        "narrativeWordCount": 3092
+      },
+      {
+        "chapter": 19,
+        "title": "The War Widens",
+        "slug": "barbarossa-the-war-widens-1941-08-12",
+        "date": "1941-08-12",
+        "asides": 2,
+        "notes": 19,
+        "webParagraphs": 37,
+        "revisedParagraphs": 8,
+        "retainedParagraphs": 29,
+        "readingMinutes": 15,
+        "narrativeWordCount": 3216
+      },
+      {
+        "chapter": 20,
+        "title": "The Fight for Gomel",
+        "slug": "barbarossa-the-fight-for-gomel-1941-08-19",
+        "date": "1941-08-19",
+        "asides": 2,
+        "notes": 17,
+        "webParagraphs": 38,
+        "revisedParagraphs": 8,
+        "retainedParagraphs": 30,
+        "readingMinutes": 16,
+        "narrativeWordCount": 3342
+      },
+      {
+        "chapter": 21,
+        "title": "The Decision to Turn South",
+        "slug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+        "date": "1941-08-21",
+        "asides": 2,
+        "notes": 13,
+        "webParagraphs": 37,
+        "revisedParagraphs": 5,
+        "retainedParagraphs": 32,
+        "readingMinutes": 16,
+        "narrativeWordCount": 3357
+      },
+      {
+        "chapter": 22,
+        "title": "A Front Divided",
+        "slug": "barbarossa-a-front-divided-1941-08-25",
+        "date": "1941-08-25",
+        "asides": 2,
+        "notes": 17,
+        "webParagraphs": 37,
+        "revisedParagraphs": 9,
+        "retainedParagraphs": 28,
+        "readingMinutes": 15,
+        "narrativeWordCount": 3199
+      }
+    ]
+  },
+  "limitations": [
+    "This reconciles the supplied proofread Part III with the existing website; it is not a new independent audit of every historical claim.",
+    "Sources already registered on the site are reused without changing their records. The midnight boundary in the 23 July study was checked against the published Soviet report: 24:00 on 22 July.",
+    "Original archival files and all cited print editions were not independently inspected. Access limits stated in the native notes are retained.",
+    "Historical map and timeline data is unchanged. Phase II has no separately stored passage-level Study Context; its summaries were checked against the revised studies."
+  ]
+}
