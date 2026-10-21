@@ -1,0 +1,14 @@
+/* The interior campaign keeps the existing reading design and sepia palette. */
+.barbarossa-interior-nav ol { grid-template-columns:repeat(5,minmax(0,1fr)); }
+.barbarossa-interior .evidence-note-ref { font-style:italic; margin-left:5px; }
+.barbarossa-interior :is(.article-body h2,.article-body h3,.source-ref,.article-sources li) { scroll-margin-top:30px; }
+.barbarossa-interior .source-locators { overflow-wrap:anywhere; }
+.barbarossa-interior .source-passages { margin:12px 0; }
+.barbarossa-interior .source-passages summary { min-height:44px; padding:10px 0; font:.85rem/1.6 var(--ui); color:var(--red-dark); }
+.barbarossa-interior .source-passages li { font:.85rem/1.7 var(--ui); margin:10px 0; overflow-wrap:anywhere; }
+@media (max-width:1100px) { .barbarossa-interior-nav ol { grid-template-columns:repeat(3,minmax(0,1fr)); } }
+@media (max-width:750px) {
+  .barbarossa-interior-nav ol { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .barbarossa-interior .article-contents { max-height:none; }
+  .barbarossa-interior .article-body p { overflow-wrap:break-word; }
+}
