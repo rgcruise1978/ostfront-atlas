@@ -2204,6 +2204,7 @@
   "preservation": {
     "baselineCommit": "c094499eb91257ca1cd576fc5318c5f9de90f07d",
     "changedExistingPaths": [
+      "CURRENT_STATE.md",
       "scripts/validate-data.mjs",
       "src/pages/Article.jsx",
       "src/pages/Campaign.jsx",
