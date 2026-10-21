@@ -1,0 +1,1339 @@
+{
+  "date": "2026-10-20",
+  "scope": "Partition of Poland introduction and five studies updated only from manuscript Part I; shared page canvas matched to the existing header.",
+  "sourceVersion": "Ostkrieg_Volume_One_version_3_1_5.docx, Part I only",
+  "sourceSha256": "908c1f4cab093e662930f82e3ea239d9041690c066a32b0b9227a7a0790e4ce5",
+  "coverage": [
+    {
+      "kind": "aside",
+      "chapter": 1,
+      "manuscriptTitle": "A nonaggression treaty",
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "aside-a-nonaggression-treaty",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 1,
+      "manuscriptTitle": "A division of interests",
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "aside-a-division-of-interests",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 1,
+      "manuscriptTitle": "Stalin was present. He did not sign.",
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "aside-stalin-was-present-he-did-not-sign",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 1,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-1",
+      "passageAnchor": "ref-part-i-note-1",
+      "matchScore": 0.779,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 2,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-2",
+      "passageAnchor": "ref-part-i-note-2",
+      "matchScore": 0.86,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 3,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-3",
+      "passageAnchor": "ref-part-i-note-3",
+      "matchScore": 0.873,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 4,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-4",
+      "passageAnchor": "ref-part-i-note-4",
+      "matchScore": 0.943,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 5,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-5",
+      "passageAnchor": "ref-part-i-note-5",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 6,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-6",
+      "passageAnchor": "ref-part-i-note-6",
+      "matchScore": 0.763,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 7,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-7",
+      "passageAnchor": "ref-part-i-note-7",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 8,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-8",
+      "passageAnchor": "ref-part-i-note-8",
+      "matchScore": 0.981,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 9,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-9",
+      "passageAnchor": "ref-part-i-note-9",
+      "matchScore": 0.969,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 10,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-10",
+      "passageAnchor": "ref-part-i-note-10",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 11,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-11",
+      "passageAnchor": "ref-part-i-note-11",
+      "matchScore": 0.889,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 12,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-12",
+      "passageAnchor": "ref-part-i-note-12",
+      "matchScore": 0.595,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 13,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-13",
+      "passageAnchor": "ref-part-i-note-13",
+      "matchScore": 0.807,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 14,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-14",
+      "passageAnchor": "ref-part-i-note-14",
+      "matchScore": 0.826,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 15,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-15",
+      "passageAnchor": "ref-part-i-note-15",
+      "matchScore": 0.81,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 16,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-16",
+      "passageAnchor": "ref-part-i-note-16",
+      "matchScore": 0.889,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 17,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-17",
+      "passageAnchor": "ref-part-i-note-17",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 18,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-18",
+      "passageAnchor": "ref-part-i-note-18",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 19,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-19",
+      "passageAnchor": "ref-part-i-note-19",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 1,
+      "manuscriptNote": 20,
+      "slug": "molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "part-i-note-20",
+      "passageAnchor": "ref-part-i-note-20",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "aside",
+      "chapter": 2,
+      "manuscriptTitle": "Proposals the ambassador never received",
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "aside-lipski",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 2,
+      "manuscriptTitle": "German command guide • September 1, 1939",
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "aside-german-command-guide-september-1-1939",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 2,
+      "manuscriptTitle": "A disabled tank is not always a destroyed tank",
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "aside-tank-losses",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 21,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-21",
+      "passageAnchor": "ref-part-i-note-21",
+      "matchScore": 0.922,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 22,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-22",
+      "passageAnchor": "ref-part-i-note-22",
+      "matchScore": 0.604,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 23,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-23",
+      "passageAnchor": "ref-part-i-note-23",
+      "matchScore": 0.767,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 24,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-24",
+      "passageAnchor": "ref-part-i-note-24",
+      "matchScore": 0.795,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 25,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-25",
+      "passageAnchor": "ref-part-i-note-25",
+      "matchScore": 0.83,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 26,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-26",
+      "passageAnchor": "ref-part-i-note-26",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 27,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-27",
+      "passageAnchor": "ref-part-i-note-27",
+      "matchScore": 0.98,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 28,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-28",
+      "passageAnchor": "ref-part-i-note-28",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 29,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-29",
+      "passageAnchor": "ref-part-i-note-29",
+      "matchScore": 0.847,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 30,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-30",
+      "passageAnchor": "ref-part-i-note-30",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 31,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-31",
+      "passageAnchor": "ref-part-i-note-31",
+      "matchScore": 0.817,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 32,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-32",
+      "passageAnchor": "ref-part-i-note-32",
+      "matchScore": 0.812,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 33,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-33",
+      "passageAnchor": "ref-part-i-note-33",
+      "matchScore": 0.794,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 34,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-34",
+      "passageAnchor": "ref-part-i-note-34",
+      "matchScore": 0.792,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 35,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-35",
+      "passageAnchor": "ref-part-i-note-35",
+      "matchScore": 0.686,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 36,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-36",
+      "passageAnchor": "ref-part-i-note-36",
+      "matchScore": 0.989,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 37,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-37",
+      "passageAnchor": "ref-part-i-note-37",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 38,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-38",
+      "passageAnchor": "ref-part-i-note-38",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 39,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-39",
+      "passageAnchor": "ref-part-i-note-39",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 40,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-40",
+      "passageAnchor": "ref-part-i-note-40",
+      "matchScore": 0.811,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 41,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-41",
+      "passageAnchor": "ref-part-i-note-41",
+      "matchScore": 0.73,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 42,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-42",
+      "passageAnchor": "ref-part-i-note-42",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 43,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-43",
+      "passageAnchor": "ref-part-i-note-43",
+      "matchScore": 0.836,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 44,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-44",
+      "passageAnchor": "ref-part-i-note-44",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 45,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-45",
+      "passageAnchor": "ref-part-i-note-45",
+      "matchScore": 0.777,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 46,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-46",
+      "passageAnchor": "ref-part-i-note-46",
+      "matchScore": 0.842,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 2,
+      "manuscriptNote": 47,
+      "slug": "german-invasion-poland-1939-09-01",
+      "anchor": "part-i-note-47",
+      "passageAnchor": "ref-part-i-note-47",
+      "matchScore": 0.898,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "table",
+      "chapter": 2,
+      "slug": "german-invasion-poland-1939-09-01",
+      "rowsIncludingHeader": 6,
+      "action": "Existing accessible command table retained; formation-level qualification clarified where required."
+    },
+    {
+      "kind": "aside",
+      "chapter": 3,
+      "manuscriptTitle": "Stalin revised the joint communiqué",
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "soviet-communique",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 3,
+      "manuscriptTitle": "The seven operational groups • commanders, forces and objectives",
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "aside-the-seven-operational-groups-commanders-forces-and-objectives",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 3,
+      "manuscriptTitle": "The timetable and the fighting",
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "aside-the-timetable-and-the-fighting",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 3,
+      "manuscriptTitle": "Three kilometres from a battle",
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "aside-three-kilometres-from-a-battle",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 3,
+      "manuscriptTitle": "Simonov’s remembered reaction",
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "aside-simonov-s-remembered-reaction",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 48,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-48",
+      "passageAnchor": "ref-part-i-note-48",
+      "matchScore": 0.861,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 49,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-49",
+      "passageAnchor": "ref-part-i-note-49",
+      "matchScore": 0.974,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 50,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-50",
+      "passageAnchor": "ref-part-i-note-50",
+      "matchScore": 0.65,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 51,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-51",
+      "passageAnchor": "ref-part-i-note-51",
+      "matchScore": 0.881,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 52,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-52",
+      "passageAnchor": "ref-part-i-note-52",
+      "matchScore": 0.804,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 53,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-53",
+      "passageAnchor": "ref-part-i-note-53",
+      "matchScore": 0.805,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 54,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-54",
+      "passageAnchor": "ref-part-i-note-54",
+      "matchScore": 0.987,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 55,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-55",
+      "passageAnchor": "ref-part-i-note-55",
+      "matchScore": 0.606,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 56,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-56",
+      "passageAnchor": "ref-part-i-note-56",
+      "matchScore": 0.699,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 57,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-57",
+      "passageAnchor": "ref-part-i-note-57",
+      "matchScore": 0.882,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 58,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-58",
+      "passageAnchor": "ref-part-i-note-58",
+      "matchScore": 0.766,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 59,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-59",
+      "passageAnchor": "ref-part-i-note-59",
+      "matchScore": 0.741,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 60,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-60",
+      "passageAnchor": "ref-part-i-note-60",
+      "matchScore": 0.678,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 61,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-61",
+      "passageAnchor": "ref-part-i-note-61",
+      "matchScore": 0.629,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 62,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-62",
+      "passageAnchor": "ref-part-i-note-62",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 63,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-63",
+      "passageAnchor": "ref-part-i-note-63",
+      "matchScore": 0.874,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 64,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-64",
+      "passageAnchor": "ref-part-i-note-64",
+      "matchScore": 0.899,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 65,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-65",
+      "passageAnchor": "ref-part-i-note-65",
+      "matchScore": 0.812,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 66,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-66",
+      "passageAnchor": "ref-part-i-note-66",
+      "matchScore": 0.795,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 67,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-67",
+      "passageAnchor": "ref-part-i-note-67",
+      "matchScore": 0.887,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 68,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-68",
+      "passageAnchor": "ref-part-i-note-68",
+      "matchScore": 0.844,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 3,
+      "manuscriptNote": 69,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "anchor": "part-i-note-69",
+      "passageAnchor": "ref-part-i-note-69",
+      "matchScore": 0.803,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "table",
+      "chapter": 3,
+      "slug": "soviet-invasion-poland-1939-09-17",
+      "rowsIncludingHeader": 8,
+      "action": "Existing accessible command table retained; formation-level qualification clarified where required."
+    },
+    {
+      "kind": "aside",
+      "chapter": 4,
+      "manuscriptTitle": "Agreement and control",
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "aside-agreement-and-control",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 70,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-70",
+      "passageAnchor": "ref-part-i-note-70",
+      "matchScore": 0.939,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 71,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-71",
+      "passageAnchor": "ref-part-i-note-71",
+      "matchScore": 0.659,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 72,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-72",
+      "passageAnchor": "ref-part-i-note-72",
+      "matchScore": 0.75,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 73,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-73",
+      "passageAnchor": "ref-part-i-note-73",
+      "matchScore": 0.88,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 74,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-74",
+      "passageAnchor": "ref-part-i-note-74",
+      "matchScore": 0.543,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 75,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-75",
+      "passageAnchor": "ref-part-i-note-75",
+      "matchScore": 0.185,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 76,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-76",
+      "passageAnchor": "ref-part-i-note-76",
+      "matchScore": 0.815,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 77,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-77",
+      "passageAnchor": "ref-part-i-note-77",
+      "matchScore": 0.452,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 78,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-78",
+      "passageAnchor": "ref-part-i-note-78",
+      "matchScore": 0.742,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 79,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-79",
+      "passageAnchor": "ref-part-i-note-79",
+      "matchScore": 0.879,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 80,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-80",
+      "passageAnchor": "ref-part-i-note-80",
+      "matchScore": 0.749,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 81,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-81",
+      "passageAnchor": "ref-part-i-note-81",
+      "matchScore": 0.766,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 82,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-82",
+      "passageAnchor": "ref-part-i-note-82",
+      "matchScore": 0.835,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 83,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-83",
+      "passageAnchor": "ref-part-i-note-83",
+      "matchScore": 0.492,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 84,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-84",
+      "passageAnchor": "ref-part-i-note-84",
+      "matchScore": 0.761,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 85,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-85",
+      "passageAnchor": "ref-part-i-note-85",
+      "matchScore": 0.81,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 86,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-86",
+      "passageAnchor": "ref-part-i-note-86",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 87,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-87",
+      "passageAnchor": "ref-part-i-note-87",
+      "matchScore": 0.841,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 88,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-88",
+      "passageAnchor": "ref-part-i-note-88",
+      "matchScore": 0.863,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 89,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-89",
+      "passageAnchor": "ref-part-i-note-89",
+      "matchScore": 0.922,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 90,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-90",
+      "passageAnchor": "ref-part-i-note-90",
+      "matchScore": 0.794,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 4,
+      "manuscriptNote": 91,
+      "slug": "german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "part-i-note-91",
+      "passageAnchor": "ref-part-i-note-91",
+      "matchScore": 0.786,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "aside",
+      "chapter": 5,
+      "manuscriptTitle": "An effective date brought forward",
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "occupation-changeover",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 5,
+      "manuscriptTitle": "The disputed signature date",
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "aside-decree-dates",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 5,
+      "manuscriptTitle": "Covering the windows in Gdynia",
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "aside-covering-the-windows-in-gdynia",
+      "action": "Retained and adapted in existing web component; linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 92,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-92",
+      "passageAnchor": "ref-part-i-note-92",
+      "matchScore": 0.827,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 93,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-93",
+      "passageAnchor": "ref-part-i-note-93",
+      "matchScore": 0.836,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 94,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-94",
+      "passageAnchor": "ref-part-i-note-94",
+      "matchScore": 0.766,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 95,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-95",
+      "passageAnchor": "ref-part-i-note-95",
+      "matchScore": 0.507,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 96,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-96",
+      "passageAnchor": "ref-part-i-note-96",
+      "matchScore": 0.469,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 97,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-97",
+      "passageAnchor": "ref-part-i-note-97",
+      "matchScore": 0.482,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 98,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-98",
+      "passageAnchor": "ref-part-i-note-98",
+      "matchScore": 0.819,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 99,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-99",
+      "passageAnchor": "ref-part-i-note-99",
+      "matchScore": 0.924,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 100,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-100",
+      "passageAnchor": "ref-part-i-note-100",
+      "matchScore": 0.487,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 101,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-101",
+      "passageAnchor": "ref-part-i-note-101",
+      "matchScore": 0.622,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 102,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-102",
+      "passageAnchor": "ref-part-i-note-102",
+      "matchScore": 0.542,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 103,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-103",
+      "passageAnchor": "ref-part-i-note-103",
+      "matchScore": 0.82,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 104,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-104",
+      "passageAnchor": "ref-part-i-note-104",
+      "matchScore": 0.826,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 105,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-105",
+      "passageAnchor": "ref-part-i-note-105",
+      "matchScore": 0.655,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 106,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-106",
+      "passageAnchor": "ref-part-i-note-106",
+      "matchScore": 1.0,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 107,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-107",
+      "passageAnchor": "ref-part-i-note-107",
+      "matchScore": 0.645,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 108,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-108",
+      "passageAnchor": "ref-part-i-note-108",
+      "matchScore": 0.874,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 109,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-109",
+      "passageAnchor": "ref-part-i-note-109",
+      "matchScore": 0.645,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 110,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-110",
+      "passageAnchor": "ref-part-i-note-110",
+      "matchScore": 0.584,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 111,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-111",
+      "passageAnchor": "ref-part-i-note-111",
+      "matchScore": 0.699,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 112,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-112",
+      "passageAnchor": "ref-part-i-note-112",
+      "matchScore": 0.857,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 113,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-113",
+      "passageAnchor": "ref-part-i-note-113",
+      "matchScore": 0.681,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 114,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-114",
+      "passageAnchor": "ref-part-i-note-114",
+      "matchScore": 0.685,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 115,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-115",
+      "passageAnchor": "ref-part-i-note-115",
+      "matchScore": 0.853,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    },
+    {
+      "kind": "note",
+      "chapter": 5,
+      "manuscriptNote": 116,
+      "slug": "german-occupation-administration-1939-10-26",
+      "anchor": "part-i-note-116",
+      "passageAnchor": "ref-part-i-note-116",
+      "matchScore": 0.913,
+      "action": "Full reference and qualification retained; related sources linked; return to cited passage."
+    }
+  ],
+  "preservation": {
+    "baseline": "74766b674ab387dc9a6bb3fa0de927b7a6c0009a",
+    "protectedApplicationAndPublicFiles": 142,
+    "unchangedOtherArticleFiles": 44,
+    "unchangedExistingSourceRecords": 520,
+    "newSourceRecords": 3,
+    "manuscriptUnchanged": true,
+    "all116NoteTextsMatchPartI": true,
+    "mapsAndHistoricalDataUnchanged": true
+  },
+  "verification": {
+    "dataAndCitationValidator": "passed",
+    "partIValidator": "passed: 6 pages, 15 distinct linked asides, 2 tables, 116 complete notes, 472 body links",
+    "productionBuild": "passed; existing bundle-size and React Router directives warnings remain",
+    "desktop": "6 pages at 1440 px; no overflow or missing anchors; header and page canvas rgb(250,243,227)",
+    "mobile": "6 pages at 390 px; collapsible contents work; no page overflow. Additional 320 px check passed.",
+    "notes": "all 116 opened and returned to their passages in the browser",
+    "tables": "both open through contents and scroll within the page; keyboard focus and column-header scopes provided",
+    "sharedBackground": "homepage, both collection types, source index, information pages, earlier study and both atlas surroundings checked at 390 px",
+    "historicalReview": "Compared the complete supplied Part I and its 116 native endnotes with the current Poland collection. Existing verified web copy retained; manuscript corrections and qualifications applied. Three targeted linked references checked. This was not a new independent audit of every previously published source.",
+    "publication": "Local candidate verified; hosted preview and production identity recorded separately after release."
+  },
+  "sourceAccess": [
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1939v01/d320",
+      "checked": "editorial note 4"
+    },
+    {
+      "url": "https://www.nationalww2museum.org/war/articles/germany-japan-tripartite-pact",
+      "checked": "title and author"
+    },
+    {
+      "url": "https://eng.ipn.gov.pl/en/digital-resources/articles/9247,From-the-Union-of-Armed-Struggle-to-the-Home-Army.html",
+      "checked": "opening and Union of Armed Struggle section"
+    }
+  ],
+  "mapScope": "All historical geometry, data, map rendering and timeline states are byte-identical to the live baseline. No geographic correction is claimed."
+}

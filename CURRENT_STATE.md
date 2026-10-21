@@ -1,3 +1,11 @@
+# October 20, 2026 — Poland Part I update
+
+The existing Poland introduction and five studies are reconciled with Part I of Volume One version 3.1.5. All 15 manuscript asides, two tables and 116 endnotes are retained, with linked evidence notes and returns, a six-page reading path and collapsible phone contents. The shared page canvas now uses the header’s existing #FAF3E3 sepia. All 44 other article files, all historical map data and the 520 existing source records remain unchanged; three Poland references are appended.
+
+Data, citation, build, preservation and desktop/mobile checks passed. Run `node scripts/validate-poland-part-i.mjs` for the additional coverage/link gate. `poland-part-i-review.json` records the source boundary, full coverage and limitations. This checkpoint describes the verified candidate; hosted preview and production publication are separate release steps.
+
+---
+
 # 17 October 2026 — consolidated Ostkrieg publication release
 
 Authorised release of all five 17 October Barbarossa editorial packages: 44 revised studies, five introductions and their additional sources. All 50 studies and 49 dated maps remain available. Canadian English is applied to site-authored copy; original source titles, locators and direct quotations retain their wording. The name is Ostkrieg throughout the interface, metadata, print and map exports. Robert M. Dobo remains the author.
