@@ -7769,5 +7769,34 @@
     ],
     "notes": "Checked October 20, 2026: opening and The Union of Armed Struggle section only. Later operations, aggregate strengths and losses are not adopted.",
     "reuseRights": "Linked and paraphrased with attribution; no third-party imagery reproduced."
+  },
+  {
+    "id": "phase-i-stuelpnagel",
+    "institution": "Deutsches Historisches Museum, LeMO",
+    "title": "Manfred Wichmann, Carl Heinrich von Stülpnagel 1886–1944",
+    "date": "2014-09-14",
+    "url": "https://www.dhm.de/lemo/biografie/carl-heinrich-von-stuelpnagel",
+    "type": "Museum biography",
+    "relevance": "The name and command of the 17th Army at the beginning of the invasion.",
+    "supports": [
+      "1941-06-21-article"
+    ],
+    "notes": "Title, author and 1941 entry inspected October 21, 2026. Used only for the Part II command identification; no later biography is imported.",
+    "reuseRights": "Linked and independently paraphrased; no images or substantial text reproduced."
+  },
+  {
+    "id": "phase-i-glantz-directives",
+    "institution": "Soviet People’s Commissariat of Defence; David M. Glantz translation, web transcription",
+    "title": "NKO directives 1–3, June 21–22, 1941, in Glantz, Barbarossa: Hitler’s Invasion of Russia 1941 (2001), Appendix II",
+    "date": "1941-06-22",
+    "url": "https://www.geocities.ws/rf_mikael/glantz7.html",
+    "type": "Published English translations in a third-party web transcription",
+    "relevance": "Readiness and aircraft dispersal instructions, restrictions on crossing the frontier, and counterattack objectives at Suvalki and Lublin.",
+    "supports": [
+      "1941-06-21-article",
+      "1941-06-22-article"
+    ],
+    "notes": "Transcribed English text inspected October 21, 2026; original archive files and printed edition pagination were not independently inspected. The site contains transcription errors; document numbers, paragraph locators and publication provenance are retained. Contemporary Soviet assertions in the orders are not accepted as confirmed battlefield outcomes.",
+    "reuseRights": "Linked and paraphrased; no facsimile or full translation reproduced."
   }
 ]
