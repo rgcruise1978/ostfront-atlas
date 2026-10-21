@@ -416,3 +416,15 @@ The other 41 studies, 525 shared source records, timeline data and 61 public map
 Validation: production build; main data/citation validator; scripts/validate-part-iv.mjs for all 132 exact note texts and 19 aside targets; regression checks for Poland and Parts II/III; desktop and phone browser review of all nine studies; all 132 note links and returns and 19 aside links exercised locally. The obsolete Phase III word-count limits were replaced with accurate counts; complete content and evidence coverage is checked separately. See barbarossa-part-iv-review.json for the crosswalk and preservation findings.
 
 Publication and public verification are reported separately from local validation. No expansion into another manuscript part is included.
+
+## Part V manuscript update — October 21, 2026
+
+Updated only the ten Operation Barbarossa IV studies and their collection introduction from version 3.5.41, Part V, chapters 32–41 (September 30–November 14, 1941). Revised 81 web passages and retained 254 after comparison. All 20 asides have section-contents links; all 172 native endnotes retain their exact text, claim/source links and passage returns. Collection navigation connects the introduction and all ten dates. Contents and collection controls collapse on phones; detailed evidence and source passages open on demand. Dated atlas and section-context links retain their existing destinations.
+
+All 40 other article files, all 525 pre-existing source records and 67 protected public/timeline files are unchanged. Six narrowly scoped documentary source records were added. The original DOCX is unchanged. This is manuscript reconciliation, not a new independent historical audit; original archival files and the complete Halder typescript were not independently inspected.
+
+Validation: production build; main data/citation validator; scripts/validate-part-v.mjs for all 172 exact note texts and 20 aside targets; desktop (1440px) and phone (390px) review of all ten studies. Every page has valid fragment targets, no duplicate IDs or horizontal overflow; first and last note opening/return and both aside links were exercised on every page at both sizes. Other collection regression checks and final publication status are recorded in the task's update report.
+
+No further manuscript parts are included. Publication and public verification remain separate from this source checkpoint.
+
+Map follow-up recorded: the protected Phase IV Study Context cache still contains the earlier Fromm/Halder peace-proposal account and the earlier Hoth departure-date formulation. The revised articles distinguish Fromm’s proposal to Brauchitsch and Hoth’s October 5 assignment. The cached map text was not synchronized because map/context data was excluded from this update.
