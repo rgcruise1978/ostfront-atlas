@@ -22,7 +22,8 @@ export default function Metadata() {
     meta('og:image',origin+'/brand/ostkrieg-social.jpg',true);meta('og:image:width','1200',true);meta('og:image:height','630',true);meta('og:image:alt','Ostkrieg — The Eastern Front, 1939–1945',true);meta('twitter:image',origin+'/brand/ostkrieg-social.jpg');meta('twitter:image:alt','Ostkrieg — The Eastern Front, 1939–1945');
     // Page renderers set titles in their own effects; sync after those effects.
     const updateTitle=()=>{meta('og:title',document.title,true);meta('twitter:title',document.title);};
-    const observer=new MutationObserver(updateTitle);observer.observe(document.head.querySelector('title'),{childList:true});updateTitle();
+    const titleElement=document.head.querySelector('title') || document.head.appendChild(document.createElement('title'));
+    const observer=new MutationObserver(updateTitle);observer.observe(titleElement,{childList:true});updateTitle();
     return ()=>observer.disconnect();
   }, [pathname,search]);
   return null;
