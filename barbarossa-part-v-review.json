@@ -1,0 +1,2929 @@
+{
+  "sourceVersion": "3.5.41",
+  "sourcePart": "Part V",
+  "sourceSha256": "f2b087c8758e44f475ae3e706a850efb9ad7be0f5cbde373931ec07e5cfa1431",
+  "baselineCommit": "ed8d7a6574fc9478a8846e4828136b65bede2d94",
+  "studies": [
+    {
+      "chapter": 32,
+      "title": "The Offensive Begins",
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "date": "1941-09-30",
+      "asides": 2,
+      "notes": 17,
+      "webParagraphs": 32,
+      "revisedParagraphs": 6,
+      "retainedParagraphs": 26,
+      "narrativeWordCount": 3351
+    },
+    {
+      "chapter": 33,
+      "title": "The Drive on Moscow",
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "date": "1941-10-02",
+      "asides": 2,
+      "notes": 15,
+      "webParagraphs": 33,
+      "revisedParagraphs": 9,
+      "retainedParagraphs": 24,
+      "narrativeWordCount": 3211
+    },
+    {
+      "chapter": 34,
+      "title": "Armies in the Trap",
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "date": "1941-10-07",
+      "asides": 2,
+      "notes": 17,
+      "webParagraphs": 32,
+      "revisedParagraphs": 9,
+      "retainedParagraphs": 23,
+      "narrativeWordCount": 3228
+    },
+    {
+      "chapter": 35,
+      "title": "The Road to Moscow",
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "date": "1941-10-13",
+      "asides": 2,
+      "notes": 17,
+      "webParagraphs": 33,
+      "revisedParagraphs": 10,
+      "retainedParagraphs": 23,
+      "narrativeWordCount": 3159
+    },
+    {
+      "chapter": 36,
+      "title": "Crisis at the Capital",
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "date": "1941-10-16",
+      "asides": 2,
+      "notes": 18,
+      "webParagraphs": 34,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 26,
+      "narrativeWordCount": 3232
+    },
+    {
+      "chapter": 37,
+      "title": "Moscow Under Siege",
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "date": "1941-10-19",
+      "asides": 2,
+      "notes": 17,
+      "webParagraphs": 33,
+      "revisedParagraphs": 5,
+      "retainedParagraphs": 28,
+      "narrativeWordCount": 3301
+    },
+    {
+      "chapter": 38,
+      "title": "The Southern Advance",
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "date": "1941-10-24",
+      "asides": 2,
+      "notes": 16,
+      "webParagraphs": 33,
+      "revisedParagraphs": 6,
+      "retainedParagraphs": 27,
+      "narrativeWordCount": 3300
+    },
+    {
+      "chapter": 39,
+      "title": "The Offensive Slows",
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "date": "1941-11-02",
+      "asides": 2,
+      "notes": 18,
+      "webParagraphs": 35,
+      "revisedParagraphs": 9,
+      "retainedParagraphs": 26,
+      "narrativeWordCount": 3237
+    },
+    {
+      "chapter": 40,
+      "title": "The Battle for Tikhvin",
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "date": "1941-11-09",
+      "asides": 2,
+      "notes": 19,
+      "webParagraphs": 35,
+      "revisedParagraphs": 11,
+      "retainedParagraphs": 24,
+      "narrativeWordCount": 3129
+    },
+    {
+      "chapter": 41,
+      "title": "The Edge of Winter",
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "date": "1941-11-14",
+      "asides": 2,
+      "notes": 18,
+      "webParagraphs": 35,
+      "revisedParagraphs": 8,
+      "retainedParagraphs": 27,
+      "narrativeWordCount": 3315
+    }
+  ],
+  "coverage": [
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 4,
+      "manuscriptNoteId": 514,
+      "anchor": "part-v-note-514",
+      "passageAnchor": "ref-part-v-note-514",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "fa42ba25d314dd984eed520b8b40b152490e494062f70d5d4b0d78f83f6d5bdb",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 5,
+      "manuscriptNoteId": 515,
+      "anchor": "part-v-note-515",
+      "passageAnchor": "ref-part-v-note-515",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-ushmm-babyn"
+      ],
+      "textSha256": "ae68edf9247b617f2a9bd1ce6e035c47571b4133c15760b56770ffda52d751ff",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 10,
+      "manuscriptNoteId": 516,
+      "anchor": "part-v-note-516",
+      "passageAnchor": "ref-part-v-note-516",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "25ffcb24f6e477528f2c5e8473ad6a3d75eb3fe8579d93c66a0f62c10306e1a1",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 12,
+      "manuscriptNoteId": 517,
+      "anchor": "part-v-note-517",
+      "passageAnchor": "ref-part-v-note-517",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "d9a79db26139aa637fdda01292878840f4966617e48d1cb5f60d69c1ae8d55ef",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 13,
+      "manuscriptNoteId": 518,
+      "anchor": "part-v-note-518",
+      "passageAnchor": "ref-part-v-note-518",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "be0a63e553af5ed7045a6779945ea2d7193adea2d9414032cf95acbc7b7ef4f4",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 18,
+      "manuscriptNoteId": 519,
+      "anchor": "part-v-note-519",
+      "passageAnchor": "ref-part-v-note-519",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "bc96697e55b97cda14e4cf9e18de0b86afb66d0c56a31e92c275b5f8d2bbd54f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 19,
+      "manuscriptNoteId": 520,
+      "anchor": "part-v-note-520",
+      "passageAnchor": "ref-part-v-note-520",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "b81070ff6ff65308879b1fc85bddaaccd02df60b8229d8ae0d86186c1d234c3c",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 20,
+      "manuscriptNoteId": 521,
+      "anchor": "part-v-note-521",
+      "passageAnchor": "ref-part-v-note-521",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "textSha256": "2355751900c4d8f10945290d51b7daa402ff8e25986f4c7f23846f64f7b51ee5",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 24,
+      "manuscriptNoteId": 522,
+      "anchor": "part-v-note-522",
+      "passageAnchor": "ref-part-v-note-522",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4v-sbd20",
+        "p4v-sbd43"
+      ],
+      "textSha256": "9804725973bb7a3f5115fd4bf1ecfeb9ebd97a66c6701dc39cad36185588b86a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 25,
+      "manuscriptNoteId": 523,
+      "anchor": "part-v-note-523",
+      "passageAnchor": "ref-part-v-note-523",
+      "sourceIds": [
+        "p4-harrison-industry"
+      ],
+      "textSha256": "d3a4ca9fe8c40730d49928368fc1f2e8145891bc96a3ef8f575e9c331abc13ed",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 29,
+      "manuscriptNoteId": 524,
+      "anchor": "part-v-note-524",
+      "passageAnchor": "ref-part-v-note-524",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "dc9c2245b604f119344d2e4bb55d8e28ad7c7756fae03d574e7354d8a6ee6292",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 31,
+      "manuscriptNoteId": 525,
+      "anchor": "part-v-note-525",
+      "passageAnchor": "ref-part-v-note-525",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "1d09e16584c862b35e239e5a96b187030391743e21a806373d0275f5885e3646",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 35,
+      "manuscriptNoteId": 526,
+      "anchor": "part-v-note-526",
+      "passageAnchor": "ref-part-v-note-526",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-frus786"
+      ],
+      "textSha256": "d0a8ceafd073d81cfd9deff1b597be0615bba092b0e2b2697657a482b82c15d0",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 36,
+      "manuscriptNoteId": 527,
+      "anchor": "part-v-note-527",
+      "passageAnchor": "ref-part-v-note-527",
+      "sourceIds": [
+        "p3-frus786"
+      ],
+      "textSha256": "436da240944cc3bf5f40f543e0513155c7e47b4c8adff984619ff6391f0d4fd8",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 39,
+      "manuscriptNoteId": 528,
+      "anchor": "part-v-note-528",
+      "passageAnchor": "ref-part-v-note-528",
+      "sourceIds": [
+        "p3-ushmm-babyn"
+      ],
+      "textSha256": "bbf444afd1d2d02b767a837fb02155aabc3801fe9826bd8b01b0be6552fc413d",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 40,
+      "manuscriptNoteId": 529,
+      "anchor": "part-v-note-529",
+      "passageAnchor": "ref-part-v-note-529",
+      "sourceIds": [
+        "ushmm-pow-treatment"
+      ],
+      "textSha256": "fa0c455e413f8c84a2b04436d611539b204a7300ec44fe6702d4ce2f29b48eb6",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 44,
+      "manuscriptNoteId": 530,
+      "anchor": "part-v-note-530",
+      "passageAnchor": "ref-part-v-note-530",
+      "sourceIds": [
+        "cmh-blitz",
+        "p3-frus786"
+      ],
+      "textSha256": "87a60d5572cfa29af7a727992dbcd1b678f73799830f7bcccf8e82c16ddf9d4e",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 13,
+      "manuscriptTitle": "Counting the opposing forces",
+      "anchor": "aside-counting-the-opposing-forces",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 32,
+      "slug": "barbarossa-the-offensive-begins-1941-09-30",
+      "sourceBlock": 36,
+      "manuscriptTitle": "The weapons Moscow sought",
+      "anchor": "aside-the-weapons-moscow-sought",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 531,
+      "anchor": "part-v-note-531",
+      "passageAnchor": "ref-part-v-note-531",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "8088d65f941b8768f929bc2f49f081817e9daaad607fa6d8ec9cfb4f02d5735e",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 10,
+      "manuscriptNoteId": 532,
+      "anchor": "part-v-note-532",
+      "passageAnchor": "ref-part-v-note-532",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "11f4407a5225f0fae09e5698a4be89e466e0ac3b5b3e32688b005d05a84d23b6",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 533,
+      "anchor": "part-v-note-533",
+      "passageAnchor": "ref-part-v-note-533",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "textSha256": "d596aa177a8fe533afb959d2c85a0bcea1bd8147346decd3303cc7b3d3a92450",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 16,
+      "manuscriptNoteId": 534,
+      "anchor": "part-v-note-534",
+      "passageAnchor": "ref-part-v-note-534",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4v-sbd20"
+      ],
+      "textSha256": "6e75dfb9cbd3049def0acbbd59c161ea041c2a6fdc652f14b02cf8029835a671",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 18,
+      "manuscriptNoteId": 535,
+      "anchor": "part-v-note-535",
+      "passageAnchor": "ref-part-v-note-535",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4v-sbd43"
+      ],
+      "textSha256": "98f5e90efe0cecb4db2c1a17f9e455dca1fd6d3c7fe7d64ca41dc0f98c8c62d5",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 21,
+      "manuscriptNoteId": 536,
+      "anchor": "part-v-note-536",
+      "passageAnchor": "ref-part-v-note-536",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "726a9e85c066129bd3ae50e30500289585c0f21ac55086efb80956215e1d7fbd",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 23,
+      "manuscriptNoteId": 537,
+      "anchor": "part-v-note-537",
+      "passageAnchor": "ref-part-v-note-537",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-stahel-typhoon",
+        "p4v-sbd43"
+      ],
+      "textSha256": "db0ae73175e52b33f3d31b14e2e4d3e116a7c118f10f44356312bef9e4667171",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 27,
+      "manuscriptNoteId": 538,
+      "anchor": "part-v-note-538",
+      "passageAnchor": "ref-part-v-note-538",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "7aaf4e3c8efb6974ecebfc16deced638762005e33df345593caad75b04588993",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 28,
+      "manuscriptNoteId": 539,
+      "anchor": "part-v-note-539",
+      "passageAnchor": "ref-part-v-note-539",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "51449ad11f9d669ed7dfd7443272bef5ee2511199400b7777be476b00a0969c1",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 29,
+      "manuscriptNoteId": 540,
+      "anchor": "part-v-note-540",
+      "passageAnchor": "ref-part-v-note-540",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "28efc6af1aede91b9066b3c03b4931b7e685dffce3294cf431f60dd140e86ea6",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 34,
+      "manuscriptNoteId": 541,
+      "anchor": "part-v-note-541",
+      "passageAnchor": "ref-part-v-note-541",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "textSha256": "a3fb5507e014010059e1541e3479cf7c2e0d76d610b722cdda9dfb00e30657ad",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 35,
+      "manuscriptNoteId": 542,
+      "anchor": "part-v-note-542",
+      "passageAnchor": "ref-part-v-note-542",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "28efc6af1aede91b9066b3c03b4931b7e685dffce3294cf431f60dd140e86ea6",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 37,
+      "manuscriptNoteId": 543,
+      "anchor": "part-v-note-543",
+      "passageAnchor": "ref-part-v-note-543",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "textSha256": "000867c9fe4148b83f32779accf1a79fa16e471abd54c572971bf0de41999225",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 41,
+      "manuscriptNoteId": 544,
+      "anchor": "part-v-note-544",
+      "passageAnchor": "ref-part-v-note-544",
+      "sourceIds": [
+        "p4-frus787"
+      ],
+      "textSha256": "a20357136ab4f6a244f65c6a75816ebea262d4cd0dc9c8c7cd8e3f82b4d00b35",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 45,
+      "manuscriptNoteId": 545,
+      "anchor": "part-v-note-545",
+      "passageAnchor": "ref-part-v-note-545",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "51bac6856b94be5c130632d47209d6b1341de832857c142a20588df1e6d35b1e",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 11,
+      "manuscriptTitle": "The three mobile thrusts",
+      "anchor": "aside-the-three-mobile-thrusts",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 33,
+      "slug": "barbarossa-the-drive-on-moscow-1941-10-02",
+      "sourceBlock": 35,
+      "manuscriptTitle": "The promise of a decisive battle",
+      "anchor": "aside-the-promise-of-a-decisive-battle",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 5,
+      "manuscriptNoteId": 546,
+      "anchor": "part-v-note-546",
+      "passageAnchor": "ref-part-v-note-546",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "5cacaffd3018bfea6600ff1c369bdf48b7503ab433a99d9bb2865ace8ea8cb4a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 547,
+      "anchor": "part-v-note-547",
+      "passageAnchor": "ref-part-v-note-547",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "41dd8b9f6180db03132d7d066e5b20ec7a707cd990754357de799a7e7ce1ab33",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 10,
+      "manuscriptNoteId": 548,
+      "anchor": "part-v-note-548",
+      "passageAnchor": "ref-part-v-note-548",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "eac193f418d1e1d914d7a8e05a0f2e348c32360683f010b3eedf0b4b29c39cbb",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 12,
+      "manuscriptNoteId": 549,
+      "anchor": "part-v-note-549",
+      "passageAnchor": "ref-part-v-note-549",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "40cd46d5361cf988741fc9a10528becdae62af404b214a8902d7ee6768fed700",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 16,
+      "manuscriptNoteId": 550,
+      "anchor": "part-v-note-550",
+      "passageAnchor": "ref-part-v-note-550",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "5cacaffd3018bfea6600ff1c369bdf48b7503ab433a99d9bb2865ace8ea8cb4a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 19,
+      "manuscriptNoteId": 551,
+      "anchor": "part-v-note-551",
+      "passageAnchor": "ref-part-v-note-551",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-review-terrain"
+      ],
+      "textSha256": "1490de206ba23b07366694e24e549041e0b3a6419ac05ae34ed75240ef4e66a5",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 22,
+      "manuscriptNoteId": 552,
+      "anchor": "part-v-note-552",
+      "passageAnchor": "ref-part-v-note-552",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "efc9b21d62053102fbb4cfc353d527110b7d4d954141d641539338fac05a3bc9",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 23,
+      "manuscriptNoteId": 553,
+      "anchor": "part-v-note-553",
+      "passageAnchor": "ref-part-v-note-553",
+      "sourceIds": [
+        "p4-edele-loyalty"
+      ],
+      "textSha256": "c254081ee8c2577b957e1b660a66ebce9b8c5f2f7495de3a50bdc99960d91194",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 24,
+      "manuscriptNoteId": 554,
+      "anchor": "part-v-note-554",
+      "passageAnchor": "ref-part-v-note-554",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "1d3241ecb1970bcb78bb7fb4d972e31a37958640cab96c4c611a8019a3c91db3",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 26,
+      "manuscriptNoteId": 555,
+      "anchor": "part-v-note-555",
+      "passageAnchor": "ref-part-v-note-555",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "6aa9f05a86717885197668afc724de4fea759a304be810b17fd06d9acee5e142",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 29,
+      "manuscriptNoteId": 556,
+      "anchor": "part-v-note-556",
+      "passageAnchor": "ref-part-v-note-556",
+      "sourceIds": [
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "textSha256": "c172deae2e3a9503682db07457335dfaf751d1d8bba05bf76ad112b112382665",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 30,
+      "manuscriptNoteId": 557,
+      "anchor": "part-v-note-557",
+      "passageAnchor": "ref-part-v-note-557",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4v-sbd43"
+      ],
+      "textSha256": "5baeb8c9165b948cf3705fdfc45cb86b114a041fc33374aec2f0ae9b67b20bf1",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 32,
+      "manuscriptNoteId": 558,
+      "anchor": "part-v-note-558",
+      "passageAnchor": "ref-part-v-note-558",
+      "sourceIds": [
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "textSha256": "660a1b6f0c01cbe345c75e935a06f411967126f6e773791582d943625cc53a5b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 37,
+      "manuscriptNoteId": 559,
+      "anchor": "part-v-note-559",
+      "passageAnchor": "ref-part-v-note-559",
+      "sourceIds": [
+        "p4-ushmm-ordinary"
+      ],
+      "textSha256": "11e9ec0666eba95faa6eb55c496b4919793f10426bc64a4ea94053e37abf042a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 39,
+      "manuscriptNoteId": 560,
+      "anchor": "part-v-note-560",
+      "passageAnchor": "ref-part-v-note-560",
+      "sourceIds": [
+        "p4-ushmm-ordinary"
+      ],
+      "textSha256": "a4f61088db5238d28c524a005085e574551cdac997ef074714c13f00df9f8406",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 43,
+      "manuscriptNoteId": 561,
+      "anchor": "part-v-note-561",
+      "passageAnchor": "ref-part-v-note-561",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "4800a56533dd923fb9c9c519feae69b176421dfcebe87b9dabf8f18db9b5e07a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 45,
+      "manuscriptNoteId": 562,
+      "anchor": "part-v-note-562",
+      "passageAnchor": "ref-part-v-note-562",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-ushmm-ordinary"
+      ],
+      "textSha256": "d9a44f0a570234b93fd6c0602dfa36377739ebc63a27dacadf5125075612440b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 12,
+      "manuscriptTitle": "A ring has two fronts",
+      "anchor": "aside-a-ring-has-two-fronts",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 34,
+      "slug": "barbarossa-armies-in-the-trap-1941-10-07",
+      "sourceBlock": 32,
+      "manuscriptTitle": "The uncertain capture totals",
+      "anchor": "aside-the-uncertain-capture-totals",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 563,
+      "anchor": "part-v-note-563",
+      "passageAnchor": "ref-part-v-note-563",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "126b16e05515c1e22d94265ac73cf6d97b2ce2136f3a71783601a1c9954d8686",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 9,
+      "manuscriptNoteId": 564,
+      "anchor": "part-v-note-564",
+      "passageAnchor": "ref-part-v-note-564",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4v-sbd43"
+      ],
+      "textSha256": "802074af1da75639efa4f392e77850b140a526bba40dcdccc2f521b48a8ae5e5",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 565,
+      "anchor": "part-v-note-565",
+      "passageAnchor": "ref-part-v-note-565",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-stahel-typhoon",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "e0e3b4e9d86e865ba195a3f44abe6ac133a8f7a18f3aa045c99446b09eeb8d33",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 13,
+      "manuscriptNoteId": 566,
+      "anchor": "part-v-note-566",
+      "passageAnchor": "ref-part-v-note-566",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "3c4ade95e1945439d8b8ba922854cff7658a69ec493eda17d51aa2897b967752",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 17,
+      "manuscriptNoteId": 567,
+      "anchor": "part-v-note-567",
+      "passageAnchor": "ref-part-v-note-567",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "aa1790b379be16902f27fd544338bc6da77d4b72d0694f27b658572a4de30298",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 20,
+      "manuscriptNoteId": 568,
+      "anchor": "part-v-note-568",
+      "passageAnchor": "ref-part-v-note-568",
+      "sourceIds": [
+        "p4-edele-loyalty",
+        "p4-review-milshtein"
+      ],
+      "textSha256": "f84ad40c3abd9af0a16cf90017a5fe9177890b6b6386331eedd32562189a8f9f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 21,
+      "manuscriptNoteId": 569,
+      "anchor": "part-v-note-569",
+      "passageAnchor": "ref-part-v-note-569",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "95dc9bad74d833943a054afa6e7e98ed2a2afb0d53cc8af5dec2ba9131a7f8d4",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 24,
+      "manuscriptNoteId": 570,
+      "anchor": "part-v-note-570",
+      "passageAnchor": "ref-part-v-note-570",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-review-terrain"
+      ],
+      "textSha256": "8c8d7a1a7f53616d9129df8c8eb49ac7b9334b833f0aa88bdd531096a85922fa",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 26,
+      "manuscriptNoteId": 571,
+      "anchor": "part-v-note-571",
+      "passageAnchor": "ref-part-v-note-571",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "1a8a797a630918df0fa5974c096f2b9597b22c35b7ed1b71412e4072f33c1544",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 29,
+      "manuscriptNoteId": 572,
+      "anchor": "part-v-note-572",
+      "passageAnchor": "ref-part-v-note-572",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "3c4ade95e1945439d8b8ba922854cff7658a69ec493eda17d51aa2897b967752",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 30,
+      "manuscriptNoteId": 573,
+      "anchor": "part-v-note-573",
+      "passageAnchor": "ref-part-v-note-573",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "415fb1973cc625f80aa7433265d81351779839876d3565d0cf34fed84d5fd4a6",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 31,
+      "manuscriptNoteId": 574,
+      "anchor": "part-v-note-574",
+      "passageAnchor": "ref-part-v-note-574",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "textSha256": "1625175ffc0822d71c37bc22e51a9cc980402b70c0c6dcbe1323c6ee99995d1f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 33,
+      "manuscriptNoteId": 575,
+      "anchor": "part-v-note-575",
+      "passageAnchor": "ref-part-v-note-575",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "dfc0d45e6ddb63addf78fa61ae2b6deb3310ba2bcf15a37d6f70d60489d1d1fc",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 38,
+      "manuscriptNoteId": 576,
+      "anchor": "part-v-note-576",
+      "passageAnchor": "ref-part-v-note-576",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-stahel-typhoon"
+      ],
+      "textSha256": "7f4e96c081cb035e4fe92fe66138a25433617322451159f0b4abd2d89db466a8",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 40,
+      "manuscriptNoteId": 577,
+      "anchor": "part-v-note-577",
+      "passageAnchor": "ref-part-v-note-577",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "2113efc0a70f64d64e794526d5b0a45cfe1791aeec6701d5ce52eb14c48f772c",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 43,
+      "manuscriptNoteId": 578,
+      "anchor": "part-v-note-578",
+      "passageAnchor": "ref-part-v-note-578",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-frus864"
+      ],
+      "textSha256": "0d87d534cfdef2a9af58a4354f0eccc7026f764d3fbf35aec2a355b9637f127a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 46,
+      "manuscriptNoteId": 579,
+      "anchor": "part-v-note-579",
+      "passageAnchor": "ref-part-v-note-579",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "c8a1da077e5d712c79e6a8ab8bfbd76fa96c34fe5dae325339a7026b2fb26d83",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 13,
+      "manuscriptTitle": "Defending the approach roads",
+      "anchor": "aside-defending-the-approach-roads",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 35,
+      "slug": "barbarossa-the-road-to-moscow-1941-10-13",
+      "sourceBlock": 33,
+      "manuscriptTitle": "What the workers built",
+      "anchor": "aside-what-the-workers-built",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 5,
+      "manuscriptNoteId": 580,
+      "anchor": "part-v-note-580",
+      "passageAnchor": "ref-part-v-note-580",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-frus865",
+        "p4-gko801"
+      ],
+      "textSha256": "4d16510e1822c3253026a403935f02134da28e87cd010139a4a7c411308be374",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 581,
+      "anchor": "part-v-note-581",
+      "passageAnchor": "ref-part-v-note-581",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-frus647"
+      ],
+      "textSha256": "cbded4b53d5dfefef3fe2e7ed7252e1fae5692afe69b37386e887f5592f875ad",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 582,
+      "anchor": "part-v-note-582",
+      "passageAnchor": "ref-part-v-note-582",
+      "sourceIds": [
+        "p4-gko801"
+      ],
+      "textSha256": "b305a46a3f9821ee4c40fe96fce1765b6f72d90967373b3979809988716a7033",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 13,
+      "manuscriptNoteId": 583,
+      "anchor": "part-v-note-583",
+      "passageAnchor": "ref-part-v-note-583",
+      "sourceIds": [
+        "p4-harrison-industry"
+      ],
+      "textSha256": "714130ad999ca10d9707676002bb1750d1cba3b78ba2cec8a17d478527561a03",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 15,
+      "manuscriptNoteId": 584,
+      "anchor": "part-v-note-584",
+      "passageAnchor": "ref-part-v-note-584",
+      "sourceIds": [
+        "p4-frus647",
+        "p4-gko801"
+      ],
+      "textSha256": "1af92453f7497f4daea68a7197c3d7155313a1f9e938deec0dfa072f16b5f2df",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 16,
+      "manuscriptNoteId": 585,
+      "anchor": "part-v-note-585",
+      "passageAnchor": "ref-part-v-note-585",
+      "sourceIds": [
+        "p4-gko801"
+      ],
+      "textSha256": "0f5cefe82a8e6f975ac4788f1a130fdfb6c0e5d7412ec877ecb04dc376835603",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 20,
+      "manuscriptNoteId": 586,
+      "anchor": "part-v-note-586",
+      "passageAnchor": "ref-part-v-note-586",
+      "sourceIds": [
+        "p4-frus864"
+      ],
+      "textSha256": "002d0f16bdfdf5413d86846862c4f3a8d175b4ec0698cfa84d20cdde54bfdf85",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 22,
+      "manuscriptNoteId": 587,
+      "anchor": "part-v-note-587",
+      "passageAnchor": "ref-part-v-note-587",
+      "sourceIds": [
+        "p4-frus865"
+      ],
+      "textSha256": "19260307533532120ae74b168c82daed81d816d3f23909b15c7e378f263a82c4",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 24,
+      "manuscriptNoteId": 588,
+      "anchor": "part-v-note-588",
+      "passageAnchor": "ref-part-v-note-588",
+      "sourceIds": [
+        "p4-frus864",
+        "p4-frus865"
+      ],
+      "textSha256": "be2001f21f0083b5b283f27bd89ad1919cefdd8d00dc4d5dd033fc4ec4fd1c35",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 27,
+      "manuscriptNoteId": 589,
+      "anchor": "part-v-note-589",
+      "passageAnchor": "ref-part-v-note-589",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-edele-loyalty",
+        "p4-frus647"
+      ],
+      "textSha256": "c017664abcbbe213982a479a58c8db6d366c9c3b67ff3ff9e9bbc10314562625",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 28,
+      "manuscriptNoteId": 590,
+      "anchor": "part-v-note-590",
+      "passageAnchor": "ref-part-v-note-590",
+      "sourceIds": [
+        "p4-frus864"
+      ],
+      "textSha256": "002d0f16bdfdf5413d86846862c4f3a8d175b4ec0698cfa84d20cdde54bfdf85",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 30,
+      "manuscriptNoteId": 591,
+      "anchor": "part-v-note-591",
+      "passageAnchor": "ref-part-v-note-591",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-gko801"
+      ],
+      "textSha256": "dad74d637640ec56b5714d71b88f1ec6a81816c1b59648e77477440cad39f99b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 32,
+      "manuscriptNoteId": 592,
+      "anchor": "part-v-note-592",
+      "passageAnchor": "ref-part-v-note-592",
+      "sourceIds": [
+        "p4-frus647",
+        "p4-frus865"
+      ],
+      "textSha256": "3117287dfa1b50a290de5648e8c6a8b3da92681c21ceef9e03c1aa3b92b6862f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 36,
+      "manuscriptNoteId": 593,
+      "anchor": "part-v-note-593",
+      "passageAnchor": "ref-part-v-note-593",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4v-sbd43"
+      ],
+      "textSha256": "7a7d930e640db9c7627bdaa9b88644268ac71f00f5db5fe7f617bb68f3351f9a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 38,
+      "manuscriptNoteId": 594,
+      "anchor": "part-v-note-594",
+      "passageAnchor": "ref-part-v-note-594",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-stahel-typhoon",
+        "p4-gko801"
+      ],
+      "textSha256": "241aa098ab4fa4d28ca271baf13581a7d3d2b712497610752504beb026ecf4b2",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 42,
+      "manuscriptNoteId": 595,
+      "anchor": "part-v-note-595",
+      "passageAnchor": "ref-part-v-note-595",
+      "sourceIds": [
+        "p4-ushmm-odessa"
+      ],
+      "textSha256": "063856b5fab943191e64478309b66610b0c88440d2dbce32e56dbfedee97d214",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 43,
+      "manuscriptNoteId": 596,
+      "anchor": "part-v-note-596",
+      "passageAnchor": "ref-part-v-note-596",
+      "sourceIds": [
+        "p4-tikhvin-history"
+      ],
+      "textSha256": "4a29adb3e43a1dee4ad127bfbfd7e362d9a9da7165f21949961fd0f3457a3e5d",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 47,
+      "manuscriptNoteId": 597,
+      "anchor": "part-v-note-597",
+      "passageAnchor": "ref-part-v-note-597",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-frus647",
+        "p4-gko801"
+      ],
+      "textSha256": "903845959f1dfbbc096b8508450d968f9ce4e1754a04bf5155aff9cd88bc39ca",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 16,
+      "manuscriptTitle": "Preparing to deny resources",
+      "anchor": "aside-preparing-to-deny-resources",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 36,
+      "slug": "barbarossa-crisis-at-the-capital-1941-10-16",
+      "sourceBlock": 32,
+      "manuscriptTitle": "Steinhardt’s changing assessment",
+      "anchor": "aside-steinhardt-s-changing-assessment",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 598,
+      "anchor": "part-v-note-598",
+      "passageAnchor": "ref-part-v-note-598",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-gko813-translation",
+        "p4-gko801",
+        "p4-gko813"
+      ],
+      "textSha256": "afff01262b6bd2ae8dbec1377c58c8f9a4c7c4567dba389c4c81a46a05039d01",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 599,
+      "anchor": "part-v-note-599",
+      "passageAnchor": "ref-part-v-note-599",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "9c154297b629f115816c9953753c21f0d78e252ec2483b66d46759b40c2bd661",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 12,
+      "manuscriptNoteId": 600,
+      "anchor": "part-v-note-600",
+      "passageAnchor": "ref-part-v-note-600",
+      "sourceIds": [
+        "p4-edele-loyalty"
+      ],
+      "textSha256": "283ca940b857e30235caced78160f562f7a2f500bbf53f2201f05d4e703ef8b9",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 14,
+      "manuscriptNoteId": 601,
+      "anchor": "part-v-note-601",
+      "passageAnchor": "ref-part-v-note-601",
+      "sourceIds": [
+        "p4-gko813-translation"
+      ],
+      "textSha256": "958ecfbe8dfbf518de61926cf2f8e1a273dfc877e756969e07cfa0cb78d90990",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 19,
+      "manuscriptNoteId": 602,
+      "anchor": "part-v-note-602",
+      "passageAnchor": "ref-part-v-note-602",
+      "sourceIds": [
+        "p4-gko813-translation"
+      ],
+      "textSha256": "e0ecba7a39b1db711e43fe1b28273124d3761cbd6f7ecc1c2fac08224cc47fa4",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 22,
+      "manuscriptNoteId": 603,
+      "anchor": "part-v-note-603",
+      "passageAnchor": "ref-part-v-note-603",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-edele-loyalty",
+        "p4-frus647",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "83db4d154ba9d16579bcd749a172c013aea667ba4d9ce24ceaa3ca429fe670d0",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 25,
+      "manuscriptNoteId": 604,
+      "anchor": "part-v-note-604",
+      "passageAnchor": "ref-part-v-note-604",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-frus647",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "c3a8e61691e0ad2167bbbb5c112afe03832a819278a6dbe032e6b518af2cc995",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 26,
+      "manuscriptNoteId": 605,
+      "anchor": "part-v-note-605",
+      "passageAnchor": "ref-part-v-note-605",
+      "sourceIds": [
+        "p4-frus864",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "a612bcee3130ad363dec6e27616aba8c6c37ed371848d5d96a26430cfe33ed3b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 28,
+      "manuscriptNoteId": 606,
+      "anchor": "part-v-note-606",
+      "passageAnchor": "ref-part-v-note-606",
+      "sourceIds": [
+        "p4-frus647",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "c0ff15723272173dd19cc22ff18483a98b57ac8e0905293b995f208f42baa6c3",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 31,
+      "manuscriptNoteId": 607,
+      "anchor": "part-v-note-607",
+      "passageAnchor": "ref-part-v-note-607",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-gko813-translation",
+        "p4-gko801"
+      ],
+      "textSha256": "a8a9e4190e94e22a2d4edf8ae7aee56df7fbfa8d279306f42a7e8b4bc7b89bd2",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 33,
+      "manuscriptNoteId": 608,
+      "anchor": "part-v-note-608",
+      "passageAnchor": "ref-part-v-note-608",
+      "sourceIds": [
+        "p4-gko813-translation"
+      ],
+      "textSha256": "48963acb90a3b565021983d615ba43ab70fe857d98657e95ff3555a36300d9cd",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 38,
+      "manuscriptNoteId": 609,
+      "anchor": "part-v-note-609",
+      "passageAnchor": "ref-part-v-note-609",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "a581424264add29afb04f55cedef4a152eda77deff2935ae55d5f182ad8bf92e",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 39,
+      "manuscriptNoteId": 610,
+      "anchor": "part-v-note-610",
+      "passageAnchor": "ref-part-v-note-610",
+      "sourceIds": [
+        "blau-planning"
+      ],
+      "textSha256": "4f2bc4485f97fa76f6efefacb6ca22435428b796cfe48421792f0e07e138cd0c",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 40,
+      "manuscriptNoteId": 611,
+      "anchor": "part-v-note-611",
+      "passageAnchor": "ref-part-v-note-611",
+      "sourceIds": [
+        "blau-planning",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "885515c63c242c92e8ea7eed06ad6ec7669031d14ad4409d91d6561f7fe740a2",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 41,
+      "manuscriptNoteId": 612,
+      "anchor": "part-v-note-612",
+      "passageAnchor": "ref-part-v-note-612",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "93bd3b901e206d61e620da761f2f5c7a5214c0036a7d6d2cb359056fd85917b0",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 44,
+      "manuscriptNoteId": 613,
+      "anchor": "part-v-note-613",
+      "passageAnchor": "ref-part-v-note-613",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-frus647",
+        "p4-gko813-translation",
+        "p4-gko813"
+      ],
+      "textSha256": "2339a00ba3851bee2465d8d7269dbd75c391da55b17721e0e68ccec78b06d055",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 45,
+      "manuscriptNoteId": 614,
+      "anchor": "part-v-note-614",
+      "passageAnchor": "ref-part-v-note-614",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "80ec7cf94da3816fb91c95ae56a8bc22dc5b8e0f64cda2cedbc23dd44d3e957b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 14,
+      "manuscriptTitle": "Three named responsibilities",
+      "anchor": "aside-three-named-responsibilities",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 37,
+      "slug": "barbarossa-moscow-under-siege-1941-10-19",
+      "sourceBlock": 33,
+      "manuscriptTitle": "Summary force and military tribunals",
+      "anchor": "aside-summary-force-and-military-tribunals",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 615,
+      "anchor": "part-v-note-615",
+      "passageAnchor": "ref-part-v-note-615",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-harrison-industry",
+        "p4-kirchubel-barbarossa",
+        "p4-judaica-kharkov"
+      ],
+      "textSha256": "0efc91666cd043a3da81b15d416c7cb8c6d841c4ba177fb95d9eba7ba5ed9b95",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 10,
+      "manuscriptNoteId": 616,
+      "anchor": "part-v-note-616",
+      "passageAnchor": "ref-part-v-note-616",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-kirchubel-barbarossa",
+        "p4v-sbd42"
+      ],
+      "textSha256": "1a7523170ce5bddf7fac1cefa28a9baa99cd24756ba6abdcf2cbcfd9390cb794",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 617,
+      "anchor": "part-v-note-617",
+      "passageAnchor": "ref-part-v-note-617",
+      "sourceIds": [
+        "blau-planning",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "f22fa28806bd36bfcdcfab5f501aadd0c43f4f9ca360d2a438c48e3b6acdb628",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 14,
+      "manuscriptNoteId": 618,
+      "anchor": "part-v-note-618",
+      "passageAnchor": "ref-part-v-note-618",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-kirchubel-barbarossa",
+        "p4-judaica-kharkov"
+      ],
+      "textSha256": "888f022a7a96db772fc5c80ad5282388434d0b526ce36f4da869705cce197027",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 16,
+      "manuscriptNoteId": 619,
+      "anchor": "part-v-note-619",
+      "passageAnchor": "ref-part-v-note-619",
+      "sourceIds": [
+        "p4-harrison-industry",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "b9dd2f6384874caab8f4f17e462bba29f9ad66036959271a9f059c85d4f92f84",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 17,
+      "manuscriptNoteId": 620,
+      "anchor": "part-v-note-620",
+      "passageAnchor": "ref-part-v-note-620",
+      "sourceIds": [
+        "p4-harrison-industry",
+        "p4-judaica-kharkov"
+      ],
+      "textSha256": "2f4aad27f076b8fed52a99b77aa413532800f4893e47231a51d00d5575d329f0",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 24,
+      "manuscriptNoteId": 621,
+      "anchor": "part-v-note-621",
+      "passageAnchor": "ref-part-v-note-621",
+      "sourceIds": [
+        "p4-harrison-industry",
+        "p4-kharkiv-tractor"
+      ],
+      "textSha256": "2ac6be95b94b053f396ac4a0b2c726f20e5052228eec850122967ecbe247699b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 27,
+      "manuscriptNoteId": 622,
+      "anchor": "part-v-note-622",
+      "passageAnchor": "ref-part-v-note-622",
+      "sourceIds": [
+        "blau-planning",
+        "p4-harrison-industry",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "2cdf397f85187d1c149ed9fcfe8045fbb68d0de50b2041b6fcfe65812a2dfa0f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 28,
+      "manuscriptNoteId": 623,
+      "anchor": "part-v-note-623",
+      "passageAnchor": "ref-part-v-note-623",
+      "sourceIds": [
+        "blau-planning",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "5d542320fd154cc59f81e602a17dd25ffb591db4a1ab29464a6512668fa3c142",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 30,
+      "manuscriptNoteId": 624,
+      "anchor": "part-v-note-624",
+      "passageAnchor": "ref-part-v-note-624",
+      "sourceIds": [
+        "p4-ushmm-odessa"
+      ],
+      "textSha256": "596605dc05b4dfb0ea27a419eb99ae967e89c3f6d7841c224679db599b5d1e44",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 32,
+      "manuscriptNoteId": 625,
+      "anchor": "part-v-note-625",
+      "passageAnchor": "ref-part-v-note-625",
+      "sourceIds": [
+        "blau-planning",
+        "p4-ushmm-odessa"
+      ],
+      "textSha256": "1c058c5e17960a1fc4fb834a05b96498412cca31107d8e5ad1cbf77153623559",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 37,
+      "manuscriptNoteId": 626,
+      "anchor": "part-v-note-626",
+      "passageAnchor": "ref-part-v-note-626",
+      "sourceIds": [
+        "p4-kharkiv-tractor",
+        "p4-review-reichenau"
+      ],
+      "textSha256": "51b815e5cb718460405af6b7d8e659fbd42677048d3929b89ea8fb92cf947ecf",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 39,
+      "manuscriptNoteId": 627,
+      "anchor": "part-v-note-627",
+      "passageAnchor": "ref-part-v-note-627",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-harrison-industry",
+        "p4-kharkiv-tractor"
+      ],
+      "textSha256": "d2ca70a6aa224b751b8d1f7a1329a7ed93d189c3ca5658b831579690c232b7e9",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 41,
+      "manuscriptNoteId": 628,
+      "anchor": "part-v-note-628",
+      "passageAnchor": "ref-part-v-note-628",
+      "sourceIds": [
+        "blau-planning",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "dac1e589c7f085830e874a54503167e54f8ed07e4d38e0792269e4e8d3996624",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 44,
+      "manuscriptNoteId": 629,
+      "anchor": "part-v-note-629",
+      "passageAnchor": "ref-part-v-note-629",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-harrison-industry",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "4b3f55365cb0969c3dc9738311f16f3f9bc8a1ac1dc3a9dd9a7b33da612bf09e",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 46,
+      "manuscriptNoteId": 630,
+      "anchor": "part-v-note-630",
+      "passageAnchor": "ref-part-v-note-630",
+      "sourceIds": [
+        "blau-planning",
+        "p4-harrison-industry",
+        "p4-judaica-kharkov",
+        "p4-review-reichenau"
+      ],
+      "textSha256": "2b8adb5e89a75e555b9bdc5163ddf7481b88b83acf1bec847539d982286a5ba3",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 17,
+      "manuscriptTitle": "A city and its machinery",
+      "anchor": "aside-a-city-and-its-machinery",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 38,
+      "slug": "barbarossa-the-southern-advance-1941-10-24",
+      "sourceBlock": 32,
+      "manuscriptTitle": "A city still defended",
+      "anchor": "aside-a-city-still-defended",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 631,
+      "anchor": "part-v-note-631",
+      "passageAnchor": "ref-part-v-note-631",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning",
+        "p4v-sbd43"
+      ],
+      "textSha256": "1eaeec668b322509b6aa74bc5ffbf97720cf7f3f76aa056489841b2341ea7d71",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 9,
+      "manuscriptNoteId": 632,
+      "anchor": "part-v-note-632",
+      "passageAnchor": "ref-part-v-note-632",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning"
+      ],
+      "textSha256": "a60eeb7344c5f5e2c8933723ee7bdfbb207f3b471cb97438a5848fcc5767f504",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 633,
+      "anchor": "part-v-note-633",
+      "passageAnchor": "ref-part-v-note-633",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning"
+      ],
+      "textSha256": "f0f3225a01d3276a36b651c2bcd8a20e6de1943aabbf1c789e4a0985efd66a62",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 13,
+      "manuscriptNoteId": 634,
+      "anchor": "part-v-note-634",
+      "passageAnchor": "ref-part-v-note-634",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "0163e8bd514721554c467ccd3d15bf06a8937ae990beff23f282dd2c04775805",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 18,
+      "manuscriptNoteId": 635,
+      "anchor": "part-v-note-635",
+      "passageAnchor": "ref-part-v-note-635",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "c5814c2ccc601bfbab203895a528fd96335656ee7b4e53b45be409489107d339",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 20,
+      "manuscriptNoteId": 636,
+      "anchor": "part-v-note-636",
+      "passageAnchor": "ref-part-v-note-636",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "418d1c9bedbcb656318d8d8640b729cc9da7ffb38b00aaa83d361fc5da0fe2db",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 23,
+      "manuscriptNoteId": 637,
+      "anchor": "part-v-note-637",
+      "passageAnchor": "ref-part-v-note-637",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning",
+        "p4v-sbd43"
+      ],
+      "textSha256": "0635403793fca8a1ef5350ccff1adfc5a508f0abe2b60b50e31f0f5ce6438f71",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 25,
+      "manuscriptNoteId": 638,
+      "anchor": "part-v-note-638",
+      "passageAnchor": "ref-part-v-note-638",
+      "sourceIds": [
+        "p4v-sbd43"
+      ],
+      "textSha256": "d33d6e37692246cba5a0b527dc1097c9111420e6b16631736610e50b41d74bc1",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 26,
+      "manuscriptNoteId": 639,
+      "anchor": "part-v-note-639",
+      "passageAnchor": "ref-part-v-note-639",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow"
+      ],
+      "textSha256": "beb489f3fdb13949311d7301e75366fbbc6523a270b31d67673758ea0a9f47a8",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 32,
+      "manuscriptNoteId": 640,
+      "anchor": "part-v-note-640",
+      "passageAnchor": "ref-part-v-note-640",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4-harrison-industry"
+      ],
+      "textSha256": "561f6de47e09d72e21cfe35a72d07a7c6b0dc70e565a4ed5961350bf2fb79b64",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 34,
+      "manuscriptNoteId": 641,
+      "anchor": "part-v-note-641",
+      "passageAnchor": "ref-part-v-note-641",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow"
+      ],
+      "textSha256": "48ecb0d26f74e1ade766885df5e48da16afb1f0d3d64eb9f688a50fbed65bbd2",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 35,
+      "manuscriptNoteId": 642,
+      "anchor": "part-v-note-642",
+      "passageAnchor": "ref-part-v-note-642",
+      "sourceIds": [
+        "p4-frus799",
+        "p4-frus803"
+      ],
+      "textSha256": "5f60d70d4af496087619120d08e559b85c8cb96467ca82f3d249c3cb952be04f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 37,
+      "manuscriptNoteId": 643,
+      "anchor": "part-v-note-643",
+      "passageAnchor": "ref-part-v-note-643",
+      "sourceIds": [
+        "p4v-sbd32"
+      ],
+      "textSha256": "ca45a8f8c8f5aed9283889eb1d45ef0f794f6e53ee1b87b422ad22f9547895a5",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 40,
+      "manuscriptNoteId": 644,
+      "anchor": "part-v-note-644",
+      "passageAnchor": "ref-part-v-note-644",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "cad9d61b96edfff1d0243101c923e05bb3ae8c7b8ea5c288d0d74d4f99470aba",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 42,
+      "manuscriptNoteId": 645,
+      "anchor": "part-v-note-645",
+      "passageAnchor": "ref-part-v-note-645",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "cf6a17519c112f31b4f46b2efc50316de0610f65fb16d8103cf7712f0ca7d4ef",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 43,
+      "manuscriptNoteId": 646,
+      "anchor": "part-v-note-646",
+      "passageAnchor": "ref-part-v-note-646",
+      "sourceIds": [
+        "ushmm-pow-treatment"
+      ],
+      "textSha256": "cafccd171d1d2336315835ba22a3066bc82bec1a3bd7a57fdcd2e8320978dd31",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 46,
+      "manuscriptNoteId": 647,
+      "anchor": "part-v-note-647",
+      "passageAnchor": "ref-part-v-note-647",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning"
+      ],
+      "textSha256": "2929be23819f885a8d09354bf623abe41f26b9abe2224bd2cf599699464ea114",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 48,
+      "manuscriptNoteId": 648,
+      "anchor": "part-v-note-648",
+      "passageAnchor": "ref-part-v-note-648",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4-frus799",
+        "p4-frus803"
+      ],
+      "textSha256": "2c30b66dd2bc394116d28aae998cd8fb84b8b463795a04c458a7b06d188b2144",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 13,
+      "manuscriptTitle": "The unfulfilled order to advance",
+      "anchor": "aside-the-unfulfilled-order-to-advance",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 39,
+      "slug": "barbarossa-the-offensive-slows-1941-11-02",
+      "sourceBlock": 26,
+      "manuscriptTitle": "Tula’s continuing resistance",
+      "anchor": "aside-tula-s-continuing-resistance",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 649,
+      "anchor": "part-v-note-649",
+      "passageAnchor": "ref-part-v-note-649",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4-cmh-leningrad",
+        "p4-enstad-chronology",
+        "p4-tikhvin-history"
+      ],
+      "textSha256": "cab98b11e06748b29793343715bf7b235923562631057fae5bc8fe83105fe989",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 9,
+      "manuscriptNoteId": 650,
+      "anchor": "part-v-note-650",
+      "passageAnchor": "ref-part-v-note-650",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-kirchubel-barbarossa",
+        "p4-tikhvin-history"
+      ],
+      "textSha256": "e1cb234f63434e11abf299c9c35cd0f151a0b176a4fa34505e67b878e7168996",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 651,
+      "anchor": "part-v-note-651",
+      "passageAnchor": "ref-part-v-note-651",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p4-kirchubel-barbarossa",
+        "p4-tikhvin-history"
+      ],
+      "textSha256": "80706f2b22192a2e8c77c0c114f283627c93d3224d4501a46501c1e97268c28f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 14,
+      "manuscriptNoteId": 652,
+      "anchor": "part-v-note-652",
+      "passageAnchor": "ref-part-v-note-652",
+      "sourceIds": [
+        "p4-enstad-chronology",
+        "p4-tikhvin-history"
+      ],
+      "textSha256": "2a4adda69f4fb73942f3f7fec99660b730b39d778ebbdd4fd5ae369062c028c9",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 17,
+      "manuscriptNoteId": 653,
+      "anchor": "part-v-note-653",
+      "passageAnchor": "ref-part-v-note-653",
+      "sourceIds": [
+        "p4v-sbd32"
+      ],
+      "textSha256": "315da42917199fabd45104a8c3c38f8aa584add29ac8102269d0e714d53ecf83",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 19,
+      "manuscriptNoteId": 654,
+      "anchor": "part-v-note-654",
+      "passageAnchor": "ref-part-v-note-654",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4v-sbd32"
+      ],
+      "textSha256": "ae3a1c2aad754ed5e72a0ad23e5e29f4f2d560542ba538187d6db7fab88f49d4",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 20,
+      "manuscriptNoteId": 655,
+      "anchor": "part-v-note-655",
+      "passageAnchor": "ref-part-v-note-655",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "d43149d57e5fe7abd03538811e35d89a05f16e0a51e7c47c61a4d13f956cf603",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 23,
+      "manuscriptNoteId": 656,
+      "anchor": "part-v-note-656",
+      "passageAnchor": "ref-part-v-note-656",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p3-ladoga-library"
+      ],
+      "textSha256": "634e4e640836ca7721e1b8507c420fe10b448462cf3772c716fa6bc33cdcdd9d",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 26,
+      "manuscriptNoteId": 657,
+      "anchor": "part-v-note-657",
+      "passageAnchor": "ref-part-v-note-657",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p4-tikhvin-history",
+        "p3-ladoga-library"
+      ],
+      "textSha256": "5f0f0b4a6aade54b5cd03c1812a45fa98119d693fd130a3b8239c824b797e7d0",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 27,
+      "manuscriptNoteId": 658,
+      "anchor": "part-v-note-658",
+      "passageAnchor": "ref-part-v-note-658",
+      "sourceIds": [
+        "p4-mukhina-excerpt"
+      ],
+      "textSha256": "e30ee7ad98072ada9e0a19fcdd3b9a843641ea725ce0e720290e26a5c75652c9",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 28,
+      "manuscriptNoteId": 659,
+      "anchor": "part-v-note-659",
+      "passageAnchor": "ref-part-v-note-659",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad"
+      ],
+      "textSha256": "921e595c5276e8abc1ae51f074396ce0b0ae7aab5b0c6041f5be14d4a7c4aedb",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 33,
+      "manuscriptNoteId": 660,
+      "anchor": "part-v-note-660",
+      "passageAnchor": "ref-part-v-note-660",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad"
+      ],
+      "textSha256": "b5c5b00dca559eb6cbf0fb4da76856f819f57c49c2e4ddd52b6142eee5b9c765",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 36,
+      "manuscriptNoteId": 661,
+      "anchor": "part-v-note-661",
+      "passageAnchor": "ref-part-v-note-661",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4v-sbd32"
+      ],
+      "textSha256": "1924e86411b0aac94e78f756d8de77528dd84ec4554c8dce1fa407ba8c89635f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 38,
+      "manuscriptNoteId": 662,
+      "anchor": "part-v-note-662",
+      "passageAnchor": "ref-part-v-note-662",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4v-sbd32"
+      ],
+      "textSha256": "dcb107f2655633900013bf96f6dc108a923d748ebd1bea3729467e49aa7862cc",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 40,
+      "manuscriptNoteId": 663,
+      "anchor": "part-v-note-663",
+      "passageAnchor": "ref-part-v-note-663",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p4v-sbd32"
+      ],
+      "textSha256": "f6c83d0c0dc6f6e82878c3d6f66f6a6a23b60935f84a0fde0bc6d708a112e9d3",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 42,
+      "manuscriptNoteId": 664,
+      "anchor": "part-v-note-664",
+      "passageAnchor": "ref-part-v-note-664",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "ushmm-eastern-front"
+      ],
+      "textSha256": "667b18e95922e363d1f762a954edb220042d049729bf72bb29143c6dafc3152c",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 44,
+      "manuscriptNoteId": 665,
+      "anchor": "part-v-note-665",
+      "passageAnchor": "ref-part-v-note-665",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p3-leningrad-food"
+      ],
+      "textSha256": "dfe894a92659dc8220dc1ab91fe9059758de3764ba200c6b533f7679d4d79019",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 45,
+      "manuscriptNoteId": 666,
+      "anchor": "part-v-note-666",
+      "passageAnchor": "ref-part-v-note-666",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "98acef035270102699f1381f5105e6efa00fa1c0c55fda4e3dc89eb23280d107",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 49,
+      "manuscriptNoteId": 667,
+      "anchor": "part-v-note-667",
+      "passageAnchor": "ref-part-v-note-667",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4-cmh-leningrad",
+        "p4v-sbd32",
+        "p3-ladoga-library"
+      ],
+      "textSha256": "07b8fafb43b30c9724b4ee9edbd06696539ad7802050ce9b57d5a16965f6af8b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 14,
+      "manuscriptTitle": "The loss of the junction",
+      "anchor": "aside-the-loss-of-the-junction",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 40,
+      "slug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "sourceBlock": 28,
+      "manuscriptTitle": "A route is a chain",
+      "anchor": "aside-a-route-is-a-chain",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 6,
+      "manuscriptNoteId": 668,
+      "anchor": "part-v-note-668",
+      "passageAnchor": "ref-part-v-note-668",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4v-halder-vii"
+      ],
+      "textSha256": "22b8133639e0778c45b6243b88f51031479f7e8b5858e364825c2bc56a32a9e0",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 9,
+      "manuscriptNoteId": 669,
+      "anchor": "part-v-note-669",
+      "passageAnchor": "ref-part-v-note-669",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "p4-enstad-chronology",
+        "p4-tikhvin-history"
+      ],
+      "textSha256": "42e924e43e6a1652b134521c8a1321f1a3e662e0d22eda059d3375593179a83d",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 11,
+      "manuscriptNoteId": 670,
+      "anchor": "part-v-note-670",
+      "passageAnchor": "ref-part-v-note-670",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning",
+        "p4-kirchubel-barbarossa"
+      ],
+      "textSha256": "e20b66b1a67ca0e0d5fd702469ee88036e8a40e31bed268223c2039875b350fc",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 13,
+      "manuscriptNoteId": 671,
+      "anchor": "part-v-note-671",
+      "passageAnchor": "ref-part-v-note-671",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "8b46e20e6ba5febd1dacba84aeb6fdae3155f1d95d2798ae286e81662400e77a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 17,
+      "manuscriptNoteId": 672,
+      "anchor": "part-v-note-672",
+      "passageAnchor": "ref-part-v-note-672",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "5ad3ef432e5a80e7401b671d10d2f94d988a65bd2d707687e33e073bfd15fd64",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 20,
+      "manuscriptNoteId": 673,
+      "anchor": "part-v-note-673",
+      "passageAnchor": "ref-part-v-note-673",
+      "sourceIds": [
+        "cmh-blitz"
+      ],
+      "textSha256": "070a62e3cddfaa749e72d4030659495f9ae812ec82cf77d540cdada7b1e5e603",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 22,
+      "manuscriptNoteId": 674,
+      "anchor": "part-v-note-674",
+      "passageAnchor": "ref-part-v-note-674",
+      "sourceIds": [
+        "cmh-blitz",
+        "blau-planning"
+      ],
+      "textSha256": "95f59ec7d7dd0de882f47ae244fca63eb37d22f0f58117ff606bde0a8a56a24f",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 24,
+      "manuscriptNoteId": 675,
+      "anchor": "part-v-note-675",
+      "passageAnchor": "ref-part-v-note-675",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4v-sbd43"
+      ],
+      "textSha256": "583ed7ba7b4385d0ee80b52f322d0ffb033cbcad7fdea566aeb39977f6a3e482",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 25,
+      "manuscriptNoteId": 676,
+      "anchor": "part-v-note-676",
+      "passageAnchor": "ref-part-v-note-676",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow"
+      ],
+      "textSha256": "42af820c30c97b6ce48ea5f5aa68549ef747d9b48beac30213f042ae8241e16b",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 26,
+      "manuscriptNoteId": 677,
+      "anchor": "part-v-note-677",
+      "passageAnchor": "ref-part-v-note-677",
+      "sourceIds": [
+        "p4-frus799",
+        "p4-frus803"
+      ],
+      "textSha256": "f1e71c0e99d40e7029e8ff8ab0fb5e4565032f1f6b68c5b4087ae957b01e8ce6",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 29,
+      "manuscriptNoteId": 678,
+      "anchor": "part-v-note-678",
+      "passageAnchor": "ref-part-v-note-678",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning"
+      ],
+      "textSha256": "075a219b3cc23a77d12660d5f6326de6ead75da510dac4c688b3056f3d51c456",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 30,
+      "manuscriptNoteId": 679,
+      "anchor": "part-v-note-679",
+      "passageAnchor": "ref-part-v-note-679",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow"
+      ],
+      "textSha256": "d6760a1ef97885a9deabc24157bbe06c68ef0a11252f40c908a44877874c81ef",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 31,
+      "manuscriptNoteId": 680,
+      "anchor": "part-v-note-680",
+      "passageAnchor": "ref-part-v-note-680",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning"
+      ],
+      "textSha256": "436da040c55bb95b884d35c812c6d93fbaf83e7f7f436e73fd45fbe5b4961632",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 38,
+      "manuscriptNoteId": 681,
+      "anchor": "part-v-note-681",
+      "passageAnchor": "ref-part-v-note-681",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "blau-planning",
+        "p4v-sbd21"
+      ],
+      "textSha256": "c34e5ed9a81c7d3d1167c7a9ef0ca2551dcab719b041a276b350a7d675968403",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 40,
+      "manuscriptNoteId": 682,
+      "anchor": "part-v-note-682",
+      "passageAnchor": "ref-part-v-note-682",
+      "sourceIds": [
+        "p4-review-rations"
+      ],
+      "textSha256": "a1f646fcf43e709b1de26c797264a201ea3dab14457f17e64a37612c8b0e8c23",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 42,
+      "manuscriptNoteId": 683,
+      "anchor": "part-v-note-683",
+      "passageAnchor": "ref-part-v-note-683",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-leningrad",
+        "blau-planning",
+        "p4-review-reichenau",
+        "p4v-halder-vii",
+        "ushmm-pow-treatment",
+        "ushmm-eastern-front"
+      ],
+      "textSha256": "0e5b7ce2dbe33c2811b72753bce993fd2823aae14777038833984f831d274c78",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 43,
+      "manuscriptNoteId": 684,
+      "anchor": "part-v-note-684",
+      "passageAnchor": "ref-part-v-note-684",
+      "sourceIds": [
+        "p4-harrison-industry",
+        "p4-review-milshtein",
+        "p4-gko813-translation"
+      ],
+      "textSha256": "d7206d888367ea9ab63e7e3202af21afc9e67c272ee14d2f2579766b8be9e60a",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "note",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 48,
+      "manuscriptNoteId": 685,
+      "anchor": "part-v-note-685",
+      "passageAnchor": "ref-part-v-note-685",
+      "sourceIds": [
+        "cmh-blitz",
+        "p4-cmh-moscow",
+        "p4-cmh-leningrad",
+        "blau-planning",
+        "p4-review-rations",
+        "p4-tikhvin-history",
+        "ushmm-pow-treatment"
+      ],
+      "textSha256": "bcca9e59ea4675561b38d3200bb25955e4b592f6d84e3a2ba04b145ef5764811",
+      "action": "Full native note retained with source and passage links."
+    },
+    {
+      "kind": "aside",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 13,
+      "manuscriptTitle": "A prospective line",
+      "anchor": "aside-a-prospective-line",
+      "action": "Aside adapted for the web and linked from study contents."
+    },
+    {
+      "kind": "aside",
+      "chapter": 41,
+      "slug": "barbarossa-the-edge-of-winter-1941-11-14",
+      "sourceBlock": 31,
+      "manuscriptTitle": "The renewed attacks",
+      "anchor": "aside-the-renewed-attacks",
+      "action": "Aside adapted for the web and linked from study contents."
+    }
+  ],
+  "sourceRecordsAdded": [
+    "p4v-sbd20",
+    "p4v-sbd21",
+    "p4v-sbd32",
+    "p4v-sbd42",
+    "p4v-sbd43",
+    "p4v-halder-vii"
+  ],
+  "limits": "Manuscript reconciliation, not a fresh independent audit of every historical claim. Original archival files and the complete Halder typescript were not inspected."
+}

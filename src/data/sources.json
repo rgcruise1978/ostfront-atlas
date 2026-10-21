@@ -7798,5 +7798,98 @@
     ],
     "notes": "Transcribed English text inspected October 21, 2026; original archive files and printed edition pagination were not independently inspected. The site contains transcription errors; document numbers, paragraph locators and publication provenance are retained. Contemporary Soviet assertions in the orders are not accepted as confirmed battlefield outcomes.",
     "reuseRights": "Linked and paraphrased; no facsimile or full translation reproduced."
+  },
+  {
+    "id": "p4v-sbd20",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 20 (Moscow: Voenizdat, 1954)",
+    "date": null,
+    "url": "https://djvu.online/file/8HRAWrStFLrTy",
+    "type": "Published primary document collection",
+    "relevance": "Western Front defence plan 00259 of 20 September 1941; sections I–V and VII. Planned flank protection and reserves are distinguished from their execution.",
+    "supports": [
+      "1941-09-30",
+      "1941-10-02"
+    ],
+    "notes": "Cited from the proofread Part V manuscript and linked published Russian reproduction. Original archival files were not inspected. OCR/transcriptions can contain errors; exact document identities and qualifications are retained in the evidence notes.",
+    "reuseRights": "Linked documentary reference only; no scans or historic map images reproduced."
+  },
+  {
+    "id": "p4v-sbd21",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 21 (Moscow: Voenizdat, 1954)",
+    "date": null,
+    "url": "https://ru.djvu.online/file/qUNxjVhApgvHF",
+    "type": "Published primary document collection",
+    "relevance": "Fifth Army order 012 of 8 November 1941: review of combat and instructions for tanks, observation, coordination and repair. The published text has minor omissions.",
+    "supports": [
+      "1941-11-14"
+    ],
+    "notes": "Cited from the proofread Part V manuscript and linked published Russian reproduction. Original archival files were not inspected. OCR/transcriptions can contain errors; exact document identities and qualifications are retained in the evidence notes.",
+    "reuseRights": "Linked documentary reference only; no scans or historic map images reproduced."
+  },
+  {
+    "id": "p4v-sbd32",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 32 (Moscow: Voenizdat, 1957)",
+    "date": null,
+    "url": "https://djvu.online/file/QdIZL8c7I3QRN",
+    "type": "Published primary document collection",
+    "relevance": "Fifty-Fourth Army order 00221 of 23 October and Fourth Guards Rifle Division orders and reports of 2 and 8 November 1941. Orders, partial reports and subsequent results remain distinct.",
+    "supports": [
+      "1941-11-02",
+      "1941-11-09"
+    ],
+    "notes": "Cited from the proofread Part V manuscript and linked published Russian reproduction. Original archival files were not inspected. OCR/transcriptions can contain errors; exact document identities and qualifications are retained in the evidence notes.",
+    "reuseRights": "Linked documentary reference only; no scans or historic map images reproduced."
+  },
+  {
+    "id": "p4v-sbd42",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 42 (Moscow: Voenizdat, 1960)",
+    "date": null,
+    "url": "https://ru.wikisource.org/wiki/Сборник_боевых_документов/42/003",
+    "type": "Published primary document collection",
+    "relevance": "Stavka directive 003010 of 15 October 1941, paragraphs 1–6: intended withdrawal arrangements for Southwestern and Southern fronts.",
+    "supports": [
+      "1941-10-24"
+    ],
+    "notes": "Cited from the proofread Part V manuscript and linked published Russian reproduction. Original archival files were not inspected. OCR/transcriptions can contain errors; exact document identities and qualifications are retained in the evidence notes.",
+    "reuseRights": "Linked documentary reference only; no scans or historic map images reproduced."
+  },
+  {
+    "id": "p4v-sbd43",
+    "institution": "Soviet General Staff, Military Scientific Directorate",
+    "title": "Collection of Combat Documents, volume 43 (Moscow: Voenizdat, 1960)",
+    "date": null,
+    "url": "https://djvu.online/file/jQgwe0HGsB07F",
+    "type": "Published primary document collection",
+    "relevance": "September–November 1941 directives, telephone records and Bryansk Front reports cited in Part V. Dispatch dates, effective times, incomplete returns and the 18–19 October deadline discrepancy are retained in the study notes.",
+    "supports": [
+      "1941-09-30",
+      "1941-10-02",
+      "1941-10-07",
+      "1941-10-13",
+      "1941-10-16",
+      "1941-10-19",
+      "1941-11-02",
+      "1941-11-14"
+    ],
+    "notes": "Cited from the proofread Part V manuscript and linked published Russian reproduction. Original archival files were not inspected. OCR/transcriptions can contain errors; exact document identities and qualifications are retained in the evidence notes.",
+    "reuseRights": "Linked documentary reference only; no scans or historic map images reproduced."
+  },
+  {
+    "id": "p4v-halder-vii",
+    "institution": "Franz Halder · U.S. Army translation · Combined Arms Research Library",
+    "title": "The Private War Journal of Generaloberst Franz Halder, volume VII, entries of 13–14 November 1941, typescript p. 162",
+    "date": null,
+    "url": "https://cgsc.contentdm.oclc.org/digital/collection/p4013coll8/id/3974",
+    "type": "Contemporary diary in translated typescript",
+    "relevance": "The Orsha conference itinerary and Halder’s 14 November record of prisoner-camp conditions and starvation. The diary was also used by the U.S. Army history and is not independent corroboration of that history’s full conference account.",
+    "supports": [
+      "1941-11-14"
+    ],
+    "notes": "Entry and locator retained from Part V. The official digital collection is linked; its full typescript was not independently retrieved during this update. The camp entry is evidence of knowledge and priorities, not an audited camp return.",
+    "reuseRights": "Linked reference only; no document image reproduced."
   }
 ]
