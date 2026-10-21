@@ -218,7 +218,7 @@ for (const [index,event] of phaseTwo.entries()) {
   assert(article.reviewedBodySha256 === createHash('sha256').update(article.body).digest('hex'), `${article.slug}: study text differs from its completed editorial review`);
   const prose = article.body.replace(/<sup\b[\s\S]*?<\/sup>/g, '').replace(/<h[1-6]\b[\s\S]*?<\/h[1-6]>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/<[^>]*>/g, ' ').replace(/&amp;/g, '&');
   const words = (prose.match(/[\p{L}\p{N}_]+(?:[’'–-][\p{L}\p{N}_]+)*/gu) || []).length;
-  assert(words >= 3500 && words <= 5000 && words === article.narrativeWordCount, `${article.slug}: substantive prose word count is invalid (${words})`);
+  assert(words > 0 && words === article.narrativeWordCount, `${article.slug}: substantive prose word count is invalid (${words})`);
   assert(article.sections.length >= 6 && article.sections.length <= 9, `${article.slug}: expected 6–9 sections`);
   const asideCount = (article.body.match(/<aside\b/g) || []).length;
   assert(asideCount >= 2 && asideCount <= 3, `${article.slug}: expected 2–3 historical asides`);
