@@ -428,3 +428,9 @@ Validation: production build; main data/citation validator; scripts/validate-par
 No further manuscript parts are included. Publication and public verification remain separate from this source checkpoint.
 
 Map follow-up recorded: the protected Phase IV Study Context cache still contains the earlier Fromm/Halder peace-proposal account and the earlier Hoth departure-date formulation. The revised articles distinguish Fromm’s proposal to Brauchitsch and Hoth’s October 5 assignment. The cached map text was not synchronized because map/context data was excluded from this update.
+
+## Map and section-description review — 21 October 2026
+
+Based on production commit `05784f0`: six collections, 49 dated maps, 50 published study records, 531 sources and en-CA locale preserved. Every date has interval and precision explanations; every current study section has a reading connection or an explicit contextual disposition. Added 482 optional locality references, three broad civilian-context records, a qualified Hiiumaa chronology correction and evidence-preserving PNG/JSON exports. Original study files and geographic geometry are unchanged.
+
+Build, data/citation and new structural/preservation checks pass. All map dates were exercised in the browser; representative phone layouts, study returns, presentation and exports were checked. Historical inspection is limited to the thirteen named source records; one LOC request returned 403. Detailed coverage, qualifications and verification are in `docs/map-update.md` and the delivered review package. Next: inspect the preview. Production publication remains separate.

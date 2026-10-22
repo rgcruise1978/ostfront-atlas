@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.880031,
+          54.950404
+        ]
+      },
+      "properties": {
+        "id": "civilian-kaunas-1941-06-25",
+        "title": "Kaunas / Kovno · anti-Jewish pogrom begins",
+        "actor": "German occupation / Lithuanian perpetrators",
+        "eventStart": "1941-06-25",
+        "eventEnd": "1941-06-26",
+        "note": "Anti-Jewish violence escalated under German occupation. The museum account dates the Slobodka pogrom to 25–26 June. This snapshot marks its beginning; it does not project the full two-day outcome backwards onto 25 June.",
+        "name": "Kaunas / Kovno · anti-Jewish pogrom begins",
+        "category": "civilian",
+        "domain": "civilian",
+        "eventKind": "persecution-context",
+        "snapshots": [
+          "1941-06-25"
+        ],
+        "startDate": "1941-06-25",
+        "endDate": "1941-06-25",
+        "observationDate": "1941-06-25",
+        "articleSlug": "barbarossa-the-first-counterattacks-1941-06-25",
+        "articleSections": [
+          "conquest-and-murder-in-kaunas"
+        ],
+        "sourceIds": [
+          "phase-i-ushmm-kovno",
+          "natural-earth-10m"
+        ],
+        "sourceLocators": {
+          "phase-i-ushmm-kovno": [
+            "Pogroms and Mass Arrests of Jews: June 25–June 30, 1941; Slobodka pogrom of 25–26 June"
+          ]
+        },
+        "locationType": "Broad city locality; not the exact atrocity site",
+        "accuracy": "Existing gazetteer settlement point; no street-level reconstruction",
+        "uncertainty": "The point identifies the city, not a specific building, route or perimeter. The event interval and selected map date are stated separately. No victim total or route is inferred.",
+        "temporalScope": "Event interval: 1941-06-25–1941-06-26. Displayed as civilian context on 1941-06-25.",
+        "label": "Kaunas / Kovno · anti-Jewish pogrom begins"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.182319,
+          53.131696
+        ]
+      },
+      "properties": {
+        "id": "civilian-bialystok-1941-06-28",
+        "title": "Białystok · 27 June murder of Jewish residents",
+        "actor": "German Order Police Battalion 309",
+        "eventStart": "1941-06-27",
+        "eventEnd": "1941-06-27",
+        "note": "The USHMM family record identifies German Police Battalion 309’s murder of Jewish residents on 27 June, including people locked inside the Great Synagogue and burned alive. This is the preceding day’s civilian context for the 28 June military snapshot. No aggregate victim total is assigned to the marker.",
+        "name": "Białystok · 27 June murder of Jewish residents",
+        "category": "civilian",
+        "domain": "civilian",
+        "eventKind": "persecution-context",
+        "snapshots": [
+          "1941-06-28"
+        ],
+        "startDate": "1941-06-28",
+        "endDate": "1941-06-28",
+        "observationDate": "1941-06-27",
+        "articleSlug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+        "articleSections": [
+          "the-human-meaning-of-the-german-rear"
+        ],
+        "sourceIds": [
+          "ushmm-bialystok-27",
+          "natural-earth-10m"
+        ],
+        "sourceLocators": {
+          "ushmm-bialystok-27": [
+            "Kracowski family archival caption: Battalion 309, 27 June 1941 and the burning of the Great Synagogue"
+          ]
+        },
+        "locationType": "Broad city locality; not the exact atrocity site",
+        "accuracy": "Existing gazetteer settlement point; no street-level reconstruction",
+        "uncertainty": "The point identifies the city, not a specific building, route or perimeter. The event interval and selected map date are stated separately. No victim total or route is inferred.",
+        "temporalScope": "Event interval: 1941-06-27–1941-06-27. Displayed as civilian context on 1941-06-28.",
+        "label": "Białystok · 27 June murder of Jewish residents"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.574947,
+          47.168347
+        ]
+      },
+      "properties": {
+        "id": "civilian-iasi-1941-07-03",
+        "title": "Iași · pogrom and deportation context",
+        "actor": "Romanian authorities, military and police; German participation",
+        "eventStart": "1941-06-28",
+        "eventEnd": "1941-06-30",
+        "note": "The commission describes late-June mass violence against Jews in Iași, involving Romanian state institutions and German participants, followed by lethal deportation trains. This is retrospective context for the 3 July Prut operations. The city marker supplies no invented train route or combined victim total.",
+        "name": "Iași · pogrom and deportation context",
+        "category": "civilian",
+        "domain": "civilian",
+        "eventKind": "persecution-context",
+        "snapshots": [
+          "1941-07-03"
+        ],
+        "startDate": "1941-07-03",
+        "endDate": "1941-07-03",
+        "observationDate": "1941-06-28",
+        "articleSlug": "barbarossa-the-soviet-union-responds-1941-07-03",
+        "articleSections": [
+          "the-violence-behind-the-southern-front"
+        ],
+        "sourceIds": [
+          "romania-commission-iasi",
+          "natural-earth-10m"
+        ],
+        "sourceLocators": {
+          "romania-commission-iasi": [
+            "Final Report, section The Iasi Pogrom, PDF pp. 16–23; chronology of late June and the deportation trains"
+          ]
+        },
+        "locationType": "Broad city locality; not the exact atrocity site",
+        "accuracy": "Existing gazetteer settlement point; no street-level reconstruction",
+        "uncertainty": "The point identifies the city, not a specific building, route or perimeter. The event interval and selected map date are stated separately. No victim total or route is inferred.",
+        "temporalScope": "Event interval: 1941-06-28–1941-06-30. Displayed as civilian context on 1941-07-03.",
+        "label": "Iași · pogrom and deportation context"
+      }
+    }
+  ]
+}

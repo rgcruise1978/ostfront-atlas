@@ -1,3 +1,4 @@
+import './map-reading.css';
 import React, { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import { NavLink, Route, Routes, Link, useLocation } from 'react-router-dom';
 import Home from './pages/Home.jsx';
@@ -80,6 +81,6 @@ export default function App() {
         <Route path="*" element={<div className="page narrow"><p className="eyebrow">Page not found</p><h1>There is no page at this address.</h1><Link to="/">Return home</Link></div>} />
       </Routes>
     </main>
-    <footer className="site-footer"><div className="footer-inner"><span className="footer-wordmark">OSTKRIEG</span><span>An independent historical atlas · 1939–1945</span><nav className="footer-navigation" aria-label="Footer navigation"><div><strong>Explore</strong><Link to="/">Home</Link><Link to="/collections">All collections</Link><Link to="/articles">Historical Studies</Link></div><div><strong>Collections</strong>{collections.map(c=><Link key={c.key} to={c.introPath}>{c.title}{c.phase?` · Phase ${c.phase.id}`:""}</Link>)}</div><div><strong>Evidence and guidance</strong><Link to="/sources">Sources</Link>{informationPages.map(page => <Link key={page.path} to={page.path}>{page.label}</Link>)}</div></nav></div></footer>
+    <footer className="site-footer"><div className="footer-inner"><span className="footer-wordmark">OSTKRIEG</span><span>Planned scope: 1939–1945 · Available: Poland 1939 and Barbarossa through 5 December 1941</span><nav className="footer-navigation" aria-label="Footer navigation"><div><strong>Explore</strong><Link to="/">Home</Link><Link to="/collections">All collections</Link><Link to="/articles">Historical Studies</Link></div><div><strong>Collections</strong>{collections.map(c=><Link key={c.key} to={c.introPath}>{c.title}{c.phase?` · Phase ${c.phase.id}`:""}</Link>)}</div><div><strong>Evidence and guidance</strong><Link to="/sources">Sources</Link>{informationPages.map(page => <Link key={page.path} to={page.path}>{page.label}</Link>)}</div></nav></div></footer>
   </div>;
 }

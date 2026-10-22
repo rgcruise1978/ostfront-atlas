@@ -1,0 +1,9 @@
+/* Existing palette and layout, with quieter reading aids around the map. */
+.snapshot-explanation,.collection-map-guide,.study-map-directory{border:1px solid var(--line,#b9a98c);padding:1rem;margin:1rem 0;background:var(--paper,#f4ead5)}
+.snapshot-explanation h2{font-size:1.2rem;line-height:1.3}.snapshot-explanation p,.snapshot-explanation li{font-size:.94rem;line-height:1.55}
+.snapshot-explanation details,.study-map-directory details{margin:.7rem 0}.snapshot-explanation summary,.study-map-directory summary{cursor:pointer;min-height:44px;display:list-item;padding:.4rem 0;font-weight:600}
+.collection-neighbours{display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem;border-top:1px solid #b9a98c;padding-top:1rem;margin-top:1rem}
+.context-disposition{font-size:.86rem;font-style:italic}.map-study-context small{display:block;overflow-wrap:anywhere}.map-study-context li{margin:.65rem 0}.context-feature-links{max-height:12rem;overflow:auto}.context-feature-links button{min-height:44px}
+.feature-detail,.snapshot-explanation,.map-study-context,.study-map-directory{overflow-wrap:anywhere}.study-map-directory li{margin:.6rem 0}.finder-results{max-height:32rem;overflow:auto}.map-study-context{max-height:46rem;overflow:auto}.map-study-context>details{content-visibility:auto;contain-intrinsic-size:auto 90px}
+@media(max-width:750px){.collection-neighbours{display:block}.collection-neighbours a{display:block;margin:.8rem 0}.map-study-context{max-height:34rem}.context-feature-links{max-height:9rem}}
+.map-commandbar button,.finder-tabs button,.map-actions button,.atlas-topbar select{min-height:44px}.layer-toggles label{min-height:44px;align-items:center}
