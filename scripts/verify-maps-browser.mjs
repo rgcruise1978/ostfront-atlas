@@ -19,7 +19,7 @@ for(const row of coverage){
  if((initial.sources.studyPlaces?.length||row.additions.studyLocalities)!==row.additions.studyLocalities)failures.push('locality count');
  await page.getByRole('button',{name:'Study context',exact:true}).click();const count=await page.locator('.map-context-passage').count();if(count!==row.additions.studyPassages)failures.push('context count '+count);
  if(await page.locator('.map-study-context>details').first().getAttribute('open')===null)await page.locator('.map-study-context>details>summary').first().click();
- const link=page.locator('.context-feature-links button').first();if(await link.count()){await link.click();await page.locator('.feature-detail').waitFor();if(!(await page.locator('.feature-detail').innerText()).includes('Feature sources'))failures.push('missing evidence');}
+ const link=page.locator('.map-study-context>details[open] .context-feature-links button').first();if(await link.count()){await link.click();await page.locator('.feature-detail').waitFor();if(!(await page.locator('.feature-detail').innerText()).includes('Feature sources'))failures.push('missing evidence');}
  if([0,1,2,3,4,5].every(i=>row.collectionIndex!==i))failures.push('collection');
  if(coverage.find(c=>c.collectionIndex===row.collectionIndex)?.date===row.date){
    await page.getByRole('button',{name:'Formations',exact:true}).click();await page.getByRole('button',{name:'Reset view',exact:true}).click();await page.waitForTimeout(150);await page.locator('.map-frame').screenshot({path:audit+`screenshots/desktop-${row.collectionIndex}.png`});
