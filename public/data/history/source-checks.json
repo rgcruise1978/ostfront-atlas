@@ -1,0 +1,91 @@
+{
+  "scope": "Selected source-content inspection for the map update; not comprehensive historical verification",
+  "checkedOn": "2026-10-21",
+  "checks": [
+    {
+      "sourceId": "ushmm-german-soviet-pact",
+      "status": "inspected",
+      "locatorAndScope": "Pact, secret spheres and subsequent invasions; no source artwork reproduced",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/german-soviet-pact"
+    },
+    {
+      "sourceId": "ushmm-1939-dates",
+      "status": "inspected",
+      "locatorAndScope": "26 October administration chronology; detailed effective dates remain governed by the study’s legal-document notes",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/1939-key-dates"
+    },
+    {
+      "sourceId": "avalon-boundary-1939",
+      "status": "inspected",
+      "locatorAndScope": "Articles I–V and signature 28 September; published transcription, not archival original",
+      "url": "https://avalon.law.yale.edu/20th_century/gsbound.asp"
+    },
+    {
+      "sourceId": "cmh-blitz",
+      "status": "inspected",
+      "locatorAndScope": "Frontier battles, Smolensk, strategic redirection and Typhoon; official history checked, original reports not re-inspected",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-2.html"
+    },
+    {
+      "sourceId": "p5-cmh-moscow",
+      "status": "inspected",
+      "locatorAndScope": "Yakhroma 28 November and revised orders; November offensive, Rostov and dated December transition",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-3.html"
+    },
+    {
+      "sourceId": "p5-cmh-counteroffensive",
+      "status": "inspected",
+      "locatorAndScope": "Opening counteroffensive chronology; later December events excluded from selected 5 December records",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-4.html"
+    },
+    {
+      "sourceId": "phase-i-ushmm-kovno",
+      "status": "inspected",
+      "locatorAndScope": "Local violence and Slobodka pogrom 25–26 June; no harmonized victim total",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/kovno"
+    },
+    {
+      "sourceId": "ushmm-bialystok-27",
+      "status": "inspected",
+      "locatorAndScope": "Archival family caption, Battalion 309 and synagogue burning on 27 June",
+      "url": "https://encyclopedia.ushmm.org/content/en/photo/prewar-photo-of-the-extended-kracowski-family"
+    },
+    {
+      "sourceId": "romania-commission-iasi",
+      "status": "inspected",
+      "locatorAndScope": "Report’s Iași pogrom section, PDF pp. 16–23; late-June chronology and state responsibility",
+      "url": "https://www.ushmm.org/m/pdfs/20080226-romania-commission-holocaust-history.pdf"
+    },
+    {
+      "sourceId": "ushmm-pow-treatment",
+      "status": "inspected",
+      "locatorAndScope": "Starvation, marches, disease and shootings; contextual policy evidence, no new camp coordinates",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/the-treatment-of-soviet-pows-starvation-disease-and-shootings-june-1941january-1942"
+    },
+    {
+      "sourceId": "p3-ushmm-babyn",
+      "status": "inspected",
+      "locatorAndScope": "Massacre section and 29–30 September chronology; opening administration sentence not used",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar"
+    },
+    {
+      "sourceId": "p3-map-islands",
+      "status": "inspected-conflict",
+      "locatorAndScope": "Naval chronology actually states a 16 September Dagö bridgehead; conflicts with local October chronology. Not treated as established geography",
+      "url": "https://wwwstatic.wlb-stuttgart.de/seekrieg/41-09.htm"
+    },
+    {
+      "sourceId": "p4-estonian-islands",
+      "status": "inspected",
+      "locatorAndScope": "Ain Tähiste / Hiiumaa Military History Society, 12 October entry: landing and bridgehead orders",
+      "url": "https://mil.hiiumaa.ee/militaarne-hiiumaa/hiiumaa-sojasundmused-oktoobris-1941/"
+    },
+    {
+      "sourceId": "loc-lage-1941-06-21",
+      "status": "inaccessible",
+      "locatorAndScope": "LOC returned HTTP 403. Existing attribution and prior inspection notes retained; no fresh independent inspection of the sheet",
+      "url": "https://www.loc.gov/resource/g7001sm.gct00491/?sp=4"
+    }
+  ],
+  "remaining": "Other source records and previously researched geometries were structurally assessed and retained. A citation, repeated claim or bibliography is not independent corroboration. Original archival documents behind published transcriptions were not freshly inspected."
+}

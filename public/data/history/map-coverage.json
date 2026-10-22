@@ -1,0 +1,2964 @@
+[
+  {
+    "date": "1939-08-23",
+    "collectionIndex": 0,
+    "collection": "The Partition of Poland",
+    "articleSlug": "molotov-ribbentrop-pact-1939-08-23",
+    "studyTitle": "Molotov–Ribbentrop Pact",
+    "regions": "Moscow, Soviet Union",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 0,
+      "formation-positions": 0,
+      "military-operations": 0,
+      "dated-fronts": 0,
+      "historical-logistics": 1
+    },
+    "additions": {
+      "studyLocalities": 10,
+      "studySections": 8,
+      "studyPassages": 49,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-german-soviet-pact",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "wolos-riga-2021",
+      "boridczenko-borderlands",
+      "frus-kennedy-1939",
+      "frus-transit-1939",
+      "studies-british-alliance",
+      "avalon-pact-secret",
+      "avalon-pact-public",
+      "ghdi-rapallo-1922",
+      "ghdi-berlin-1926",
+      "avalon-hitler-1939",
+      "avalon-ports-request",
+      "avalon-ports-reply",
+      "avalon-moscow-conversation",
+      "ushmm-german-foreign-policy",
+      "ushmm-munich",
+      "ushmm-invasion-poland",
+      "map-natural-earth-physical",
+      "ghdi-pact-1939",
+      "poland-frus-denunciation-1939",
+      "frus-litvinov-1939",
+      "avalon-stalin-1939",
+      "studies-imt-poland",
+      "poland-dawsey-shared-enmity",
+      "map-europe-baseline"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "ushmm-german-soviet-pact"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 26,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "No invasion or October administration is projected onto this date. The secret protocol's approximate river references are not a surveyed frontier.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "e228238cc5b2c231b9d6f6e13afd5cd3fa3a4642ff5ab68ad644179997f0f818"
+  },
+  {
+    "date": "1939-09-01",
+    "collectionIndex": 0,
+    "collection": "The Partition of Poland",
+    "articleSlug": "german-invasion-poland-1939-09-01",
+    "studyTitle": "Germany invades Poland",
+    "regions": "Poland and the Free City of Danzig",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 0,
+      "formation-positions": 14,
+      "military-operations": 19,
+      "dated-fronts": 0,
+      "historical-logistics": 1
+    },
+    "additions": {
+      "studyLocalities": 6,
+      "studySections": 9,
+      "studyPassages": 49,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-invasion-poland",
+      "ushmm-1939-dates",
+      "us-army-polish-campaign",
+      "kennedy-poland-planning",
+      "bbn-tczew",
+      "tczew-history-1939",
+      "mww-westerplatte",
+      "kennedy-poland-operations",
+      "zalewski-mlawa-1939",
+      "tym-mokra-1939",
+      "lydka-mokra-1939",
+      "map-slovak-operations",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "avalon-pact-secret",
+      "studies-bzura",
+      "mwp-prusy-reserve-1939",
+      "frus-lipski-september",
+      "map-natural-earth-physical"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "ushmm-1939-dates"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 18,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Army arrows summarize operational directions. Read the dated engagement points for first-day events; the arrows are not daily tracks.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "ecc48dd18573fe59431f4a769148f10a4499cc4c8d5a2e9ac28406ec734c3571"
+  },
+  {
+    "date": "1939-09-17",
+    "collectionIndex": 0,
+    "collection": "The Partition of Poland",
+    "articleSlug": "soviet-invasion-poland-1939-09-17",
+    "studyTitle": "The Soviet Union invades eastern Poland",
+    "regions": "Eastern Poland, Moscow and the European capitals",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 4,
+      "formation-positions": 4,
+      "military-operations": 20,
+      "dated-fronts": 0,
+      "historical-logistics": 1
+    },
+    "additions": {
+      "studyLocalities": 13,
+      "studySections": 9,
+      "studyPassages": 56,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-invasion-poland",
+      "ushmm-german-soviet-pact",
+      "map-poland-september-17",
+      "us-army-polish-campaign",
+      "kennedy-poland-planning",
+      "soviet-directive-north",
+      "soviet-directive-south",
+      "wysocki-soviet-fronts",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "avalon-sept14",
+      "ipn-september-aggression",
+      "avalon-sept17",
+      "avalon-sept10",
+      "avalon-sept15",
+      "boridczenko-borderlands",
+      "pz-grodno-1939",
+      "ipn-soviet-repressions",
+      "avalon-hilger-sept18",
+      "avalon-sept19",
+      "bundesarchiv-brest-1939",
+      "boundary-us-recognition",
+      "studies-romania",
+      "map-natural-earth-physical",
+      "frus-soviet-note",
+      "frus-london-sept18",
+      "map-europe-baseline",
+      "frus-paris-sept17-morning",
+      "frus-paris-sept17-evening"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "ushmm-german-soviet-pact"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 28,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Soviet order arrows show assigned directions, not achieved movement. The later treaty boundary and November Soviet annexation claims do not belong to this snapshot.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "a52404e5d96f34fea7cfac3e6b670d699be73910a59674cb27e03b38d79ffdf3"
+  },
+  {
+    "date": "1939-09-28",
+    "collectionIndex": 0,
+    "collection": "The Partition of Poland",
+    "articleSlug": "german-soviet-boundary-treaty-1939-09-28",
+    "studyTitle": "German–Soviet Boundary and Friendship Treaty",
+    "regions": "Moscow, occupied Poland and the European capitals",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 0,
+      "formation-positions": 2,
+      "military-operations": 6,
+      "dated-fronts": 0,
+      "historical-logistics": 1
+    },
+    "additions": {
+      "studyLocalities": 8,
+      "studySections": 11,
+      "studyPassages": 44,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "avalon-boundary-1939",
+      "avalon-september-protocol",
+      "boundary-potocki",
+      "us-state-frus-1939-border-report",
+      "ghdi-1939-partition-map",
+      "us-army-polish-campaign",
+      "ushmm-invasion-poland",
+      "ipn-soviet-invasion-1939",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "kennedy-poland-operations",
+      "mwp-1939-campaign-chronology",
+      "boundary-stalin-proposal",
+      "boundary-lithuanian-pact",
+      "boundary-lithuanian-strip",
+      "ushmm-lithuania",
+      "boundary-population",
+      "boundary-us-recognition",
+      "boundary-transit-oil",
+      "boundary-economic-program",
+      "boundary-oct30-assessment",
+      "boundary-chamberlain-oct3",
+      "boundary-peace-declaration",
+      "boundary-british-assessment",
+      "boundary-french-fears",
+      "boundary-french-rupture",
+      "boundary-molotov-speech",
+      "ipn-1939-prisoner-sorting",
+      "map-natural-earth-physical",
+      "map-europe-baseline",
+      "boundary-exile-calendar",
+      "boundary-polish-diplomacy"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "avalon-boundary-1939"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 31,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The treaty line is distinguished from contemporary military presence. October German administrations are not backdated to September.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "72d94ee8ea888bdc0ebb05f2c7f568e04df4417958c62c89344a16b23481c38f"
+  },
+  {
+    "date": "1939-10-26",
+    "collectionIndex": 0,
+    "collection": "The Partition of Poland",
+    "articleSlug": "german-occupation-administration-1939-10-26",
+    "studyTitle": "German Occupation Administration Takes Shape",
+    "regions": "German-occupied Poland, with responses from Moscow and the Western capitals",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 0,
+      "formation-positions": 0,
+      "military-operations": 1,
+      "dated-fronts": 0,
+      "historical-logistics": 1
+    },
+    "additions": {
+      "studyLocalities": 11,
+      "studySections": 8,
+      "studyPassages": 48,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-1939-dates",
+      "ushmm-german-administration",
+      "occ-administrative-chronology",
+      "occ-grochowina",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "occ-gg-documents",
+      "occ-krakow-academics",
+      "poland-owinska-investigation-2016",
+      "poland-fort-vii-chronology",
+      "occ-danzig",
+      "occ-ukraine-assembly",
+      "boundary-soviet-citizenship",
+      "occ-gdynia-arrivals",
+      "occ-gdynia-expulsions",
+      "occ-goering-economy",
+      "occ-economic-moscow",
+      "boundary-potocki",
+      "map-natural-earth-physical",
+      "ipn-lodz-renaming",
+      "occ-hull-recognition"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "ushmm-1939-dates"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 20,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Łódź's later incorporation and the Soviet annexation acts of November are not projected backwards. Generalized regional outlines do not resolve every district.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "23230f83f073b600951ca383022bfe096fa15616db1ec41373fdc088fe4ea5f1"
+  },
+  {
+    "date": "1941-06-21",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-before-the-storm-1941-06-21",
+    "studyTitle": "Before the Storm",
+    "regions": "The German–Soviet frontier, Finland and Romania",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 0,
+      "formation-positions": 17,
+      "military-operations": 10,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 10,
+      "studySections": 8,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-06-21",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "blau-planning",
+      "phase-i-cmh-eve",
+      "directive-21",
+      "kipp-covering",
+      "map-natural-earth-physical",
+      "frus-finland-25"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [
+        "loc-lage-1941-06-21"
+      ],
+      "notFreshlyInspected": 14,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Sector markers are not headquarters coordinates. Preinvasion Soviet territorial claims, internationally contested sovereignty and German objectives remain distinct.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "4449665fcade53eb8aeb7ab7fa84069302c016c27fbc3709e0b66cc3a9d0281f"
+  },
+  {
+    "date": "1941-06-22",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-begins-1941-06-22",
+    "studyTitle": "Barbarossa Begins",
+    "regions": "Lithuania, Belarus and western Ukraine",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 17,
+      "military-operations": 14,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 7,
+      "studySections": 8,
+      "studyPassages": 40,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-06-22",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "phase-i-cmh-eve",
+      "phase-i-glantz-directives",
+      "sbd-southwestern-june",
+      "frus-berlin-22",
+      "frus-molotov-22",
+      "map-natural-earth-physical",
+      "blau-planning",
+      "brest-akhmetova",
+      "phase-i-ganzer-brest"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 18,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The reconstruction combines reports made at different times. An advance axis does not mean secure occupation of all ground behind it.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "1257c16dec6a6d06bd5681e64bbcf18a62134d12ad6e42dac486a5a7c3292d58"
+  },
+  {
+    "date": "1941-06-25",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-the-first-counterattacks-1941-06-25",
+    "studyTitle": "The First Counterattacks",
+    "regions": "Lithuania, western Ukraine and Finland",
+    "defaultView": "north",
+    "existingLayers": {
+      "additional-civilian-context": 1,
+      "military-control": 1,
+      "formation-positions": 17,
+      "military-operations": 17,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 13,
+      "studySections": 8,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-06-25",
+      "phase-i-ushmm-kovno",
+      "natural-earth-10m",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "phase-i-capenko-29th-corps",
+      "phase-i-cmh-eve",
+      "sbd-36-015",
+      "sbd-36-010",
+      "stahlecker-kaunas",
+      "blau-planning",
+      "sbd-34-019",
+      "sbd-34-029",
+      "frus-finland-25",
+      "map-natural-earth-physical"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "phase-i-ushmm-kovno",
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The study includes reports from 23–24 June and later consequences. These are identified as context, not simultaneous unit observations.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "0344ab02258cf0286def1ee466faac63deb3539ff7c12b1d946fe2a9a88c4b56"
+  },
+  {
+    "date": "1941-06-28",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+    "studyTitle": "The Encirclement of Minsk",
+    "regions": "Białystok, Minsk and the Berezina approaches",
+    "defaultView": "center",
+    "existingLayers": {
+      "additional-civilian-context": 1,
+      "military-control": 2,
+      "formation-positions": 17,
+      "military-operations": 18,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 7,
+      "studySections": 8,
+      "studyPassages": 36,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-06-28",
+      "ushmm-bialystok-27",
+      "natural-earth-10m",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "phase-i-cmh-eve",
+      "blau-planning",
+      "sbd-35-044",
+      "sbd-35-057",
+      "sbd-35-050",
+      "sbd-35-148",
+      "commissar-order",
+      "ushmm-pow-treatment",
+      "map-natural-earth-physical"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "ushmm-bialystok-27",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 17,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Pocket outlines are approximate operational envelopes; they do not count prisoners or locate every surviving unit.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "3f9e88e7e80d692e739ba58ea27a566ab96781322775e0ffc8117b9ef6c88cf9"
+  },
+  {
+    "date": "1941-07-01",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-the-war-moves-east-1941-07-01",
+    "studyTitle": "The War Moves East",
+    "regions": "Volhynia, eastern Galicia and the Western Dvina",
+    "defaultView": "south",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 2,
+      "formation-positions": 17,
+      "military-operations": 14,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 6,
+      "studySections": 8,
+      "studyPassages": 37,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-07-01",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "blau-planning",
+      "sbd-36-037",
+      "sbd-36-036",
+      "phase-i-cmh-eve",
+      "sbd-34-052"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 14,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Lwów's prison murders and the subsequent pogrom require separate perpetrators and chronology. A city locality marker does not identify each site of violence.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "5ea41d369b25ed34bf4b9cd6ee8d43026fe0b7b9d136041571858b7b007a531a"
+  },
+  {
+    "date": "1941-07-03",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-the-soviet-union-responds-1941-07-03",
+    "studyTitle": "The Soviet Union Responds",
+    "regions": "Moscow · Dnieper–Dvina line · Prut · Bessarabia",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 1,
+      "military-control": 2,
+      "formation-positions": 18,
+      "military-operations": 14,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 12,
+      "studySections": 9,
+      "studyPassages": 39,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-07-03",
+      "romania-commission-iasi",
+      "natural-earth-10m",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-halunga",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "evacuation-council",
+      "garf-war-decisions",
+      "romanian-prut-record",
+      "blau-planning",
+      "stalin-3-july",
+      "ushmm-iasi-photo",
+      "gko-30-june",
+      "frus-aid-26"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "romania-commission-iasi",
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 18,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Speeches and supply negotiations are explanatory context. A physical corridor does not establish a functioning supply service.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "dadcba080cd28ac60064804080d5bfd5008c352fc9f27d190f2d338af3c90087"
+  },
+  {
+    "date": "1941-07-06",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-the-battle-beyond-minsk-1941-07-06",
+    "studyTitle": "The Battle Beyond Minsk",
+    "regions": "Lepel · Senno · Vitebsk · Orsha · Western Dvina",
+    "defaultView": "lepel",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 18,
+      "military-operations": 18,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 3,
+      "studySections": 9,
+      "studyPassages": 37,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-07-06",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-halunga",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "sbd-33-35",
+      "blau-planning",
+      "commissar-order",
+      "phase-i-yv-minsk",
+      "sbd-33-33",
+      "sbd-33-46",
+      "sbd-33-39",
+      "sbd-33-50",
+      "sbd-33-37"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The selected view gives a regional relationship between forces; movements from subsequent days remain labelled context.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "602eb84d35a86fce336509cc50dac509d3b548c418eba561ec58ba63c9ba408f"
+  },
+  {
+    "date": "1941-07-09",
+    "collectionIndex": 1,
+    "collection": "Barbarossa Phase 1",
+    "articleSlug": "barbarossa-eighteen-days-of-war-1941-07-09",
+    "studyTitle": "Eighteen Days of War",
+    "regions": "Pskov · Vitebsk · Dnieper · Zhytomyr · Bessarabia",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 18,
+      "military-operations": 18,
+      "dated-fronts": 0,
+      "historical-logistics": 3
+    },
+    "additions": {
+      "studyLocalities": 9,
+      "studySections": 9,
+      "studyPassages": 43,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "ushmm-barbarossa",
+      "loc-barbarossa-atlas",
+      "loc-lage-1941-07-09",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-halunga",
+      "map-finland-peace",
+      "map-slovak-campaign",
+      "map-greece-zones",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "blau-planning",
+      "phase-i-kovno-seventh-fort-2026",
+      "phase-i-kay-pows",
+      "phase-i-cmh-eve",
+      "pskov-library",
+      "sbd-33-46",
+      "sbd-33-37",
+      "sbd-34-078",
+      "map-natural-earth-physical"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "This closes an editorial phase, not the fighting. Loss figures in the study have their own definitions and intervals and are not map totals.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "528d0c054075d7482b1d7d839c19d70d87389ae9d602d4b26e6183927975d165"
+  },
+  {
+    "date": "1941-07-10",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-beyond-the-dnieper-1941-07-10",
+    "studyTitle": "Beyond the Dnieper",
+    "regions": "Smolensk and the central front",
+    "defaultView": "smolensk",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 25,
+      "military-operations": 7,
+      "dated-fronts": 3,
+      "historical-logistics": 8
+    },
+    "additions": {
+      "studyLocalities": 4,
+      "studySections": 9,
+      "studyPassages": 37,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "loc-lage-1941-07-10",
+      "p2-sbd37-054",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-11army-diary",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-tallinn-mobilisation",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "p2-sbd40-001",
+      "natural-earth-10m",
+      "blau-planning",
+      "p2-sbd37-001"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Reports from 10–12 July are distinguished in the study. Crossing locations and connecting operational edges have different precision.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "fdd2c11165f77cff8ee3540ad39c78375f045a1b179e49dbdb8a2c6bc6f8cc02"
+  },
+  {
+    "date": "1941-07-16",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-smolensk-under-assault-1941-07-16",
+    "studyTitle": "Smolensk Under Assault",
+    "regions": "Smolensk and Soltsy",
+    "defaultView": "smolensk",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 25,
+      "military-operations": 11,
+      "dated-fronts": 3,
+      "historical-logistics": 8
+    },
+    "additions": {
+      "studyLocalities": 8,
+      "studySections": 9,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "loc-lage-1941-07-16",
+      "p2-sbd37-060",
+      "p2-sbd37-140",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-11army-diary",
+      "p2-sbd41-001",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-tallinn-mobilisation",
+      "p2-soltsy-records",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "p2-sbd40-001",
+      "natural-earth-10m",
+      "p2-ponomarev",
+      "p2-sbd37-020",
+      "p2-yv-smolensk",
+      "p2-bormann-july16",
+      "p2-hansard-allies",
+      "p2-dhm-smolensk",
+      "p3-map-blau10",
+      "map-natural-earth-physical",
+      "map-europe-baseline"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 27,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "City capture, fighting and encirclement are separate claims. The reconstruction does not synchronize every report to one hour.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "bbad974bde064c41721896c913eee13b84e7c0f97322614fddd3c8964041764a"
+  },
+  {
+    "date": "1941-07-23",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-the-red-army-strikes-back-1941-07-23",
+    "studyTitle": "The Red Army Strikes Back",
+    "regions": "Smolensk, Yelnya and Mogilev",
+    "defaultView": "smolensk",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 28,
+      "military-operations": 8,
+      "dated-fronts": 3,
+      "historical-logistics": 8
+    },
+    "additions": {
+      "studyLocalities": 13,
+      "studySections": 9,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "loc-lage-1941-07-23",
+      "p2-sbd37-064",
+      "p2-sbd37-025",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-11army-diary",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-tallinn-mobilisation",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "p2-sbd40-001",
+      "natural-earth-10m",
+      "p2-sbd37-006",
+      "p2-sbd37-008",
+      "blau-planning",
+      "p2-frus251",
+      "p2-sbd37-032",
+      "map-natural-earth-physical",
+      "phase-ii-order0250",
+      "phase3-yadvashem-yelnya-place",
+      "p3-map-blau10",
+      "map-europe-baseline"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 28,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Named attack sectors are supported more closely than connecting front lines. Mogilev and later outcomes in the study retain their component dates.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "e5c7344f411d785004a45c0708f97131aa99489a5dbc0906ce218b8dd77eeb05"
+  },
+  {
+    "date": "1941-07-30",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-a-strategy-under-strain-1941-07-30",
+    "studyTitle": "A Strategy Under Strain",
+    "regions": "The Eastern Front",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 27,
+      "military-operations": 4,
+      "dated-fronts": 3,
+      "historical-logistics": 8
+    },
+    "additions": {
+      "studyLocalities": 8,
+      "studySections": 9,
+      "studyPassages": 37,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "atlas-july30-map",
+      "blau-planning",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-11army-diary",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-sbd39-195",
+      "p2-tallinn-mobilisation",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "p2-sbd40-001",
+      "natural-earth-10m",
+      "p2-sbd37-039",
+      "map-natural-earth-physical",
+      "p2-frus752",
+      "map-europe-baseline",
+      "p2-frus253"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 23,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Diplomatic developments are context rather than troop positions. Railway connections do not establish restored capacity or converted gauge.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "efb2c2b097320939ec639eb56e1c979c009202a818188e03b6a194e611ec34fb"
+  },
+  {
+    "date": "1941-08-06",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-the-uman-encirclement-1941-08-06",
+    "studyTitle": "The Uman Encirclement",
+    "regions": "Central Ukraine and the Uman region",
+    "defaultView": "uman",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 27,
+      "military-operations": 6,
+      "dated-fronts": 3,
+      "historical-logistics": 10
+    },
+    "additions": {
+      "studyLocalities": 3,
+      "studySections": 9,
+      "studyPassages": 37,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "dhm-uman-1941",
+      "p2-sbd39-195",
+      "p2-sbd39-197",
+      "p2-sbd39-200",
+      "blau-planning",
+      "cmh-blitz",
+      "atlas-command-oob",
+      "p2-11army-diary",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-sbd40-001",
+      "p2-odessa-001066",
+      "p2-tallinn-mobilisation",
+      "atlas-july30-map",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "natural-earth-10m",
+      "p2-sbd39-022",
+      "map-natural-earth-physical"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 24,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The pocket is a generalized area, not a continuous surveyed ring. Later prisoner totals and the outcomes of individual escape attempts are not completed facts on 6 August.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "4a52590711ff3513c6539d21f4b25c3423e5a3ac093bf87ecb05562018873ff0"
+  },
+  {
+    "date": "1941-08-12",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-the-war-widens-1941-08-12",
+    "studyTitle": "The War Widens",
+    "regions": "Leningrad approaches, Odessa and the central front",
+    "defaultView": "luga",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 26,
+      "military-operations": 6,
+      "dated-fronts": 3,
+      "historical-logistics": 10
+    },
+    "additions": {
+      "studyLocalities": 7,
+      "studySections": 9,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "p2-11army-diary",
+      "p2-sbd40-001",
+      "p2-sbd40-182",
+      "blau-planning",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-odessa-001066",
+      "p2-tallinn-mobilisation",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "natural-earth-10m",
+      "p2-odessa-context",
+      "p2-sbd39-195",
+      "p2-gauzner",
+      "map-natural-earth-physical",
+      "p2-forczyk-demyansk",
+      "p2-frus760"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 24,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Odessa's sea connection is distinct from an open land route. Schematic sea corridors do not establish a particular ship's voyage.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "2b8940dcac7007653f083306620716f01a008eaad530966e88920039c22d0d5f"
+  },
+  {
+    "date": "1941-08-19",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-the-fight-for-gomel-1941-08-19",
+    "studyTitle": "The Fight for Gomel",
+    "regions": "Gomel, the Sozh and the northern front",
+    "defaultView": "gomel",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 29,
+      "military-operations": 8,
+      "dated-fronts": 3,
+      "historical-logistics": 10
+    },
+    "additions": {
+      "studyLocalities": 3,
+      "studySections": 9,
+      "studyPassages": 39,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "p2-gomel-19",
+      "p2-gomel-20",
+      "p2-sbd40-047",
+      "p2-11army-diary",
+      "blau-planning",
+      "atlas-command-oob",
+      "cmh-blitz",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-gomel-21",
+      "p2-sbd40-001",
+      "p2-odessa-001066",
+      "p2-tallinn-mobilisation",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "p2-glantz-gomel"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The selected date does not imply that every part of the city and its approaches changed hands simultaneously.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "e82a1a011241829a2d92fe262b18fbaf3d342b9523ce8f3cc3a54814d47022c4"
+  },
+  {
+    "date": "1941-08-21",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-the-decision-to-turn-south-1941-08-21",
+    "studyTitle": "The Decision to Turn South",
+    "regions": "The central and southern sectors",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 28,
+      "military-operations": 6,
+      "dated-fronts": 3,
+      "historical-logistics": 10
+    },
+    "additions": {
+      "studyLocalities": 10,
+      "studySections": 9,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "p2-gomel-21",
+      "p2-sbd40-047",
+      "p2-11army-diary",
+      "blau-planning",
+      "cmh-blitz",
+      "atlas-command-oob",
+      "p2-sbd37-060",
+      "p2-sbd41-001",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-gomel-19",
+      "p2-sbd40-001",
+      "p2-odessa-001066",
+      "p2-tallinn-mobilisation",
+      "p2-gomel-20",
+      "atlas-period-communications",
+      "natural-earth-10m",
+      "map-natural-earth-physical",
+      "p3-map-blau10",
+      "p2-frus765",
+      "p2-stahel-kiev"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 22,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Planned objectives are optional and separately styled. The Kiev encirclement is not shown as already accomplished.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "ecf04ba3b79d9691b9caabdc159612353acf229ca342513c5a4db133d537df6d"
+  },
+  {
+    "date": "1941-08-25",
+    "collectionIndex": 2,
+    "collection": "Barbarossa Phase 2",
+    "articleSlug": "barbarossa-a-front-divided-1941-08-25",
+    "studyTitle": "A Front Divided",
+    "regions": "The Eastern Front",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 1,
+      "formation-positions": 26,
+      "military-operations": 10,
+      "dated-fronts": 3,
+      "historical-logistics": 10
+    },
+    "additions": {
+      "studyLocalities": 21,
+      "studySections": 9,
+      "studyPassages": 38,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "loc-barbarossa-atlas",
+      "glantz-barbarossa-derailed-v1",
+      "p2-sbd41-001",
+      "p2-11army-diary",
+      "cmh-blitz",
+      "p2-hiio-kiviloo",
+      "p2-tallinn-mobilisation",
+      "atlas-command-oob",
+      "p2-sbd37-060",
+      "p2-sbd40-047",
+      "p2-halunga",
+      "atlas-heinrichs",
+      "p2-sbd40-001",
+      "p2-odessa-001066",
+      "atlas-period-communications",
+      "p2-gomel-19",
+      "p2-gomel-21",
+      "natural-earth-10m",
+      "blau-planning",
+      "phase-ii-bila-tserkva",
+      "map-natural-earth-physical",
+      "p2-dervish",
+      "p2-frus3-399",
+      "phase3-yadvashem-yelnya-place",
+      "p3-map-blau10"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 24,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The phase boundary is editorial. Broader civilian and international context is retained without converting every passage into a dated event marker.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "3549eef954ab01d197ea3d513fcda517576d96cc6bd19f4ef383e040a754cccd"
+  },
+  {
+    "date": "1941-08-26",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-southward-offensive-1941-08-26",
+    "studyTitle": "The Southward Offensive",
+    "regions": "Kiev and central Ukraine",
+    "defaultView": "desna",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 2,
+      "formation-positions": 29,
+      "military-operations": 6,
+      "dated-fronts": 3,
+      "historical-logistics": 6
+    },
+    "additions": {
+      "studyLocalities": 20,
+      "studySections": 7,
+      "studyPassages": 31,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "natural-earth-10m",
+      "p3-southern-august",
+      "p3-bergen-chaplains",
+      "map-natural-earth-physical",
+      "p3r-kamenets",
+      "p3-map-blau10",
+      "p2-frus765",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 17,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "A bridgehead denotes a local foothold, not secure possession of all intervening territory. Connecting routes are schematic.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "758a913f4a1a67b065d0a370fdcb9a41af6591ea1c4ff66bef710242b5b89791"
+  },
+  {
+    "date": "1941-08-29",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-baltic-withdrawal-1941-08-29",
+    "studyTitle": "The Baltic Withdrawal",
+    "regions": "Estonia, the Gulf of Finland and the Karelian Isthmus",
+    "defaultView": "tallinn",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 28,
+      "military-operations": 9,
+      "dated-fronts": 3,
+      "historical-logistics": 5
+    },
+    "additions": {
+      "studyLocalities": 14,
+      "studySections": 6,
+      "studyPassages": 32,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-tallinn-land",
+      "p3-baltic-chronology",
+      "natural-earth-10m",
+      "p3-zubkov-tallinn",
+      "p3r-maripuu",
+      "p3-yle-isthmus",
+      "p3-frus71",
+      "p3-frus68",
+      "map-natural-earth-physical",
+      "phase3-yadvashem-yelnya-place",
+      "p3-map-blau10",
+      "p3-juminda-survivors",
+      "p3-eestirand"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 20,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Naval passage, land control and escape are separate relationships. No single casualty total is implied by the corridor symbols.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "cb91880fc457936bdf10db6442fde88d39bf90b07bd448afb7c9a8759a6495d4"
+  },
+  {
+    "date": "1941-09-03",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-soviet-counterstroke-1941-09-03",
+    "studyTitle": "The Soviet Counterstroke",
+    "regions": "Yelnya and the central front",
+    "defaultView": "yelnya",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 28,
+      "military-operations": 8,
+      "dated-fronts": 3,
+      "historical-logistics": 5
+    },
+    "additions": {
+      "studyLocalities": 7,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-sbd31",
+      "p3-glantz-yelnya",
+      "p3-glantz-yelnya-withdrawal",
+      "natural-earth-10m",
+      "p3-allied-correspondence",
+      "map-natural-earth-physical",
+      "phase3-yadvashem-yelnya-place",
+      "p3-simonov-yelnya",
+      "p3-glantz-yelnya-losses",
+      "p3-map-blau10",
+      "map-europe-baseline"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 18,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The study's attack orders, reports and subsequent outcome are distinguished. Approximate sectors do not locate every regiment.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "92d18c2b91a2faf3569e82bd4108cbe389d39e1d548b7a9789493519233b426a"
+  },
+  {
+    "date": "1941-09-08",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-leningrad-cut-off-1941-09-08",
+    "studyTitle": "Leningrad Cut Off",
+    "regions": "Leningrad, Lake Ladoga and the Neva",
+    "defaultView": "leningrad",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 27,
+      "military-operations": 9,
+      "dated-fronts": 3,
+      "historical-logistics": 7
+    },
+    "additions": {
+      "studyLocalities": 11,
+      "studySections": 6,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-map-finnish-svir",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-mosunov-54",
+      "p3-ladoga-library",
+      "natural-earth-10m",
+      "p3-nca-july16",
+      "p3-allied-correspondence",
+      "map-natural-earth-physical",
+      "phase3-nga-shlisselburg-place",
+      "p3-map-blau10",
+      "p3-ryabinkin"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 17,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The siege's later hunger and mortality are context, not totals already reached. Lake links are schematic and vary by season.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "3b4b1a03ff7be1217d8afab5814d74d66d550a9c0fd778bed42f4a7b6aa74639"
+  },
+  {
+    "date": "1941-09-12",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-kiev-trap-1941-09-12",
+    "studyTitle": "The Kiev Trap",
+    "regions": "Kiev and central Ukraine",
+    "defaultView": "kiev-pocket",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 30,
+      "military-operations": 8,
+      "dated-fronts": 3,
+      "historical-logistics": 8
+    },
+    "additions": {
+      "studyLocalities": 9,
+      "studySections": 7,
+      "studyPassages": 35,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "p3-map-blau10",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-map-finnish-svir",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-mosunov-54",
+      "p3-ladoga-library",
+      "natural-earth-10m",
+      "phase3-nga-lokhvytsia-place",
+      "p3-frus202"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 14,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The future closure of the pocket is not projected backwards. Forward reach and secure rear areas remain different categories.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "38db5e2e85606849ddc8f8fa9b598b2efe05c9b5ad59f285bb0bae72b33db9b3"
+  },
+  {
+    "date": "1941-09-16",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-encirclement-closes-1941-09-16",
+    "studyTitle": "The Encirclement Closes",
+    "regions": "Kiev and the Lokhvytsia region",
+    "defaultView": "kiev-pocket",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 4,
+      "formation-positions": 32,
+      "military-operations": 9,
+      "dated-fronts": 3,
+      "historical-logistics": 7
+    },
+    "additions": {
+      "studyLocalities": 7,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "p3-map-blau10",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-map-finnish-svir",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-mosunov-54",
+      "p3-ladoga-library",
+      "p3-map-islands",
+      "p3-kirchubel-panzer",
+      "p4-estonian-islands",
+      "natural-earth-10m",
+      "phase3-nga-lokhvytsia-place"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz",
+        "p3-map-islands",
+        "p4-estonian-islands"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 14,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The operational ring is generalized. Hiiumaa is shown as Soviet-held following the October local chronology; a conflicting September naval entry is disclosed rather than plotted as an established bridgehead.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "f75bdb94f40616599b48eae1cac27de1d6317e738538c86c786dba34113f47f2"
+  },
+  {
+    "date": "1941-09-19",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-fall-of-kiev-1941-09-19",
+    "studyTitle": "The Fall of Kiev",
+    "regions": "Kiev and the Dnieper region",
+    "defaultView": "kiev-city",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 4,
+      "formation-positions": 28,
+      "military-operations": 10,
+      "dated-fronts": 3,
+      "historical-logistics": 7
+    },
+    "additions": {
+      "studyLocalities": 5,
+      "studySections": 7,
+      "studyPassages": 36,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "p3-map-blau10",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-map-finnish-svir",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-mosunov-54",
+      "p3-ladoga-library",
+      "p3-map-islands",
+      "p3-berkhoff-babiyar",
+      "p3-herasymova",
+      "p3-khoroshunova-arrival",
+      "p4-estonian-islands",
+      "natural-earth-10m"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz",
+        "p3-map-islands",
+        "p4-estonian-islands"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 15,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Kiev's entry date does not establish a civilian-administration transfer. Later explosions and massacres are not backdated.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "916e7f5684cf5baa90c428aebae3528d97440e3dc9196b325d6661bdb00dd043"
+  },
+  {
+    "date": "1941-09-26",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-the-destruction-of-the-pocket-1941-09-26",
+    "studyTitle": "The Destruction of the Pocket",
+    "regions": "Kiev and eastern Ukraine",
+    "defaultView": "kiev-pocket",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 24,
+      "military-operations": 15,
+      "dated-fronts": 3,
+      "historical-logistics": 7
+    },
+    "additions": {
+      "studyLocalities": 11,
+      "studySections": 8,
+      "studyPassages": 37,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "p3-map-blau10",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-map-finnish-svir",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-mosunov-54",
+      "p3-ladoga-library",
+      "p3-map-islands",
+      "p3-sbd31",
+      "p3-esu-kiev",
+      "p3-esu-kirponos",
+      "p3-pohl-pows",
+      "p3-nca-pows",
+      "p4-estonian-islands",
+      "natural-earth-10m",
+      "p3-davydov",
+      "phase3-nga-lokhvytsia-place"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz",
+        "p3-map-islands",
+        "p4-estonian-islands"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "German prisoner claims require their own reporting scope. The map does not convert them into verified Soviet losses.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "bf87a9ad61ffde32c5f16fe90a2352cb4ac1765892d48f74f74fdb9651b8530c"
+  },
+  {
+    "date": "1941-09-29",
+    "collectionIndex": 3,
+    "collection": "Barbarossa Phase 3",
+    "articleSlug": "barbarossa-victory-and-catastrophe-1941-09-29",
+    "studyTitle": "Victory and Catastrophe",
+    "regions": "The Eastern Front and Kiev",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 24,
+      "military-operations": 17,
+      "dated-fronts": 3,
+      "historical-logistics": 7
+    },
+    "additions": {
+      "studyLocalities": 11,
+      "studySections": 9,
+      "studyPassages": 36,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "cmh-blitz",
+      "p3-map-blau10",
+      "blau-planning",
+      "p3-leningrad-documents",
+      "p3-sbd40",
+      "p3-map-finnish-svir",
+      "p3-karjalainen-isthmus",
+      "p3-guderian-flank",
+      "p3-sbd43",
+      "p2-sbd40-001",
+      "p3-mosunov-54",
+      "p3-ladoga-library",
+      "p3-map-islands",
+      "p3-sbd31",
+      "p3-no3140",
+      "p3-pronicheva",
+      "p3-yad-kiev",
+      "p4-estonian-islands",
+      "natural-earth-10m",
+      "p3-nca-leningrad",
+      "map-natural-earth-physical",
+      "phase3-yadvashem-yelnya-place",
+      "phase3-nga-shlisselburg-place",
+      "p3-frus783",
+      "p3-frus262",
+      "p3-ushmm-babyn",
+      "map-europe-baseline"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "cmh-blitz",
+        "p3-map-islands",
+        "p4-estonian-islands",
+        "p3-ushmm-babyn"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 23,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The two-day massacre is not a completed result on its first day. Hiiumaa follows the October local landing chronology, with a conflicting September naval entry explicitly qualified.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "4108ebb5fbf93c9758a58a11d62fedda92b449cc1f1fcecdc123aa37c742350d"
+  },
+  {
+    "date": "1941-09-30",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-offensive-begins-1941-09-30",
+    "studyTitle": "The Offensive Begins",
+    "regions": "Army Group Centre, southern sector",
+    "defaultView": "typhoon-opening",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 40,
+      "military-operations": 10,
+      "dated-fronts": 3,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 9,
+      "studySections": 8,
+      "studyPassages": 32,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-map-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p3-ushmm-babyn",
+      "p3-frus786",
+      "p4-frus787",
+      "natural-earth-10m",
+      "p4v-sbd43",
+      "p4v-sbd20",
+      "map-natural-earth-physical",
+      "p3-map-blau10"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment",
+        "p3-ushmm-babyn"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 15,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The map combines regional situations with dated component events. Ordered Moscow objectives remain distinct from achieved movement.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "f78ddd1e2d3244efd9a85b0ce88e39cc9d9d549313058a6ca3148bcd6fbd2982"
+  },
+  {
+    "date": "1941-10-02",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-drive-on-moscow-1941-10-02",
+    "studyTitle": "The Drive on Moscow",
+    "regions": "Western approaches to Moscow",
+    "defaultView": "typhoon-opening",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 40,
+      "military-operations": 9,
+      "dated-fronts": 3,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 9,
+      "studySections": 8,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-map-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p3-frus786",
+      "p4-frus787",
+      "natural-earth-10m",
+      "p4v-sbd43",
+      "p4-stahel-typhoon",
+      "map-natural-earth-physical",
+      "p3-map-blau10"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 15,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Later pocket closures are not already complete. Reported sectors are more certain than connecting operational edges.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "dbd26abb98bb0084e8d8c4dabf82854e689484660a7b5c5df91b370aebb0740e"
+  },
+  {
+    "date": "1941-10-07",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-armies-in-the-trap-1941-10-07",
+    "studyTitle": "Armies in the Trap",
+    "regions": "Vyazma and Bryansk",
+    "defaultView": "vyazma-bryansk",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 6,
+      "formation-positions": 36,
+      "military-operations": 13,
+      "dated-fronts": 3,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 10,
+      "studySections": 7,
+      "studyPassages": 32,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-stahel-exploiting",
+      "p4-map-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-ushmm-ordinary",
+      "natural-earth-10m",
+      "p4-review-terrain",
+      "p4v-sbd43",
+      "p4-stahel-typhoon",
+      "map-natural-earth-physical",
+      "p3-map-blau10",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Encirclement does not mean immediate surrender. Pocket outlines do not establish an impermeable perimeter or a final prisoner total.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "2fe258482898c839ecd1a6d6d8256960d238954f699c8b0b9445a16e51697d79"
+  },
+  {
+    "date": "1941-10-13",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-road-to-moscow-1941-10-13",
+    "studyTitle": "The Road to Moscow",
+    "regions": "The Mozhaisk line and Moscow approaches",
+    "defaultView": "moscow",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 7,
+      "formation-positions": 30,
+      "military-operations": 15,
+      "dated-fronts": 3,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 11,
+      "studySections": 7,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-cmh-moscow",
+      "p4-stahel-exploiting",
+      "p4-judaica-kharkov",
+      "p4-map-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "natural-earth-10m",
+      "p4-review-hoth",
+      "p4v-sbd43",
+      "p4-frus864",
+      "p4-stahel-typhoon",
+      "map-natural-earth-physical",
+      "p4-review-milshtein",
+      "p4-review-terrain"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 19,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The study distinguishes command changes, defensive preparation and later outcomes. Road corridors remain schematic.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "4b1d4063f0742fe8a83426ca70c82ee25aac69f37c654f9809c8c11383833ac2"
+  },
+  {
+    "date": "1941-10-16",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-crisis-at-the-capital-1941-10-16",
+    "studyTitle": "Crisis at the Capital",
+    "regions": "Moscow, Odessa and Tikhvin",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 6,
+      "formation-positions": 34,
+      "military-operations": 22,
+      "dated-fronts": 3,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 12,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-cmh-moscow",
+      "p4-tikhvin-history",
+      "p4-judaica-kharkov",
+      "p4-map-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-gko801",
+      "p4-frus865",
+      "natural-earth-10m",
+      "p4-frus647",
+      "p4-frus864",
+      "map-natural-earth-physical",
+      "p4-stahel-weathering",
+      "p4v-sbd43",
+      "p4-stahel-typhoon"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 20,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Evacuation orders and destinations do not prove an individual's journey. Later events in Moscow remain context.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "e67c46a63ff551c18e09445fb43864516ccd2f4c29c0ffffb33f8af3cd8e7952"
+  },
+  {
+    "date": "1941-10-19",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-moscow-under-siege-1941-10-19",
+    "studyTitle": "Moscow Under Siege",
+    "regions": "Moscow and its approaches",
+    "defaultView": "moscow",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 6,
+      "formation-positions": 39,
+      "military-operations": 26,
+      "dated-fronts": 3,
+      "historical-logistics": 16
+    },
+    "additions": {
+      "studyLocalities": 8,
+      "studySections": 6,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-cmh-moscow",
+      "p4-map-cmh-moscow",
+      "p4-tikhvin-history",
+      "p4-judaica-kharkov",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-gko801",
+      "p4-frus865",
+      "p4-edele-loyalty",
+      "p4-gko813-translation",
+      "natural-earth-10m",
+      "p4v-sbd43",
+      "map-natural-earth-physical",
+      "p4-gko813",
+      "p4-frus647",
+      "p4-frus864"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 21,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "A state of siege is a legal and administrative measure, distinct from complete military encirclement of the city.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "85620051d21bbad4ee2ae68eaf6a0ac5fa2eebe7f2a53fd22168e39034342507"
+  },
+  {
+    "date": "1941-10-24",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-southern-advance-1941-10-24",
+    "studyTitle": "The Southern Advance",
+    "regions": "Eastern Ukraine and Crimea",
+    "defaultView": "ukraine-crimea",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 39,
+      "military-operations": 28,
+      "dated-fronts": 3,
+      "historical-logistics": 16
+    },
+    "additions": {
+      "studyLocalities": 12,
+      "studySections": 7,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-cmh-moscow",
+      "p4-map-cmh-moscow",
+      "p4-tikhvin-history",
+      "p4-judaica-kharkov",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-gko801",
+      "p4-frus865",
+      "p4-gko813-translation",
+      "p4-kharkiv-tractor",
+      "natural-earth-10m",
+      "map-natural-earth-physical",
+      "p4v-sbd42",
+      "p3-map-blau10",
+      "p4-review-reichenau"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 20,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Military control does not establish the precise extent of civil administration. Later Rostov operations are explanatory context.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "bb75dcd37eb8592594760504ed4464b18ffe37d035bac9bdd987f1d182fa8d91"
+  },
+  {
+    "date": "1941-11-02",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-offensive-slows-1941-11-02",
+    "studyTitle": "The Offensive Slows",
+    "regions": "Moscow, Tula and Crimea",
+    "defaultView": "tula",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 39,
+      "military-operations": 32,
+      "dated-fronts": 4,
+      "historical-logistics": 16
+    },
+    "additions": {
+      "studyLocalities": 13,
+      "studySections": 7,
+      "studyPassages": 35,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-map-cmh-12nov",
+      "p4-cmh-moscow",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-map-cmh-moscow",
+      "p4-tikhvin-history",
+      "p4-judaica-kharkov",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-gko801",
+      "p4-frus865",
+      "p4-gko813-translation",
+      "p4-kharkiv-tractor",
+      "p4-frus799",
+      "p4-frus803",
+      "natural-earth-10m",
+      "p4-stahel-eye",
+      "map-natural-earth-physical",
+      "p4v-sbd32"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 22,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The selected date is not a uniform pause along the front. Siege positions and approximate connecting sectors retain separate precision notes.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "33814d5a5f981b748b6b149f000b4544f1355fbc4d16c7d35218eb925d9d752e"
+  },
+  {
+    "date": "1941-11-09",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-battle-for-tikhvin-1941-11-09",
+    "studyTitle": "The Battle for Tikhvin",
+    "regions": "Leningrad, Volkhov and Tikhvin",
+    "defaultView": "tikhvin",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 39,
+      "military-operations": 36,
+      "dated-fronts": 4,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 5,
+      "studySections": 7,
+      "studyPassages": 35,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-map-cmh-12nov",
+      "p4-cmh-moscow",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-map-cmh-moscow",
+      "p4-tikhvin-history",
+      "p4-enstad-chronology",
+      "p4-stavka-tikhvin",
+      "p4-judaica-kharkov",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-gko801",
+      "p4-frus865",
+      "p4-gko813-translation",
+      "p4-kharkiv-tractor",
+      "p4-mukhina-excerpt",
+      "p4-frus799",
+      "p4-frus803",
+      "natural-earth-10m",
+      "p4v-sbd32",
+      "ushmm-eastern-front",
+      "p3-leningrad-food",
+      "p3-ladoga-library",
+      "map-natural-earth-physical",
+      "p3-map-blau10"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 28,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Capture of a junction does not establish German operation of its railway. The later Soviet recovery is not shown as complete.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "6f3aa1d2c8a456587d05f4cd1dac169953f7f687d9bfc7dd7a1230727d8e7e75"
+  },
+  {
+    "date": "1941-11-14",
+    "collectionIndex": 4,
+    "collection": "Barbarossa Phase 4",
+    "articleSlug": "barbarossa-the-edge-of-winter-1941-11-14",
+    "studyTitle": "The Edge of Winter",
+    "regions": "The Eastern Front",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 38,
+      "military-operations": 39,
+      "dated-fronts": 4,
+      "historical-logistics": 17
+    },
+    "additions": {
+      "studyLocalities": 15,
+      "studySections": 7,
+      "studyPassages": 35,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p4-estonian-islands",
+      "p4-transnistria",
+      "p4-ushmm-odessa",
+      "cmh-blitz",
+      "blau-planning",
+      "p4-map-cmh-12nov",
+      "p4-cmh-moscow",
+      "p4-kirchubel-barbarossa",
+      "p4-usma-1949",
+      "p4-map-cmh-moscow",
+      "p4-tikhvin-history",
+      "p4-enstad-chronology",
+      "p4-stavka-tikhvin",
+      "p4-judaica-kharkov",
+      "p4-cmh-leningrad",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p4-gko801",
+      "p4-frus865",
+      "p4-gko813-translation",
+      "p4-kharkiv-tractor",
+      "p4-frus799",
+      "p4-frus803",
+      "natural-earth-10m",
+      "p4v-sbd43",
+      "p4v-halder-vii",
+      "p4v-sbd21",
+      "p4-review-rations",
+      "ushmm-eastern-front",
+      "p4-review-reichenau",
+      "map-natural-earth-physical",
+      "p4-review-milshtein"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p4-estonian-islands",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 29,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "This editorial boundary precedes the renewed effort; it is not a ceasefire or a simultaneous change across all theatres.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "1cf1e68090f0970decca26a2b10d4ac3e095bdfc0617b95a86bd86be1a9d0349"
+  },
+  {
+    "date": "1941-11-15",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-the-final-offensive-1941-11-15",
+    "studyTitle": "The Final Offensive",
+    "regions": "Northern and western approaches to Moscow",
+    "defaultView": "moscow-north",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 49,
+      "military-operations": 15,
+      "dated-fronts": 4,
+      "historical-logistics": 11
+    },
+    "additions": {
+      "studyLocalities": 15,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stahel-relaunch",
+      "natural-earth-10m",
+      "map-natural-earth-physical",
+      "p5-stahel-intro",
+      "p5-frus810",
+      "p4-frus799",
+      "p5-review-keller"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 20,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The map shows command sectors and component intervals; the entire army group is not assumed to attack at one hour.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "6cdcde7359055965349a4a8a978e19f58ad5fb5d6cebcd039e1a768f2e31514b"
+  },
+  {
+    "date": "1941-11-18",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-the-southern-pincer-1941-11-18",
+    "studyTitle": "The Southern Pincer",
+    "regions": "Tula, Venev and the Kashira approaches",
+    "defaultView": "tula",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 72,
+      "military-operations": 17,
+      "dated-fronts": 4,
+      "historical-logistics": 12
+    },
+    "additions": {
+      "studyLocalities": 18,
+      "studySections": 7,
+      "studyPassages": 35,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-stahel-relaunch",
+      "natural-earth-10m",
+      "map-natural-earth-physical",
+      "p5-pravda-guards"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 18,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Kashira and the later counterstroke are context where their dates fall after the snapshot. Tula is not shaded as captured.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "81ff38d8d7bf1fed4ae67cd307d974f20b20f1f4741715fc35213d477c99c01e"
+  },
+  {
+    "date": "1941-11-21",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-rostov-falls-1941-11-21",
+    "studyTitle": "Rostov Falls",
+    "regions": "Rostov-on-Don and the lower Don",
+    "defaultView": "lower-don",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 72,
+      "military-operations": 22,
+      "dated-fronts": 4,
+      "historical-logistics": 12
+    },
+    "additions": {
+      "studyLocalities": 6,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-winkler-rostov",
+      "p5-stahel-relaunch",
+      "p4-tikhvin-history",
+      "map-natural-earth-physical",
+      "p5-review-bundesarchiv-units",
+      "p5-frus653",
+      "natural-earth-10m"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 21,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The short occupation of 1941 is distinguished from the larger massacre of 1942. No later victim total is projected onto this date.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "d27f1193697551c8908460bd55021f73eadab65c12915a908d8aba8916982a1b"
+  },
+  {
+    "date": "1941-11-24",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-the-northern-pincer-1941-11-24",
+    "studyTitle": "The Northern Pincer",
+    "regions": "Klin, Solnechnogorsk and the northern Moscow approaches",
+    "defaultView": "moscow-north",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 71,
+      "military-operations": 24,
+      "dated-fronts": 4,
+      "historical-logistics": 12
+    },
+    "additions": {
+      "studyLocalities": 10,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-winkler-rostov",
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5-istra-museum",
+      "p5-pravda-guards",
+      "p4-tikhvin-history",
+      "map-natural-earth-physical",
+      "natural-earth-10m",
+      "p5-frus813",
+      "map-europe-baseline"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 24,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Retreat, reinforcement and planned objectives have different time ranges. Sector markers do not locate individual headquarters.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "1ba0257a689b2f22151b86bf97373335d368152c2371d18e17a5787c35a59687"
+  },
+  {
+    "date": "1941-11-28",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-at-the-moscow-volga-canal-1941-11-28",
+    "studyTitle": "At the Moscow–Volga Canal",
+    "regions": "Yakhroma, Dmitrov and Peremilovo",
+    "defaultView": "yakhroma",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 4,
+      "formation-positions": 71,
+      "military-operations": 26,
+      "dated-fronts": 4,
+      "historical-logistics": 13
+    },
+    "additions": {
+      "studyLocalities": 6,
+      "studySections": 6,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-winkler-rostov",
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5-istra-museum",
+      "p5-canal-musienko",
+      "p5-pravda-guards",
+      "p5-canal-report28",
+      "p5-stahel-relaunch",
+      "p4-tikhvin-history",
+      "map-natural-earth-physical",
+      "natural-earth-10m",
+      "p5-dmitlag"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 26,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The canal foothold is contested intraday reach. It is not secure end-of-day control, and route bends are not tactical tracks.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "78bf5c53bdb7af6fb2543679746bdf34c23728eb14fb554f1ac055900cb77e01"
+  },
+  {
+    "date": "1941-11-29",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-rostov-retaken-1941-11-29",
+    "studyTitle": "Rostov Retaken",
+    "regions": "Rostov-on-Don and the lower Don",
+    "defaultView": "lower-don",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 73,
+      "military-operations": 26,
+      "dated-fronts": 4,
+      "historical-logistics": 13
+    },
+    "additions": {
+      "studyLocalities": 6,
+      "studySections": 7,
+      "studyPassages": 34,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-winkler-rostov",
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5-istra-museum",
+      "p5-canal-musienko",
+      "p5-pravda-guards",
+      "p5-canal-report28",
+      "p5-stahel-relaunch",
+      "p4-tikhvin-history",
+      "map-natural-earth-physical",
+      "p5-review-bundesarchiv-units",
+      "p5-radio-intelligence",
+      "p5-review-reichenau",
+      "natural-earth-10m"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 28,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "The city recovery date and subsequent withdrawal towards the Mius are separate events. Testimony and later findings retain their own evidentiary limits.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "46dffb6bcc5e5ff9ad2265fee28a8ce25e5dcd153df14f6dc919d1dc8add89f8"
+  },
+  {
+    "date": "1941-12-02",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-the-limits-of-the-advance-1941-12-02",
+    "studyTitle": "The Limits of the Advance",
+    "regions": "Moscow, its northern approaches and Tula",
+    "defaultView": "moscow",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 68,
+      "military-operations": 21,
+      "dated-fronts": 4,
+      "historical-logistics": 13
+    },
+    "additions": {
+      "studyLocalities": 10,
+      "studySections": 7,
+      "studyPassages": 35,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-winkler-rostov",
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5-istra-museum",
+      "p5-canal-musienko",
+      "p5-pravda-guards",
+      "p5-canal-report28",
+      "p5-stahel-relaunch",
+      "p4-tikhvin-history",
+      "natural-earth-10m",
+      "map-natural-earth-physical",
+      "p5-stahel-wire",
+      "p5-stahel-gates"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 27,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "Later withdrawal decisions and counteroffensive outcomes remain context. Paper formation strength is not treated as present combat strength.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "6a83e30ecb0c769549301fcbc3af5958b4c97f7ce3128f6a594af66617cc9c59"
+  },
+  {
+    "date": "1941-12-05",
+    "collectionIndex": 5,
+    "collection": "Barbarossa Phase 5",
+    "articleSlug": "barbarossa-exhausted-1941-12-05",
+    "studyTitle": "Barbarossa Exhausted",
+    "regions": "The Eastern Front",
+    "defaultView": "theatre",
+    "existingLayers": {
+      "additional-civilian-context": 0,
+      "military-control": 3,
+      "formation-positions": 71,
+      "military-operations": 32,
+      "dated-fronts": 4,
+      "historical-logistics": 13
+    },
+    "additions": {
+      "studyLocalities": 20,
+      "studySections": 7,
+      "studyPassages": 33,
+      "dateExplanation": true
+    },
+    "sourceIds": [
+      "p5-cmh-moscow",
+      "p5-map-moscow",
+      "p5-map-south",
+      "p5-map-north",
+      "p4-transnistria",
+      "p4-kirchubel-barbarossa",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-usma-1949",
+      "p5-rostov-museum",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p4-cmh-leningrad",
+      "p5-tula-library",
+      "p5-tula-regiment-order",
+      "p4-harrison-industry",
+      "ushmm-pow-treatment",
+      "p5-stavka0428",
+      "p5-winkler-rostov",
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5-istra-museum",
+      "p5-canal-musienko",
+      "p5-leningrad-diaries",
+      "p5-pravda-guards",
+      "p5-canal-report28",
+      "p5-stahel-relaunch",
+      "p4-tikhvin-history",
+      "natural-earth-10m",
+      "p5-review-rations",
+      "map-natural-earth-physical",
+      "p5-glantz-survey",
+      "p5-review-otto",
+      "p5-frus813"
+    ],
+    "sourceChecks": {
+      "inspected": [
+        "p5-cmh-moscow",
+        "p5-cmh-counteroffensive",
+        "cmh-blitz",
+        "ushmm-pow-treatment"
+      ],
+      "inaccessible": [],
+      "notFreshlyInspected": 30,
+      "qualification": "Shared citations and named-subject links are not independent corroboration. See source-checks.json for exact inspected passages and conflicts."
+    },
+    "limitations": "This is the atlas's current endpoint. Tikhvin is not yet recovered, and later December advances are not projected backwards.",
+    "verification": "Data and links assessed; historical source inspection is partial",
+    "articleBodySha256": "3b7ee4e54350ba8b0ba121bd73bdebaadcfa3b847e669a325875b8cf18439bd0"
+  }
+]
