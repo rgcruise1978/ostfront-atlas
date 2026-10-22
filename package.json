@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && node scripts/build-metadata.mjs",
+    "build": "node scripts/build-map-coverage.mjs && vite build && node scripts/build-metadata.mjs",
     "preview": "vite preview",
     "validate": "node scripts/validate-data.mjs"
   },
