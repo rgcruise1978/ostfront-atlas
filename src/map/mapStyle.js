@@ -17,9 +17,12 @@ export function makeMapStyle(){
   lakes:{type:'geojson',data:'/data/geography/europe-lakes.geojson'},
   boundary:{type:'geojson',data:'/data/history/poland-1939-reference.geojson'},
   history:{type:'geojson',data:empty},control:{type:'geojson',data:empty},operations:{type:'geojson',data:empty},changes:{type:'geojson',data:empty},
+  studyPlaces:{type:'geojson',data:empty,attribution:'Study locality references: cited article passages; Natural Earth public domain / source-specific gazetteer rights'},
   formations:{type:'geojson',data:empty},fronts:{type:'geojson',data:empty},logistics:{type:'geojson',data:empty},referenceBorders:{type:'geojson',data:empty},
   capitals:{type:'geojson',data:{type:'FeatureCollection',features:capitals.map(c=>({type:'Feature',properties:c,geometry:{type:'Point',coordinates:c.coordinates}}))}}
  },layers:[
+  {id:'study-locality-point',type:'symbol',source:'studyPlaces',minzoom:4,layout:{'text-field':'◇','text-font':fonts,'text-size':24,'text-allow-overlap':false},paint:{'text-color':'#584977','text-halo-color':'#FFF9E9','text-halo-width':2}},
+  {...point('study-locality-label','studyPlaces',['get','name'],11,5),layout:{...point('x','studyPlaces','',11).layout,'text-field':['get','name'],'text-offset':[0,1.2]}},
   {id:'water',type:'background',paint:{'background-color':'#BFD5DF'}},
   {id:'land',type:'fill',source:'land',paint:{'fill-color':'#ECE3CF'}},
   {id:'eastern-reference-fill',type:'fill',source:'easternReference',paint:{'fill-color':'#E6D1CD','fill-opacity':.75}},
@@ -54,8 +57,8 @@ export function makeMapStyle(){
   {id:'river-detail-label',type:'symbol',source:'riverDetails',minzoom:5.3,layout:{'symbol-placement':'line','symbol-spacing':350,'text-field':['get','name'],'text-font':fonts,'text-size':11},paint:{'text-color':'#205F80','text-halo-color':'#FFF9EC','text-halo-width':1.5}},
   point('lakes-label','lakes',['get','name'],10,5,['!=',['get','name'],'Natural lake']),
   {id:'country-callout-lines',type:'line',source:'countryCallouts',maxzoom:5.2,filter:['==',['geometry-type'],'LineString'],paint:{'line-color':'#4F5E64','line-width':.8,'line-opacity':.8}},
-  {...point('country-callout-labels','countryCallouts',['get','label'],9,2.3,['==',['geometry-type'],'Point']),maxzoom:5.2,layout:{...point('x','countryCallouts','',9).layout,'text-field':['get','label'],'text-size':9,'text-allow-overlap':true,'text-ignore-placement':true}},
-  {id:'neighbor-country-labels',type:'symbol',source:'areaLabels',filter:['==',['get','minor'],false],layout:{'text-field':['get','label'],'text-font':fonts,'text-size':['interpolate',['linear'],['zoom'],2.4,10,4,13,6,['case',['in',['get','phaseId'],['literal',['4','5']]],14,18]],'text-max-width':7,'text-letter-spacing':.065,'text-allow-overlap':true,'text-ignore-placement':false,'text-padding':5},paint:{'text-color':['case',['boolean',['get','referenceOnly'],false],'#705E63','#26323A'],'text-halo-color':'#FFF9E9','text-halo-width':2,'text-opacity':['case',['boolean',['get','referenceOnly'],false],.82,.98]}},
+  {...point('country-callout-labels','countryCallouts',['get','label'],9,4,['==',['geometry-type'],'Point']),maxzoom:5.2,layout:{...point('x','countryCallouts','',9).layout,'text-field':['get','label'],'text-size':9,'text-allow-overlap':false,'text-ignore-placement':false}},
+  {id:'neighbor-country-labels',type:'symbol',source:'areaLabels',filter:['==',['get','minor'],false],layout:{'text-field':['get','label'],'text-font':fonts,'text-size':['interpolate',['linear'],['zoom'],2.4,10,4,13,6,['case',['in',['get','phaseId'],['literal',['4','5']]],14,18]],'text-max-width':7,'text-letter-spacing':.065,'text-allow-overlap':false,'text-ignore-placement':false,'text-padding':5},paint:{'text-color':['case',['boolean',['get','referenceOnly'],false],'#705E63','#26323A'],'text-halo-color':'#FFF9E9','text-halo-width':2,'text-opacity':['case',['boolean',['get','referenceOnly'],false],.82,.98]}},
   point('neighbor-primary-labels','areaLabels','',1,24),
   {...point('neighbor-minor-labels','areaLabels',['get','label'],10,5.2,['==',['get','minor'],true]),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','label'],'text-size':10,'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.7}},
   {...point('country-subtitle','areaLabels',['get','subtitle'],10,5.2),layout:{...point('x','areaLabels','',10).layout,'text-field':['get','subtitle'],'text-anchor':'top','text-offset':[0,1.8],'text-max-width':18}},
@@ -70,8 +73,8 @@ export function makeMapStyle(){
   {...point('formation-detail-label','formations',['get','displayLabel'],10,5.4,['!', ['in',['get','echelon'],['literal',['army-group','front']]]]),layout:{...point('x','formations','',10).layout,'text-field':['get','displayLabel'],'text-size':10,'text-max-width':16,'text-anchor':'top','text-offset':[0,.5]},paint:{'text-color':actorColor,'text-halo-color':'#FFF9EC','text-halo-width':1.6}},
   point('army-axis-label','operations','',1,24),point('army-group-label','operations','',1,24),
   {...point('logistics-label','logistics',['get','label'],10,5.7,['==',['geometry-type'],'Point']),paint:{'text-color':'#574267','text-halo-color':'#FFF9EC','text-halo-width':1.6}},
-  {id:'capital-stars',type:'symbol',source:'capitals',layout:{'text-field':['case',['==',['get','kind'],'administrative'],'◆','★'],'text-font':fonts,'text-size':16,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#173746','text-halo-color':'#FFF9EC','text-halo-width':1.8}},
-  {...point('capital-labels','capitals',['get','name'],12,2.8),layout:{...point('x','capitals','',12).layout,'text-field':['get','name'],'text-anchor':'top','text-offset':[0,.7],'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.8}}
+  {id:'capital-stars',type:'symbol',source:'capitals',minzoom:3.5,layout:{'text-field':['case',['==',['get','kind'],'administrative'],'◆','★'],'text-font':fonts,'text-size':16,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#173746','text-halo-color':'#FFF9EC','text-halo-width':1.8}},
+  {...point('capital-labels','capitals',['get','name'],12,3.8),layout:{...point('x','capitals','',12).layout,'text-field':['get','name'],'text-anchor':'top','text-offset':[0,.7],'text-variable-anchor':['top','bottom','left','right'],'text-radial-offset':.8}}
  ]};
 
  // Critical Phase IV junctions receive label placement priority over formations.
@@ -104,5 +107,8 @@ export function makeMapStyle(){
   if(typeof size==='number') layer.layout['text-size']=Math.max(12,size);
   else if(Array.isArray(size)&&size[0]==='interpolate') { const next=[...size];for(let i=4;i<next.length;i+=2)if(typeof next[i]==='number')next[i]=Math.max(12,next[i]);layer.layout['text-size']=next; }
  }
+ for(const id of ['study-locality-point','study-locality-label']){const index=style.layers.findIndex(l=>l.id===id);style.layers.push(...style.layers.splice(index,1));}
+ // Country names receive collision priority over optional detail.
+ for(const id of ['neighbor-country-labels']){const index=style.layers.findIndex(l=>l.id===id);style.layers.push(...style.layers.splice(index,1));}
  return style;
 }
