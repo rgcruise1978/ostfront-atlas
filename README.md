@@ -55,3 +55,7 @@ The five Barbarossa phases contain 44 selected dates through 5 December 1941. Ph
 ### Operation Barbarossa IV reading update
 
 Phase IV's ten studies now reconcile Part V of the proofread manuscript (version 3.5.41). The collection has linked reading navigation, section and aside contents, and 172 detailed evidence notes with source links and passage returns. Map data and other collections are preserved. Run `node scripts/validate-part-v.mjs` for native-note and aside coverage; `barbarossa-part-v-review.json` records the crosswalk and source-access limits.
+
+### Complete map and section-description review
+
+All 49 map selections now read current study text directly, with dated explanations, section connections and optional locality references. The coverage register assesses 391 study sections and records 482 locality references, three new civilian context records, inherited evidence gaps and selected source inspections. See `docs/map-update.md`, `docs/map-coverage.csv` and `public/data/history/source-checks.json`. Run `node scripts/validate-map-coverage.mjs` and `node scripts/validate-map-geometry.mjs` alongside the existing checks. The update is a review preview; production publication is separate.
