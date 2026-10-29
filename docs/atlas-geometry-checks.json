@@ -1,0 +1,246 @@
+{
+  "files": [
+    {
+      "file": "public/data/history/reference-borders.geojson",
+      "features": 46
+    },
+    {
+      "file": "public/data/history/formation-positions.geojson",
+      "features": 1571
+    },
+    {
+      "file": "public/data/history/atlas-case-blue.geojson",
+      "features": 17
+    },
+    {
+      "file": "public/data/history/poland-1939-reference.geojson",
+      "features": 1
+    },
+    {
+      "file": "public/data/history/surrounding-1939-reference.geojson",
+      "features": 7
+    },
+    {
+      "file": "public/data/history/military-control.geojson",
+      "features": 119
+    },
+    {
+      "file": "public/data/history/advance-axes.geojson",
+      "features": 34
+    },
+    {
+      "file": "public/data/history/volume-two-events.geojson",
+      "features": 51
+    },
+    {
+      "file": "public/data/history/barbarossa-1941-opening-frontier.geojson",
+      "features": 3
+    },
+    {
+      "file": "public/data/history/territorial-changes.geojson",
+      "features": 96
+    },
+    {
+      "file": "public/data/history/atlas-winter-reversal.geojson",
+      "features": 27
+    },
+    {
+      "file": "public/data/history/atlas-moscow-counterstroke.geojson",
+      "features": 20
+    },
+    {
+      "file": "public/data/history/additional-civilian-context.geojson",
+      "features": 3
+    },
+    {
+      "file": "public/data/history/atlas-spring-disasters.geojson",
+      "features": 18
+    },
+    {
+      "file": "public/data/history/atlas-winter-offensive.geojson",
+      "features": 28
+    },
+    {
+      "file": "public/data/history/dated-fronts.geojson",
+      "features": 119
+    },
+    {
+      "file": "public/data/history/barbarossa-1941-area-labels.geojson",
+      "features": 15
+    },
+    {
+      "file": "public/data/history/poland-1939.geojson",
+      "features": 1
+    },
+    {
+      "file": "public/data/history/barbarossa-1941-opening-control.geojson",
+      "features": 8
+    },
+    {
+      "file": "public/data/history/barbarossa-1941-neighbors.geojson",
+      "features": 2
+    },
+    {
+      "file": "public/data/history/europe-geometries.geojson",
+      "features": 225
+    },
+    {
+      "file": "public/data/history/military-operations.geojson",
+      "features": 735
+    },
+    {
+      "file": "public/data/history/surrounding-area-labels.geojson",
+      "features": 12
+    },
+    {
+      "file": "public/data/history/atlas-caucasus-stalingrad.geojson",
+      "features": 27
+    },
+    {
+      "file": "public/data/history/control-areas.geojson",
+      "features": 2
+    },
+    {
+      "file": "public/data/history/historical-logistics.geojson",
+      "features": 436
+    },
+    {
+      "file": "public/data/geography/surrounding-rivers.geojson",
+      "features": 51
+    },
+    {
+      "file": "public/data/geography/phase-v-places.geojson",
+      "features": 39
+    },
+    {
+      "file": "public/data/geography/phase-iv-focus-places.geojson",
+      "features": 26
+    },
+    {
+      "file": "public/data/geography/secondary-rivers.geojson",
+      "features": 4
+    },
+    {
+      "file": "public/data/geography/europe-rivers.geojson",
+      "features": 787
+    },
+    {
+      "file": "public/data/geography/barbarossa-reference-places.geojson",
+      "features": 213
+    },
+    {
+      "file": "public/data/geography/phase-iv-places.geojson",
+      "features": 34
+    },
+    {
+      "file": "public/data/geography/europe-land.geojson",
+      "features": 1
+    },
+    {
+      "file": "public/data/geography/phase-v-focus-places.geojson",
+      "features": 31
+    },
+    {
+      "file": "public/data/geography/natural-earth-land.geojson",
+      "features": 78
+    },
+    {
+      "file": "public/data/geography/europe-lakes.geojson",
+      "features": 216
+    },
+    {
+      "file": "public/data/geography/additional-natural-rivers.geojson",
+      "features": 15
+    },
+    {
+      "file": "public/data/geography/river-labels.geojson",
+      "features": 9
+    },
+    {
+      "file": "public/data/geography/phase-iv-natural-rivers.geojson",
+      "features": 5
+    },
+    {
+      "file": "public/data/geography/major-rivers.geojson",
+      "features": 9
+    },
+    {
+      "file": "public/data/geography/europe-places.geojson",
+      "features": 1040
+    },
+    {
+      "file": "public/data/geography/phase-v-waterways.geojson",
+      "features": 5
+    },
+    {
+      "file": "public/data/geography/reference-places.geojson",
+      "features": 210
+    }
+  ],
+  "featuresChecked": 6396,
+  "invalid": [
+    {
+      "file": "public/data/history/control-areas.geojson",
+      "id": "october-1939-german-occupied-sector",
+      "reason": "Self-intersection[22.3461898501682 53.5110198715727]"
+    },
+    {
+      "file": "public/data/history/control-areas.geojson",
+      "id": "october-1939-soviet-occupied-sector",
+      "reason": "Self-intersection[22.8675833587868 49.0332110990187]"
+    }
+  ],
+  "nonSimple": [
+    {
+      "file": "public/data/history/reference-borders.geojson",
+      "id": "reference-germany",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/history/reference-borders.geojson",
+      "id": "reference-danzig-prewar",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/history/control-areas.geojson",
+      "id": "october-1939-german-occupied-sector",
+      "type": "Polygon"
+    },
+    {
+      "file": "public/data/history/control-areas.geojson",
+      "id": "october-1939-soviet-occupied-sector",
+      "type": "Polygon"
+    },
+    {
+      "file": "public/data/geography/surrounding-rivers.geojson",
+      "id": "surrounding-rivers.geojson:4",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/geography/surrounding-rivers.geojson",
+      "id": "surrounding-rivers.geojson:8",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/geography/europe-rivers.geojson",
+      "id": "europe-rivers.geojson:53",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/geography/europe-rivers.geojson",
+      "id": "europe-rivers.geojson:61",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/geography/europe-rivers.geojson",
+      "id": "europe-rivers.geojson:86",
+      "type": "MultiLineString"
+    },
+    {
+      "file": "public/data/geography/additional-natural-rivers.geojson",
+      "id": "p3-river-psel",
+      "type": "MultiLineString"
+    }
+  ],
+  "method": "GEOS/Shapely validity, empty-geometry and simplicity checks; does not validate historical meaning or intentional political/military overlaps."
+}

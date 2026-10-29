@@ -1,0 +1,339 @@
+{
+  "verified": "2026-10-24",
+  "method": "Runtime helper executed in a headless Chromium DOM against all 36 unchanged article bodies; checks exact section IDs, every paragraph, all note IDs and all aside IDs; place links restricted to inventory records.",
+  "errors": [],
+  "studies": [
+    {
+      "slug": "moscow-counterstroke-beyond-december-five",
+      "sections": 5,
+      "passages": 24,
+      "notes": 13,
+      "asides": 2,
+      "linkedPassages": 12,
+      "contextualPassages": 12
+    },
+    {
+      "slug": "moscow-counterstroke-the-northern-approaches-to-moscow",
+      "sections": 5,
+      "passages": 33,
+      "notes": 12,
+      "asides": 1,
+      "linkedPassages": 20,
+      "contextualPassages": 13
+    },
+    {
+      "slug": "moscow-counterstroke-from-tula-towards-kaluga",
+      "sections": 5,
+      "passages": 39,
+      "notes": 15,
+      "asides": 2,
+      "linkedPassages": 21,
+      "contextualPassages": 18
+    },
+    {
+      "slug": "moscow-counterstroke-tikhvin-and-the-lifeline-to-leningrad",
+      "sections": 7,
+      "passages": 43,
+      "notes": 16,
+      "asides": 2,
+      "linkedPassages": 17,
+      "contextualPassages": 26
+    },
+    {
+      "slug": "moscow-counterstroke-retreat-and-the-german-command-crisis",
+      "sections": 6,
+      "passages": 38,
+      "notes": 15,
+      "asides": 2,
+      "linkedPassages": 6,
+      "contextualPassages": 32
+    },
+    {
+      "slug": "moscow-counterstroke-the-ground-recovered",
+      "sections": 6,
+      "passages": 45,
+      "notes": 17,
+      "asides": 3,
+      "linkedPassages": 13,
+      "contextualPassages": 32
+    },
+    {
+      "slug": "winter-offensive-stalin-widens-the-offensive",
+      "sections": 5,
+      "passages": 28,
+      "notes": 9,
+      "asides": 2,
+      "linkedPassages": 13,
+      "contextualPassages": 15
+    },
+    {
+      "slug": "winter-offensive-rzhev-and-vyazma",
+      "sections": 8,
+      "passages": 52,
+      "notes": 22,
+      "asides": 3,
+      "linkedPassages": 27,
+      "contextualPassages": 25
+    },
+    {
+      "slug": "winter-offensive-toropets-and-the-kholm-pocket",
+      "sections": 5,
+      "passages": 36,
+      "notes": 18,
+      "asides": 2,
+      "linkedPassages": 17,
+      "contextualPassages": 19
+    },
+    {
+      "slug": "winter-offensive-demyansk-and-the-limits-of-encirclement",
+      "sections": 6,
+      "passages": 42,
+      "notes": 21,
+      "asides": 2,
+      "linkedPassages": 16,
+      "contextualPassages": 26
+    },
+    {
+      "slug": "winter-offensive-the-lyuban-offensive-and-2nd-shock-army",
+      "sections": 9,
+      "passages": 62,
+      "notes": 28,
+      "asides": 3,
+      "linkedPassages": 23,
+      "contextualPassages": 39
+    },
+    {
+      "slug": "winter-offensive-the-barvenkovo-salient",
+      "sections": 6,
+      "passages": 37,
+      "notes": 16,
+      "asides": 2,
+      "linkedPassages": 22,
+      "contextualPassages": 15
+    },
+    {
+      "slug": "spring-disasters-rebuilding-the-armies",
+      "sections": 6,
+      "passages": 41,
+      "notes": 20,
+      "asides": 3,
+      "linkedPassages": 3,
+      "contextualPassages": 38
+    },
+    {
+      "slug": "spring-disasters-occupation-becomes-a-system",
+      "sections": 9,
+      "passages": 59,
+      "notes": 23,
+      "asides": 3,
+      "linkedPassages": 4,
+      "contextualPassages": 55
+    },
+    {
+      "slug": "spring-disasters-the-second-battle-of-kharkov",
+      "sections": 8,
+      "passages": 54,
+      "notes": 21,
+      "asides": 3,
+      "linkedPassages": 21,
+      "contextualPassages": 33
+    },
+    {
+      "slug": "spring-disasters-the-kerch-peninsula-defeat",
+      "sections": 7,
+      "passages": 43,
+      "notes": 17,
+      "asides": 2,
+      "linkedPassages": 13,
+      "contextualPassages": 30
+    },
+    {
+      "slug": "spring-disasters-sevastopol-falls",
+      "sections": 9,
+      "passages": 57,
+      "notes": 20,
+      "asides": 4,
+      "linkedPassages": 18,
+      "contextualPassages": 39
+    },
+    {
+      "slug": "case-blue-the-decision-for-oil-and-the-south",
+      "sections": 7,
+      "passages": 52,
+      "notes": 22,
+      "asides": 3,
+      "linkedPassages": 18,
+      "contextualPassages": 34
+    },
+    {
+      "slug": "case-blue-case-blue-opens",
+      "sections": 8,
+      "passages": 56,
+      "notes": 24,
+      "asides": 4,
+      "linkedPassages": 13,
+      "contextualPassages": 43
+    },
+    {
+      "slug": "case-blue-the-battle-for-voronezh",
+      "sections": 8,
+      "passages": 47,
+      "notes": 23,
+      "asides": 3,
+      "linkedPassages": 27,
+      "contextualPassages": 20
+    },
+    {
+      "slug": "case-blue-retreat-across-the-don-country",
+      "sections": 9,
+      "passages": 72,
+      "notes": 29,
+      "asides": 4,
+      "linkedPassages": 14,
+      "contextualPassages": 58
+    },
+    {
+      "slug": "case-blue-rostov-and-the-gateway-to-the-caucasus",
+      "sections": 8,
+      "passages": 56,
+      "notes": 25,
+      "asides": 3,
+      "linkedPassages": 6,
+      "contextualPassages": 50
+    },
+    {
+      "slug": "case-blue-one-offensive-becomes-two",
+      "sections": 9,
+      "passages": 67,
+      "notes": 24,
+      "asides": 4,
+      "linkedPassages": 28,
+      "contextualPassages": 39
+    },
+    {
+      "slug": "caucasus-stalingrad-into-the-caucasus",
+      "sections": 11,
+      "passages": 76,
+      "notes": 26,
+      "asides": 4,
+      "linkedPassages": 41,
+      "contextualPassages": 35
+    },
+    {
+      "slug": "caucasus-stalingrad-the-approaches-to-stalingrad",
+      "sections": 6,
+      "passages": 45,
+      "notes": 17,
+      "asides": 3,
+      "linkedPassages": 17,
+      "contextualPassages": 28
+    },
+    {
+      "slug": "caucasus-stalingrad-the-volga-reached",
+      "sections": 9,
+      "passages": 55,
+      "notes": 18,
+      "asides": 3,
+      "linkedPassages": 17,
+      "contextualPassages": 38
+    },
+    {
+      "slug": "caucasus-stalingrad-the-battle-for-the-factories",
+      "sections": 9,
+      "passages": 76,
+      "notes": 25,
+      "asides": 4,
+      "linkedPassages": 6,
+      "contextualPassages": 70
+    },
+    {
+      "slug": "caucasus-stalingrad-civilian-life-in-the-southern-war",
+      "sections": 8,
+      "passages": 68,
+      "notes": 20,
+      "asides": 3,
+      "linkedPassages": 20,
+      "contextualPassages": 48
+    },
+    {
+      "slug": "caucasus-stalingrad-the-other-fronts-keep-fighting",
+      "sections": 7,
+      "passages": 49,
+      "notes": 15,
+      "asides": 3,
+      "linkedPassages": 29,
+      "contextualPassages": 20
+    },
+    {
+      "slug": "caucasus-stalingrad-preparing-uranus",
+      "sections": 9,
+      "passages": 61,
+      "notes": 16,
+      "asides": 3,
+      "linkedPassages": 13,
+      "contextualPassages": 48
+    },
+    {
+      "slug": "winter-reversal-operation-uranus-closes-the-ring",
+      "sections": 8,
+      "passages": 60,
+      "notes": 21,
+      "asides": 3,
+      "linkedPassages": 19,
+      "contextualPassages": 41
+    },
+    {
+      "slug": "winter-reversal-the-airlift-and-the-decision-to-remain",
+      "sections": 11,
+      "passages": 68,
+      "notes": 23,
+      "asides": 4,
+      "linkedPassages": 15,
+      "contextualPassages": 53
+    },
+    {
+      "slug": "winter-reversal-mars-and-velikiye-luki",
+      "sections": 9,
+      "passages": 62,
+      "notes": 22,
+      "asides": 3,
+      "linkedPassages": 33,
+      "contextualPassages": 29
+    },
+    {
+      "slug": "winter-reversal-winter-storm-and-little-saturn",
+      "sections": 10,
+      "passages": 76,
+      "notes": 28,
+      "asides": 4,
+      "linkedPassages": 30,
+      "contextualPassages": 46
+    },
+    {
+      "slug": "winter-reversal-operation-iskra-and-the-northern-winter",
+      "sections": 7,
+      "passages": 57,
+      "notes": 22,
+      "asides": 3,
+      "linkedPassages": 23,
+      "contextualPassages": 34
+    },
+    {
+      "slug": "winter-reversal-the-stalingrad-pocket-destroyed",
+      "sections": 10,
+      "passages": 97,
+      "notes": 34,
+      "asides": 5,
+      "linkedPassages": 16,
+      "contextualPassages": 81
+    }
+  ],
+  "totals": {
+    "sections": 275,
+    "passages": 1933,
+    "notes": 737,
+    "asides": 107,
+    "linkedPassages": 651,
+    "contextualPassages": 1282
+  }
+}

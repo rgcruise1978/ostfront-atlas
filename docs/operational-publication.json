@@ -1,0 +1,50 @@
+{
+  "deployment": {
+    "id": "6add5b5b5d7089a60b3efadb",
+    "state": "ready",
+    "context": "production",
+    "url": "https://ostkrieg.com",
+    "error_message": null,
+    "published_at": "2026-10-25T01:29:24.331Z",
+    "sourceCommit": "e223dc27490057fdc7a04b8210ed7e4d5481e397",
+    "deploy_url": "https://main--ostfront-atlas.netlify.app",
+    "admin_url": "https://app.netlify.com/projects/ostfront-atlas"
+  },
+  "hostedChecks": {
+    "routes": 109,
+    "routesPass": 109,
+    "articleRoutes": 86,
+    "campaignRoutes": 8,
+    "atlasRoutes": 8,
+    "collectionRoutes": 12,
+    "collectionRoutesPass": 12,
+    "htmlIdenticalToLocal": 109,
+    "publicAssets": 101,
+    "publicAssetsIdenticalToLocal": 101,
+    "bundleAssets": 41,
+    "bundleAssetsPass": 41,
+    "bundleAssetsIdenticalToLocal": 41,
+    "errors": [],
+    "contentTypes": [
+      "application/javascript; charset=UTF-8",
+      "text/css; charset=UTF-8"
+    ]
+  },
+  "operationalData": {
+    "path": "data/history/volume-two-operational.geojson",
+    "status": 200,
+    "finalUrl": "https://ostkrieg.com/data/history/volume-two-operational.geojson",
+    "contentType": "application/geo+json",
+    "bytes": 1593723,
+    "sha256": "2972973eb756f9d5389ef36e0954cf306b007677e056ce8273e7323af86f9274",
+    "xRobotsTag": null,
+    "requestId": "01M5RAV97E2WBFWCWV5RYB0AAA",
+    "matchesLocalBuild": true,
+    "featureCount": 255
+  },
+  "liveUI": [
+    "Stalingrad January 17 rendered with side shading, closed pocket, formations and movement arrows",
+    "Save PNG returned a dated 2560x1440 image from production"
+  ],
+  "evidenceDirectory": "../publication-operational-maps-2026-10-24"
+}

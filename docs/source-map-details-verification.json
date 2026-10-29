@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "plates": 18,
+  "sourceImageDetails": 149,
+  "originalsVisuallyInspected": true,
+  "inspection": "Original source sheets inspected in two bounded assignments; image dimensions independently read from JPEG headers and sips. Pixel anchors identify source labels, symbols or legend entries only.",
+  "webImagesByteIdenticalToOriginals": true,
+  "allPixelAnchorsBounded": true,
+  "allSourceAndStudyLinksResolved": true,
+  "allFeaturesDatedOrSourcePeriodQualified": true,
+  "geometry": "No new geographic coordinates or georeferencing inferred.",
+  "cautions": {
+    "cmh-defeat-15": "Source sheet prints 1944; Chapter VIII context establishes 1943, retained artwork explicitly qualified.",
+    "cmh-defeat-26": "Full sheet contains a 10 AUG line outside the July scope; no selectable August date or annotation created."
+  },
+  "browserInteraction": "Not exercised in this assignment; root performs available combined QA."
+}

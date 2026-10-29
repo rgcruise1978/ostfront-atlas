@@ -1,0 +1,4120 @@
+[
+  {
+    "id": "cmh-decision-6",
+    "book": "Decision",
+    "number": 6,
+    "title": "The Moscow Counteroffensive, Phase I, 6–15 December 1941",
+    "page": 72,
+    "part": 7,
+    "controls": [
+      {
+        "name": "Rzhev",
+        "pixel": [
+          42,
+          146
+        ],
+        "coordinate": [
+          34.3289,
+          56.26289
+        ],
+        "geonamesId": "499717",
+        "coordinateUrl": "https://www.geonames.org/499717/",
+        "fitResidualKm": 5.18,
+        "leaveOneOutErrorKm": 9.16
+      },
+      {
+        "name": "Klin",
+        "pixel": [
+          466,
+          78
+        ],
+        "coordinate": [
+          36.7292,
+          56.33169
+        ],
+        "geonamesId": "547523",
+        "coordinateUrl": "https://www.geonames.org/547523/",
+        "fitResidualKm": 1.67,
+        "leaveOneOutErrorKm": 2.42
+      },
+      {
+        "name": "Moscow",
+        "pixel": [
+          640,
+          250
+        ],
+        "coordinate": [
+          37.61781,
+          55.75204
+        ],
+        "geonamesId": "524901",
+        "coordinateUrl": "https://www.geonames.org/524901/",
+        "fitResidualKm": 2.36,
+        "leaveOneOutErrorKm": 3.11
+      },
+      {
+        "name": "Vyazma",
+        "pixel": [
+          34,
+          470
+        ],
+        "coordinate": [
+          34.29695,
+          55.20997
+        ],
+        "geonamesId": "470676",
+        "coordinateUrl": "https://www.geonames.org/470676/",
+        "fitResidualKm": 4.75,
+        "leaveOneOutErrorKm": 7.34
+      },
+      {
+        "name": "Kaluga",
+        "pixel": [
+          422,
+          677
+        ],
+        "coordinate": [
+          36.27,
+          54.53063
+        ],
+        "geonamesId": "553915",
+        "coordinateUrl": "https://www.geonames.org/553915/",
+        "fitResidualKm": 2.77,
+        "leaveOneOutErrorKm": 3.14
+      },
+      {
+        "name": "Tula",
+        "pixel": [
+          678,
+          753
+        ],
+        "coordinate": [
+          37.61822,
+          54.19609
+        ],
+        "geonamesId": "480562",
+        "coordinateUrl": "https://www.geonames.org/480562/",
+        "fitResidualKm": 1.44,
+        "leaveOneOutErrorKm": 1.71
+      },
+      {
+        "name": "Orel",
+        "pixel": [
+          418,
+          1178
+        ],
+        "coordinate": [
+          36.0791,
+          52.96879
+        ],
+        "geonamesId": "515012",
+        "coordinateUrl": "https://www.geonames.org/515012/",
+        "fitResidualKm": 0.73,
+        "leaveOneOutErrorKm": 1.31
+      },
+      {
+        "name": "Ryazan",
+        "pixel": [
+          1055,
+          587
+        ],
+        "coordinate": [
+          39.70415,
+          54.62696
+        ],
+        "geonamesId": "500096",
+        "coordinateUrl": "https://www.geonames.org/500096/",
+        "fitResidualKm": 1.05,
+        "leaveOneOutErrorKm": 2.13
+      },
+      {
+        "name": "Serpukhov",
+        "pixel": [
+          626,
+          529
+        ],
+        "coordinate": [
+          37.41618,
+          54.9198
+        ],
+        "geonamesId": "496527",
+        "coordinateUrl": "https://www.geonames.org/496527/",
+        "fitResidualKm": 1.16,
+        "leaveOneOutErrorKm": 1.34
+      },
+      {
+        "name": "Mtsensk",
+        "pixel": [
+          501,
+          1067
+        ],
+        "coordinate": [
+          36.58047,
+          53.2788
+        ],
+        "geonamesId": "524640",
+        "coordinateUrl": "https://www.geonames.org/524640/",
+        "fitResidualKm": 0.89,
+        "leaveOneOutErrorKm": 1.29
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.005397621417434244,
+          -0.0002524832119917318
+        ],
+        [
+          -0.000327416188366387,
+          -0.0030791029049160724
+        ],
+        [
+          34.21675240804064,
+          56.69689382007021
+        ]
+      ],
+      "fitRmseKm": 2.67,
+      "leaveOneOutRmseKm": 4.19,
+      "maxLeaveOneOutKm": 9.16,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-6.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-6.jpg",
+    "width": 1100,
+    "height": 1416,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "20671a04bb851cd5797e7965dfc2bed05d055c8f63f7ddccaa364d56208ac012",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-7",
+    "book": "Decision",
+    "number": 7,
+    "title": "The Moscow Counteroffensive, Phase II, 16 December 1941–1 January 1942",
+    "page": 89,
+    "part": 7,
+    "controls": [
+      {
+        "name": "Kalinin",
+        "pixel": [
+          533,
+          175
+        ],
+        "coordinate": [
+          35.90057,
+          56.85836
+        ],
+        "geonamesId": "480060",
+        "coordinateUrl": "https://www.geonames.org/480060/",
+        "fitResidualKm": 1.32,
+        "leaveOneOutErrorKm": 2.04
+      },
+      {
+        "name": "Rzhev",
+        "pixel": [
+          347,
+          330
+        ],
+        "coordinate": [
+          34.3289,
+          56.26289
+        ],
+        "geonamesId": "499717",
+        "coordinateUrl": "https://www.geonames.org/499717/",
+        "fitResidualKm": 9.25,
+        "leaveOneOutErrorKm": 12.0
+      },
+      {
+        "name": "Moscow",
+        "pixel": [
+          768,
+          403
+        ],
+        "coordinate": [
+          37.61781,
+          55.75204
+        ],
+        "geonamesId": "524901",
+        "coordinateUrl": "https://www.geonames.org/524901/",
+        "fitResidualKm": 5.53,
+        "leaveOneOutErrorKm": 8.34
+      },
+      {
+        "name": "Vyazma",
+        "pixel": [
+          342,
+          555
+        ],
+        "coordinate": [
+          34.29695,
+          55.20997
+        ],
+        "geonamesId": "470676",
+        "coordinateUrl": "https://www.geonames.org/470676/",
+        "fitResidualKm": 0.85,
+        "leaveOneOutErrorKm": 1.04
+      },
+      {
+        "name": "Smolensk",
+        "pixel": [
+          49,
+          658
+        ],
+        "coordinate": [
+          32.05088,
+          54.77826
+        ],
+        "geonamesId": "491687",
+        "coordinateUrl": "https://www.geonames.org/491687/",
+        "fitResidualKm": 5.92,
+        "leaveOneOutErrorKm": 13.42
+      },
+      {
+        "name": "Kaluga",
+        "pixel": [
+          608,
+          702
+        ],
+        "coordinate": [
+          36.27,
+          54.53063
+        ],
+        "geonamesId": "553915",
+        "coordinateUrl": "https://www.geonames.org/553915/",
+        "fitResidualKm": 5.63,
+        "leaveOneOutErrorKm": 6.28
+      },
+      {
+        "name": "Tula",
+        "pixel": [
+          794,
+          758
+        ],
+        "coordinate": [
+          37.61822,
+          54.19609
+        ],
+        "geonamesId": "480562",
+        "coordinateUrl": "https://www.geonames.org/480562/",
+        "fitResidualKm": 3.41,
+        "leaveOneOutErrorKm": 4.14
+      },
+      {
+        "name": "Orel",
+        "pixel": [
+          610,
+          1057
+        ],
+        "coordinate": [
+          36.0791,
+          52.96879
+        ],
+        "geonamesId": "515012",
+        "coordinateUrl": "https://www.geonames.org/515012/",
+        "fitResidualKm": 6.45,
+        "leaveOneOutErrorKm": 7.95
+      },
+      {
+        "name": "Kursk",
+        "pixel": [
+          647,
+          1323
+        ],
+        "coordinate": [
+          36.18457,
+          51.72689
+        ],
+        "geonamesId": "538560",
+        "coordinateUrl": "https://www.geonames.org/538560/",
+        "fitResidualKm": 0.96,
+        "leaveOneOutErrorKm": 1.55
+      },
+      {
+        "name": "Voronezh",
+        "pixel": [
+          1064,
+          1306
+        ],
+        "coordinate": [
+          39.19204,
+          51.66833
+        ],
+        "geonamesId": "472045",
+        "coordinateUrl": "https://www.geonames.org/472045/",
+        "fitResidualKm": 7.6,
+        "leaveOneOutErrorKm": 15.0
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0074801849994285165,
+          -0.00024762482772904736
+        ],
+        [
+          -0.0005253011006788706,
+          -0.004449037136445967
+        ],
+        [
+          32.02555771319924,
+          57.7710217128047
+        ]
+      ],
+      "fitRmseKm": 5.45,
+      "leaveOneOutRmseKm": 8.64,
+      "maxLeaveOneOutKm": 15.0,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-7.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-7.jpg",
+    "width": 1100,
+    "height": 1411,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "fdfc6bd7bd012a51301c218d788afdbf8101457bea84ffe77c5e1737fc044a02",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-9",
+    "book": "Decision",
+    "number": 9,
+    "title": "The Fanatical Resistance, 1–14 January 1942",
+    "page": 121,
+    "part": 8,
+    "controls": [
+      {
+        "name": "Kalinin",
+        "pixel": [
+          525,
+          166
+        ],
+        "coordinate": [
+          35.90057,
+          56.85836
+        ],
+        "geonamesId": "480060",
+        "coordinateUrl": "https://www.geonames.org/480060/",
+        "fitResidualKm": 1.64,
+        "leaveOneOutErrorKm": 2.55
+      },
+      {
+        "name": "Rzhev",
+        "pixel": [
+          335,
+          325
+        ],
+        "coordinate": [
+          34.3289,
+          56.26289
+        ],
+        "geonamesId": "499717",
+        "coordinateUrl": "https://www.geonames.org/499717/",
+        "fitResidualKm": 9.46,
+        "leaveOneOutErrorKm": 12.66
+      },
+      {
+        "name": "Moscow",
+        "pixel": [
+          763,
+          391
+        ],
+        "coordinate": [
+          37.61781,
+          55.75204
+        ],
+        "geonamesId": "524901",
+        "coordinateUrl": "https://www.geonames.org/524901/",
+        "fitResidualKm": 7.23,
+        "leaveOneOutErrorKm": 11.45
+      },
+      {
+        "name": "Vyazma",
+        "pixel": [
+          330,
+          551
+        ],
+        "coordinate": [
+          34.29695,
+          55.20997
+        ],
+        "geonamesId": "470676",
+        "coordinateUrl": "https://www.geonames.org/470676/",
+        "fitResidualKm": 1.44,
+        "leaveOneOutErrorKm": 1.77
+      },
+      {
+        "name": "Smolensk",
+        "pixel": [
+          32,
+          654
+        ],
+        "coordinate": [
+          32.05088,
+          54.77826
+        ],
+        "geonamesId": "491687",
+        "coordinateUrl": "https://www.geonames.org/491687/",
+        "fitResidualKm": 6.83,
+        "leaveOneOutErrorKm": 18.56
+      },
+      {
+        "name": "Kaluga",
+        "pixel": [
+          604,
+          702
+        ],
+        "coordinate": [
+          36.27,
+          54.53063
+        ],
+        "geonamesId": "553915",
+        "coordinateUrl": "https://www.geonames.org/553915/",
+        "fitResidualKm": 4.12,
+        "leaveOneOutErrorKm": 4.72
+      },
+      {
+        "name": "Tula",
+        "pixel": [
+          790,
+          756
+        ],
+        "coordinate": [
+          37.61822,
+          54.19609
+        ],
+        "geonamesId": "480562",
+        "coordinateUrl": "https://www.geonames.org/480562/",
+        "fitResidualKm": 2.68,
+        "leaveOneOutErrorKm": 3.69
+      },
+      {
+        "name": "Orel",
+        "pixel": [
+          602,
+          1061
+        ],
+        "coordinate": [
+          36.0791,
+          52.96879
+        ],
+        "geonamesId": "515012",
+        "coordinateUrl": "https://www.geonames.org/515012/",
+        "fitResidualKm": 3.96,
+        "leaveOneOutErrorKm": 5.37
+      },
+      {
+        "name": "Kursk",
+        "pixel": [
+          643,
+          1336
+        ],
+        "coordinate": [
+          36.18457,
+          51.72689
+        ],
+        "geonamesId": "538560",
+        "coordinateUrl": "https://www.geonames.org/538560/",
+        "fitResidualKm": 3.26,
+        "leaveOneOutErrorKm": 7.09
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.007455121781334428,
+          -0.00022511419328248577
+        ],
+        [
+          -0.0004770511817859976,
+          -0.004350174578711346
+        ],
+        [
+          32.078795000592805,
+          57.6859539307263
+        ]
+      ],
+      "fitRmseKm": 5.2,
+      "leaveOneOutRmseKm": 9.19,
+      "maxLeaveOneOutKm": 18.56,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-9.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-9.jpg",
+    "width": 1100,
+    "height": 1431,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "db48f93e8569f43807b86f761605e95a22e098c7c2d215ff69f897bf0740ced6",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-10",
+    "book": "Decision",
+    "number": 10,
+    "title": "The Soviet General Offensive, North Flank, 6 January–22 February 1942",
+    "page": 144,
+    "part": 8,
+    "controls": [
+      {
+        "name": "Leningrad",
+        "pixel": [
+          355,
+          245
+        ],
+        "coordinate": [
+          30.31413,
+          59.93863
+        ],
+        "geonamesId": "498817",
+        "coordinateUrl": "https://www.geonames.org/498817/",
+        "fitResidualKm": 5.81,
+        "leaveOneOutErrorKm": 8.55
+      },
+      {
+        "name": "Narva",
+        "pixel": [
+          28,
+          418
+        ],
+        "coordinate": [
+          28.19028,
+          59.37722
+        ],
+        "geonamesId": "590031",
+        "coordinateUrl": "https://www.geonames.org/590031/",
+        "fitResidualKm": 4.8,
+        "leaveOneOutErrorKm": 9.67
+      },
+      {
+        "name": "Luga",
+        "pixel": [
+          289,
+          620
+        ],
+        "coordinate": [
+          29.84756,
+          58.73876
+        ],
+        "geonamesId": "533690",
+        "coordinateUrl": "https://www.geonames.org/533690/",
+        "fitResidualKm": 1.16,
+        "leaveOneOutErrorKm": 1.42
+      },
+      {
+        "name": "Novgorod",
+        "pixel": [
+          516,
+          683
+        ],
+        "coordinate": [
+          31.27104,
+          58.52131
+        ],
+        "geonamesId": "519336",
+        "coordinateUrl": "https://www.geonames.org/519336/",
+        "fitResidualKm": 3.81,
+        "leaveOneOutErrorKm": 4.25
+      },
+      {
+        "name": "Staraya Russa",
+        "pixel": [
+          542,
+          847
+        ],
+        "coordinate": [
+          31.36003,
+          57.99618
+        ],
+        "geonamesId": "489088",
+        "coordinateUrl": "https://www.geonames.org/489088/",
+        "fitResidualKm": 0.87,
+        "leaveOneOutErrorKm": 0.96
+      },
+      {
+        "name": "Demyansk",
+        "pixel": [
+          720,
+          951
+        ],
+        "coordinate": [
+          32.46568,
+          57.64456
+        ],
+        "geonamesId": "566629",
+        "coordinateUrl": "https://www.geonames.org/566629/",
+        "fitResidualKm": 1.68,
+        "leaveOneOutErrorKm": 1.99
+      },
+      {
+        "name": "Kholm",
+        "pixel": [
+          501,
+          1109
+        ],
+        "coordinate": [
+          31.18173,
+          57.14893
+        ],
+        "geonamesId": "549797",
+        "coordinateUrl": "https://www.geonames.org/549797/",
+        "fitResidualKm": 2.4,
+        "leaveOneOutErrorKm": 2.84
+      },
+      {
+        "name": "Ostashkov",
+        "pixel": [
+          827,
+          1103
+        ],
+        "coordinate": [
+          33.10659,
+          57.14695
+        ],
+        "geonamesId": "514259",
+        "coordinateUrl": "https://www.geonames.org/514259/",
+        "fitResidualKm": 1.73,
+        "leaveOneOutErrorKm": 2.35
+      },
+      {
+        "name": "Toropets",
+        "pixel": [
+          580,
+          1308
+        ],
+        "coordinate": [
+          31.6392,
+          56.49954
+        ],
+        "geonamesId": "482042",
+        "coordinateUrl": "https://www.geonames.org/482042/",
+        "fitResidualKm": 0.75,
+        "leaveOneOutErrorKm": 1.01
+      },
+      {
+        "name": "Velikiye Luki",
+        "pixel": [
+          409,
+          1357
+        ],
+        "coordinate": [
+          30.54377,
+          56.34063
+        ],
+        "geonamesId": "476077",
+        "coordinateUrl": "https://www.geonames.org/476077/",
+        "fitResidualKm": 3.81,
+        "leaveOneOutErrorKm": 5.83
+      },
+      {
+        "name": "Tikhvin",
+        "pixel": [
+          923,
+          342
+        ],
+        "coordinate": [
+          33.52555,
+          59.63924
+        ],
+        "geonamesId": "483019",
+        "coordinateUrl": "https://www.geonames.org/483019/",
+        "fitResidualKm": 5.66,
+        "leaveOneOutErrorKm": 14.94
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.005981847729569661,
+          -2.0428402657122285e-06
+        ],
+        [
+          6.218784693171517e-05,
+          -0.0032437323629334294
+        ],
+        [
+          28.077292089980766,
+          60.740183779763825
+        ]
+      ],
+      "fitRmseKm": 3.47,
+      "leaveOneOutRmseKm": 6.49,
+      "maxLeaveOneOutKm": 14.94,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-10.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-10.jpg",
+    "width": 1100,
+    "height": 1426,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "d60024843ce58de9967e91a1cead6efe5405b842183370b076f6c2f67967cb98",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-11",
+    "book": "Decision",
+    "number": 11,
+    "title": "The Soviet General Offensive, South Flank, 16 January–1 February 1942",
+    "page": 157,
+    "part": 8,
+    "controls": [
+      {
+        "name": "Kharkiv",
+        "pixel": [
+          376,
+          144
+        ],
+        "coordinate": [
+          36.25475,
+          49.98177
+        ],
+        "geonamesId": "706483",
+        "coordinateUrl": "https://www.geonames.org/706483/",
+        "fitResidualKm": 1.72,
+        "leaveOneOutErrorKm": 2.53
+      },
+      {
+        "name": "Balakliya",
+        "pixel": [
+          526,
+          318
+        ],
+        "coordinate": [
+          36.84433,
+          49.45595
+        ],
+        "geonamesId": "712926",
+        "coordinateUrl": "https://www.geonames.org/712926/",
+        "fitResidualKm": 6.21,
+        "leaveOneOutErrorKm": 7.79
+      },
+      {
+        "name": "Izyum",
+        "pixel": [
+          620,
+          430
+        ],
+        "coordinate": [
+          37.27679,
+          49.20697
+        ],
+        "geonamesId": "707292",
+        "coordinateUrl": "https://www.geonames.org/707292/",
+        "fitResidualKm": 3.57,
+        "leaveOneOutErrorKm": 4.33
+      },
+      {
+        "name": "Lozova",
+        "pixel": [
+          405,
+          560
+        ],
+        "coordinate": [
+          36.31412,
+          48.89066
+        ],
+        "geonamesId": "702760",
+        "coordinateUrl": "https://www.geonames.org/702760/",
+        "fitResidualKm": 6.99,
+        "leaveOneOutErrorKm": 7.99
+      },
+      {
+        "name": "Barvinkove",
+        "pixel": [
+          564,
+          557
+        ],
+        "coordinate": [
+          37.02257,
+          48.9052
+        ],
+        "geonamesId": "712794",
+        "coordinateUrl": "https://www.geonames.org/712794/",
+        "fitResidualKm": 2.51,
+        "leaveOneOutErrorKm": 2.85
+      },
+      {
+        "name": "Sloviansk",
+        "pixel": [
+          698,
+          572
+        ],
+        "coordinate": [
+          37.59739,
+          48.84974
+        ],
+        "geonamesId": "693468",
+        "coordinateUrl": "https://www.geonames.org/693468/",
+        "fitResidualKm": 4.32,
+        "leaveOneOutErrorKm": 5.18
+      },
+      {
+        "name": "Dnipropetrovsk",
+        "pixel": [
+          40,
+          727
+        ],
+        "coordinate": [
+          35.04066,
+          48.46664
+        ],
+        "geonamesId": "709930",
+        "coordinateUrl": "https://www.geonames.org/709930/",
+        "fitResidualKm": 3.62,
+        "leaveOneOutErrorKm": 5.96
+      },
+      {
+        "name": "Mariupol",
+        "pixel": [
+          706,
+          1231
+        ],
+        "coordinate": [
+          37.54131,
+          47.09514
+        ],
+        "geonamesId": "701822",
+        "coordinateUrl": "https://www.geonames.org/701822/",
+        "fitResidualKm": 5.43,
+        "leaveOneOutErrorKm": 7.92
+      },
+      {
+        "name": "Taganrog",
+        "pixel": [
+          1035,
+          1188
+        ],
+        "coordinate": [
+          38.9053,
+          47.23627
+        ],
+        "geonamesId": "484907",
+        "coordinateUrl": "https://www.geonames.org/484907/",
+        "fitResidualKm": 2.66,
+        "leaveOneOutErrorKm": 6.15
+      },
+      {
+        "name": "Melitopol",
+        "pixel": [
+          121,
+          1328
+        ],
+        "coordinate": [
+          35.38196,
+          46.84735
+        ],
+        "geonamesId": "701404",
+        "coordinateUrl": "https://www.geonames.org/701404/",
+        "fitResidualKm": 2.77,
+        "leaveOneOutErrorKm": 7.2
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0038661130430515302,
+          -1.4523281556769606e-05
+        ],
+        [
+          6.0399669749552715e-05,
+          -0.0026256097916732366
+        ],
+        [
+          34.807067882777446,
+          50.3533305106708
+        ]
+      ],
+      "fitRmseKm": 4.31,
+      "leaveOneOutRmseKm": 6.1,
+      "maxLeaveOneOutKm": 7.99,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-11.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-11.jpg",
+    "width": 1100,
+    "height": 1414,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "b5e0e8a4f9dfb9bb11a66ec7aac8894b8657bc8f73f23fa44a8cee5f683c0fe0",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-12",
+    "book": "Decision",
+    "number": 12,
+    "title": "The General Offensive, Army Group Center, 24 January–18 February 1942",
+    "page": 162,
+    "part": 8,
+    "controls": [
+      {
+        "name": "Kalinin",
+        "pixel": [
+          886,
+          80
+        ],
+        "coordinate": [
+          35.90057,
+          56.85836
+        ],
+        "geonamesId": "480060",
+        "coordinateUrl": "https://www.geonames.org/480060/",
+        "fitResidualKm": 3.47,
+        "leaveOneOutErrorKm": 7.95
+      },
+      {
+        "name": "Rzhev",
+        "pixel": [
+          661,
+          263
+        ],
+        "coordinate": [
+          34.3289,
+          56.26289
+        ],
+        "geonamesId": "499717",
+        "coordinateUrl": "https://www.geonames.org/499717/",
+        "fitResidualKm": 4.45,
+        "leaveOneOutErrorKm": 5.54
+      },
+      {
+        "name": "Vyazma",
+        "pixel": [
+          658,
+          540
+        ],
+        "coordinate": [
+          34.29695,
+          55.20997
+        ],
+        "geonamesId": "470676",
+        "coordinateUrl": "https://www.geonames.org/470676/",
+        "fitResidualKm": 4.03,
+        "leaveOneOutErrorKm": 4.5
+      },
+      {
+        "name": "Smolensk",
+        "pixel": [
+          305,
+          661
+        ],
+        "coordinate": [
+          32.05088,
+          54.77826
+        ],
+        "geonamesId": "491687",
+        "coordinateUrl": "https://www.geonames.org/491687/",
+        "fitResidualKm": 9.53,
+        "leaveOneOutErrorKm": 13.23
+      },
+      {
+        "name": "Kaluga",
+        "pixel": [
+          982,
+          714
+        ],
+        "coordinate": [
+          36.27,
+          54.53063
+        ],
+        "geonamesId": "553915",
+        "coordinateUrl": "https://www.geonames.org/553915/",
+        "fitResidualKm": 1.26,
+        "leaveOneOutErrorKm": 1.72
+      },
+      {
+        "name": "Orel",
+        "pixel": [
+          980,
+          1136
+        ],
+        "coordinate": [
+          36.0791,
+          52.96879
+        ],
+        "geonamesId": "515012",
+        "coordinateUrl": "https://www.geonames.org/515012/",
+        "fitResidualKm": 4.79,
+        "leaveOneOutErrorKm": 8.57
+      },
+      {
+        "name": "Bryansk",
+        "pixel": [
+          697,
+          1073
+        ],
+        "coordinate": [
+          34.32143,
+          53.27096
+        ],
+        "geonamesId": "571476",
+        "coordinateUrl": "https://www.geonames.org/571476/",
+        "fitResidualKm": 3.04,
+        "leaveOneOutErrorKm": 4.77
+      },
+      {
+        "name": "Velikiye Luki",
+        "pixel": [
+          84,
+          245
+        ],
+        "coordinate": [
+          30.54377,
+          56.34063
+        ],
+        "geonamesId": "476077",
+        "coordinateUrl": "https://www.geonames.org/476077/",
+        "fitResidualKm": 3.05,
+        "leaveOneOutErrorKm": 5.07
+      },
+      {
+        "name": "Toropets",
+        "pixel": [
+          259,
+          200
+        ],
+        "coordinate": [
+          31.6392,
+          56.49954
+        ],
+        "geonamesId": "482042",
+        "coordinateUrl": "https://www.geonames.org/482042/",
+        "fitResidualKm": 6.58,
+        "leaveOneOutErrorKm": 8.81
+      },
+      {
+        "name": "Belyy",
+        "pixel": [
+          452,
+          367
+        ],
+        "coordinate": [
+          32.94072,
+          55.84082
+        ],
+        "geonamesId": "577576",
+        "coordinateUrl": "https://www.geonames.org/577576/",
+        "fitResidualKm": 2.27,
+        "leaveOneOutErrorKm": 2.62
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.006499385907498079,
+          -9.526825898416855e-05
+        ],
+        [
+          -0.00029871114983272544,
+          -0.003673783766619433
+        ],
+        [
+          30.118607860764836,
+          57.25229344005654
+        ]
+      ],
+      "fitRmseKm": 4.8,
+      "leaveOneOutRmseKm": 7.06,
+      "maxLeaveOneOutKm": 13.23,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-12.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-12.jpg",
+    "width": 1100,
+    "height": 1407,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "906600b541cbe75d6e6d1075123e6ad89cfb8dec9ed979cd1fa9c9cfd5f55532",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-14",
+    "book": "Decision",
+    "number": 14,
+    "title": "Army Group North, 20 February–8 May 1942",
+    "page": 187,
+    "part": 8,
+    "controls": [
+      {
+        "name": "Leningrad",
+        "pixel": [
+          531,
+          183
+        ],
+        "coordinate": [
+          30.31413,
+          59.93863
+        ],
+        "geonamesId": "498817",
+        "coordinateUrl": "https://www.geonames.org/498817/",
+        "fitResidualKm": 0.38,
+        "leaveOneOutErrorKm": 0.56
+      },
+      {
+        "name": "Narva",
+        "pixel": [
+          204,
+          358
+        ],
+        "coordinate": [
+          28.19028,
+          59.37722
+        ],
+        "geonamesId": "590031",
+        "coordinateUrl": "https://www.geonames.org/590031/",
+        "fitResidualKm": 2.71,
+        "leaveOneOutErrorKm": 5.59
+      },
+      {
+        "name": "Luga",
+        "pixel": [
+          465,
+          558
+        ],
+        "coordinate": [
+          29.84756,
+          58.73876
+        ],
+        "geonamesId": "533690",
+        "coordinateUrl": "https://www.geonames.org/533690/",
+        "fitResidualKm": 1.32,
+        "leaveOneOutErrorKm": 1.61
+      },
+      {
+        "name": "Novgorod",
+        "pixel": [
+          691,
+          618
+        ],
+        "coordinate": [
+          31.27104,
+          58.52131
+        ],
+        "geonamesId": "519336",
+        "coordinateUrl": "https://www.geonames.org/519336/",
+        "fitResidualKm": 0.59,
+        "leaveOneOutErrorKm": 0.66
+      },
+      {
+        "name": "Staraya Russa",
+        "pixel": [
+          713,
+          779
+        ],
+        "coordinate": [
+          31.36003,
+          57.99618
+        ],
+        "geonamesId": "489088",
+        "coordinateUrl": "https://www.geonames.org/489088/",
+        "fitResidualKm": 1.05,
+        "leaveOneOutErrorKm": 1.17
+      },
+      {
+        "name": "Demyansk",
+        "pixel": [
+          894,
+          883
+        ],
+        "coordinate": [
+          32.46568,
+          57.64456
+        ],
+        "geonamesId": "566629",
+        "coordinateUrl": "https://www.geonames.org/566629/",
+        "fitResidualKm": 2.32,
+        "leaveOneOutErrorKm": 2.85
+      },
+      {
+        "name": "Kholm",
+        "pixel": [
+          685,
+          1045
+        ],
+        "coordinate": [
+          31.18173,
+          57.14893
+        ],
+        "geonamesId": "549797",
+        "coordinateUrl": "https://www.geonames.org/549797/",
+        "fitResidualKm": 1.92,
+        "leaveOneOutErrorKm": 2.41
+      },
+      {
+        "name": "Ostashkov",
+        "pixel": [
+          1006,
+          1031
+        ],
+        "coordinate": [
+          33.10659,
+          57.14695
+        ],
+        "geonamesId": "514259",
+        "coordinateUrl": "https://www.geonames.org/514259/",
+        "fitResidualKm": 5.09,
+        "leaveOneOutErrorKm": 7.51
+      },
+      {
+        "name": "Velikiye Luki",
+        "pixel": [
+          581,
+          1292
+        ],
+        "coordinate": [
+          30.54377,
+          56.34063
+        ],
+        "geonamesId": "476077",
+        "coordinateUrl": "https://www.geonames.org/476077/",
+        "fitResidualKm": 4.58,
+        "leaveOneOutErrorKm": 8.49
+      },
+      {
+        "name": "Tikhvin",
+        "pixel": [
+          1029,
+          265
+        ],
+        "coordinate": [
+          33.52555,
+          59.63924
+        ],
+        "geonamesId": "483019",
+        "coordinateUrl": "https://www.geonames.org/483019/",
+        "fitResidualKm": 4.31,
+        "leaveOneOutErrorKm": 10.43
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.006315608943187667,
+          -6.583911929271404e-05
+        ],
+        [
+          -0.0001528063341916452,
+          -0.003237395386377313
+        ],
+        [
+          26.99380128106405,
+          60.564066662139766
+        ]
+      ],
+      "fitRmseKm": 2.92,
+      "leaveOneOutRmseKm": 5.36,
+      "maxLeaveOneOutKm": 10.43,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-14.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-14.jpg",
+    "width": 1100,
+    "height": 1428,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "f1d8fc3246eb02a36854b74d3d65aa557705bfc1833b99f8a3b722e60d51e605",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-22",
+    "book": "Decision",
+    "number": 22,
+    "title": "The Reconquest of Kerch, 8–19 May 1942",
+    "page": 263,
+    "part": 9,
+    "controls": [
+      {
+        "name": "Kerch",
+        "pixel": [
+          796,
+          126
+        ],
+        "coordinate": [
+          36.47542,
+          45.35675
+        ],
+        "geonamesId": "706524",
+        "coordinateUrl": "https://www.geonames.org/706524/",
+        "fitResidualKm": 0.29,
+        "leaveOneOutErrorKm": 1.49
+      },
+      {
+        "name": "Feodosiya",
+        "pixel": [
+          171,
+          392
+        ],
+        "coordinate": [
+          35.38153,
+          45.03199
+        ],
+        "geonamesId": "709161",
+        "coordinateUrl": "https://www.geonames.org/709161/",
+        "fitResidualKm": 0.35,
+        "leaveOneOutErrorKm": 1.23
+      },
+      {
+        "name": "Vladislavovka",
+        "pixel": [
+          169,
+          290
+        ],
+        "coordinate": [
+          35.37268,
+          45.16654
+        ],
+        "geonamesId": "689374",
+        "coordinateUrl": "https://www.geonames.org/689374/",
+        "fitResidualKm": 0.41,
+        "leaveOneOutErrorKm": 1.07
+      },
+      {
+        "name": "Taman",
+        "pixel": [
+          938,
+          240
+        ],
+        "coordinate": [
+          36.71609,
+          45.2117
+        ],
+        "geonamesId": "484670",
+        "coordinateUrl": "https://www.geonames.org/484670/",
+        "fitResidualKm": 0.24,
+        "leaveOneOutErrorKm": 1.82
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "Only four identifiable settlement controls on a narrow peninsula. End-of-operation arrows do not supply intermediate daily fronts; the source plate remains the authority for the defensive lines.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0017438059573517397,
+          -2.2698819210432785e-05
+        ],
+        [
+          -1.7210854493342735e-05,
+          -0.0012728363147698788
+        ],
+        [
+          35.08677585498751,
+          45.5369974522266
+        ]
+      ],
+      "fitRmseKm": 0.33,
+      "leaveOneOutRmseKm": 1.43,
+      "maxLeaveOneOutKm": 1.82,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-22.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-22.jpg",
+    "width": 1100,
+    "height": 541,
+    "warning": "Only four identifiable settlement controls on a narrow peninsula. End-of-operation arrows do not supply intermediate daily fronts; the source plate remains the authority for the defensive lines.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "b6bf41f6e2786011f5ad081c47e0767a25db611be2b3bf2ad63ea69f46275205",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-23",
+    "book": "Decision",
+    "number": 23,
+    "title": "The Soviet Offensive, Kharkov, 12–19 May 1942",
+    "page": 274,
+    "part": 9,
+    "controls": [
+      {
+        "name": "Kharkiv",
+        "pixel": [
+          396,
+          329
+        ],
+        "coordinate": [
+          36.25475,
+          49.98177
+        ],
+        "geonamesId": "706483",
+        "coordinateUrl": "https://www.geonames.org/706483/",
+        "fitResidualKm": 0.66,
+        "leaveOneOutErrorKm": 1.25
+      },
+      {
+        "name": "Merefa",
+        "pixel": [
+          321,
+          430
+        ],
+        "coordinate": [
+          36.0567,
+          49.82107
+        ],
+        "geonamesId": "701347",
+        "coordinateUrl": "https://www.geonames.org/701347/",
+        "fitResidualKm": 0.7,
+        "leaveOneOutErrorKm": 1.18
+      },
+      {
+        "name": "Balakliya",
+        "pixel": [
+          645,
+          652
+        ],
+        "coordinate": [
+          36.84433,
+          49.45595
+        ],
+        "geonamesId": "712926",
+        "coordinateUrl": "https://www.geonames.org/712926/",
+        "fitResidualKm": 1.03,
+        "leaveOneOutErrorKm": 1.26
+      },
+      {
+        "name": "Izyum",
+        "pixel": [
+          832,
+          789
+        ],
+        "coordinate": [
+          37.27679,
+          49.20697
+        ],
+        "geonamesId": "707292",
+        "coordinateUrl": "https://www.geonames.org/707292/",
+        "fitResidualKm": 1.46,
+        "leaveOneOutErrorKm": 2.04
+      },
+      {
+        "name": "Barvinkove",
+        "pixel": [
+          721,
+          982
+        ],
+        "coordinate": [
+          37.02257,
+          48.9052
+        ],
+        "geonamesId": "712794",
+        "coordinateUrl": "https://www.geonames.org/712794/",
+        "fitResidualKm": 0.89,
+        "leaveOneOutErrorKm": 1.12
+      },
+      {
+        "name": "Lozova",
+        "pixel": [
+          416,
+          1002
+        ],
+        "coordinate": [
+          36.31412,
+          48.89066
+        ],
+        "geonamesId": "702760",
+        "coordinateUrl": "https://www.geonames.org/702760/",
+        "fitResidualKm": 1.82,
+        "leaveOneOutErrorKm": 2.43
+      },
+      {
+        "name": "Sloviansk",
+        "pixel": [
+          956,
+          1018
+        ],
+        "coordinate": [
+          37.59739,
+          48.84974
+        ],
+        "geonamesId": "693468",
+        "coordinateUrl": "https://www.geonames.org/693468/",
+        "fitResidualKm": 1.16,
+        "leaveOneOutErrorKm": 2.2
+      },
+      {
+        "name": "Pavlohrad",
+        "pixel": [
+          244,
+          1242
+        ],
+        "coordinate": [
+          35.86878,
+          48.53214
+        ],
+        "geonamesId": "697889",
+        "coordinateUrl": "https://www.geonames.org/697889/",
+        "fitResidualKm": 1.1,
+        "leaveOneOutErrorKm": 3.92
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0024003802645147514,
+          -6.158853410734052e-05
+        ],
+        [
+          -1.5361995104965563e-06,
+          -0.0016031520955107478
+        ],
+        [
+          35.296150786391735,
+          50.531658718939774
+        ]
+      ],
+      "fitRmseKm": 1.16,
+      "leaveOneOutRmseKm": 2.13,
+      "maxLeaveOneOutKm": 3.92,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-23.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-23.jpg",
+    "width": 1100,
+    "height": 1411,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "68ac3b7356cec218ad9c0b167825cbf4bbd32e492519b44445acba27d2ca95f3",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-24",
+    "book": "Decision",
+    "number": 24,
+    "title": "The German Counteroffensive, Kharkov, 17–28 May 1942",
+    "page": 277,
+    "part": 9,
+    "controls": [
+      {
+        "name": "Kharkiv",
+        "pixel": [
+          395,
+          329
+        ],
+        "coordinate": [
+          36.25475,
+          49.98177
+        ],
+        "geonamesId": "706483",
+        "coordinateUrl": "https://www.geonames.org/706483/",
+        "fitResidualKm": 0.59,
+        "leaveOneOutErrorKm": 1.12
+      },
+      {
+        "name": "Merefa",
+        "pixel": [
+          316,
+          432
+        ],
+        "coordinate": [
+          36.0567,
+          49.82107
+        ],
+        "geonamesId": "701347",
+        "coordinateUrl": "https://www.geonames.org/701347/",
+        "fitResidualKm": 0.16,
+        "leaveOneOutErrorKm": 0.28
+      },
+      {
+        "name": "Balakliya",
+        "pixel": [
+          647,
+          656
+        ],
+        "coordinate": [
+          36.84433,
+          49.45595
+        ],
+        "geonamesId": "712926",
+        "coordinateUrl": "https://www.geonames.org/712926/",
+        "fitResidualKm": 0.97,
+        "leaveOneOutErrorKm": 1.18
+      },
+      {
+        "name": "Izyum",
+        "pixel": [
+          828,
+          795
+        ],
+        "coordinate": [
+          37.27679,
+          49.20697
+        ],
+        "geonamesId": "707292",
+        "coordinateUrl": "https://www.geonames.org/707292/",
+        "fitResidualKm": 1.47,
+        "leaveOneOutErrorKm": 2.04
+      },
+      {
+        "name": "Barvinkove",
+        "pixel": [
+          719,
+          988
+        ],
+        "coordinate": [
+          37.02257,
+          48.9052
+        ],
+        "geonamesId": "712794",
+        "coordinateUrl": "https://www.geonames.org/712794/",
+        "fitResidualKm": 1.34,
+        "leaveOneOutErrorKm": 1.68
+      },
+      {
+        "name": "Lozova",
+        "pixel": [
+          432,
+          1008
+        ],
+        "coordinate": [
+          36.31412,
+          48.89066
+        ],
+        "geonamesId": "702760",
+        "coordinateUrl": "https://www.geonames.org/702760/",
+        "fitResidualKm": 1.35,
+        "leaveOneOutErrorKm": 1.77
+      },
+      {
+        "name": "Sloviansk",
+        "pixel": [
+          954,
+          1033
+        ],
+        "coordinate": [
+          37.59739,
+          48.84974
+        ],
+        "geonamesId": "693468",
+        "coordinateUrl": "https://www.geonames.org/693468/",
+        "fitResidualKm": 1.87,
+        "leaveOneOutErrorKm": 3.55
+      },
+      {
+        "name": "Pavlohrad",
+        "pixel": [
+          240,
+          1248
+        ],
+        "coordinate": [
+          35.86878,
+          48.53214
+        ],
+        "geonamesId": "697889",
+        "coordinateUrl": "https://www.geonames.org/697889/",
+        "fitResidualKm": 0.83,
+        "leaveOneOutErrorKm": 3.12
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0024109802549896783,
+          -4.654005194780483e-05
+        ],
+        [
+          -1.225024768370664e-05,
+          -0.0015899026563456608
+        ],
+        [
+          35.298846290233286,
+          50.521406414051214
+        ]
+      ],
+      "fitRmseKm": 1.19,
+      "leaveOneOutRmseKm": 2.1,
+      "maxLeaveOneOutKm": 3.55,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-24.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-24.jpg",
+    "width": 1100,
+    "height": 1428,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "1fbb8eb3d79268d67d26da7b8db8efc2c6c05cc454810e1c4bd0cd5df1db32ec",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-26",
+    "book": "Decision",
+    "number": 26,
+    "title": "Summer Campaign Projected in Directive 41, 5 April 1942",
+    "page": 289,
+    "part": 10,
+    "controls": [
+      {
+        "name": "Kursk",
+        "pixel": [
+          61,
+          42
+        ],
+        "coordinate": [
+          36.18457,
+          51.72689
+        ],
+        "geonamesId": "538560",
+        "coordinateUrl": "https://www.geonames.org/538560/",
+        "fitResidualKm": 7.92,
+        "leaveOneOutErrorKm": 13.96
+      },
+      {
+        "name": "Voronezh",
+        "pixel": [
+          400,
+          73
+        ],
+        "coordinate": [
+          39.19204,
+          51.66833
+        ],
+        "geonamesId": "472045",
+        "coordinateUrl": "https://www.geonames.org/472045/",
+        "fitResidualKm": 7.6,
+        "leaveOneOutErrorKm": 12.94
+      },
+      {
+        "name": "Kharkiv",
+        "pixel": [
+          44,
+          363
+        ],
+        "coordinate": [
+          36.25475,
+          49.98177
+        ],
+        "geonamesId": "706483",
+        "coordinateUrl": "https://www.geonames.org/706483/",
+        "fitResidualKm": 1.14,
+        "leaveOneOutErrorKm": 1.65
+      },
+      {
+        "name": "Izyum",
+        "pixel": [
+          144,
+          493
+        ],
+        "coordinate": [
+          37.27679,
+          49.20697
+        ],
+        "geonamesId": "707292",
+        "coordinateUrl": "https://www.geonames.org/707292/",
+        "fitResidualKm": 12.27,
+        "leaveOneOutErrorKm": 16.96
+      },
+      {
+        "name": "Rostov-na-Donu",
+        "pixel": [
+          444,
+          878
+        ],
+        "coordinate": [
+          39.70769,
+          47.21997
+        ],
+        "geonamesId": "501175",
+        "coordinateUrl": "https://www.geonames.org/501175/",
+        "fitResidualKm": 5.09,
+        "leaveOneOutErrorKm": 11.7
+      },
+      {
+        "name": "Volgograd",
+        "pixel": [
+          1026,
+          609
+        ],
+        "coordinate": [
+          44.4976,
+          48.71378
+        ],
+        "geonamesId": "472757",
+        "coordinateUrl": "https://www.geonames.org/472757/",
+        "fitResidualKm": 5.8,
+        "leaveOneOutErrorKm": 16.55
+      },
+      {
+        "name": "Millerovo",
+        "pixel": [
+          538,
+          571
+        ],
+        "coordinate": [
+          40.39982,
+          48.92523
+        ],
+        "geonamesId": "526558",
+        "coordinateUrl": "https://www.geonames.org/526558/",
+        "fitResidualKm": 3.41,
+        "leaveOneOutErrorKm": 4.11
+      },
+      {
+        "name": "Boguchar",
+        "pixel": [
+          570,
+          390
+        ],
+        "coordinate": [
+          40.55447,
+          49.9346
+        ],
+        "geonamesId": "575457",
+        "coordinateUrl": "https://www.geonames.org/575457/",
+        "fitResidualKm": 5.99,
+        "leaveOneOutErrorKm": 7.35
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "A plan, not executed movements. The postwar base depicts a reservoir on the Don; water polygons are not copied.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.008271549913665618,
+          0.00015364490202713
+        ],
+        [
+          0.0003586197573695665,
+          -0.005529670498237854
+        ],
+        [
+          35.76866468476931,
+          51.973458916829195
+        ]
+      ],
+      "fitRmseKm": 6.89,
+      "leaveOneOutRmseKm": 11.91,
+      "maxLeaveOneOutKm": 16.96,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-26.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-26.jpg",
+    "width": 1100,
+    "height": 1075,
+    "warning": "A plan, not executed movements. The postwar base depicts a reservoir on the Don; water polygons are not copied. The base includes the postwar Tsimlyansk reservoir. It is not period shoreline evidence.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "d182aab9d915be6038f68239c397cb2322ffe9cf6ab699087c317d6f18e23430",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-30",
+    "book": "Decision",
+    "number": 30,
+    "title": "Operation Blau–Braunschweig, 28 June–11 July 1942",
+    "page": 335,
+    "part": 10,
+    "controls": [
+      {
+        "name": "Kursk",
+        "pixel": [
+          92,
+          302
+        ],
+        "coordinate": [
+          36.18457,
+          51.72689
+        ],
+        "geonamesId": "538560",
+        "coordinateUrl": "https://www.geonames.org/538560/",
+        "fitResidualKm": 8.18,
+        "leaveOneOutErrorKm": 14.67
+      },
+      {
+        "name": "Voronezh",
+        "pixel": [
+          669,
+          330
+        ],
+        "coordinate": [
+          39.19204,
+          51.66833
+        ],
+        "geonamesId": "472045",
+        "coordinateUrl": "https://www.geonames.org/472045/",
+        "fitResidualKm": 5.13,
+        "leaveOneOutErrorKm": 9.89
+      },
+      {
+        "name": "Kharkiv",
+        "pixel": [
+          77,
+          842
+        ],
+        "coordinate": [
+          36.25475,
+          49.98177
+        ],
+        "geonamesId": "706483",
+        "coordinateUrl": "https://www.geonames.org/706483/",
+        "fitResidualKm": 5.8,
+        "leaveOneOutErrorKm": 13.19
+      },
+      {
+        "name": "Belgorod",
+        "pixel": [
+          156,
+          651
+        ],
+        "coordinate": [
+          36.58091,
+          50.60343
+        ],
+        "geonamesId": "578072",
+        "coordinateUrl": "https://www.geonames.org/578072/",
+        "fitResidualKm": 0.55,
+        "leaveOneOutErrorKm": 0.78
+      },
+      {
+        "name": "Rossosh-correct",
+        "pixel": [
+          750,
+          783
+        ],
+        "coordinate": [
+          39.56631,
+          50.19645
+        ],
+        "geonamesId": "501231",
+        "coordinateUrl": "https://www.geonames.org/501231/",
+        "fitResidualKm": 6.95,
+        "leaveOneOutErrorKm": 8.39
+      },
+      {
+        "name": "Boguchar",
+        "pixel": [
+          958,
+          842
+        ],
+        "coordinate": [
+          40.55447,
+          49.9346
+        ],
+        "geonamesId": "575457",
+        "coordinateUrl": "https://www.geonames.org/575457/",
+        "fitResidualKm": 2.9,
+        "leaveOneOutErrorKm": 4.15
+      },
+      {
+        "name": "Millerovo",
+        "pixel": [
+          961,
+          1153
+        ],
+        "coordinate": [
+          40.39982,
+          48.92523
+        ],
+        "geonamesId": "526558",
+        "coordinateUrl": "https://www.geonames.org/526558/",
+        "fitResidualKm": 7.75,
+        "leaveOneOutErrorKm": 16.89
+      },
+      {
+        "name": "Ostrogozhsk",
+        "pixel": [
+          661,
+          549
+        ],
+        "coordinate": [
+          39.07808,
+          50.86586
+        ],
+        "geonamesId": "514198",
+        "coordinateUrl": "https://www.geonames.org/514198/",
+        "fitResidualKm": 5.81,
+        "leaveOneOutErrorKm": 7.31
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.004936447085917334,
+          -2.831712715743954e-05
+        ],
+        [
+          -9.260819383038244e-05,
+          -0.0032720665874928995
+        ],
+        [
+          35.87133158415552,
+          52.7330387866027
+        ]
+      ],
+      "fitRmseKm": 5.89,
+      "leaveOneOutRmseKm": 10.69,
+      "maxLeaveOneOutKm": 16.89,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-30.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-30.jpg",
+    "width": 1100,
+    "height": 1422,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "df0db0af9732c737ecb4409ae4fa9ab6a29745caad881a0f04e91c61d578195c",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-31",
+    "book": "Decision",
+    "number": 31,
+    "title": "Operation Blau–Braunschweig, 14–31 July 1942",
+    "page": 350,
+    "part": 10,
+    "controls": [
+      {
+        "name": "Rostov-na-Donu",
+        "pixel": [
+          268,
+          1026
+        ],
+        "coordinate": [
+          39.70769,
+          47.21997
+        ],
+        "geonamesId": "501175",
+        "coordinateUrl": "https://www.geonames.org/501175/",
+        "fitResidualKm": 4.05,
+        "leaveOneOutErrorKm": 5.73
+      },
+      {
+        "name": "Taganrog",
+        "pixel": [
+          148,
+          1027
+        ],
+        "coordinate": [
+          38.9053,
+          47.23627
+        ],
+        "geonamesId": "484907",
+        "coordinateUrl": "https://www.geonames.org/484907/",
+        "fitResidualKm": 2.42,
+        "leaveOneOutErrorKm": 4.17
+      },
+      {
+        "name": "Millerovo",
+        "pixel": [
+          376,
+          635
+        ],
+        "coordinate": [
+          40.39982,
+          48.92523
+        ],
+        "geonamesId": "526558",
+        "coordinateUrl": "https://www.geonames.org/526558/",
+        "fitResidualKm": 4.75,
+        "leaveOneOutErrorKm": 7.83
+      },
+      {
+        "name": "Morozovsk",
+        "pixel": [
+          600,
+          758
+        ],
+        "coordinate": [
+          41.829,
+          48.35103
+        ],
+        "geonamesId": "525162",
+        "coordinateUrl": "https://www.geonames.org/525162/",
+        "fitResidualKm": 2.82,
+        "leaveOneOutErrorKm": 3.2
+      },
+      {
+        "name": "Serafimovich",
+        "pixel": [
+          718,
+          469
+        ],
+        "coordinate": [
+          42.73227,
+          49.57572
+        ],
+        "geonamesId": "496957",
+        "coordinateUrl": "https://www.geonames.org/496957/",
+        "fitResidualKm": 3.12,
+        "leaveOneOutErrorKm": 5.11
+      },
+      {
+        "name": "Kalach-na-Donu",
+        "pixel": [
+          854,
+          664
+        ],
+        "coordinate": [
+          43.52638,
+          48.69099
+        ],
+        "geonamesId": "554397",
+        "coordinateUrl": "https://www.geonames.org/554397/",
+        "fitResidualKm": 1.23,
+        "leaveOneOutErrorKm": 1.57
+      },
+      {
+        "name": "Volgograd",
+        "pixel": [
+          1003,
+          646
+        ],
+        "coordinate": [
+          44.4976,
+          48.71378
+        ],
+        "geonamesId": "472757",
+        "coordinateUrl": "https://www.geonames.org/472757/",
+        "fitResidualKm": 4.1,
+        "leaveOneOutErrorKm": 6.48
+      },
+      {
+        "name": "Kotelnikovo",
+        "pixel": [
+          815,
+          914
+        ],
+        "coordinate": [
+          43.14158,
+          47.63012
+        ],
+        "geonamesId": "543728",
+        "coordinateUrl": "https://www.geonames.org/543728/",
+        "fitResidualKm": 3.96,
+        "leaveOneOutErrorKm": 5.56
+      },
+      {
+        "name": "Salsk",
+        "pixel": [
+          569,
+          1195
+        ],
+        "coordinate": [
+          41.54159,
+          46.47494
+        ],
+        "geonamesId": "499161",
+        "coordinateUrl": "https://www.geonames.org/499161/",
+        "fitResidualKm": 2.6,
+        "leaveOneOutErrorKm": 5.3
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "Do not use relocated Tsimlyansk as a control. Its current city point is not the pre-reservoir settlement.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.006401950093320777,
+          -0.00018510251747313905
+        ],
+        [
+          -0.00027390213045632193,
+          -0.004325136138571798
+        ],
+        [
+          38.22591036393409,
+          51.72545355680931
+        ]
+      ],
+      "fitRmseKm": 3.39,
+      "leaveOneOutRmseKm": 5.28,
+      "maxLeaveOneOutKm": 7.83,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-31.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-31.jpg",
+    "width": 1100,
+    "height": 1421,
+    "warning": "Do not use relocated Tsimlyansk as a control. Its current city point is not the pre-reservoir settlement.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "ea07bc1ad0b0ad2567a44bd78170a4e8f10d98bd587f68cea2a26ecfe169f36e",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-32",
+    "book": "Decision",
+    "number": 32,
+    "title": "Operation Edelweiss, 31 July–10 October 1942",
+    "page": 368,
+    "part": 11,
+    "controls": [
+      {
+        "name": "Rostov-na-Donu",
+        "pixel": [
+          496,
+          117
+        ],
+        "coordinate": [
+          39.70769,
+          47.21997
+        ],
+        "geonamesId": "501175",
+        "coordinateUrl": "https://www.geonames.org/501175/",
+        "fitResidualKm": 7.26,
+        "leaveOneOutErrorKm": 14.14
+      },
+      {
+        "name": "Krasnodar",
+        "pixel": [
+          407,
+          526
+        ],
+        "coordinate": [
+          38.98178,
+          45.04534
+        ],
+        "geonamesId": "542420",
+        "coordinateUrl": "https://www.geonames.org/542420/",
+        "fitResidualKm": 2.78,
+        "leaveOneOutErrorKm": 3.37
+      },
+      {
+        "name": "Maykop",
+        "pixel": [
+          552,
+          599
+        ],
+        "coordinate": [
+          40.10242,
+          44.60789
+        ],
+        "geonamesId": "528293",
+        "coordinateUrl": "https://www.geonames.org/528293/",
+        "fitResidualKm": 0.83,
+        "leaveOneOutErrorKm": 0.96
+      },
+      {
+        "name": "Armavir",
+        "pixel": [
+          681,
+          528
+        ],
+        "coordinate": [
+          41.11472,
+          44.99849
+        ],
+        "geonamesId": "580922",
+        "coordinateUrl": "https://www.geonames.org/580922/",
+        "fitResidualKm": 1.94,
+        "leaveOneOutErrorKm": 2.14
+      },
+      {
+        "name": "Kropotkin",
+        "pixel": [
+          602,
+          452
+        ],
+        "coordinate": [
+          40.5704,
+          45.43722
+        ],
+        "geonamesId": "540761",
+        "coordinateUrl": "https://www.geonames.org/540761/",
+        "fitResidualKm": 5.1,
+        "leaveOneOutErrorKm": 5.79
+      },
+      {
+        "name": "Mozdok",
+        "pixel": [
+          1162,
+          743
+        ],
+        "coordinate": [
+          44.65157,
+          43.73976
+        ],
+        "geonamesId": "524736",
+        "coordinateUrl": "https://www.geonames.org/524736/",
+        "fitResidualKm": 6.4,
+        "leaveOneOutErrorKm": 8.42
+      },
+      {
+        "name": "Grozny",
+        "pixel": [
+          1276,
+          812
+        ],
+        "coordinate": [
+          45.68895,
+          43.31195
+        ],
+        "geonamesId": "558418",
+        "coordinateUrl": "https://www.geonames.org/558418/",
+        "fitResidualKm": 8.97,
+        "leaveOneOutErrorKm": 13.61
+      },
+      {
+        "name": "Vladikavkaz",
+        "pixel": [
+          1172,
+          875
+        ],
+        "coordinate": [
+          44.66986,
+          43.04101
+        ],
+        "geonamesId": "473249",
+        "coordinateUrl": "https://www.geonames.org/473249/",
+        "fitResidualKm": 8.75,
+        "leaveOneOutErrorKm": 13.08
+      },
+      {
+        "name": "Tuapse",
+        "pixel": [
+          411,
+          697
+        ],
+        "coordinate": [
+          39.08326,
+          44.10083
+        ],
+        "geonamesId": "480716",
+        "coordinateUrl": "https://www.geonames.org/480716/",
+        "fitResidualKm": 6.41,
+        "leaveOneOutErrorKm": 8.81
+      },
+      {
+        "name": "Novorossiysk",
+        "pixel": [
+          246,
+          583
+        ],
+        "coordinate": [
+          37.76176,
+          44.73188
+        ],
+        "geonamesId": "518255",
+        "coordinateUrl": "https://www.geonames.org/518255/",
+        "fitResidualKm": 1.92,
+        "leaveOneOutErrorKm": 2.79
+      },
+      {
+        "name": "Elista",
+        "pixel": [
+          1075,
+          275
+        ],
+        "coordinate": [
+          44.25537,
+          46.30794
+        ],
+        "geonamesId": "563514",
+        "coordinateUrl": "https://www.geonames.org/563514/",
+        "fitResidualKm": 5.98,
+        "leaveOneOutErrorKm": 11.94
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.007645058659818497,
+          -0.00015079901442541284
+        ],
+        [
+          -0.00024255520073163494,
+          -0.005437446624072897
+        ],
+        [
+          36.029204196323725,
+          47.95554247564688
+        ]
+      ],
+      "fitRmseKm": 5.8,
+      "leaveOneOutRmseKm": 9.07,
+      "maxLeaveOneOutKm": 14.14,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-32.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-32.jpg",
+    "width": 1600,
+    "height": 1062,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "a6d912e9e8b4f334c1ccb500ccb24c636fa76da30b2fc39df3bfa3317021fe7d",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-33",
+    "book": "Decision",
+    "number": 33,
+    "title": "The Advance to Stalingrad, 31 July–3 September 1942",
+    "page": 383,
+    "part": 11,
+    "controls": [
+      {
+        "name": "Millerovo",
+        "pixel": [
+          80,
+          283
+        ],
+        "coordinate": [
+          40.39982,
+          48.92523
+        ],
+        "geonamesId": "526558",
+        "coordinateUrl": "https://www.geonames.org/526558/",
+        "fitResidualKm": 1.69,
+        "leaveOneOutErrorKm": 6.52
+      },
+      {
+        "name": "Morozovsk",
+        "pixel": [
+          375,
+          449
+        ],
+        "coordinate": [
+          41.829,
+          48.35103
+        ],
+        "geonamesId": "525162",
+        "coordinateUrl": "https://www.geonames.org/525162/",
+        "fitResidualKm": 2.1,
+        "leaveOneOutErrorKm": 2.97
+      },
+      {
+        "name": "Kalach-na-Donu",
+        "pixel": [
+          711,
+          345
+        ],
+        "coordinate": [
+          43.52638,
+          48.69099
+        ],
+        "geonamesId": "554397",
+        "coordinateUrl": "https://www.geonames.org/554397/",
+        "fitResidualKm": 3.3,
+        "leaveOneOutErrorKm": 4.36
+      },
+      {
+        "name": "Volgograd",
+        "pixel": [
+          888,
+          344
+        ],
+        "coordinate": [
+          44.4976,
+          48.71378
+        ],
+        "geonamesId": "472757",
+        "coordinateUrl": "https://www.geonames.org/472757/",
+        "fitResidualKm": 3.08,
+        "leaveOneOutErrorKm": 5.82
+      },
+      {
+        "name": "Kotelnikovo",
+        "pixel": [
+          639,
+          675
+        ],
+        "coordinate": [
+          43.14158,
+          47.63012
+        ],
+        "geonamesId": "543728",
+        "coordinateUrl": "https://www.geonames.org/543728/",
+        "fitResidualKm": 1.59,
+        "leaveOneOutErrorKm": 6.78
+      },
+      {
+        "name": "Kletskaya",
+        "pixel": [
+          610,
+          168
+        ],
+        "coordinate": [
+          43.0628,
+          49.31361
+        ],
+        "geonamesId": "547677",
+        "coordinateUrl": "https://www.geonames.org/547677/",
+        "fitResidualKm": 2.05,
+        "leaveOneOutErrorKm": 4.0
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "The city inset uses a different scale and is not georeferenced with the main map. Modern Tsimlyansk is excluded as a control because of relocation.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.005059220152762056,
+          -6.4997748327235755e-06
+        ],
+        [
+          -0.0001654424264265683,
+          -0.0033182583845351847
+        ],
+        [
+          40.02018958147615,
+          49.85979428981007
+        ]
+      ],
+      "fitRmseKm": 2.39,
+      "leaveOneOutRmseKm": 5.26,
+      "maxLeaveOneOutKm": 6.78,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-33.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-33.jpg",
+    "width": 1100,
+    "height": 1117,
+    "warning": "The city inset uses a different scale and is not georeferenced with the main map. Modern Tsimlyansk is excluded as a control because of relocation.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "2ad7922da1cf2222fc0f042a3ec698d19fb33ab1c8e3e0f0623261ca2221d9a8",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-42",
+    "book": "Decision",
+    "number": 42,
+    "title": "Operation Uranus, 19–23 November 1942",
+    "page": 469,
+    "part": 12,
+    "controls": [
+      {
+        "name": "Serafimovich",
+        "pixel": [
+          358,
+          223
+        ],
+        "coordinate": [
+          42.73227,
+          49.57572
+        ],
+        "geonamesId": "496957",
+        "coordinateUrl": "https://www.geonames.org/496957/",
+        "fitResidualKm": 1.34,
+        "leaveOneOutErrorKm": 2.79
+      },
+      {
+        "name": "Kletskaya",
+        "pixel": [
+          444,
+          340
+        ],
+        "coordinate": [
+          43.0628,
+          49.31361
+        ],
+        "geonamesId": "547677",
+        "coordinateUrl": "https://www.geonames.org/547677/",
+        "fitResidualKm": 1.72,
+        "leaveOneOutErrorKm": 2.44
+      },
+      {
+        "name": "Kalach-na-Donu",
+        "pixel": [
+          537,
+          599
+        ],
+        "coordinate": [
+          43.52638,
+          48.69099
+        ],
+        "geonamesId": "554397",
+        "coordinateUrl": "https://www.geonames.org/554397/",
+        "fitResidualKm": 7.79,
+        "leaveOneOutErrorKm": 9.13
+      },
+      {
+        "name": "Volgograd",
+        "pixel": [
+          850,
+          573
+        ],
+        "coordinate": [
+          44.4976,
+          48.71378
+        ],
+        "geonamesId": "472757",
+        "coordinateUrl": "https://www.geonames.org/472757/",
+        "fitResidualKm": 4.33,
+        "leaveOneOutErrorKm": 7.72
+      },
+      {
+        "name": "Morozovsk",
+        "pixel": [
+          101,
+          740
+        ],
+        "coordinate": [
+          41.829,
+          48.35103
+        ],
+        "geonamesId": "525162",
+        "coordinateUrl": "https://www.geonames.org/525162/",
+        "fitResidualKm": 2.37,
+        "leaveOneOutErrorKm": 5.81
+      },
+      {
+        "name": "Kotelnikovo",
+        "pixel": [
+          455,
+          1047
+        ],
+        "coordinate": [
+          43.14158,
+          47.63012
+        ],
+        "geonamesId": "543728",
+        "coordinateUrl": "https://www.geonames.org/543728/",
+        "fitResidualKm": 1.32,
+        "leaveOneOutErrorKm": 3.74
+      },
+      {
+        "name": "Gumrak",
+        "pixel": [
+          801,
+          550
+        ],
+        "coordinate": [
+          44.3824,
+          48.78255
+        ],
+        "geonamesId": "557992",
+        "coordinateUrl": "https://www.geonames.org/557992/",
+        "fitResidualKm": 0.67,
+        "leaveOneOutErrorKm": 1.05
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.003618993506218591,
+          -4.493279062637381e-05
+        ],
+        [
+          6.479691542559521e-05,
+          -0.0023714791961452087
+        ],
+        [
+          41.43931799819109,
+          50.124827851752364
+        ]
+      ],
+      "fitRmseKm": 3.63,
+      "leaveOneOutRmseKm": 5.42,
+      "maxLeaveOneOutKm": 9.13,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-42.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-42.jpg",
+    "width": 1100,
+    "height": 1430,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "9c24a21ca28099e1b4cbb60cd724594ece1d6d7d6256d305b2c9224c3b2c6bfc",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-defeat-4",
+    "book": "Defeat",
+    "number": 4,
+    "title": "Stalingrad, November–December 1942",
+    "page": 51,
+    "part": 12,
+    "controls": [
+      {
+        "name": "Serafimovich",
+        "pixel": [
+          419,
+          166
+        ],
+        "coordinate": [
+          42.73227,
+          49.57572
+        ],
+        "geonamesId": "496957",
+        "coordinateUrl": "https://www.geonames.org/496957/",
+        "fitResidualKm": 0.36,
+        "leaveOneOutErrorKm": 0.74
+      },
+      {
+        "name": "Kletskaya",
+        "pixel": [
+          510,
+          283
+        ],
+        "coordinate": [
+          43.0628,
+          49.31361
+        ],
+        "geonamesId": "547677",
+        "coordinateUrl": "https://www.geonames.org/547677/",
+        "fitResidualKm": 2.87,
+        "leaveOneOutErrorKm": 4.04
+      },
+      {
+        "name": "Kalach-na-Donu",
+        "pixel": [
+          636,
+          534
+        ],
+        "coordinate": [
+          43.52638,
+          48.69099
+        ],
+        "geonamesId": "554397",
+        "coordinateUrl": "https://www.geonames.org/554397/",
+        "fitResidualKm": 1.58,
+        "leaveOneOutErrorKm": 1.86
+      },
+      {
+        "name": "Volgograd",
+        "pixel": [
+          921,
+          501
+        ],
+        "coordinate": [
+          44.4976,
+          48.71378
+        ],
+        "geonamesId": "472757",
+        "coordinateUrl": "https://www.geonames.org/472757/",
+        "fitResidualKm": 4.53,
+        "leaveOneOutErrorKm": 8.02
+      },
+      {
+        "name": "Morozovsk",
+        "pixel": [
+          172,
+          671
+        ],
+        "coordinate": [
+          41.829,
+          48.35103
+        ],
+        "geonamesId": "525162",
+        "coordinateUrl": "https://www.geonames.org/525162/",
+        "fitResidualKm": 3.51,
+        "leaveOneOutErrorKm": 8.72
+      },
+      {
+        "name": "Kotelnikovo",
+        "pixel": [
+          535,
+          985
+        ],
+        "coordinate": [
+          43.14158,
+          47.63012
+        ],
+        "geonamesId": "543728",
+        "coordinateUrl": "https://www.geonames.org/543728/",
+        "fitResidualKm": 2.55,
+        "leaveOneOutErrorKm": 7.53
+      },
+      {
+        "name": "Gumrak",
+        "pixel": [
+          863,
+          482
+        ],
+        "coordinate": [
+          44.3824,
+          48.78255
+        ],
+        "geonamesId": "557992",
+        "coordinateUrl": "https://www.geonames.org/557992/",
+        "fitResidualKm": 3.44,
+        "leaveOneOutErrorKm": 5.25
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "The older plate is used only for its explicitly dated 12 and 24 December fronts and airfield symbols. Moscow to Stalingrad takes precedence for Uranus chronology; the 22 November label near Kalach must not be read as the town’s capture.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0036164489293158244,
+          -6.655513035319229e-05
+        ],
+        [
+          -1.712984539138065e-05,
+          -0.0023917426342900438
+        ],
+        [
+          41.223679634671925,
+          49.99866277573029
+        ]
+      ],
+      "fitRmseKm": 2.98,
+      "leaveOneOutRmseKm": 5.92,
+      "maxLeaveOneOutKm": 8.72,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-4.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Defeat-4.jpg",
+    "width": 1100,
+    "height": 1277,
+    "warning": "The older plate is used only for its explicitly dated 12 and 24 December fronts and airfield symbols. Moscow to Stalingrad takes precedence for Uranus chronology; the 22 November label near Kalach must not be read as the town’s capture.",
+    "bookTitle": "Stalingrad to Berlin: The German Defeat in the East (1968; 1987 reprint)",
+    "sha256": "5345e146fc098b03ecddf1e28068adea72056ad678c86c4f44a302e24741b2ca",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/USA-EF-Defeat-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-43",
+    "book": "Decision",
+    "number": 43,
+    "title": "Malyy Saturn, 16 December 1942–19 January 1943",
+    "page": 487,
+    "part": 12,
+    "controls": [
+      {
+        "name": "Kharkiv",
+        "pixel": [
+          42,
+          215
+        ],
+        "coordinate": [
+          36.25475,
+          49.98177
+        ],
+        "geonamesId": "706483",
+        "coordinateUrl": "https://www.geonames.org/706483/",
+        "fitResidualKm": 12.68,
+        "leaveOneOutErrorKm": 23.15
+      },
+      {
+        "name": "Rossosh-correct",
+        "pixel": [
+          397,
+          197
+        ],
+        "coordinate": [
+          39.56631,
+          50.19645
+        ],
+        "geonamesId": "501231",
+        "coordinateUrl": "https://www.geonames.org/501231/",
+        "fitResidualKm": 3.28,
+        "leaveOneOutErrorKm": 4.43
+      },
+      {
+        "name": "Millerovo",
+        "pixel": [
+          476,
+          414
+        ],
+        "coordinate": [
+          40.39982,
+          48.92523
+        ],
+        "geonamesId": "526558",
+        "coordinateUrl": "https://www.geonames.org/526558/",
+        "fitResidualKm": 11.5,
+        "leaveOneOutErrorKm": 13.5
+      },
+      {
+        "name": "Rostov-na-Donu",
+        "pixel": [
+          395,
+          672
+        ],
+        "coordinate": [
+          39.70769,
+          47.21997
+        ],
+        "geonamesId": "501175",
+        "coordinateUrl": "https://www.geonames.org/501175/",
+        "fitResidualKm": 5.17,
+        "leaveOneOutErrorKm": 5.86
+      },
+      {
+        "name": "Volgograd",
+        "pixel": [
+          918,
+          435
+        ],
+        "coordinate": [
+          44.4976,
+          48.71378
+        ],
+        "geonamesId": "472757",
+        "coordinateUrl": "https://www.geonames.org/472757/",
+        "fitResidualKm": 14.1,
+        "leaveOneOutErrorKm": 26.12
+      },
+      {
+        "name": "Morozovsk",
+        "pixel": [
+          653,
+          494
+        ],
+        "coordinate": [
+          41.829,
+          48.35103
+        ],
+        "geonamesId": "525162",
+        "coordinateUrl": "https://www.geonames.org/525162/",
+        "fitResidualKm": 8.16,
+        "leaveOneOutErrorKm": 9.88
+      },
+      {
+        "name": "Krasnodar",
+        "pixel": [
+          306,
+          1026
+        ],
+        "coordinate": [
+          38.98178,
+          45.04534
+        ],
+        "geonamesId": "542420",
+        "coordinateUrl": "https://www.geonames.org/542420/",
+        "fitResidualKm": 7.33,
+        "leaveOneOutErrorKm": 10.43
+      },
+      {
+        "name": "Tuapse",
+        "pixel": [
+          314,
+          1178
+        ],
+        "coordinate": [
+          39.08326,
+          44.10083
+        ],
+        "geonamesId": "480716",
+        "coordinateUrl": "https://www.geonames.org/480716/",
+        "fitResidualKm": 7.86,
+        "leaveOneOutErrorKm": 13.27
+      },
+      {
+        "name": "Vladikavkaz",
+        "pixel": [
+          962,
+          1353
+        ],
+        "coordinate": [
+          44.66986,
+          43.04101
+        ],
+        "geonamesId": "473249",
+        "coordinateUrl": "https://www.geonames.org/473249/",
+        "fitResidualKm": 12.62,
+        "leaveOneOutErrorKm": 28.94
+      },
+      {
+        "name": "Salsk",
+        "pixel": [
+          612,
+          784
+        ],
+        "coordinate": [
+          41.54159,
+          46.47494
+        ],
+        "geonamesId": "499161",
+        "coordinateUrl": "https://www.geonames.org/499161/",
+        "fitResidualKm": 9.49,
+        "leaveOneOutErrorKm": 10.77
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "The plate combines more than a month. Its postwar reservoir base is not copied. Formation labels such as Hollidt as of 24 December are not applied to the opening day.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.00899741008659475,
+          6.520046841645631e-05
+        ],
+        [
+          0.00013941972394553023,
+          -0.0062003607673179195
+        ],
+        [
+          35.9926211118932,
+          51.36834992960851
+        ]
+      ],
+      "fitRmseKm": 9.8,
+      "leaveOneOutRmseKm": 16.7,
+      "maxLeaveOneOutKm": 28.94,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-43.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-43.jpg",
+    "width": 1100,
+    "height": 1426,
+    "warning": "The plate combines more than a month. Its postwar reservoir base is not copied. Formation labels such as Hollidt as of 24 December are not applied to the opening day. The base includes the postwar Tsimlyansk reservoir. It is not period shoreline evidence.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "3fb76f9399b51026f8dca3115cb6506e5196877856790c9d7e51d8a8d4bc8a0c",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-defeat-9",
+    "book": "Defeat",
+    "number": 9,
+    "title": "Soviet Offensive Against Army Groups Center and North, November–December 1942",
+    "page": 99,
+    "part": 12,
+    "controls": [
+      {
+        "name": "Novgorod",
+        "pixel": [
+          314,
+          118
+        ],
+        "coordinate": [
+          31.27104,
+          58.52131
+        ],
+        "geonamesId": "519336",
+        "coordinateUrl": "https://www.geonames.org/519336/",
+        "fitResidualKm": 3.91,
+        "leaveOneOutErrorKm": 6.26
+      },
+      {
+        "name": "Staraya Russa",
+        "pixel": [
+          317,
+          280
+        ],
+        "coordinate": [
+          31.36003,
+          57.99618
+        ],
+        "geonamesId": "489088",
+        "coordinateUrl": "https://www.geonames.org/489088/",
+        "fitResidualKm": 0.69,
+        "leaveOneOutErrorKm": 0.91
+      },
+      {
+        "name": "Demyansk",
+        "pixel": [
+          499,
+          393
+        ],
+        "coordinate": [
+          32.46568,
+          57.64456
+        ],
+        "geonamesId": "566629",
+        "coordinateUrl": "https://www.geonames.org/566629/",
+        "fitResidualKm": 2.59,
+        "leaveOneOutErrorKm": 3.33
+      },
+      {
+        "name": "Kholm",
+        "pixel": [
+          275,
+          540
+        ],
+        "coordinate": [
+          31.18173,
+          57.14893
+        ],
+        "geonamesId": "549797",
+        "coordinateUrl": "https://www.geonames.org/549797/",
+        "fitResidualKm": 2.53,
+        "leaveOneOutErrorKm": 3.07
+      },
+      {
+        "name": "Toropets",
+        "pixel": [
+          357,
+          740
+        ],
+        "coordinate": [
+          31.6392,
+          56.49954
+        ],
+        "geonamesId": "482042",
+        "coordinateUrl": "https://www.geonames.org/482042/",
+        "fitResidualKm": 0.41,
+        "leaveOneOutErrorKm": 0.48
+      },
+      {
+        "name": "Velikiye Luki",
+        "pixel": [
+          166,
+          780
+        ],
+        "coordinate": [
+          30.54377,
+          56.34063
+        ],
+        "geonamesId": "476077",
+        "coordinateUrl": "https://www.geonames.org/476077/",
+        "fitResidualKm": 2.58,
+        "leaveOneOutErrorKm": 4.2
+      },
+      {
+        "name": "Rzhev",
+        "pixel": [
+          813,
+          808
+        ],
+        "coordinate": [
+          34.3289,
+          56.26289
+        ],
+        "geonamesId": "499717",
+        "coordinateUrl": "https://www.geonames.org/499717/",
+        "fitResidualKm": 3.16,
+        "leaveOneOutErrorKm": 5.45
+      },
+      {
+        "name": "Belyy",
+        "pixel": [
+          577,
+          933
+        ],
+        "coordinate": [
+          32.94072,
+          55.84082
+        ],
+        "geonamesId": "577576",
+        "coordinateUrl": "https://www.geonames.org/577576/",
+        "fitResidualKm": 3.77,
+        "leaveOneOutErrorKm": 4.45
+      },
+      {
+        "name": "Vyazma",
+        "pixel": [
+          812,
+          1147
+        ],
+        "coordinate": [
+          34.29695,
+          55.20997
+        ],
+        "geonamesId": "470676",
+        "coordinateUrl": "https://www.geonames.org/470676/",
+        "fitResidualKm": 3.23,
+        "leaveOneOutErrorKm": 5.56
+      },
+      {
+        "name": "Smolensk",
+        "pixel": [
+          426,
+          1275
+        ],
+        "coordinate": [
+          32.05088,
+          54.77826
+        ],
+        "geonamesId": "491687",
+        "coordinateUrl": "https://www.geonames.org/491687/",
+        "fitResidualKm": 2.87,
+        "leaveOneOutErrorKm": 5.38
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.005833450497309158,
+          2.551786199554807e-05
+        ],
+        [
+          8.12058399454977e-05,
+          -0.003250912709527963
+        ],
+        [
+          29.49321217728818,
+          58.89287323653776
+        ]
+      ],
+      "fitRmseKm": 2.8,
+      "leaveOneOutRmseKm": 4.33,
+      "maxLeaveOneOutKm": 6.26,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-9.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Defeat-9.jpg",
+    "width": 1100,
+    "height": 1584,
+    "warning": "",
+    "bookTitle": "Stalingrad to Berlin: The German Defeat in the East (1968; 1987 reprint)",
+    "sha256": "334b26fc62d20eaa318a89fedab7a25a75a7fa0dda877b144817b73c939d4ef6",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/USA-EF-Defeat-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-defeat-10",
+    "book": "Defeat",
+    "number": 10,
+    "title": "Army Group North, Winter 1942–43 · January corridor inset only",
+    "page": 110,
+    "part": 12,
+    "controls": [
+      {
+        "name": "Leningrad",
+        "pixel": [
+          509,
+          275
+        ],
+        "coordinate": [
+          30.31413,
+          59.93863
+        ],
+        "geonamesId": "498817",
+        "coordinateUrl": "https://www.geonames.org/498817/",
+        "fitResidualKm": 4.4,
+        "leaveOneOutErrorKm": 8.97
+      },
+      {
+        "name": "Shlisselburg",
+        "pixel": [
+          608,
+          264
+        ],
+        "coordinate": [
+          31.03845,
+          59.9473
+        ],
+        "geonamesId": "493970",
+        "coordinateUrl": "https://www.geonames.org/493970/",
+        "fitResidualKm": 2.63,
+        "leaveOneOutErrorKm": 4.41
+      },
+      {
+        "name": "Novgorod",
+        "pixel": [
+          646,
+          688
+        ],
+        "coordinate": [
+          31.27104,
+          58.52131
+        ],
+        "geonamesId": "519336",
+        "coordinateUrl": "https://www.geonames.org/519336/",
+        "fitResidualKm": 2.55,
+        "leaveOneOutErrorKm": 3.0
+      },
+      {
+        "name": "Staraya Russa",
+        "pixel": [
+          659,
+          854
+        ],
+        "coordinate": [
+          31.36003,
+          57.99618
+        ],
+        "geonamesId": "489088",
+        "coordinateUrl": "https://www.geonames.org/489088/",
+        "fitResidualKm": 1.59,
+        "leaveOneOutErrorKm": 1.83
+      },
+      {
+        "name": "Demyansk",
+        "pixel": [
+          842,
+          951
+        ],
+        "coordinate": [
+          32.46568,
+          57.64456
+        ],
+        "geonamesId": "566629",
+        "coordinateUrl": "https://www.geonames.org/566629/",
+        "fitResidualKm": 0.64,
+        "leaveOneOutErrorKm": 1.82
+      },
+      {
+        "name": "Kholm",
+        "pixel": [
+          626,
+          1112
+        ],
+        "coordinate": [
+          31.18173,
+          57.14893
+        ],
+        "geonamesId": "549797",
+        "coordinateUrl": "https://www.geonames.org/549797/",
+        "fitResidualKm": 2.68,
+        "leaveOneOutErrorKm": 3.34
+      },
+      {
+        "name": "Velikiye Luki",
+        "pixel": [
+          524,
+          1349
+        ],
+        "coordinate": [
+          30.54377,
+          56.34063
+        ],
+        "geonamesId": "476077",
+        "coordinateUrl": "https://www.geonames.org/476077/",
+        "fitResidualKm": 2.01,
+        "leaveOneOutErrorKm": 5.65
+      },
+      {
+        "name": "Toropets",
+        "pixel": [
+          715,
+          1304
+        ],
+        "coordinate": [
+          31.6392,
+          56.49954
+        ],
+        "geonamesId": "482042",
+        "coordinateUrl": "https://www.geonames.org/482042/",
+        "fitResidualKm": 4.0,
+        "leaveOneOutErrorKm": 5.86
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "The complete sheet extends to 25 March 1943 and is excluded from the on-site facsimile set. Only the explicitly labeled 12–19 January change at Lake Ladoga is digitized; none of the March front or Demyansk evacuation is imported.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0061721975512172384,
+          -9.146187386897314e-05
+        ],
+        [
+          4.610980539745281e-05,
+          -0.0033223021676913947
+        ],
+        [
+          27.230427551565764,
+          60.88598447311065
+        ]
+      ],
+      "fitRmseKm": 2.81,
+      "leaveOneOutRmseKm": 4.91,
+      "maxLeaveOneOutKm": 8.97,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-10.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": null,
+    "width": 1100,
+    "height": 1560,
+    "warning": "The complete sheet extends to 25 March 1943 and is excluded from the on-site facsimile set. Only the explicitly labeled 12–19 January change at Lake Ladoga is digitized; none of the March front or Demyansk evacuation is imported.",
+    "bookTitle": "Stalingrad to Berlin: The German Defeat in the East (1968; 1987 reprint)",
+    "sha256": "f6c408a6f12a6dbb1846c3a655c65520e653f3e047d14c754943cca315e8668e",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/USA-EF-Defeat-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-5",
+    "book": "Decision",
+    "number": 5,
+    "title": "Army Group North, 1 December 1941",
+    "page": 58,
+    "part": 7,
+    "controls": [
+      {
+        "name": "Leningrad",
+        "pixel": [
+          355,
+          258
+        ],
+        "coordinate": [
+          30.31413,
+          59.93863
+        ],
+        "geonamesId": "498817",
+        "coordinateUrl": "https://www.geonames.org/498817/",
+        "fitResidualKm": 1.73,
+        "leaveOneOutErrorKm": 2.23
+      },
+      {
+        "name": "Shlisselburg",
+        "pixel": [
+          470,
+          264
+        ],
+        "coordinate": [
+          31.03845,
+          59.9473
+        ],
+        "geonamesId": "493970",
+        "coordinateUrl": "https://www.geonames.org/493970/",
+        "fitResidualKm": 3.27,
+        "leaveOneOutErrorKm": 4.12
+      },
+      {
+        "name": "Narva",
+        "pixel": [
+          27,
+          429
+        ],
+        "coordinate": [
+          28.19028,
+          59.37722
+        ],
+        "geonamesId": "590031",
+        "coordinateUrl": "https://www.geonames.org/590031/",
+        "fitResidualKm": 2.58,
+        "leaveOneOutErrorKm": 5.24
+      },
+      {
+        "name": "Luga",
+        "pixel": [
+          289,
+          631
+        ],
+        "coordinate": [
+          29.84756,
+          58.73876
+        ],
+        "geonamesId": "533690",
+        "coordinateUrl": "https://www.geonames.org/533690/",
+        "fitResidualKm": 1.29,
+        "leaveOneOutErrorKm": 1.59
+      },
+      {
+        "name": "Novgorod",
+        "pixel": [
+          514,
+          695
+        ],
+        "coordinate": [
+          31.27104,
+          58.52131
+        ],
+        "geonamesId": "519336",
+        "coordinateUrl": "https://www.geonames.org/519336/",
+        "fitResidualKm": 1.28,
+        "leaveOneOutErrorKm": 1.41
+      },
+      {
+        "name": "Staraya Russa",
+        "pixel": [
+          533,
+          856
+        ],
+        "coordinate": [
+          31.36003,
+          57.99618
+        ],
+        "geonamesId": "489088",
+        "coordinateUrl": "https://www.geonames.org/489088/",
+        "fitResidualKm": 1.6,
+        "leaveOneOutErrorKm": 1.86
+      },
+      {
+        "name": "Demyansk",
+        "pixel": [
+          717,
+          958
+        ],
+        "coordinate": [
+          32.46568,
+          57.64456
+        ],
+        "geonamesId": "566629",
+        "coordinateUrl": "https://www.geonames.org/566629/",
+        "fitResidualKm": 1.39,
+        "leaveOneOutErrorKm": 1.77
+      },
+      {
+        "name": "Kholm",
+        "pixel": [
+          510,
+          1116
+        ],
+        "coordinate": [
+          31.18173,
+          57.14893
+        ],
+        "geonamesId": "549797",
+        "coordinateUrl": "https://www.geonames.org/549797/",
+        "fitResidualKm": 3.18,
+        "leaveOneOutErrorKm": 4.68
+      },
+      {
+        "name": "Ostashkov",
+        "pixel": [
+          830,
+          1107
+        ],
+        "coordinate": [
+          33.10659,
+          57.14695
+        ],
+        "geonamesId": "514259",
+        "coordinateUrl": "https://www.geonames.org/514259/",
+        "fitResidualKm": 4.17,
+        "leaveOneOutErrorKm": 6.59
+      },
+      {
+        "name": "Tikhvin",
+        "pixel": [
+          850,
+          342
+        ],
+        "coordinate": [
+          33.52555,
+          59.63924
+        ],
+        "geonamesId": "483019",
+        "coordinateUrl": "https://www.geonames.org/483019/",
+        "fitResidualKm": 3.26,
+        "leaveOneOutErrorKm": 5.8
+      },
+      {
+        "name": "Volkhov",
+        "pixel": [
+          667,
+          265
+        ],
+        "coordinate": [
+          32.33966,
+          59.92335
+        ],
+        "geonamesId": "472722",
+        "coordinateUrl": "https://www.geonames.org/472722/",
+        "fitResidualKm": 1.17,
+        "leaveOneOutErrorKm": 1.66
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.006384873166329783,
+          -3.197333258020608e-05
+        ],
+        [
+          -0.0002323769593338008,
+          -0.003266025216099129
+        ],
+        [
+          28.132667431928663,
+          60.80098371482503
+        ]
+      ],
+      "fitRmseKm": 2.48,
+      "leaveOneOutRmseKm": 3.84,
+      "maxLeaveOneOutKm": 6.59,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-5.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-5.jpg",
+    "width": 1100,
+    "height": 1423,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "ed28533d0d845983b511d935636bbac3d0a3dbae40d3dd1aeedfc4289604a180",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-40",
+    "book": "Decision",
+    "number": 40,
+    "title": "The Nalchik Operation, 25 October–9 November 1942",
+    "page": 453,
+    "part": 11,
+    "controls": [
+      {
+        "name": "Nalchik",
+        "pixel": [
+          240,
+          318
+        ],
+        "coordinate": [
+          43.61889,
+          43.49806
+        ],
+        "geonamesId": "523523",
+        "coordinateUrl": "https://www.geonames.org/523523/",
+        "fitResidualKm": 0.18,
+        "leaveOneOutErrorKm": 1.27
+      },
+      {
+        "name": "Mozdok",
+        "pixel": [
+          879,
+          112
+        ],
+        "coordinate": [
+          44.65157,
+          43.73976
+        ],
+        "geonamesId": "524736",
+        "coordinateUrl": "https://www.geonames.org/524736/",
+        "fitResidualKm": 2.49,
+        "leaveOneOutErrorKm": 8.31
+      },
+      {
+        "name": "Malgobek",
+        "pixel": [
+          818,
+          268
+        ],
+        "coordinate": [
+          44.59051,
+          43.51121
+        ],
+        "geonamesId": "531129",
+        "coordinateUrl": "https://www.geonames.org/531129/",
+        "fitResidualKm": 3.82,
+        "leaveOneOutErrorKm": 5.63
+      },
+      {
+        "name": "Elkhotovo",
+        "pixel": [
+          602,
+          448
+        ],
+        "coordinate": [
+          44.20486,
+          43.3395
+        ],
+        "geonamesId": "563511",
+        "coordinateUrl": "https://www.geonames.org/563511/",
+        "fitResidualKm": 0.59,
+        "leaveOneOutErrorKm": 0.8
+      },
+      {
+        "name": "Vladikavkaz",
+        "pixel": [
+          885,
+          701
+        ],
+        "coordinate": [
+          44.66986,
+          43.04101
+        ],
+        "geonamesId": "473249",
+        "coordinateUrl": "https://www.geonames.org/473249/",
+        "fitResidualKm": 0.67,
+        "leaveOneOutErrorKm": 4.65
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0016386345526458912,
+          -2.432509880880365e-05
+        ],
+        [
+          -6.730970034597056e-06,
+          -0.0011627328091420028
+        ],
+        [
+          43.2274874786753,
+          43.872079327357696
+        ]
+      ],
+      "fitRmseKm": 2.08,
+      "leaveOneOutRmseKm": 4.99,
+      "maxLeaveOneOutKm": 8.31,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-40.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-40.jpg",
+    "width": 1100,
+    "height": 855,
+    "warning": "",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "d3da950ca5b9c9604b927150a43fd47a2bf28b0bca6fef64919d6ecacf27b584",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-38",
+    "book": "Decision",
+    "number": 38,
+    "title": "The Mga Bottleneck, 27 August–25 September 1942",
+    "page": 417,
+    "part": 11,
+    "controls": [
+      {
+        "name": "Shlisselburg",
+        "pixel": [
+          529,
+          132
+        ],
+        "coordinate": [
+          31.03845,
+          59.9473
+        ],
+        "geonamesId": "493970",
+        "coordinateUrl": "https://www.geonames.org/493970/",
+        "fitResidualKm": 0.14,
+        "leaveOneOutErrorKm": 1.13
+      },
+      {
+        "name": "Dubrovka",
+        "pixel": [
+          367,
+          456
+        ],
+        "coordinate": [
+          30.93417,
+          59.84472
+        ],
+        "geonamesId": "564414",
+        "coordinateUrl": "https://www.geonames.org/564414/",
+        "fitResidualKm": 0.33,
+        "leaveOneOutErrorKm": 0.47
+      },
+      {
+        "name": "Otradnoye",
+        "pixel": [
+          157,
+          661
+        ],
+        "coordinate": [
+          30.81806,
+          59.7775
+        ],
+        "geonamesId": "513898",
+        "coordinateUrl": "https://www.geonames.org/513898/",
+        "fitResidualKm": 0.15,
+        "leaveOneOutErrorKm": 1.03
+      },
+      {
+        "name": "Mga",
+        "pixel": [
+          577,
+          767
+        ],
+        "coordinate": [
+          31.06667,
+          59.75
+        ],
+        "geonamesId": "527220",
+        "coordinateUrl": "https://www.geonames.org/527220/",
+        "fitResidualKm": 0.04,
+        "leaveOneOutErrorKm": 3.51
+      }
+    ],
+    "sourceProjection": "Not stated on the reproduced plate. No original projection is assumed.",
+    "limit": "Settlement symbols are generalized areas. Only four controls are available; the printed plate is the preferred view for the peat bogs, heights and narrow penetrations. No invented corridor width.",
+    "transform": {
+      "method": "Unweighted least-squares 2D affine: source pixel x,y,1 to WGS84 longitude,latitude. No rubber-sheeting or assumed source projection.",
+      "matrix": [
+        [
+          0.0005959338510425657,
+          1.2931460624642816e-05
+        ],
+        [
+          2.0210146268854058e-06,
+          -0.0003118607319530017
+        ],
+        [
+          30.720475864331178,
+          59.981788238705604
+        ]
+      ],
+      "fitRmseKm": 0.2,
+      "leaveOneOutRmseKm": 1.93,
+      "maxLeaveOneOutKm": 3.51,
+      "warning": "Control residuals measure fit to modern settlement reference points, not the historical accuracy of the drawn front. Generalization, locality footprint, source line thickness and projection mismatch remain."
+    },
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-38.jpg",
+    "geographicPrecision": "Regional interpretation; no tactical or property-boundary precision.",
+    "imageUrl": "/data/plates/Decision-38.jpg",
+    "width": 1100,
+    "height": 1050,
+    "warning": "Settlement symbols are generalized areas. Only four controls are available; the printed plate is the preferred view for the peat bogs, heights and narrow penetrations. No invented corridor width.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "db098423d392c96d4bedf12be1ee5f5d47c657ff11f555853a9dd2dbcd12c233",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-27",
+    "book": "Decision",
+    "number": 27,
+    "title": "Sevastopol, 7 June–4 July 1942",
+    "page": 313,
+    "part": 9,
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-27.jpg",
+    "controls": [],
+    "limit": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "startDate": "1942-06-07",
+    "endDate": "1942-07-04",
+    "imageUrl": "/data/plates/Decision-27.jpg",
+    "width": 1100,
+    "height": 1018,
+    "warning": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "81b762b8c747ad82ddd9202d4680ac60e221d9bf7113c1240edfbbf2f8c6e8e2",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-34",
+    "book": "Decision",
+    "number": 34,
+    "title": "Stalingrad, 8 September–6 October 1942",
+    "page": 389,
+    "part": 11,
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-34.jpg",
+    "controls": [],
+    "limit": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "startDate": "1942-09-08",
+    "endDate": "1942-10-06",
+    "imageUrl": "/data/plates/Decision-34.jpg",
+    "width": 1100,
+    "height": 1422,
+    "warning": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "fd1417fa73a36fa5ad384699ae3161a1262b562e116cba95464747135bdd0859",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-41",
+    "book": "Decision",
+    "number": 41,
+    "title": "Stalingrad, 13 October–19 November 1942",
+    "page": 461,
+    "part": 11,
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-41.jpg",
+    "controls": [],
+    "limit": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "startDate": "1942-10-13",
+    "endDate": "1942-11-19",
+    "imageUrl": "/data/plates/Decision-41.jpg",
+    "width": 1100,
+    "height": 1409,
+    "warning": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "231ed39f6913bf19e807f72583bbebb36023879b6bcb40a16b7d5cf68c39fd28",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  },
+  {
+    "id": "cmh-decision-44",
+    "book": "Decision",
+    "number": 44,
+    "title": "Operation Ring, 10 January–2 February 1943",
+    "page": 498,
+    "part": 12,
+    "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/maps/USA-EF-Decision-44.jpg",
+    "controls": [],
+    "limit": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend.",
+    "startDate": "1943-01-10",
+    "endDate": "1943-02-02",
+    "imageUrl": "/data/plates/Decision-44.jpg",
+    "width": 1100,
+    "height": 816,
+    "warning": "Not registered to the interactive base: sufficient independent local controls were not established. Read the original map scale and legend. The title ends 2 February, but the attack-arrow legend reads 25 February. This apparent source typo is disclosed; no arrow is adopted. The perimeter lines are 10, 12 and 17 January, not the January 26 split or the final surrender boundaries.",
+    "bookTitle": "Moscow to Stalingrad: Decision in the East (1987)",
+    "sha256": "cdff0a6911bc66f237e4eee13d034c1df64697a3def9af0edc672ebfce477a21",
+    "inspected": "Source plate visually inspected during this reconstruction; archival originals not consulted.",
+    "accessDate": "2026-10-24",
+    "reuseRights": "U.S. Army Center of Military History cartography, U.S. government work: public domain in the United States. Full source legend and attribution retained.",
+    "rightsEvidence": [
+      "https://carlcgsc.libguides.com/home/Copyrights",
+      "https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-Fwd.html"
+    ]
+  }
+]

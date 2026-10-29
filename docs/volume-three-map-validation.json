@@ -1,0 +1,285 @@
+{
+  "result": "pass",
+  "states": 33,
+  "features": 72,
+  "chapters": 35,
+  "checks": [
+    {
+      "id": "atlas-1943-44-13-1943-01-19",
+      "date": "1943-01-19",
+      "part": 13,
+      "eventFeatures": 3,
+      "sourceReferences": 6,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-13-1943-02-18",
+      "date": "1943-02-18",
+      "part": 13,
+      "eventFeatures": 2,
+      "sourceReferences": 11,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-13-1943-02-19",
+      "date": "1943-02-19",
+      "part": 13,
+      "eventFeatures": 2,
+      "sourceReferences": 5,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-13-1943-03-18",
+      "date": "1943-03-18",
+      "part": 13,
+      "eventFeatures": 3,
+      "sourceReferences": 23,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-13-1943-04-15",
+      "date": "1943-04-15",
+      "part": 13,
+      "eventFeatures": 3,
+      "sourceReferences": 24,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-13-1943-05-10",
+      "date": "1943-05-10",
+      "part": 13,
+      "eventFeatures": 1,
+      "sourceReferences": 17,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-14-1943-07-05",
+      "date": "1943-07-05",
+      "part": 14,
+      "eventFeatures": 3,
+      "sourceReferences": 7,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-14-1943-07-12",
+      "date": "1943-07-12",
+      "part": 14,
+      "eventFeatures": 3,
+      "sourceReferences": 9,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-14-1943-08-03",
+      "date": "1943-08-03",
+      "part": 14,
+      "eventFeatures": 3,
+      "sourceReferences": 12,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-14-1943-08-18",
+      "date": "1943-08-18",
+      "part": 14,
+      "eventFeatures": 2,
+      "sourceReferences": 11,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-14-1943-08-23",
+      "date": "1943-08-23",
+      "part": 14,
+      "eventFeatures": 1,
+      "sourceReferences": 8,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-15-1943-09-25",
+      "date": "1943-09-25",
+      "part": 15,
+      "eventFeatures": 3,
+      "sourceReferences": 10,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-15-1943-10-02",
+      "date": "1943-10-02",
+      "part": 15,
+      "eventFeatures": 2,
+      "sourceReferences": 10,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-15-1943-11-06",
+      "date": "1943-11-06",
+      "part": 15,
+      "eventFeatures": 1,
+      "sourceReferences": 8,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-15-1943-12-21",
+      "date": "1943-12-21",
+      "part": 15,
+      "eventFeatures": 2,
+      "sourceReferences": 16,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-16-1944-01-14",
+      "date": "1944-01-14",
+      "part": 16,
+      "eventFeatures": 2,
+      "sourceReferences": 7,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-16-1944-01-27",
+      "date": "1944-01-27",
+      "part": 16,
+      "eventFeatures": 2,
+      "sourceReferences": 9,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-16-1944-02-02",
+      "date": "1944-02-02",
+      "part": 16,
+      "eventFeatures": 2,
+      "sourceReferences": 15,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-16-1944-03-31",
+      "date": "1944-03-31",
+      "part": 16,
+      "eventFeatures": 3,
+      "sourceReferences": 15,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1943-12-24",
+      "date": "1943-12-24",
+      "part": 17,
+      "eventFeatures": 1,
+      "sourceReferences": 4,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-01-10",
+      "date": "1944-01-10",
+      "part": 17,
+      "eventFeatures": 3,
+      "sourceReferences": 3,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-02-16",
+      "date": "1944-02-16",
+      "part": 17,
+      "eventFeatures": 1,
+      "sourceReferences": 6,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-03-04",
+      "date": "1944-03-04",
+      "part": 17,
+      "eventFeatures": 2,
+      "sourceReferences": 11,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-04-08",
+      "date": "1944-04-08",
+      "part": 17,
+      "eventFeatures": 2,
+      "sourceReferences": 12,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-04-10",
+      "date": "1944-04-10",
+      "part": 17,
+      "eventFeatures": 1,
+      "sourceReferences": 7,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-05-13",
+      "date": "1944-05-13",
+      "part": 17,
+      "eventFeatures": 2,
+      "sourceReferences": 12,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-17-1944-05-18",
+      "date": "1944-05-18",
+      "part": 17,
+      "eventFeatures": 1,
+      "sourceReferences": 12,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-18-1944-06-09",
+      "date": "1944-06-09",
+      "part": 18,
+      "eventFeatures": 3,
+      "sourceReferences": 11,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-18-1944-06-22",
+      "date": "1944-06-22",
+      "part": 18,
+      "eventFeatures": 3,
+      "sourceReferences": 8,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-18-1944-06-24",
+      "date": "1944-06-24",
+      "part": 18,
+      "eventFeatures": 1,
+      "sourceReferences": 6,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-18-1944-06-28",
+      "date": "1944-06-28",
+      "part": 18,
+      "eventFeatures": 5,
+      "sourceReferences": 10,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-18-1944-07-03",
+      "date": "1944-07-03",
+      "part": 18,
+      "eventFeatures": 2,
+      "sourceReferences": 9,
+      "result": "pass"
+    },
+    {
+      "id": "atlas-1943-44-18-1944-07-18",
+      "date": "1944-07-18",
+      "part": 18,
+      "eventFeatures": 2,
+      "sourceReferences": 10,
+      "result": "pass"
+    }
+  ],
+  "checked": [
+    "Unique IDs and valid dates",
+    "All35 chapters have states and source links",
+    "Every selected state receives only its own part/date events",
+    "Every new point exactly matches the existing geographic register",
+    "Event-map placeholders contain no unsupported military geometry; military-trace validation is separate",
+    "Source/uncertainty/coordinate metadata present"
+  ],
+  "notChecked": [
+    "Military reconstruction and source-image annotation accuracy are checked in their separate audits",
+    "Runtime browser switching and physical map placement require browser QA",
+    "Historical sources are not independently re-audited in their entirety"
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "features": 377,
+  "states": [
+    {
+      "id": "v2-1941-12-06-7",
+      "date": "1941-12-06",
+      "part": 7,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 3
+    },
+    {
+      "id": "v2-1941-12-09-7",
+      "date": "1941-12-09",
+      "part": 7,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 3
+    },
+    {
+      "id": "atlas-7-1941-12-15",
+      "date": "1941-12-15",
+      "part": 7,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 3
+    },
+    {
+      "id": "v2-1941-12-16-7",
+      "date": "1941-12-16",
+      "part": 7,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "v2-1941-12-30-7",
+      "date": "1941-12-30",
+      "part": 7,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "atlas-7-1942-01-01",
+      "date": "1942-01-01",
+      "part": 7,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "v2-1942-01-08-8",
+      "date": "1942-01-08",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-8-1942-01-14",
+      "date": "1942-01-14",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "v2-1942-01-18-8",
+      "date": "1942-01-18",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-01-21-8",
+      "date": "1942-01-21",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "atlas-8-1942-02-01",
+      "date": "1942-02-01",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-02-18-8",
+      "date": "1942-02-18",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "atlas-8-1942-02-22",
+      "date": "1942-02-22",
+      "part": 8,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-03-21-8",
+      "date": "1942-03-21",
+      "part": 8,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-05-05-8",
+      "date": "1942-05-05",
+      "part": 8,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 7
+    },
+    {
+      "id": "atlas-8-1942-05-08",
+      "date": "1942-05-08",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-06-28-8",
+      "date": "1942-06-28",
+      "part": 8,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-05-08-9",
+      "date": "1942-05-08",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 4
+    },
+    {
+      "id": "v2-1942-05-12-9",
+      "date": "1942-05-12",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 6
+    },
+    {
+      "id": "atlas-9-1942-05-17",
+      "date": "1942-05-17",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 10
+    },
+    {
+      "id": "atlas-9-1942-05-19",
+      "date": "1942-05-19",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 10
+    },
+    {
+      "id": "v2-1942-05-22-9",
+      "date": "1942-05-22",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 10
+    },
+    {
+      "id": "atlas-9-1942-05-24",
+      "date": "1942-05-24",
+      "part": 9,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 10
+    },
+    {
+      "id": "atlas-9-1942-05-26",
+      "date": "1942-05-26",
+      "part": 9,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 10
+    },
+    {
+      "id": "atlas-9-1942-05-28",
+      "date": "1942-05-28",
+      "part": 9,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 10
+    },
+    {
+      "id": "atlas-9-1942-06-07",
+      "date": "1942-06-07",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 14
+    },
+    {
+      "id": "atlas-9-1942-06-27",
+      "date": "1942-06-27",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 14
+    },
+    {
+      "id": "v2-1942-07-01-9",
+      "date": "1942-07-01",
+      "part": 9,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 14
+    },
+    {
+      "id": "atlas-9-1942-07-04",
+      "date": "1942-07-04",
+      "part": 9,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 14
+    },
+    {
+      "id": "v2-1942-04-05-10",
+      "date": "1942-04-05",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 4
+    },
+    {
+      "id": "v2-1942-06-28-10",
+      "date": "1942-06-28",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 6
+    },
+    {
+      "id": "v2-1942-07-07-10",
+      "date": "1942-07-07",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 6
+    },
+    {
+      "id": "atlas-10-1942-07-11",
+      "date": "1942-07-11",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 6
+    },
+    {
+      "id": "atlas-10-1942-07-14",
+      "date": "1942-07-14",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 2
+    },
+    {
+      "id": "v2-1942-07-24-10",
+      "date": "1942-07-24",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 2
+    },
+    {
+      "id": "v2-1942-07-31-10",
+      "date": "1942-07-31",
+      "part": 10,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 2
+    },
+    {
+      "id": "v2-1942-08-09-11",
+      "date": "1942-08-09",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 3
+    },
+    {
+      "id": "atlas-11-1942-08-19",
+      "date": "1942-08-19",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 4
+    },
+    {
+      "id": "v2-1942-08-22-11",
+      "date": "1942-08-22",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 4
+    },
+    {
+      "id": "v2-1942-08-23-11",
+      "date": "1942-08-23",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 2
+    },
+    {
+      "id": "v2-1942-08-27-11",
+      "date": "1942-08-27",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-09-03",
+      "date": "1942-09-03",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-09-13",
+      "date": "1942-09-13",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-09-25",
+      "date": "1942-09-25",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-09-26",
+      "date": "1942-09-26",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-10-06",
+      "date": "1942-10-06",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-10-10",
+      "date": "1942-10-10",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 7
+    },
+    {
+      "id": "v2-1942-10-14-11",
+      "date": "1942-10-14",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "atlas-11-1942-10-25",
+      "date": "1942-10-25",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "atlas-11-1942-11-09",
+      "date": "1942-11-09",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "v2-1942-11-18-11",
+      "date": "1942-11-18",
+      "part": 11,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "v2-1942-11-19-12",
+      "date": "1942-11-19",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 1
+    },
+    {
+      "id": "v2-1942-11-20-12",
+      "date": "1942-11-20",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 2
+    },
+    {
+      "id": "v2-1942-11-23-12",
+      "date": "1942-11-23",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 2
+    },
+    {
+      "id": "v2-1942-11-25-12",
+      "date": "1942-11-25",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 5
+    },
+    {
+      "id": "v2-1942-12-12-12",
+      "date": "1942-12-12",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 5
+    },
+    {
+      "id": "v2-1942-12-16-12",
+      "date": "1942-12-16",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 8
+    },
+    {
+      "id": "atlas-12-1942-12-20",
+      "date": "1942-12-20",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "v2-1942-12-24-12",
+      "date": "1942-12-24",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 8
+    },
+    {
+      "id": "v2-1943-01-10-12",
+      "date": "1943-01-10",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 12
+    },
+    {
+      "id": "atlas-12-1943-01-12",
+      "date": "1943-01-12",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 12
+    },
+    {
+      "id": "atlas-12-1943-01-17",
+      "date": "1943-01-17",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 12
+    },
+    {
+      "id": "v2-1943-01-18-12",
+      "date": "1943-01-18",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "atlas-12-1943-01-19",
+      "date": "1943-01-19",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 8
+    },
+    {
+      "id": "atlas-12-1943-01-26",
+      "date": "1943-01-26",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 12
+    },
+    {
+      "id": "v2-1943-01-31-12",
+      "date": "1943-01-31",
+      "part": 12,
+      "control": 3,
+      "pockets": 1,
+      "arrows": 12
+    },
+    {
+      "id": "v2-1943-02-02-12",
+      "date": "1943-02-02",
+      "part": 12,
+      "control": 3,
+      "pockets": 0,
+      "arrows": 12
+    }
+  ],
+  "withoutControl": [],
+  "limits": "Control is a regional synthesis of explicitly dated source situations. Generalized spatial joins are disclosed; no temporal interpolation. April 5 retains prior control context under an unexecuted plan. The Iskra corridor is applied on its source date, January 19."
+}

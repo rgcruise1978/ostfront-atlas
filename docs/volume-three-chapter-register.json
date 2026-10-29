@@ -1,0 +1,1305 @@
+{
+  "source": {
+    "file": "03_Ostkrieg_Volume_Three_v1_1_0.docx",
+    "sha256": "875d449929c2225ae6528f27c7e9fe8ef5dd9fccb05d5f68641167c902424f28",
+    "libraryFileId": "libfile_328759903e6c81918a3fe93fc7cfc386"
+  },
+  "chapters": [
+    {
+      "manuscriptChapter": 1,
+      "websiteChapter": 86,
+      "sourceTitle": "The Caucasus Withdrawal",
+      "websiteRoute": "/articles/volume-three-the-caucasus-withdrawal",
+      "part": 13,
+      "section": 5,
+      "historicalPeriod": "January–February 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 38,
+      "subheadingCount": 5,
+      "asideCount": 1,
+      "nativeNoteIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "100c7975a9e0dbb16885e583724c8b8f38500c941083ae5c51809bdab025f48b",
+      "defaultMapDate": "1943-01-19",
+      "mapStates": [
+        {
+          "date": "1943-01-19",
+          "label": "Caucasus withdrawal"
+        },
+        {
+          "date": "1943-02-18",
+          "label": "Winter advance and the Caucasus exits"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 2,
+      "websiteChapter": 87,
+      "sourceTitle": "The Soviet Advance Toward Kharkov",
+      "websiteRoute": "/articles/volume-three-the-soviet-advance-toward-kharkov",
+      "part": 13,
+      "section": 5,
+      "historicalPeriod": "January–February 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 48,
+      "subheadingCount": 5,
+      "asideCount": 1,
+      "nativeNoteIds": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "4d24c8bb17fe256136ad4272dc049c1191bc9a2088f6a03e5cde937d6ed85f2d",
+      "defaultMapDate": "1943-02-18",
+      "mapStates": [
+        {
+          "date": "1943-02-18",
+          "label": "Winter advance and the Caucasus exits"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 3,
+      "websiteChapter": 88,
+      "sourceTitle": "The German Counterstroke",
+      "websiteRoute": "/articles/volume-three-the-german-counterstroke",
+      "part": 13,
+      "section": 5,
+      "historicalPeriod": "February–March 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 42,
+      "subheadingCount": 5,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "27f437e0a83d5dfacb3e0d1a86bdc5e0b5ffc11aba9546bc421287cee3ba3c5c",
+      "defaultMapDate": "1943-02-19",
+      "mapStates": [
+        {
+          "date": "1943-02-19",
+          "label": "German counteroffensive opens"
+        },
+        {
+          "date": "1943-03-18",
+          "label": "Counterstroke and central-front withdrawal"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 4,
+      "websiteChapter": 89,
+      "sourceTitle": "Leaving the Rzhev Salient",
+      "websiteRoute": "/articles/volume-three-leaving-the-rzhev-salient",
+      "part": 13,
+      "section": 5,
+      "historicalPeriod": "February–March 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 28,
+      "subheadingCount": 5,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "908fea61c91d1367c24db9645b758e15688832cecaeb597d77c4fdf62033b33f",
+      "defaultMapDate": "1943-03-18",
+      "mapStates": [
+        {
+          "date": "1943-03-18",
+          "label": "Counterstroke and central-front withdrawal"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 5,
+      "websiteChapter": 90,
+      "sourceTitle": "Resistance and Repression Behind the Lines",
+      "websiteRoute": "/articles/volume-three-resistance-and-repression-behind-the-lines",
+      "part": 13,
+      "section": 5,
+      "historicalPeriod": "Winter–summer 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 56,
+      "subheadingCount": 5,
+      "asideCount": 2,
+      "nativeNoteIds": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "ab27fb306f05434b977e3f4f02006205c7b751e3f1b41332beaa8658f34bc561",
+      "defaultMapDate": "1943-03-18",
+      "mapStates": [
+        {
+          "date": "1943-03-18",
+          "label": "Counterstroke and central-front withdrawal"
+        },
+        {
+          "date": "1943-04-15",
+          "label": "Operations Order No. 6 and summer plans"
+        },
+        {
+          "date": "1943-05-10",
+          "label": "Escape from the Warsaw ghetto"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 6,
+      "websiteChapter": 91,
+      "sourceTitle": "Preparing for the Summer Decision",
+      "websiteRoute": "/articles/volume-three-preparing-for-the-summer-decision",
+      "part": 13,
+      "section": 5,
+      "historicalPeriod": "April–June 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 49,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "9cb09eb61af843d46794117778b2e61e69e08ccdc44d27300df32356e26cb77f",
+      "defaultMapDate": "1943-04-15",
+      "mapStates": [
+        {
+          "date": "1943-04-15",
+          "label": "Operations Order No. 6 and summer plans"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 7,
+      "websiteChapter": 92,
+      "sourceTitle": "Citadel Begins",
+      "websiteRoute": "/articles/volume-three-citadel-begins",
+      "part": 14,
+      "section": 5,
+      "historicalPeriod": "July 5–7, 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 39,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "9e31c652ffcfafec23a57d89ee76870544dd7e65fa4c0863d4142574c75b8703",
+      "defaultMapDate": "1943-07-05",
+      "mapStates": [
+        {
+          "date": "1943-07-05",
+          "label": "Citadel begins"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 8,
+      "websiteChapter": 93,
+      "sourceTitle": "The Northern Face",
+      "websiteRoute": "/articles/volume-three-the-northern-face",
+      "part": 14,
+      "section": 5,
+      "historicalPeriod": "July 5–12, 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 36,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "121685eeac2173b8f775753626b5e0f2f8771fc73e34ab506e6e100b300356ed",
+      "defaultMapDate": "1943-07-05",
+      "mapStates": [
+        {
+          "date": "1943-07-05",
+          "label": "Citadel begins"
+        },
+        {
+          "date": "1943-07-12",
+          "label": "Northern and southern battles; Kutuzov opens"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 9,
+      "websiteChapter": 94,
+      "sourceTitle": "The Southern Face and Prokhorovka",
+      "websiteRoute": "/articles/volume-three-the-southern-face-and-prokhorovka",
+      "part": 14,
+      "section": 5,
+      "historicalPeriod": "July 5–16, 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 42,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "057c2f76d71aad46ed166d80c61b72d8199aa160bda76e16cc8d6f2c5d97bc7b",
+      "defaultMapDate": "1943-07-05",
+      "mapStates": [
+        {
+          "date": "1943-07-05",
+          "label": "Citadel begins"
+        },
+        {
+          "date": "1943-07-12",
+          "label": "Northern and southern battles; Kutuzov opens"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 10,
+      "websiteChapter": 95,
+      "sourceTitle": "Operation Kutuzov and the Orel Salient",
+      "websiteRoute": "/articles/volume-three-operation-kutuzov-and-the-orel-salient",
+      "part": 14,
+      "section": 5,
+      "historicalPeriod": "July 12–August 18, 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 43,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "a7bf039fd4e00f0f45684edbc9fece5fd17b5f935d4e59c95a961e4ab477714d",
+      "defaultMapDate": "1943-07-12",
+      "mapStates": [
+        {
+          "date": "1943-07-12",
+          "label": "Northern and southern battles; Kutuzov opens"
+        },
+        {
+          "date": "1943-08-18",
+          "label": "Orel salient and advance towards the Dnieper"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 11,
+      "websiteChapter": 96,
+      "sourceTitle": "Operation Rumyantsev and Kharkov",
+      "websiteRoute": "/articles/volume-three-operation-rumyantsev-and-kharkov",
+      "part": 14,
+      "section": 5,
+      "historicalPeriod": "August 3–23, 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 45,
+      "subheadingCount": 9,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "e21aa25451981627bee49e94b972cfacd0185f2842c77a3971ee64406c8a6952",
+      "defaultMapDate": "1943-08-03",
+      "mapStates": [
+        {
+          "date": "1943-08-03",
+          "label": "Rumyantsev opens"
+        },
+        {
+          "date": "1943-08-23",
+          "label": "Kharkov recovered"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 12,
+      "websiteChapter": 97,
+      "sourceTitle": "The Mius and the Donbas Front",
+      "websiteRoute": "/articles/volume-three-the-mius-and-the-donbas-front",
+      "part": 14,
+      "section": 5,
+      "historicalPeriod": "July–August 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 48,
+      "subheadingCount": 9,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "29e22c651581e9adee12853847940c7f45d6a01f7ccb84cbd5b6bc72957b98e5",
+      "defaultMapDate": "1943-08-03",
+      "mapStates": [
+        {
+          "date": "1943-08-03",
+          "label": "Rumyantsev opens"
+        },
+        {
+          "date": "1943-08-18",
+          "label": "Orel salient and advance towards the Dnieper"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 13,
+      "websiteChapter": 98,
+      "sourceTitle": "Smolensk and the Central Front",
+      "websiteRoute": "/articles/volume-three-smolensk-and-the-central-front",
+      "part": 15,
+      "section": 5,
+      "historicalPeriod": "August–October 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 38,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "513197f581e05a95e00f5d6027da2c29403e75e85043aa7fe0b220ced8e140bc",
+      "defaultMapDate": "1943-09-25",
+      "mapStates": [
+        {
+          "date": "1943-09-25",
+          "label": "Smolensk recovered; Dnieper approaches"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 14,
+      "websiteChapter": 99,
+      "sourceTitle": "The Southern Retreat to the Dnieper",
+      "websiteRoute": "/articles/volume-three-the-southern-retreat-to-the-dnieper",
+      "part": 15,
+      "section": 5,
+      "historicalPeriod": "August–October 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 38,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "378fc208ad805094edf42150dff4de033c211e3db7913c868333501dd058d1ae",
+      "defaultMapDate": "1943-09-25",
+      "mapStates": [
+        {
+          "date": "1943-09-25",
+          "label": "Smolensk recovered; Dnieper approaches"
+        },
+        {
+          "date": "1943-10-02",
+          "label": "Dnieper source-map transition"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 15,
+      "websiteChapter": 100,
+      "sourceTitle": "The River Crossings",
+      "websiteRoute": "/articles/volume-three-the-river-crossings",
+      "part": 15,
+      "section": 5,
+      "historicalPeriod": "September–October 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 36,
+      "subheadingCount": 7,
+      "asideCount": 1,
+      "nativeNoteIds": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "053b7c9d92eafdfacfe7076fc06e00b69ec50cfe519e3a140630dbc638448712",
+      "defaultMapDate": "1943-09-25",
+      "mapStates": [
+        {
+          "date": "1943-09-25",
+          "label": "Smolensk recovered; Dnieper approaches"
+        },
+        {
+          "date": "1943-10-02",
+          "label": "Dnieper source-map transition"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 16,
+      "websiteChapter": 101,
+      "sourceTitle": "Kiev Recovered",
+      "websiteRoute": "/articles/volume-three-kiev-recovered",
+      "part": 15,
+      "section": 5,
+      "historicalPeriod": "November 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 38,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "1b20a14ebdfe11042487e27e3b331c0b966f52aae7b4349eb34b875dcf1bfdf8",
+      "defaultMapDate": "1943-11-06",
+      "mapStates": [
+        {
+          "date": "1943-11-06",
+          "label": "Kiev recovered"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 17,
+      "websiteChapter": 102,
+      "sourceTitle": "The German Counterattacks West of Kiev",
+      "websiteRoute": "/articles/volume-three-the-german-counterattacks-west-of-kiev",
+      "part": 15,
+      "section": 5,
+      "historicalPeriod": "November–December 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 39,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "d222c733cf43af05e9986d2f1b945a56f87fc953330a95f8f27ef79a72d31987",
+      "defaultMapDate": "1943-12-21",
+      "mapStates": [
+        {
+          "date": "1943-12-21",
+          "label": "Counterattacks west of Kiev and reconquest"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 18,
+      "websiteChapter": 103,
+      "sourceTitle": "Reconquest and the Next Offensive",
+      "websiteRoute": "/articles/volume-three-reconquest-and-the-next-offensive",
+      "part": 15,
+      "section": 5,
+      "historicalPeriod": "Late 1943",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 43,
+      "subheadingCount": 9,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "15cfca81d7559803cd2e883858e4ad49ecaea6ef04ec5eef6543c6ba2598adb8",
+      "defaultMapDate": "1943-12-21",
+      "mapStates": [
+        {
+          "date": "1943-12-21",
+          "label": "Counterattacks west of Kiev and reconquest"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 19,
+      "websiteChapter": 104,
+      "sourceTitle": "The Leningrad–Novgorod Offensive",
+      "websiteRoute": "/articles/volume-three-the-leningradnovgorod-offensive",
+      "part": 16,
+      "section": 6,
+      "historicalPeriod": "January 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 37,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "37126e6d8bb289a0a4db20f58c81c927b5d81b462da207cd5919910883bfb5b9",
+      "defaultMapDate": "1944-01-14",
+      "mapStates": [
+        {
+          "date": "1944-01-14",
+          "label": "Leningrad–Novgorod offensive opens"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 20,
+      "websiteChapter": 105,
+      "sourceTitle": "The Siege Lifted",
+      "websiteRoute": "/articles/volume-three-the-siege-lifted",
+      "part": 16,
+      "section": 6,
+      "historicalPeriod": "January 27, 1944, and the spring aftermath",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 37,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "d01b920442c87bfe3493767895654b04c9bc19fb12e05bfbf21998da51092906",
+      "defaultMapDate": "1944-01-14",
+      "mapStates": [
+        {
+          "date": "1944-01-14",
+          "label": "Leningrad–Novgorod offensive opens"
+        },
+        {
+          "date": "1944-01-27",
+          "label": "Siege of Leningrad lifted"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 21,
+      "websiteChapter": 106,
+      "sourceTitle": "The Battle for Narva",
+      "websiteRoute": "/articles/volume-three-the-battle-for-narva",
+      "part": 16,
+      "section": 6,
+      "historicalPeriod": "February–spring 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 37,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "861d67c12ba629b58816ae67b80e46192275b091aede1f722e7fb48d5ea12639",
+      "defaultMapDate": "1944-02-02",
+      "mapStates": [
+        {
+          "date": "1944-02-02",
+          "label": "Narva and the approaches to the Panther Line"
+        },
+        {
+          "date": "1944-03-31",
+          "label": "Northern front through March"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 22,
+      "websiteChapter": 107,
+      "sourceTitle": "Toward Pskov and the Panther Line",
+      "websiteRoute": "/articles/volume-three-toward-pskov-and-the-panther-line",
+      "part": 16,
+      "section": 6,
+      "historicalPeriod": "February–March 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 41,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "97f7a0b3d8b6d43c53ffc6743a15078a09b6c5a41b7540d5fa05742f3b9df0bb",
+      "defaultMapDate": "1944-02-02",
+      "mapStates": [
+        {
+          "date": "1944-02-02",
+          "label": "Narva and the approaches to the Panther Line"
+        },
+        {
+          "date": "1944-03-31",
+          "label": "Northern front through March"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 23,
+      "websiteChapter": 108,
+      "sourceTitle": "The North After Occupation",
+      "websiteRoute": "/articles/volume-three-the-north-after-occupation",
+      "part": 16,
+      "section": 6,
+      "historicalPeriod": "Winter–spring 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 44,
+      "subheadingCount": 8,
+      "asideCount": 1,
+      "nativeNoteIds": [
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "ac41366d15c40af0fc71f8fee3b411b54511691678c25254d35845ed3d5bb0aa",
+      "defaultMapDate": "1944-01-27",
+      "mapStates": [
+        {
+          "date": "1944-01-27",
+          "label": "Siege of Leningrad lifted"
+        },
+        {
+          "date": "1944-02-02",
+          "label": "Narva and the approaches to the Panther Line"
+        },
+        {
+          "date": "1944-03-31",
+          "label": "Northern front through March"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 24,
+      "websiteChapter": 109,
+      "sourceTitle": "The Offensive West of Kiev",
+      "websiteRoute": "/articles/volume-three-the-offensive-west-of-kiev",
+      "part": 17,
+      "section": 6,
+      "historicalPeriod": "Late December 1943–January 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 39,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "d9c4915092652691221aa037be8b393ed302a7101c44ea3aa2a62210b1c49f6b",
+      "defaultMapDate": "1943-12-24",
+      "mapStates": [
+        {
+          "date": "1943-12-24",
+          "label": "Offensive west of Kiev"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 25,
+      "websiteChapter": 110,
+      "sourceTitle": "The Korsun Pocket",
+      "websiteRoute": "/articles/volume-three-the-korsun-pocket",
+      "part": 17,
+      "section": 6,
+      "historicalPeriod": "January–February 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 40,
+      "subheadingCount": 5,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "17673fb422ca117e2f2b4cf20c13e3a63ce9c3f8c33ca7491d1cfb9038281141",
+      "defaultMapDate": "1944-02-16",
+      "mapStates": [
+        {
+          "date": "1944-02-16",
+          "label": "Korsun pocket breakout"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 26,
+      "websiteChapter": 111,
+      "sourceTitle": "Nikopol and Krivoi Rog",
+      "websiteRoute": "/articles/volume-three-nikopol-and-krivoi-rog",
+      "part": 17,
+      "section": 6,
+      "historicalPeriod": "January–February 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 36,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "b41181be3a2e01720723b658fc7df69ae0057e9f6c317edff5d28ffb478e100b",
+      "defaultMapDate": "1944-01-10",
+      "mapStates": [
+        {
+          "date": "1944-01-10",
+          "label": "Nikopol and Krivoi Rog campaign"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 27,
+      "websiteChapter": 112,
+      "sourceTitle": "Through the Mud Toward the Dniester",
+      "websiteRoute": "/articles/volume-three-through-the-mud-toward-the-dniester",
+      "part": 17,
+      "section": 6,
+      "historicalPeriod": "March–April 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 41,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "42c8f15438b113944600b417f8d5d23948c39a9d408a705f08531272d271d939",
+      "defaultMapDate": "1944-03-04",
+      "mapStates": [
+        {
+          "date": "1944-03-04",
+          "label": "Spring offensive towards the Dniester"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 28,
+      "websiteChapter": 113,
+      "sourceTitle": "Odessa and the Approaches to Romania",
+      "websiteRoute": "/articles/volume-three-odessa-and-the-approaches-to-romania",
+      "part": 17,
+      "section": 6,
+      "historicalPeriod": "March–June 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 37,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "b043d7eea270f638de73bf174218efc2ee24ace756f84338de81f9a53ac0f184",
+      "defaultMapDate": "1944-03-04",
+      "mapStates": [
+        {
+          "date": "1944-03-04",
+          "label": "Spring offensive towards the Dniester"
+        },
+        {
+          "date": "1944-04-10",
+          "label": "Odessa recovered"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 29,
+      "websiteChapter": 114,
+      "sourceTitle": "Crimea and the Deportation of the Crimean Tatars",
+      "websiteRoute": "/articles/volume-three-crimea-and-the-deportation-of-the-crimean-tatars",
+      "part": 17,
+      "section": 6,
+      "historicalPeriod": "April–May 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 51,
+      "subheadingCount": 9,
+      "asideCount": 1,
+      "nativeNoteIds": [
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "8511d8a1650a148457347753eeaf339438515eb548953d40e52226d507d22afa",
+      "defaultMapDate": "1944-04-08",
+      "mapStates": [
+        {
+          "date": "1944-04-08",
+          "label": "Crimean offensive begins"
+        },
+        {
+          "date": "1944-05-13",
+          "label": "Crimean source-map endpoint"
+        },
+        {
+          "date": "1944-05-18",
+          "label": "Crimean Tatar deportation begins"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 30,
+      "websiteChapter": 115,
+      "sourceTitle": "Preparing the Summer Offensive",
+      "websiteRoute": "/articles/volume-three-preparing-the-summer-offensive",
+      "part": 18,
+      "section": 6,
+      "historicalPeriod": "April–June 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 34,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "52f9f2b5e82e2a67a97a6eee1441c9582233cbabf2ed3c879bff884dfb63b931",
+      "defaultMapDate": "1944-06-09",
+      "mapStates": [
+        {
+          "date": "1944-06-09",
+          "label": "The offensive against Finland opens"
+        },
+        {
+          "date": "1944-06-22",
+          "label": "Bagration opens"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 31,
+      "websiteChapter": 116,
+      "sourceTitle": "The Offensive Against Finland",
+      "websiteRoute": "/articles/volume-three-the-offensive-against-finland",
+      "part": 18,
+      "section": 6,
+      "historicalPeriod": "June–July 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 34,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "b7fe68cab53c757584555a4ed5f1646cbfbb612012994ea3a7f5fa8eb57afd38",
+      "defaultMapDate": "1944-06-09",
+      "mapStates": [
+        {
+          "date": "1944-06-09",
+          "label": "The offensive against Finland opens"
+        },
+        {
+          "date": "1944-06-28",
+          "label": "Vitebsk–Orsha and the Finnish theatre"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 32,
+      "websiteChapter": 117,
+      "sourceTitle": "Vitebsk and Orsha",
+      "websiteRoute": "/articles/volume-three-vitebsk-and-orsha",
+      "part": 18,
+      "section": 6,
+      "historicalPeriod": "June 23–28, 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 38,
+      "subheadingCount": 6,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "30c566b1587144f8655c1966c8de783a1b6a849019dafe94aee075e5df096834",
+      "defaultMapDate": "1944-06-22",
+      "mapStates": [
+        {
+          "date": "1944-06-22",
+          "label": "Bagration opens"
+        },
+        {
+          "date": "1944-06-28",
+          "label": "Vitebsk–Orsha and the Finnish theatre"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 33,
+      "websiteChapter": 118,
+      "sourceTitle": "Bobruisk and the Southern Breakthrough",
+      "websiteRoute": "/articles/volume-three-bobruisk-and-the-southern-breakthrough",
+      "part": 18,
+      "section": 6,
+      "historicalPeriod": "June 24–29, 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 40,
+      "subheadingCount": 7,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "8c5cc079e840368d286455deede9772aa0ab951ec9a2126152ca7ad1a05cafbd",
+      "defaultMapDate": "1944-06-24",
+      "mapStates": [
+        {
+          "date": "1944-06-24",
+          "label": "Bobruisk offensive"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 34,
+      "websiteChapter": 119,
+      "sourceTitle": "Minsk and the Destruction of Army Group Centre",
+      "websiteRoute": "/articles/volume-three-minsk-and-the-destruction-of-army-group-centre",
+      "part": 18,
+      "section": 6,
+      "historicalPeriod": "Late June–early July 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 44,
+      "subheadingCount": 7,
+      "asideCount": 1,
+      "nativeNoteIds": [
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "48b9710ecfaf66b6f4d56d4f4070702a976c8e288f1a15d0795c80dc1f9eadcd",
+      "defaultMapDate": "1944-07-03",
+      "mapStates": [
+        {
+          "date": "1944-07-03",
+          "label": "Minsk recovered"
+        }
+      ]
+    },
+    {
+      "manuscriptChapter": 35,
+      "websiteChapter": 120,
+      "sourceTitle": "The Pursuit Toward Vilnius and Grodno",
+      "websiteRoute": "/articles/volume-three-the-pursuit-toward-vilnius-and-grodno",
+      "part": 18,
+      "section": 6,
+      "historicalPeriod": "July 1944",
+      "textStatus": "All substantive source blocks imported in order",
+      "paragraphCount": 45,
+      "subheadingCount": 8,
+      "asideCount": 0,
+      "nativeNoteIds": [
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368
+      ],
+      "citationStatus": "Every native note is linked to its exact imported reference and source record",
+      "bodySha256": "18d96c6edb73d02cf31836c1523e765c43ca4658d58c06fde5717fc9b0a494d1",
+      "defaultMapDate": "1944-07-18",
+      "mapStates": [
+        {
+          "date": "1944-07-18",
+          "label": "Pursuit towards Vilnius and Grodno"
+        }
+      ]
+    }
+  ]
+}

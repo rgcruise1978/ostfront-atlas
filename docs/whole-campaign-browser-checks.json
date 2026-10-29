@@ -1,0 +1,513 @@
+[
+  {
+    "id": "v2-1941-12-06-7",
+    "width": 390,
+    "date": "1941-12-06",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-01-08-8",
+    "width": 390,
+    "date": "1942-01-08",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-05-08-9",
+    "width": 390,
+    "date": "1942-05-08",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-04-05-10",
+    "width": 390,
+    "date": "1942-04-05",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-08-09-11",
+    "width": 390,
+    "date": "1942-08-09",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-11-19-12",
+    "width": 390,
+    "date": "1942-11-19",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1941-12-06-7",
+    "width": 1280,
+    "date": "1941-12-06",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1941-12-09-7",
+    "width": 1280,
+    "date": "1941-12-09",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-7-1941-12-15",
+    "width": 1280,
+    "date": "1941-12-15",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1941-12-16-7",
+    "width": 1280,
+    "date": "1941-12-16",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1941-12-30-7",
+    "width": 1280,
+    "date": "1941-12-30",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-7-1942-01-01",
+    "width": 1280,
+    "date": "1942-01-01",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-01-08-8",
+    "width": 1280,
+    "date": "1942-01-08",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-8-1942-01-14",
+    "width": 1280,
+    "date": "1942-01-14",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-01-18-8",
+    "width": 1280,
+    "date": "1942-01-18",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-01-21-8",
+    "width": 1280,
+    "date": "1942-01-21",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-8-1942-02-01",
+    "width": 1280,
+    "date": "1942-02-01",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-02-18-8",
+    "width": 1280,
+    "date": "1942-02-18",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-8-1942-02-22",
+    "width": 1280,
+    "date": "1942-02-22",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-03-21-8",
+    "width": 1280,
+    "date": "1942-03-21",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-05-05-8",
+    "width": 1280,
+    "date": "1942-05-05",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-8-1942-05-08",
+    "width": 1280,
+    "date": "1942-05-08",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-06-28-8",
+    "width": 1280,
+    "date": "1942-06-28",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-05-08-9",
+    "width": 1280,
+    "date": "1942-05-08",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-05-12-9",
+    "width": 1280,
+    "date": "1942-05-12",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-05-17",
+    "width": 1280,
+    "date": "1942-05-17",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-05-19",
+    "width": 1280,
+    "date": "1942-05-19",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-05-22-9",
+    "width": 1280,
+    "date": "1942-05-22",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-05-24",
+    "width": 1280,
+    "date": "1942-05-24",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-05-26",
+    "width": 1280,
+    "date": "1942-05-26",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-05-28",
+    "width": 1280,
+    "date": "1942-05-28",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-06-07",
+    "width": 1280,
+    "date": "1942-06-07",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-06-27",
+    "width": 1280,
+    "date": "1942-06-27",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-07-01-9",
+    "width": 1280,
+    "date": "1942-07-01",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-9-1942-07-04",
+    "width": 1280,
+    "date": "1942-07-04",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-04-05-10",
+    "width": 1280,
+    "date": "1942-04-05",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-06-28-10",
+    "width": 1280,
+    "date": "1942-06-28",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-07-07-10",
+    "width": 1280,
+    "date": "1942-07-07",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-10-1942-07-11",
+    "width": 1280,
+    "date": "1942-07-11",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-10-1942-07-14",
+    "width": 1280,
+    "date": "1942-07-14",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-07-24-10",
+    "width": 1280,
+    "date": "1942-07-24",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-07-31-10",
+    "width": 1280,
+    "date": "1942-07-31",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-08-09-11",
+    "width": 1280,
+    "date": "1942-08-09",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-08-19",
+    "width": 1280,
+    "date": "1942-08-19",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-08-22-11",
+    "width": 1280,
+    "date": "1942-08-22",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-08-23-11",
+    "width": 1280,
+    "date": "1942-08-23",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-08-27-11",
+    "width": 1280,
+    "date": "1942-08-27",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-09-03",
+    "width": 1280,
+    "date": "1942-09-03",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-09-13",
+    "width": 1280,
+    "date": "1942-09-13",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-09-25",
+    "width": 1280,
+    "date": "1942-09-25",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-09-26",
+    "width": 1280,
+    "date": "1942-09-26",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-10-06",
+    "width": 1280,
+    "date": "1942-10-06",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-10-10",
+    "width": 1280,
+    "date": "1942-10-10",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-10-14-11",
+    "width": 1280,
+    "date": "1942-10-14",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-10-25",
+    "width": 1280,
+    "date": "1942-10-25",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-11-1942-11-09",
+    "width": 1280,
+    "date": "1942-11-09",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-11-18-11",
+    "width": 1280,
+    "date": "1942-11-18",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-11-19-12",
+    "width": 1280,
+    "date": "1942-11-19",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-11-20-12",
+    "width": 1280,
+    "date": "1942-11-20",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-11-23-12",
+    "width": 1280,
+    "date": "1942-11-23",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-11-25-12",
+    "width": 1280,
+    "date": "1942-11-25",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-12-12-12",
+    "width": 1280,
+    "date": "1942-12-12",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-12-16-12",
+    "width": 1280,
+    "date": "1942-12-16",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-12-1942-12-20",
+    "width": 1280,
+    "date": "1942-12-20",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1942-12-24-12",
+    "width": 1280,
+    "date": "1942-12-24",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1943-01-10-12",
+    "width": 1280,
+    "date": "1943-01-10",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-12-1943-01-12",
+    "width": 1280,
+    "date": "1943-01-12",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-12-1943-01-17",
+    "width": 1280,
+    "date": "1943-01-17",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1943-01-18-12",
+    "width": 1280,
+    "date": "1943-01-18",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-12-1943-01-19",
+    "width": 1280,
+    "date": "1943-01-19",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "atlas-12-1943-01-26",
+    "width": 1280,
+    "date": "1943-01-26",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1943-01-31-12",
+    "width": 1280,
+    "date": "1943-01-31",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "id": "v2-1943-02-02-12",
+    "width": 1280,
+    "date": "1943-02-02",
+    "overflow": false,
+    "ready": "true"
+  }
+]

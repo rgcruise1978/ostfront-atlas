@@ -1,0 +1,138 @@
+[
+  {
+    "route": "/articles/volume-three-the-caucasus-withdrawal",
+    "chapter": 86,
+    "manuscriptChapter": 1,
+    "id": "aside-kunikovs-last-days-on-little-land",
+    "title": "Kunikov’s last days on Little Land",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-002"
+    ],
+    "nativeNoteIds": [
+      9
+    ],
+    "paragraphCount": 3,
+    "wordCount": 134
+  },
+  {
+    "route": "/articles/volume-three-the-soviet-advance-toward-kharkov",
+    "chapter": 87,
+    "manuscriptChapter": 2,
+    "id": "aside-beifeld-keeps-his-drawings",
+    "title": "Beifeld keeps his drawings",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-087"
+    ],
+    "nativeNoteIds": [
+      15
+    ],
+    "paragraphCount": 3,
+    "wordCount": 159
+  },
+  {
+    "route": "/articles/volume-three-resistance-and-repression-behind-the-lines",
+    "chapter": 90,
+    "manuscriptChapter": 5,
+    "id": "aside-the-blacksmith-who-survived-khatyn",
+    "title": "The blacksmith who survived Khatyn",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-001"
+    ],
+    "nativeNoteIds": [
+      40
+    ],
+    "paragraphCount": 2,
+    "wordCount": 92
+  },
+  {
+    "route": "/articles/volume-three-resistance-and-repression-behind-the-lines",
+    "chapter": 90,
+    "manuscriptChapter": 5,
+    "id": "aside-rotem-finds-the-way-back",
+    "title": "Rotem finds the way back",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-004"
+    ],
+    "nativeNoteIds": [
+      49
+    ],
+    "paragraphCount": 3,
+    "wordCount": 150
+  },
+  {
+    "route": "/articles/volume-three-the-river-crossings",
+    "chapter": 100,
+    "manuscriptChapter": 15,
+    "id": "aside-sidorchuk-gathers-the-scattered-men",
+    "title": "Sidorchuk gathers the scattered men",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-021"
+    ],
+    "nativeNoteIds": [
+      151
+    ],
+    "paragraphCount": 3,
+    "wordCount": 140
+  },
+  {
+    "route": "/articles/volume-three-the-north-after-occupation",
+    "chapter": 108,
+    "manuscriptChapter": 23,
+    "id": "aside-a-certificate-and-a-surviving-mother",
+    "title": "A certificate and a surviving mother",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-051"
+    ],
+    "nativeNoteIds": [
+      228
+    ],
+    "paragraphCount": 3,
+    "wordCount": 133
+  },
+  {
+    "route": "/articles/volume-three-crimea-and-the-deportation-of-the-crimean-tatars",
+    "chapter": 114,
+    "manuscriptChapter": 29,
+    "id": "aside-a-diary-carried-into-exile",
+    "title": "A diary carried into exile",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-049"
+    ],
+    "nativeNoteIds": [
+      298
+    ],
+    "paragraphCount": 3,
+    "wordCount": 152
+  },
+  {
+    "route": "/articles/volume-three-minsk-and-the-destruction-of-army-group-centre",
+    "chapter": 119,
+    "manuscriptChapter": 34,
+    "id": "aside-valakhanovich-reaches-the-rye-field",
+    "title": "Valakhanovich reaches the rye field",
+    "status": "retained",
+    "action": "Imported the revised documented individual account verbatim from the latest edited manuscript; position and supporting notes retained.",
+    "sourceIds": [
+      "v3-bib-041"
+    ],
+    "nativeNoteIds": [
+      346
+    ],
+    "paragraphCount": 3,
+    "wordCount": 140
+  }
+]

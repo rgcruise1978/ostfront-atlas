@@ -1,0 +1,2152 @@
+{
+  "date": "2026-10-23",
+  "mode": "Sourced event localities",
+  "planningRecord": "prepare_map_plan.py was run before this geometry generator; no historical military geometry has been inferred.",
+  "states": [
+    {
+      "id": "v2-1941-12-06-7",
+      "part": 7,
+      "date": "1941-12-06",
+      "label": "Counteroffensive before Moscow",
+      "title": "Counteroffensive before Moscow",
+      "description": "The main Western Front counteroffensive opens. Kalinin Front had begun on December 5, and other attacks followed on different dates.",
+      "chapters": [
+        50
+      ],
+      "localities": [
+        "moscow"
+      ],
+      "nativeNoteIds": [
+        1,
+        2
+      ],
+      "sourceIds": [
+        "v2-bib-097",
+        "v2-bib-143",
+        "v2-bib-029",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 66–74; Sokolovsky, Razgrom pod Moskvoi, ch. 6, 203–215, 240–245.",
+        "Gurov, Zhukov v bitve pod Moskvoi, doc. 67, directive to 30th Army, December 3, 1941. The transcription contains an inconsistent month in its final deadline; the dated document heading and operative instructions, rather than that apparent copying error, are used here."
+      ],
+      "geographicExtent": "Moscow region; city point gives regional orientation, not a start line.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Moscow region; city point gives regional orientation, not a start line. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1941-12-06-7-moscow"
+      ],
+      "bounds": [
+        [
+          35.81781,
+          54.55204
+        ],
+        [
+          39.417809999999996,
+          56.952040000000004
+        ]
+      ]
+    },
+    {
+      "id": "v2-1941-12-09-7",
+      "part": 7,
+      "date": "1941-12-09",
+      "label": "Tikhvin recovered",
+      "title": "Tikhvin recovered",
+      "description": "Soviet forces recover Tikhvin. Ladoga supply and civilian survival remain separate, continuing problems.",
+      "chapters": [
+        53
+      ],
+      "localities": [
+        "tikhvin"
+      ],
+      "nativeNoteIds": [
+        42
+      ],
+      "sourceIds": [
+        "v2-bib-088",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 70–72; Russian National Guard, “Tikhvin Strategic Offensive Operation,” historical account."
+      ],
+      "geographicExtent": "Tikhvin and the Leningrad approaches; no supply route geometry reconstructed.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Tikhvin and the Leningrad approaches; no supply route geometry reconstructed. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1941-12-09-7-tikhvin"
+      ],
+      "bounds": [
+        [
+          31.725550000000002,
+          58.43924
+        ],
+        [
+          35.32555,
+          60.839240000000004
+        ]
+      ]
+    },
+    {
+      "id": "v2-1941-12-16-7",
+      "part": 7,
+      "date": "1941-12-16",
+      "label": "Kalinin recovered",
+      "title": "Kalinin recovered",
+      "description": "Soviet troops enter Kalinin after earlier gains at Solnechnogorsk and Klin.",
+      "chapters": [
+        51
+      ],
+      "localities": [
+        "kalinin"
+      ],
+      "nativeNoteIds": [
+        14
+      ],
+      "sourceIds": [
+        "v2-bib-097",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 66–74; Sokolovsky, Razgrom pod Moskvoi, ch. 6, 203–215."
+      ],
+      "geographicExtent": "Kalinin locality only; no boundary of recovered territory implied.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Kalinin locality only; no boundary of recovered territory implied. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1941-12-16-7-kalinin"
+      ],
+      "bounds": [
+        [
+          34.100570000000005,
+          55.658359999999995
+        ],
+        [
+          37.70057,
+          58.05836
+        ]
+      ]
+    },
+    {
+      "id": "v2-1941-12-30-7",
+      "part": 7,
+      "date": "1941-12-30",
+      "label": "Kaluga: recovery and its aftermath",
+      "title": "Kaluga: recovery and its aftermath",
+      "description": "The fighting to recover Kaluga concludes after the entry of Soviet troops on December 21. Nearby studies examine command decisions and conditions on recovered ground.",
+      "chapters": [
+        52,
+        54,
+        55
+      ],
+      "localities": [
+        "kaluga"
+      ],
+      "nativeNoteIds": [
+        36,
+        39,
+        73
+      ],
+      "sourceIds": [
+        "v2-bib-097",
+        "v2-bib-143",
+        "v2-bib-076",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Sokolovsky, Razgrom pod Moskvoi, ch. 7, 270–272; Ziemke and Bauer, Moscow to Stalingrad, 97–100.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 97–104, especially the December 29 request and permission concerning Kaluga.",
+        "Polugodin, “Kaluzhskaia gorodskaia uprava,” 56 and nn. 29–34. Municipal reports establish complaints and priorities, not a complete dietary survey; original local files not inspected."
+      ],
+      "geographicExtent": "Kaluga locality; command and civilian studies provide broader context, not events all dated December 30.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Kaluga locality; command and civilian studies provide broader context, not events all dated December 30. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1941-12-30-7-kaluga"
+      ],
+      "bounds": [
+        [
+          34.470000000000006,
+          53.33063
+        ],
+        [
+          38.07,
+          55.730630000000005
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-01-08-8",
+      "part": 8,
+      "date": "1942-01-08",
+      "label": "The offensive towards Rzhev and Vyazma",
+      "title": "The offensive towards Rzhev and Vyazma",
+      "description": "The wider offensive seeks to turn advances into the defeat of Army Group Centre. Rzhev and Vyazma are objectives, not captured towns.",
+      "chapters": [
+        56,
+        57
+      ],
+      "localities": [
+        "rzhev",
+        "vyazma"
+      ],
+      "nativeNoteIds": [
+        89,
+        98
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-bib-025",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 134–142.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 140–142, 161–172; Glantz, Soviet Airborne Experience, 37–48, 60–63, and maps 6–7."
+      ],
+      "geographicExtent": "Central-front objective localities; no formation positions or connecting arrows.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Central-front objective localities; no formation positions or connecting arrows. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-01-08-8-rzhev",
+        "v2-1942-01-08-8-vyazma"
+      ],
+      "bounds": [
+        [
+          32.496950000000005,
+          54.009969999999996
+        ],
+        [
+          36.128899999999994,
+          57.46289
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-01-18-8",
+      "part": 8,
+      "date": "1942-01-18",
+      "label": "Barvenkovo offensive begins",
+      "title": "Barvenkovo offensive begins",
+      "description": "The offensive begins in the Donets sector. Barvenkovo itself is taken on January 24; the marker identifies the operation’s geographic context.",
+      "chapters": [
+        61
+      ],
+      "localities": [
+        "barvenkovo"
+      ],
+      "nativeNoteIds": [
+        187,
+        188
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 155–161, especially map, 157. Modern equivalents of period names include Izium, Balakliia, Sloviansk, Barvinkove, Lozova, Dnipro, and Zaporizhzhia.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 156–160."
+      ],
+      "geographicExtent": "Barvenkovo locality, not the January 18 line of departure.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Barvenkovo locality, not the January 18 line of departure. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-01-18-8-barvenkovo"
+      ],
+      "bounds": [
+        [
+          35.222570000000005,
+          47.7052
+        ],
+        [
+          38.82257,
+          50.1052
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-01-21-8",
+      "part": 8,
+      "date": "1942-01-21",
+      "label": "Toropets recovered",
+      "title": "Toropets recovered",
+      "description": "The town’s recovery follows the January 20 capture of its supply depot. The dates refer to distinct objectives.",
+      "chapters": [
+        58
+      ],
+      "localities": [
+        "toropets"
+      ],
+      "nativeNoteIds": [
+        120,
+        121
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-bib-021",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 143–149, 161–164, and maps 10 and 12.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 148–149. Forczyk, Demyansk 1942–43, 10, dates the overrunning of the Toropets supply depot to January 20; this is compatible with distinguishing the depot’s capture from the town’s generally recorded recovery on January 21. The depot entry was checked in the publisher’s preview; the chronology on 11 was also consulted for Chapter 10."
+      ],
+      "geographicExtent": "Toropets locality; depot and town are not plotted as the same exact feature.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Toropets locality; depot and town are not plotted as the same exact feature. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-01-21-8-toropets"
+      ],
+      "bounds": [
+        [
+          29.839199999999998,
+          55.29954
+        ],
+        [
+          33.4392,
+          57.699540000000006
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-02-18-8",
+      "part": 8,
+      "date": "1942-02-18",
+      "label": "Demyansk air supply",
+      "title": "Demyansk air supply",
+      "description": "The Demyansk airlift sustains an enclosed force at substantial cost. This date begins the delivery interval discussed in the evidence.",
+      "chapters": [
+        59
+      ],
+      "localities": [
+        "demyansk"
+      ],
+      "nativeNoteIds": [
+        138
+      ],
+      "sourceIds": [
+        "v2-bib-063",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 150–155, 185–189; Morzik, Airlift Operations, 145–153, 173–174."
+      ],
+      "geographicExtent": "Demyansk locality; no airfield footprint, flight path or pocket perimeter is inferred.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Demyansk locality; no airfield footprint, flight path or pocket perimeter is inferred. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-02-18-8-demyansk"
+      ],
+      "bounds": [
+        [
+          30.66568,
+          56.444559999999996
+        ],
+        [
+          34.265679999999996,
+          58.84456
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-03-21-8",
+      "part": 8,
+      "date": "1942-03-21",
+      "label": "Lyuban offensive: a threatened connection",
+      "title": "Lyuban offensive: a threatened connection",
+      "description": "The passage behind 2nd Shock Army closes in the March 20–21 fighting. It is later reopened; this is not the army’s final destruction.",
+      "chapters": [
+        60
+      ],
+      "localities": [
+        "lyuban"
+      ],
+      "nativeNoteIds": [
+        167,
+        168
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-bib-099",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 190–192.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 191–192; “Spravka o polozhenii 2-udarnoi armii,” March section, Generalvlasov.ru transcription. Its archival provenance remains insufficiently established."
+      ],
+      "geographicExtent": "Lyuban is an unachieved objective used to orient the wider operation, not the site of the corridor closure.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Lyuban is an unachieved objective used to orient the wider operation, not the site of the corridor closure. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-03-21-8-lyuban"
+      ],
+      "bounds": [
+        [
+          29.41667,
+          58.15
+        ],
+        [
+          33.01667,
+          60.550000000000004
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-05-05-8",
+      "part": 8,
+      "date": "1942-05-05",
+      "label": "Kholm: relief reaches the garrison",
+      "title": "Kholm: relief reaches the garrison",
+      "description": "German relief reaches Kholm. The junction does not mark the end of every nearby engagement.",
+      "chapters": [
+        58
+      ],
+      "localities": [
+        "kholm"
+      ],
+      "nativeNoteIds": [
+        120,
+        137
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 143–149, 161–164, and maps 10 and 12.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 197–198."
+      ],
+      "geographicExtent": "Kholm locality; neither the precise junction nor the perimeter is reconstructed.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Kholm locality; neither the precise junction nor the perimeter is reconstructed. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-05-05-8-kholm"
+      ],
+      "bounds": [
+        [
+          29.38173,
+          55.94893
+        ],
+        [
+          32.98173,
+          58.34893
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-06-28-8",
+      "part": 8,
+      "date": "1942-06-28",
+      "label": "2nd Shock Army: the main battle ends",
+      "title": "2nd Shock Army: the main battle ends",
+      "description": "German reporting marks the end of the main battle after the collapse of the encircled army. Survivors’ escape and capture continue beyond this date.",
+      "chapters": [
+        60
+      ],
+      "localities": [
+        "lyuban"
+      ],
+      "nativeNoteIds": [
+        186
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 259–260."
+      ],
+      "geographicExtent": "Lyuban operation context; a point at the objective does not mean Soviet forces occupied it.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Lyuban operation context; a point at the objective does not mean Soviet forces occupied it. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-06-28-8-lyuban"
+      ],
+      "bounds": [
+        [
+          29.41667,
+          58.15
+        ],
+        [
+          33.01667,
+          60.550000000000004
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-05-08-9",
+      "part": 9,
+      "date": "1942-05-08",
+      "label": "The Kerch Peninsula offensive",
+      "title": "The Kerch Peninsula offensive",
+      "description": "The German offensive begins against Crimean Front on the Kerch Peninsula. Kerch city is reached later. Related studies explain rebuilding and occupation across a wider geography.",
+      "chapters": [
+        62,
+        63,
+        65
+      ],
+      "localities": [
+        "kerch"
+      ],
+      "nativeNoteIds": [
+        267,
+        268
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, ch. XIII, “Kerch Resolved.”",
+        "Ziemke and Bauer, Moscow to Stalingrad, ch. XIII, “Competing Plans,” map 22. Kozlov is identified as Crimean Front commander; the synthesis’s inconsistent use of Transcaucasus Front is not followed."
+      ],
+      "geographicExtent": "Peninsula orientation from Kerch; no starting position or May 8 city capture is claimed.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Peninsula orientation from Kerch; no starting position or May 8 city capture is claimed. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-05-08-9-kerch"
+      ],
+      "bounds": [
+        [
+          34.67542,
+          44.156749999999995
+        ],
+        [
+          38.27542,
+          46.55675
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-05-12-9",
+      "part": 9,
+      "date": "1942-05-12",
+      "label": "The Soviet attack towards Kharkov",
+      "title": "The Soviet attack towards Kharkov",
+      "description": "Soviet forces attack towards Kharkov from separate sectors, including the Barvenkovo salient.",
+      "chapters": [
+        64
+      ],
+      "localities": [
+        "kharkov",
+        "barvenkovo"
+      ],
+      "nativeNoteIds": [
+        246,
+        247
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, ch. XIII, “The Izyum Bulge,” maps 23–24.",
+        "Ziemke and Bauer, Moscow to Stalingrad, ch. XIII, “Prospects and Problems,” on the March conferences, April command arrangements, and the successive reductions of the Soviet proposal."
+      ],
+      "geographicExtent": "Objective and salient localities; the city is not shown as captured.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Objective and salient localities; the city is not shown as captured. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-05-12-9-kharkov",
+        "v2-1942-05-12-9-barvenkovo"
+      ],
+      "bounds": [
+        [
+          34.454750000000004,
+          47.7052
+        ],
+        [
+          38.82257,
+          51.18177
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-05-22-9",
+      "part": 9,
+      "date": "1942-05-22",
+      "label": "The Kharkov encirclement develops",
+      "title": "The Kharkov encirclement develops",
+      "description": "German thrusts join on May 22; deeper consolidation follows. The trapped Soviet grouping is not represented by an invented polygon.",
+      "chapters": [
+        64
+      ],
+      "localities": [
+        "kharkov",
+        "barvenkovo"
+      ],
+      "nativeNoteIds": [
+        246
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, ch. XIII, “The Izyum Bulge,” maps 23–24."
+      ],
+      "geographicExtent": "Regional context rather than a plotted junction or sealed boundary.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Regional context rather than a plotted junction or sealed boundary. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-05-22-9-kharkov",
+        "v2-1942-05-22-9-barvenkovo"
+      ],
+      "bounds": [
+        [
+          34.454750000000004,
+          47.7052
+        ],
+        [
+          38.82257,
+          51.18177
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-07-01-9",
+      "part": 9,
+      "date": "1942-07-01",
+      "label": "Sevastopol: the city falls",
+      "title": "Sevastopol: the city falls",
+      "description": "German forces take the city. Organized resistance continues to July 4, with later holdouts; July 1 is not the end of all fighting.",
+      "chapters": [
+        66
+      ],
+      "localities": [
+        "sevastopol"
+      ],
+      "nativeNoteIds": [
+        299,
+        301
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-bib-053",
+        "v2-bib-074",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, ch. XV, June 29–30 advances, Malakhov, Balaklava, and the direction towards Cape Khersones.",
+        "Plocher, German Air Force versus Russia, 1942, 201; Ziemke and Bauer, Moscow to Stalingrad, ch. XV, “STOERFANG Completed”; Krylov, Ne pomerknet nikogda, 557–558. Urban capture, organized defence, and later scattered resistance use different endpoints."
+      ],
+      "geographicExtent": "Sevastopol locality only; no urban control boundaries.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Sevastopol locality only; no urban control boundaries. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-07-01-9-sevastopol"
+      ],
+      "bounds": [
+        [
+          31.72134,
+          43.40795
+        ],
+        [
+          35.32134,
+          45.807950000000005
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-04-05-10",
+      "part": 10,
+      "date": "1942-04-05",
+      "label": "Directive 41: objectives for the summer",
+      "title": "Directive 41: objectives for the summer",
+      "description": "Directive 41 sets the direction of the summer campaign. These points orient its objectives; they do not show forces already present there.",
+      "chapters": [
+        67
+      ],
+      "localities": [
+        "voronezh",
+        "stalingrad",
+        "maykop"
+      ],
+      "nativeNoteIds": [
+        304
+      ],
+      "sourceIds": [
+        "v2-bib-035",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Hitler, Directive 41, April 5, 1942, introductory statement and sections I–III, English transcription at ; Ziemke and Bauer, Moscow to Stalingrad, 321–324. The transcription is a published translation, not an inspected original."
+      ],
+      "geographicExtent": "Planning context across the southern theatre, deliberately earlier than the end of Part IX.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Planning context across the southern theatre, deliberately earlier than the end of Part IX. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-04-05-10-voronezh",
+        "v2-1942-04-05-10-stalingrad",
+        "v2-1942-04-05-10-maykop"
+      ],
+      "bounds": [
+        [
+          37.39204,
+          43.407889999999995
+        ],
+        [
+          46.297599999999996,
+          52.86833
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-06-28-10",
+      "part": 10,
+      "date": "1942-06-28",
+      "label": "Case Blue opens",
+      "title": "Case Blue opens",
+      "description": "The northern opening of Case Blue begins. Other armies join on different days.",
+      "chapters": [
+        68
+      ],
+      "localities": [
+        "kursk",
+        "voronezh"
+      ],
+      "nativeNoteIds": [
+        326,
+        327
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 333–334, on XLVIII Panzer Corps crossing the Tim by an intact railway bridge and reaching the Kshen on June 28.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 333–336, 344–346. Armeegruppe Weichs was a temporary grouping of armies; its title is distinguished from the subsequent Army Group B headquarters."
+      ],
+      "geographicExtent": "Kursk–Voronezh regional orientation; no start line or route inferred.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Kursk–Voronezh regional orientation; no start line or route inferred. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-06-28-10-kursk",
+        "v2-1942-06-28-10-voronezh"
+      ],
+      "bounds": [
+        [
+          34.384570000000004,
+          50.468329999999995
+        ],
+        [
+          40.992039999999996,
+          52.92689
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-07-07-10",
+      "part": 10,
+      "date": "1942-07-07",
+      "label": "Voronezh remains contested",
+      "title": "Voronezh remains contested",
+      "description": "German troops occupy much of western Voronezh, but the city is not wholly secured. Fighting and evacuation continue.",
+      "chapters": [
+        69
+      ],
+      "localities": [
+        "voronezh"
+      ],
+      "nativeNoteIds": [
+        350,
+        351
+      ],
+      "sourceIds": [
+        "v2-bib-096",
+        "v2-bib-102",
+        "v2-bib-121",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Sokhin, Voronezh city party committee Information No. 2, July 24, 1942, GAPIVO f. 19, op. 2, d. 220, l. 1, extracts in “Kak evakuirovalsya Voronezh.”",
+        "USSR People's Commissar of Defence, Order No. 227, July 28, 1942, opening paragraphs, facsimile published by the National Security Archive; compare Ziemke and Bauer, Moscow to Stalingrad, 340, whose whole-city capture shorthand is not adopted."
+      ],
+      "geographicExtent": "City locality, not a whole-city control symbol.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "City locality, not a whole-city control symbol. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-07-07-10-voronezh"
+      ],
+      "bounds": [
+        [
+          37.39204,
+          50.468329999999995
+        ],
+        [
+          40.992039999999996,
+          52.86833
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-07-24-10",
+      "part": 10,
+      "date": "1942-07-24",
+      "label": "Rostov and the lower Don",
+      "title": "Rostov and the lower Don",
+      "description": "German entry on July 23 is followed by the fall of the city on July 24. The Don crossings and withdrawal create further operational and civilian consequences.",
+      "chapters": [
+        70,
+        71
+      ],
+      "localities": [
+        "rostov"
+      ],
+      "nativeNoteIds": [
+        402,
+        403
+      ],
+      "sourceIds": [
+        "v2-bib-027",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Soviet General Staff communication, July 19, 1942, quoted in Grechko, Bitva za Kavkaz, chapter 1, section “Obstanovka na yuzhnom kryle sovetsko-germanskogo fronta,” passage reproducing the July 19 communication. The document is consulted as a published extract; the original archival file was not inspected.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 351, 353–356 and map 31."
+      ],
+      "geographicExtent": "Rostov-on-Don locality; bridgehead geometry is not reconstructed.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Rostov-on-Don locality; bridgehead geometry is not reconstructed. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-07-24-10-rostov"
+      ],
+      "bounds": [
+        [
+          37.90769,
+          46.01997
+        ],
+        [
+          41.50769,
+          48.419970000000006
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-07-31-10",
+      "part": 10,
+      "date": "1942-07-31",
+      "label": "Hoth’s army is redirected",
+      "title": "Hoth’s army is redirected",
+      "description": "Part of 4th Panzer Army is redirected towards Stalingrad while other forces remain committed in the south.",
+      "chapters": [
+        72
+      ],
+      "localities": [
+        "stalingrad",
+        "rostov"
+      ],
+      "nativeNoteIds": [
+        443,
+        445,
+        446
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-bib-030",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 365, on Romanian VI Corps in the July 31 transfer.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 363–365, on Jodl's argument, List's concern, and Halder's supply response. Their discussion is mediated through the official synthesis, not claimed as independently inspected diary or conference records.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 365, July 31 revision."
+      ],
+      "geographicExtent": "Decision and destination context, not the position of an army on July 31.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Decision and destination context, not the position of an army on July 31. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-07-31-10-stalingrad",
+        "v2-1942-07-31-10-rostov"
+      ],
+      "bounds": [
+        [
+          37.90769,
+          46.01997
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-08-09-11",
+      "part": 11,
+      "date": "1942-08-09",
+      "label": "Maykop reached; oil installations damaged",
+      "title": "Maykop reached; oil installations damaged",
+      "description": "German forces enter Maykop and the producing district. Damaged installations prevent the capture of a functioning fuel supply.",
+      "chapters": [
+        73
+      ],
+      "localities": [
+        "maykop"
+      ],
+      "nativeNoteIds": [
+        455
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 370–71."
+      ],
+      "geographicExtent": "Town locality; no oilfield boundary or well location.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Town locality; no oilfield boundary or well location. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-08-09-11-maykop"
+      ],
+      "bounds": [
+        [
+          38.302420000000005,
+          43.407889999999995
+        ],
+        [
+          41.90242,
+          45.80789
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-08-22-11",
+      "part": 11,
+      "date": "1942-08-22",
+      "label": "Krasnodar hospital patients murdered",
+      "title": "Krasnodar hospital patients murdered",
+      "description": "Published testimony and later research identify the murder of hospital patients on August 22. The study distinguishes corroborated killings from discredited testimony about an alleged survivor.",
+      "chapters": [
+        77
+      ],
+      "localities": [
+        "krasnodar"
+      ],
+      "nativeNoteIds": [
+        545,
+        547
+      ],
+      "sourceIds": [
+        "v2-bib-072",
+        "v2-bib-083",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "People's Verdict, 10–12, 27–28, indictment and medical testimony. Compare Irina Rebrova, “Regionales Psychiatrisches Krankenhaus Krasnodar,” Gedenkort T4, historical account.",
+        "Rebrova, “Regionales Psychiatrisches Krankenhaus Krasnodar,” account of August 22 and October 2, 1942."
+      ],
+      "geographicExtent": "Krasnodar city orientation only; the marker does not identify the hospital, burial site or gas-van route.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Krasnodar city orientation only; the marker does not identify the hospital, burial site or gas-van route. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-08-22-11-krasnodar"
+      ],
+      "bounds": [
+        [
+          37.18178,
+          43.84534
+        ],
+        [
+          40.78178,
+          46.245340000000006
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-08-23-11",
+      "part": 11,
+      "date": "1942-08-23",
+      "label": "The Volga reached north of Stalingrad",
+      "title": "The Volga reached north of Stalingrad",
+      "description": "German armour reaches the Volga north of the city as air attacks devastate inhabited districts. Reaching the river does not end Soviet crossings or capture the whole city.",
+      "chapters": [
+        74,
+        75
+      ],
+      "localities": [
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        494,
+        497,
+        498
+      ],
+      "sourceIds": [
+        "v2-bib-074",
+        "v2-bib-143",
+        "v2-bib-047",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 385–87; Plocher, German Air Force versus Russia, 1942, 231–33.",
+        "Plocher, German Air Force versus Russia, 1942, 231–35; Ziemke and Bauer, Moscow to Stalingrad, 386, 390–91.",
+        "Krinko and Medvedev, “Demographic Consequences,” 98–100, especially table 3."
+      ],
+      "geographicExtent": "Stalingrad city orientation; no exact breakthrough point or casualty location is plotted.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Stalingrad city orientation; no exact breakthrough point or casualty location is plotted. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-08-23-11-stalingrad"
+      ],
+      "bounds": [
+        [
+          42.6976,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-08-27-11",
+      "part": 11,
+      "date": "1942-08-27",
+      "label": "The Sinyavino offensive",
+      "title": "The Sinyavino offensive",
+      "description": "Volkhov Front opens its main attack, following Leningrad Front’s earlier operations. The offensive fails to open a lasting land corridor.",
+      "chapters": [
+        78
+      ],
+      "localities": [
+        "sinyavino",
+        "leningrad"
+      ],
+      "nativeNoteIds": [
+        565,
+        567
+      ],
+      "sourceIds": [
+        "v2-bib-087",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Russian Ministry of Defence, Pamyat Naroda, “Sinyavinskaya nastupatelnaya operatsiya,” sections “Rezultat operatsii” and “Chetyre perioda operatsii”https://pamyat-naroda.ru/ops/sinyavinskaya-nastupatelnaya-operatsiya/. The portal's retrospective overview and transcribed chronology were consulted; its optimistic assessment of the withdrawal is not accepted as proof that all encircled formations escaped.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 418–20."
+      ],
+      "geographicExtent": "Sinyavino and Leningrad orientation; no offensive arrows or corridor boundary.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Sinyavino and Leningrad orientation; no offensive arrows or corridor boundary. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-08-27-11-sinyavino",
+        "v2-1942-08-27-11-leningrad"
+      ],
+      "bounds": [
+        [
+          28.514129999999998,
+          58.707809999999995
+        ],
+        [
+          32.8711,
+          61.138630000000006
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-10-14-11",
+      "part": 11,
+      "date": "1942-10-14",
+      "label": "The factory offensive",
+      "title": "The factory offensive",
+      "description": "A renewed German assault breaks into the northern industrial district. Soviet positions survive after the breakthrough.",
+      "chapters": [
+        76
+      ],
+      "localities": [
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        522,
+        523
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 458–59.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 459–62, and map 41. The source’s identification of Chuikov as commander of 64th Army on page 460 is an error; he commanded 62nd Army in this phase."
+      ],
+      "geographicExtent": "City-scale orientation only; factory buildings and block-level control are not reconstructed.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "City-scale orientation only; factory buildings and block-level control are not reconstructed. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-10-14-11-stalingrad"
+      ],
+      "bounds": [
+        [
+          42.6976,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-11-18-11",
+      "part": 11,
+      "date": "1942-11-18",
+      "label": "Uranus preparations on the flanks",
+      "title": "Uranus preparations on the flanks",
+      "description": "The Soviet offensive has been prepared around the Axis flanks. The northern attack opens the following day and the southern attack a day later.",
+      "chapters": [
+        79
+      ],
+      "localities": [
+        "serafimovich",
+        "kletskaya",
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        575,
+        576,
+        580
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 442–44.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 443–45, account of the intended tasks.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 464–65. Statements about universal readiness belong to retrospective descriptions of the inspections, not independent proof of every unit's condition."
+      ],
+      "geographicExtent": "Planning geography on the final pre-offensive day; settlement markers do not locate particular formations.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Planning geography on the final pre-offensive day; settlement markers do not locate particular formations. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-11-18-11-serafimovich",
+        "v2-1942-11-18-11-kletskaya",
+        "v2-1942-11-18-11-stalingrad"
+      ],
+      "bounds": [
+        [
+          40.93227,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          50.77572
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-11-19-12",
+      "part": 12,
+      "date": "1942-11-19",
+      "label": "Uranus: the northern attack",
+      "title": "Uranus: the northern attack",
+      "description": "The northern striking forces attack from the Don bridgehead areas against Romanian 3rd Army. Progress and resistance vary by sector.",
+      "chapters": [
+        80
+      ],
+      "localities": [
+        "serafimovich",
+        "kletskaya"
+      ],
+      "nativeNoteIds": [
+        588,
+        589
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 468–70https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-22.html. Times follow this account; they are not offered as a single synchronized opening time for every sector.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 442–45, 468–70."
+      ],
+      "geographicExtent": "Bridgehead-region orientation from settlements; no exact artillery or unit positions.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Bridgehead-region orientation from settlements; no exact artillery or unit positions. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-11-19-12-serafimovich",
+        "v2-1942-11-19-12-kletskaya"
+      ],
+      "bounds": [
+        [
+          40.93227,
+          48.113609999999994
+        ],
+        [
+          44.8628,
+          50.77572
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-11-20-12",
+      "part": 12,
+      "date": "1942-11-20",
+      "label": "Uranus: the southern attack",
+      "title": "Uranus: the southern attack",
+      "description": "Stalingrad Front attacks from south of the city after fog delays the morning opening. This is distinct from the northern attack of November 19.",
+      "chapters": [
+        80
+      ],
+      "localities": [
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        597,
+        598
+      ],
+      "sourceIds": [
+        "v2-bib-040",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 470–72; Ionescu, “Romanians at Stalingrad,” 9, for the separate Romanian army commands.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 470, for Hoth’s request and Weichs’s refusal. The implications for coalition command are an interpretation of that recorded exchange."
+      ],
+      "geographicExtent": "City point orients the southern theatre; it is not the southern attack’s starting coordinate.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "City point orients the southern theatre; it is not the southern attack’s starting coordinate. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-11-20-12-stalingrad"
+      ],
+      "bounds": [
+        [
+          42.6976,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-11-23-12",
+      "part": 12,
+      "date": "1942-11-23",
+      "label": "The Soviet arms join near Kalach",
+      "title": "The Soviet arms join near Kalach",
+      "description": "After a bridge is seized on November 22, Kalach falls and the converging forces meet near Sovetsky on November 23.",
+      "chapters": [
+        80,
+        81
+      ],
+      "localities": [
+        "kalach"
+      ],
+      "nativeNoteIds": [
+        604,
+        605,
+        606
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 473–74. Their chronology separates the bridge seizure early on November 22 from the ending of resistance in Kalach the following day.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 474, including the junction of 4th Tank and 4th Mechanized Corps at Sovetsky on November 23. Place-name transliterations vary; the same settlement is also rendered Sovetskiy.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 473–74, citing 6th Army records for the headquarters movements and Paulus's November 22 report from Gumrak."
+      ],
+      "geographicExtent": "Kalach is a regional reference point. The actual junction near Sovetsky and bridge are not assigned these town-centre coordinates.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Kalach is a regional reference point. The actual junction near Sovetsky and bridge are not assigned these town-centre coordinates. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-11-23-12-kalach"
+      ],
+      "bounds": [
+        [
+          41.726380000000006,
+          47.49099
+        ],
+        [
+          45.32638,
+          49.89099
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-11-25-12",
+      "part": 12,
+      "date": "1942-11-25",
+      "label": "Mars and Velikiye Luki",
+      "title": "Mars and Velikiye Luki",
+      "description": "Major Soviet attacks begin around the Rzhev salient and at Velikiye Luki. The operations have different scales, objectives and eventual outcomes.",
+      "chapters": [
+        82
+      ],
+      "localities": [
+        "rzhev",
+        "velikiye-luki"
+      ],
+      "nativeNoteIds": [
+        632,
+        646
+      ],
+      "sourceIds": [
+        "v2-bib-026",
+        "v2-bib-142",
+        "v2-bib-112",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke, Stalingrad to Berlin, 98–108https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/USA-EF-Defeat-6.html; Glantz, “Counterpoint to Stalingrad,” PDF 3–8https://www.glscott.org/uploads/2/1/3/3/21330938/counterpoint_to_stalingrad.pdf. PDF page locators refer to the accessible report, not the separately published journal version.",
+        "Ziemke, Stalingrad to Berlin, 107–9; U.S. Department of the Army, Operations of Encircled Forces, 9–10https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/wwii/20234/20-2343.htm. The latter is a postwar German-officer study prepared for the US Army, not an independent contemporary Soviet account."
+      ],
+      "geographicExtent": "Two operational localities; no common front or implied single battle.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Two operational localities; no common front or implied single battle. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-11-25-12-rzhev",
+        "v2-1942-11-25-12-velikiye-luki"
+      ],
+      "bounds": [
+        [
+          28.743769999999998,
+          55.062889999999996
+        ],
+        [
+          36.128899999999994,
+          57.54063
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-12-12-12",
+      "part": 12,
+      "date": "1942-12-12",
+      "label": "Winter Storm begins",
+      "title": "Winter Storm begins",
+      "description": "The German relief attack begins from the Kotelnikovo area. Relief from outside and the unexecuted breakout from inside are distinct operations.",
+      "chapters": [
+        81,
+        83
+      ],
+      "localities": [
+        "kotelnikovo"
+      ],
+      "nativeNoteIds": [
+        656,
+        658
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 479–480.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 480–482."
+      ],
+      "geographicExtent": "Kotelnikovo orientation; no route, tank position or guaranteed corridor.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Kotelnikovo orientation; no route, tank position or guaranteed corridor. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-12-12-12-kotelnikovo"
+      ],
+      "bounds": [
+        [
+          41.34158,
+          46.430119999999995
+        ],
+        [
+          44.941579999999995,
+          48.83012
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-12-16-12",
+      "part": 12,
+      "date": "1942-12-16",
+      "label": "Little Saturn attacks the Italian front",
+      "title": "Little Saturn attacks the Italian front",
+      "description": "The principal Soviet attacks open after preliminary fighting from December 11. 3rd Guards Army joins on December 17.",
+      "chapters": [
+        83
+      ],
+      "localities": [
+        "verkhny-mamon"
+      ],
+      "nativeNoteIds": [
+        668,
+        670,
+        671
+      ],
+      "sourceIds": [
+        "v2-bib-122",
+        "v2-bib-143",
+        "v2-bib-093",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Vasilevsky, Delo vsei zhizni, chapter 16, 249–251, reproducing the December 13 directive; Ziemke and Bauer, Moscow to Stalingrad, 485–486, on the differing retrospective chronologies.https://militera.lib.ru/memo/russian/vasilevsky/16.html",
+        "Scianna, Italian War on the Eastern Front, 154–163.https://doi.org/10.1007/978-3-030-26524-3",
+        "Ziemke and Bauer, Moscow to Stalingrad, 486–487; Scianna, Italian War, 158–169."
+      ],
+      "geographicExtent": "Verkhny Mamon bridgehead area; settlement coordinate does not delineate the bridgehead.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Verkhny Mamon bridgehead area; settlement coordinate does not delineate the bridgehead. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-12-16-12-verkhny-mamon"
+      ],
+      "bounds": [
+        [
+          38.589360000000006,
+          48.964209999999994
+        ],
+        [
+          42.18936,
+          51.36421
+        ]
+      ]
+    },
+    {
+      "id": "v2-1942-12-24-12",
+      "part": 12,
+      "date": "1942-12-24",
+      "label": "Tatsinskaya: the airlift base disrupted",
+      "title": "Tatsinskaya: the airlift base disrupted",
+      "description": "24th Tank Corps reaches Tatsinskaya. The loss and dispersal of ground facilities disrupt air supply even where aircraft escape.",
+      "chapters": [
+        81,
+        83
+      ],
+      "localities": [
+        "tatsinskaya"
+      ],
+      "nativeNoteIds": [
+        675,
+        676,
+        677
+      ],
+      "sourceIds": [
+        "v2-bib-122",
+        "v2-bib-063",
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Vasilevsky, Delo vsei zhizni, chapter 16, 260–261, on Badanov's corps, the December 24 attack, isolation, and breakout. His favourable characterization of the return is retained as a claim rather than a casualty accounting.",
+        "Morzik, Airlift Operations, 190–191. The approximate aircraft totals are Morzik's reconstruction; the author was a senior Luftwaffe transport officer and wrote retrospectively.https://www.ibiblio.org/hyperwar/AAF/AAFHS/AAFHS-167.pdf",
+        "Ziemke and Bauer, Moscow to Stalingrad, 489–490; Morzik, Airlift Operations, 190–191, on base relocation and support losses."
+      ],
+      "geographicExtent": "Locality orientation; the airfield runway and raid route are not plotted.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Locality orientation; the airfield runway and raid route are not plotted. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1942-12-24-12-tatsinskaya"
+      ],
+      "bounds": [
+        [
+          39.47972,
+          46.994479999999996
+        ],
+        [
+          43.079719999999995,
+          49.39448
+        ]
+      ]
+    },
+    {
+      "id": "v2-1943-01-10-12",
+      "part": 12,
+      "date": "1943-01-10",
+      "label": "Operation Ring begins",
+      "title": "Operation Ring begins",
+      "description": "Don Front begins the staged reduction of the Stalingrad pocket. The surrender demand has been rejected.",
+      "chapters": [
+        85
+      ],
+      "localities": [
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        706,
+        708
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-bib-019",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 495–496, on unified command, strength, and the successive stages of Ring.https://www.ibiblio.org/hyperwar/USA/USA-EF-Decision/USA-EF-Decision-23.html",
+        "Ziemke and Bauer, Moscow to Stalingrad, 496; Erickson, Road to Berlin, 35–36."
+      ],
+      "geographicExtent": "City orientation; no perimeter or assault line reconstructed.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "City orientation; no perimeter or assault line reconstructed. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1943-01-10-12-stalingrad"
+      ],
+      "bounds": [
+        [
+          42.6976,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    },
+    {
+      "id": "v2-1943-01-18-12",
+      "part": 12,
+      "date": "1943-01-18",
+      "label": "Iskra opens a land corridor",
+      "title": "Iskra opens a land corridor",
+      "description": "Soviet forces join south of Ladoga and recover Shlisselburg. A narrow corridor opens; the siege continues and the new railway is not yet operating.",
+      "chapters": [
+        84
+      ],
+      "localities": [
+        "shlisselburg",
+        "sinyavino",
+        "leningrad"
+      ],
+      "nativeNoteIds": [
+        696,
+        697,
+        699
+      ],
+      "sourceIds": [
+        "v2-bib-007",
+        "v2-bib-062",
+        "v2-bib-050",
+        "v2-bib-012",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Boris Yeltsin Presidential Library, “Unikalnye arkhivnye dokumenty,” description of the January 18 meeting act; Artillery Museum, “Operatsiya ‘Iskra’,” account of the junctions. The meeting act is known here through the library's published description, not an examination of its original sheet.https://www.prlib.ru/news/1938234",
+        "Krivosheev, Stamp of Secrecy Is Removed, English translation, 163–164 (PDF pages 172–173), “The Operation to Break the Blockade of Leningrad.”https://documents.theblackvault.com/documents/SovietLosses.pdf",
+        "Central Naval Museum, “Road of Victory,” on the January 18 decision, construction works, and first train on February 7. The last date is a marked forward reference beyond this part's principal endpoint.https://eng.navalmuseum.ru/main_exposition/victory_road"
+      ],
+      "geographicExtent": "Locality orientation; no exact junction or corridor polygon. The first through train arrives February 7, beyond this volume.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "Locality orientation; no exact junction or corridor polygon. The first through train arrives February 7, beyond this volume. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1943-01-18-12-shlisselburg",
+        "v2-1943-01-18-12-sinyavino",
+        "v2-1943-01-18-12-leningrad"
+      ],
+      "bounds": [
+        [
+          28.514129999999998,
+          58.707809999999995
+        ],
+        [
+          32.8711,
+          61.1473
+        ]
+      ]
+    },
+    {
+      "id": "v2-1943-01-31-12",
+      "part": 12,
+      "date": "1943-01-31",
+      "label": "The southern Stalingrad surrender",
+      "title": "The southern Stalingrad surrender",
+      "description": "Paulus and the southern command surrender. The northern pocket continues to resist.",
+      "chapters": [
+        85
+      ],
+      "localities": [
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        723,
+        724
+      ],
+      "sourceIds": [
+        "v2-bib-034",
+        "v2-bib-143",
+        "v2-bib-019",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 500–501; Hindenlang interview, passage on the promotion. The interview is not used to reconstruct verbatim private dialogue.",
+        "Ziemke and Bauer, Moscow to Stalingrad, 500; Erickson, Road to Berlin, 38."
+      ],
+      "geographicExtent": "City reference point; not the department-store entrance or a control boundary.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "City reference point; not the department-store entrance or a control boundary. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1943-01-31-12-stalingrad"
+      ],
+      "bounds": [
+        [
+          42.6976,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    },
+    {
+      "id": "v2-1943-02-02-12",
+      "part": 12,
+      "date": "1943-02-02",
+      "label": "The northern pocket surrenders",
+      "title": "The northern pocket surrenders",
+      "description": "Organized resistance in the northern pocket ends. This is Volume Two’s endpoint; the Eastern Front war continues.",
+      "chapters": [
+        85
+      ],
+      "localities": [
+        "stalingrad"
+      ],
+      "nativeNoteIds": [
+        725
+      ],
+      "sourceIds": [
+        "v2-bib-143",
+        "v2-geonames-localities"
+      ],
+      "sourceLocators": [
+        "Ziemke and Bauer, Moscow to Stalingrad, 500–501."
+      ],
+      "geographicExtent": "City reference point; not an exact surrender location for every group.",
+      "accuracy": "Locality orientation only",
+      "uncertainty": "City reference point; not an exact surrender location for every group. Historical events are sourced separately from modern gazetteer coordinates.",
+      "missingEvidence": "No verified georeferenced formation positions, military-control polygons, detailed front line or movement paths for this selection.",
+      "view": "theatre",
+      "timeConvention": "Dated event context; no claim of a synchronized military situation map.",
+      "featureIds": [
+        "v2-1943-02-02-12-stalingrad"
+      ],
+      "bounds": [
+        [
+          42.6976,
+          47.51378
+        ],
+        [
+          46.297599999999996,
+          49.91378
+        ]
+      ]
+    }
+  ],
+  "coordinateRecords": [
+    {
+      "key": "moscow",
+      "geonamesId": "524901",
+      "originalName": "Moscow",
+      "periodName": "Moscow",
+      "coordinates": [
+        37.61781,
+        55.75204
+      ],
+      "url": "https://www.geonames.org/524901/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "tikhvin",
+      "geonamesId": "483019",
+      "originalName": "Tikhvin",
+      "periodName": "Tikhvin",
+      "coordinates": [
+        33.52555,
+        59.63924
+      ],
+      "url": "https://www.geonames.org/483019/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kalinin",
+      "geonamesId": "480060",
+      "originalName": "Tver",
+      "periodName": "Kalinin",
+      "coordinates": [
+        35.90057,
+        56.85836
+      ],
+      "url": "https://www.geonames.org/480060/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kaluga",
+      "geonamesId": "553915",
+      "originalName": "Kaluga",
+      "periodName": "Kaluga",
+      "coordinates": [
+        36.27,
+        54.53063
+      ],
+      "url": "https://www.geonames.org/553915/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "rzhev",
+      "geonamesId": "499717",
+      "originalName": "Rzhev",
+      "periodName": "Rzhev",
+      "coordinates": [
+        34.3289,
+        56.26289
+      ],
+      "url": "https://www.geonames.org/499717/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "vyazma",
+      "geonamesId": "470676",
+      "originalName": "Vyaz’ma",
+      "periodName": "Vyazma",
+      "coordinates": [
+        34.29695,
+        55.20997
+      ],
+      "url": "https://www.geonames.org/470676/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "toropets",
+      "geonamesId": "482042",
+      "originalName": "Toropets",
+      "periodName": "Toropets",
+      "coordinates": [
+        31.6392,
+        56.49954
+      ],
+      "url": "https://www.geonames.org/482042/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kholm",
+      "geonamesId": "549797",
+      "originalName": "Kholm",
+      "periodName": "Kholm",
+      "coordinates": [
+        31.18173,
+        57.14893
+      ],
+      "url": "https://www.geonames.org/549797/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "demyansk",
+      "geonamesId": "566629",
+      "originalName": "Demyansk",
+      "periodName": "Demyansk",
+      "coordinates": [
+        32.46568,
+        57.64456
+      ],
+      "url": "https://www.geonames.org/566629/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "lyuban",
+      "geonamesId": "532637",
+      "originalName": "Lyuban’",
+      "periodName": "Lyuban",
+      "coordinates": [
+        31.21667,
+        59.35
+      ],
+      "url": "https://www.geonames.org/532637/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "barvenkovo",
+      "geonamesId": "712794",
+      "originalName": "Barvinkove",
+      "periodName": "Barvenkovo",
+      "coordinates": [
+        37.02257,
+        48.9052
+      ],
+      "url": "https://www.geonames.org/712794/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kharkov",
+      "geonamesId": "706483",
+      "originalName": "Kharkiv",
+      "periodName": "Kharkov",
+      "coordinates": [
+        36.25475,
+        49.98177
+      ],
+      "url": "https://www.geonames.org/706483/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kerch",
+      "geonamesId": "706524",
+      "originalName": "Kerch",
+      "periodName": "Kerch",
+      "coordinates": [
+        36.47542,
+        45.35675
+      ],
+      "url": "https://www.geonames.org/706524/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "sevastopol",
+      "geonamesId": "694423",
+      "originalName": "Sevastopol",
+      "periodName": "Sevastopol",
+      "coordinates": [
+        33.52134,
+        44.60795
+      ],
+      "url": "https://www.geonames.org/694423/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kursk",
+      "geonamesId": "538560",
+      "originalName": "Kursk",
+      "periodName": "Kursk",
+      "coordinates": [
+        36.18457,
+        51.72689
+      ],
+      "url": "https://www.geonames.org/538560/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "voronezh",
+      "geonamesId": "472045",
+      "originalName": "Voronezh",
+      "periodName": "Voronezh",
+      "coordinates": [
+        39.19204,
+        51.66833
+      ],
+      "url": "https://www.geonames.org/472045/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "rostov",
+      "geonamesId": "501175",
+      "originalName": "Rostov-on-Don",
+      "periodName": "Rostov-on-Don",
+      "coordinates": [
+        39.70769,
+        47.21997
+      ],
+      "url": "https://www.geonames.org/501175/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "maykop",
+      "geonamesId": "528293",
+      "originalName": "Maykop",
+      "periodName": "Maykop",
+      "coordinates": [
+        40.10242,
+        44.60789
+      ],
+      "url": "https://www.geonames.org/528293/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "stalingrad",
+      "geonamesId": "472757",
+      "originalName": "Volgograd",
+      "periodName": "Stalingrad",
+      "coordinates": [
+        44.4976,
+        48.71378
+      ],
+      "url": "https://www.geonames.org/472757/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "sinyavino",
+      "geonamesId": "492712",
+      "originalName": "Sinyavino",
+      "periodName": "Sinyavino",
+      "coordinates": [
+        31.0711,
+        59.90781
+      ],
+      "url": "https://www.geonames.org/492712/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "serafimovich",
+      "geonamesId": "496957",
+      "originalName": "Serafimovich",
+      "periodName": "Serafimovich",
+      "coordinates": [
+        42.73227,
+        49.57572
+      ],
+      "url": "https://www.geonames.org/496957/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kletskaya",
+      "geonamesId": "547677",
+      "originalName": "Kletskaya",
+      "periodName": "Kletskaya",
+      "coordinates": [
+        43.0628,
+        49.31361
+      ],
+      "url": "https://www.geonames.org/547677/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kalach",
+      "geonamesId": "554397",
+      "originalName": "Kalach-na-Donu",
+      "periodName": "Kalach-on-Don",
+      "coordinates": [
+        43.52638,
+        48.69099
+      ],
+      "url": "https://www.geonames.org/554397/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "velikiye-luki",
+      "geonamesId": "476077",
+      "originalName": "Velikiye Luki",
+      "periodName": "Velikiye Luki",
+      "coordinates": [
+        30.54377,
+        56.34063
+      ],
+      "url": "https://www.geonames.org/476077/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "kotelnikovo",
+      "geonamesId": "543728",
+      "originalName": "Kotel’nikovo",
+      "periodName": "Kotelnikovo",
+      "coordinates": [
+        43.14158,
+        47.63012
+      ],
+      "url": "https://www.geonames.org/543728/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "verkhny-mamon",
+      "geonamesId": "474916",
+      "originalName": "Verkhniy Mamon",
+      "periodName": "Verkhny Mamon",
+      "coordinates": [
+        40.38936,
+        50.16421
+      ],
+      "url": "https://www.geonames.org/474916/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "shlisselburg",
+      "geonamesId": "493970",
+      "originalName": "Shlissel’burg",
+      "periodName": "Shlisselburg",
+      "coordinates": [
+        31.03845,
+        59.9473
+      ],
+      "url": "https://www.geonames.org/493970/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "tatsinskaya",
+      "geonamesId": "484017",
+      "originalName": "Tatsinskaya",
+      "periodName": "Tatsinskaya",
+      "coordinates": [
+        41.27972,
+        48.19448
+      ],
+      "url": "https://www.geonames.org/484017/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "krasnodar",
+      "geonamesId": "542420",
+      "originalName": "Krasnodar",
+      "periodName": "Krasnodar",
+      "coordinates": [
+        38.98178,
+        45.04534
+      ],
+      "url": "https://www.geonames.org/542420/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    },
+    {
+      "key": "leningrad",
+      "geonamesId": "498817",
+      "originalName": "Saint Petersburg",
+      "periodName": "Leningrad",
+      "coordinates": [
+        30.31413,
+        59.93863
+      ],
+      "url": "https://www.geonames.org/498817/",
+      "license": "CC BY 4.0",
+      "coordinateScope": "Modern settlement reference point; not exact historical event location"
+    }
+  ],
+  "gazetteerSha256": "8c9b0ad3de5a80493b48344d964972685405380cd2ae2206dc70fce2bf52ac9e",
+  "source": {
+    "id": "v2-geonames-localities",
+    "title": "GeoNames cities500 gazetteer: settlement coordinates",
+    "institution": "GeoNames",
+    "type": "Geographic data",
+    "url": "https://download.geonames.org/export/dump/",
+    "additionalUrls": [
+      "https://download.geonames.org/export/dump/readme.txt",
+      "https://www.geonames.org/about.html"
+    ],
+    "relevance": "Modern WGS84 settlement reference coordinates for Volume Two event orientation. Period labels follow the manuscript. Coordinates do not locate exact historical incidents, units, front lines or sovereignty.",
+    "notes": "Public cities500 export downloaded October 23, 2026. Selected record IDs, original names and coordinates are in the map evidence register. No administrative borders or modern country attribution are displayed.",
+    "reuseRights": "GeoNames, CC BY 4.0. Selected records adapted by changing display labels and adding historical context; no coordinate interpolation. https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "chapters": 35,
+  "websiteChapters": "86\u2013120",
+  "substantiveParagraphs": 1421,
+  "nativeNotes": 368,
+  "asides": 8,
+  "sourceRecords": 103,
+  "wordsIncludingHeadings": 105542,
+  "exactOriginalDocxComparison": false,
+  "sourceVerification": "Original DOCX not supplied: source verification NOT performed; retained-hash regression and structural checks only",
+  "comparisonNormalization": "Drop capitals joined to continuations; one stale T before In August 1943 removed and explicitly recorded.",
+  "result": "passed"
+}

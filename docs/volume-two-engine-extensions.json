@@ -1,0 +1,17 @@
+{
+  "src/data/campaigns.js": {
+    "volumeOneSha256": "2823d94a7440aa597f25bcc355a92bb32677f7087a15ebedc4b6ac77b6b7705b",
+    "continuationSha256": "ac382692a344eadcb489a08994bb3dd05541ed86a4c357cbc8e2adeb5e9d1aa0",
+    "reason": "Isolated event-locality mode and continuous reading navigation; legacy data and 49 dates remain unchanged."
+  },
+  "src/map/AtlasMap.jsx": {
+    "volumeOneSha256": "63ac3b8af9636dc83c53ececf2913c64c8544c3e656e3133e97bbf6b3a3167ec",
+    "continuationSha256": "56947cb6053ca65a4cbd391275fa9acf78b7be02b939d636371a6e43f15cb668",
+    "reason": "Isolated event-locality mode and continuous reading navigation; legacy data and 49 dates remain unchanged."
+  },
+  "src/map/mapStyle.js": {
+    "volumeOneSha256": "02ec6c8338924e67ef23e3587679c4e507ba2e0865047aa6b3539d24812fb97a",
+    "continuationSha256": "7846d7fbc6a67ebf7bfe771a18d8d79e2dbed8735e1b96013084b22f29aad4f0",
+    "reason": "Isolated event-locality mode and continuous reading navigation; legacy data and 49 dates remain unchanged."
+  }
+}

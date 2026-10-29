@@ -1,0 +1,70 @@
+{
+  "verified": "2026-10-24",
+  "results": [
+    {
+      "plateId": "cmh-decision-27",
+      "date": "1942-06-07",
+      "markers": 16,
+      "mouseSelection": true,
+      "keyboardSelection": true,
+      "sourceAndStudyLinks": true,
+      "fitAndNativeZoom": true,
+      "markerToggle": true,
+      "closedPlateWarningFixed": true
+    },
+    {
+      "plateId": "cmh-decision-34",
+      "date": "1942-09-13",
+      "markers": 27,
+      "mouseSelection": true,
+      "keyboardSelection": true,
+      "sourceAndStudyLinks": true,
+      "fitAndNativeZoom": true,
+      "markerToggle": true,
+      "closedPlateWarningFixed": true
+    },
+    {
+      "plateId": "cmh-decision-41",
+      "date": "1942-10-14",
+      "markers": 19,
+      "mouseSelection": true,
+      "keyboardSelection": true,
+      "sourceAndStudyLinks": true,
+      "fitAndNativeZoom": true,
+      "markerToggle": true,
+      "closedPlateWarningFixed": true
+    },
+    {
+      "plateId": "cmh-decision-44",
+      "date": "1943-01-10",
+      "markers": 23,
+      "mouseSelection": true,
+      "keyboardSelection": true,
+      "sourceAndStudyLinks": true,
+      "fitAndNativeZoom": true,
+      "markerToggle": true,
+      "closedPlateWarningFixed": true
+    }
+  ],
+  "contextLocalityNavigation": true,
+  "filteredContextCollapse": true,
+  "contextPlaceSelected": "Moscow \u2197",
+  "mobileOverflow": false,
+  "browserErrors": [],
+  "visualReview": "Inspected all four full source maps at phone width and the Stalingrad source view at desktop width. Fixed inherited minimum button width that made markers oversized ovals. Phone markers use compact circles; the same feature controls have full-size text buttons below the map. Native-resolution scrolling and hide-markers controls retain access to printed detail and legend.",
+  "sourceDateLabel": "Source map interval; never an assertion that the annotation persists throughout the interval.",
+  "independentSourceReview": {
+    "scope": "Compared all 85 annotation titles, actor assignments, descriptions and dates against the four original CMH source images. Targeted map interpretation review, not an archival fact audit.",
+    "corrections": [
+      "Plate 34 Station No. 1 marker moved from the neighboring civic-building area to its printed station label at source pixel 484,787.",
+      "Plate 44 Pitomnik is identified as a source locality point; landing-ground context is attributed to the related study and no airfield footprint is asserted."
+    ],
+    "qualificationsChecked": [
+      "IV Panzer Corps is explicitly identified as source wording.",
+      "Operation Ring source-arrow February 25 date remains disclosed as an apparent source typo; no annotation adopts its arrow chronology.",
+      "January 10,12,17 perimeters are not reassigned to January 26,31 or February 2.",
+      "October 13 and November 19 Stalingrad fronts retain their printed comparison dates."
+    ],
+    "contextCitations": "Direct passage citations and evidence notes remain attached to their original paragraph; uncited paragraphs are not assigned nearby section notes as direct citations."
+  }
+}

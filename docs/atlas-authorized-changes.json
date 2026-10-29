@@ -1,0 +1,55 @@
+{
+  "baselineCommit": "f4fc84dd9c819c731c6d9d614e45c3e65c613176",
+  "authorization": "User request explicitly authorizes researched map corrections and all-six-part reconstruction; manuscript and original source baselines remain protected.",
+  "originalOperationsSemanticSha256": "cf88e069352983d635eebceac3a24a56d28bf553f202692a147097713af6481c",
+  "files": {
+    "src/data/campaigns.js": {
+      "beforeSha256": "ac382692a344eadcb489a08994bb3dd05541ed86a4c357cbc8e2adeb5e9d1aa0",
+      "afterSha256": "858e04671e0c6fab85e5af0b1ae266fd12a293f72e7ca5fba7614216e92bf0f5",
+      "reason": "Merge explicitly sourced reconstruction dates and regional views while retaining every original date, ID and study relationship; permit returns to new dates.",
+      "tests": [
+        "validate-atlas.mjs semantic checks",
+        "validate-harmonized-manuscript.mjs exact article/note preservation",
+        "all-state desktop and phone source-content checks"
+      ]
+    },
+    "src/map/AtlasMap.jsx": {
+      "beforeSha256": "56947cb6053ca65a4cbd391275fa9acf78b7be02b939d636371a6e43f15cb668",
+      "afterSha256": "df6c07808188c969d2a4c5043d1ddf79520eced8d2911d58caec4d0b65b534d4",
+      "reason": "Lazy per-collection reconstruction data, explicit snapshot filtering, separate legacy-source clearing, source-qualified civilian additions, period-name screening, and evidence-bearing north-up exports.",
+      "tests": [
+        "validate-atlas.mjs date, source, geometry and preservation checks",
+        "validate-harmonized-manuscript.mjs exact article and note preservation",
+        "22 desktop and phone map-parity checks including six Volume Two collections, source-image details, Iskra, and Volume One December 5 regression",
+        "validate-operational-maps.mjs; polygon overlap checks; all 67 desktop selections, phone views, toggles and evidence exports"
+      ],
+      "previousReleaseSha256": "f00901b0e318d94fbbabf031d4ffc947e3601ffc3404e91be27d19c11c0f774a",
+      "detailExpansionReason": "Volume Two map-parity request: typed sourced inventory, 95 screened reference points, period-qualified river reference, clickable places, actor-aware exports and comparison/category filtering. Volume One data and legacy rendering preserved.",
+      "operationalLayersReason": "User explicitly requested visible troop movements, encirclements and side-colored control shading, plus publication. Added separate dated operational data, source coverage clipping, urban source geometry and export/click handling; Volume One sources remain unchanged.",
+      "wholeMapCorrectionReason": "User rejected source-frame rectangles and explicitly requested whole campaign maps and publication. Fetch complete dated regional control per selection; retain detailed movements, pockets, source qualification and exports."
+    },
+    "src/map/mapStyle.js": {
+      "beforeSha256": "7846d7fbc6a67ebf7bfe771a18d8d79e2dbed8735e1b96013084b22f29aad4f0",
+      "afterSha256": "580dd60e674777cf1f63dce639d4685c9b6a92bfcf3f4527df415bab38827917",
+      "reason": "Distinct source-map layers and collision-aware labels; retain existing rendering and political styles.",
+      "tests": [
+        "validate-atlas.mjs date, source, geometry and preservation checks",
+        "validate-harmonized-manuscript.mjs exact article and note preservation",
+        "22 desktop and phone map-parity checks including six Volume Two collections, source-image details, Iskra, and Volume One December 5 regression"
+      ],
+      "previousReleaseSha256": "03c7c80df37def875bb0fe91c07fc4f9af4f5a61f0793a81ef3dd245d3db25c7",
+      "detailExpansionReason": "Volume Two-only physical relief opacity increased to 0.18 for orientation. Legacy Volume One map style unchanged."
+    },
+    "public/data/history/military-operations.geojson": {
+      "beforeSha256": "3679dbee3d198d6d88bdb9f73718d49fedeb87290b07d09ecbd91e70df785220",
+      "afterSha256": "58121196bcec39172a352517d92c16b8ab6d0c71bcf801b437a2d4af42f6f164",
+      "reason": "Only four Hiiumaa point records are qualified following re-inspection of conflicting September and October accounts. Geometry and IDs unchanged.",
+      "tests": [
+        "validate-atlas.mjs semantic checks",
+        "validate-harmonized-manuscript.mjs exact article/note preservation",
+        "all-state desktop and phone source-content checks"
+      ]
+    }
+  },
+  "detailExpansionAuthorization": "User explicitly requested Volume Two map quality parity and publication to Ostkrieg.com."
+}

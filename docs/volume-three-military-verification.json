@@ -1,0 +1,157 @@
+{
+  "result": "passed",
+  "features": 27,
+  "registeredSheets": 7,
+  "fronts": 14,
+  "operationOverviews": 4,
+  "earlierSourceSectorReferences": 9,
+  "statesChecked": 33,
+  "noFutureEvidence": true,
+  "noControlPolygons": true,
+  "sourceAnnotationMatches": true,
+  "geographicInspection": "Separate static geographic plots inspected against Natural Earth coastline and reused settlement controls; all seven traces in their intended theatres. Source23 northern Finnish segment excluded from the German trace. Not a browser/MapLibre interaction test.",
+  "registrationDiagnostics": [
+    {
+      "source": "cmh-defeat-8",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.005557123612386201,
+          -0.00011569648980179134,
+          33.63851433904351
+        ],
+        [
+          0.000336972664291231,
+          -0.006198950128398471,
+          62.08314710485096
+        ]
+      ],
+      "fitRmseKm": 10.69,
+      "leaveOneOutRmseKm": 22.05,
+      "maxLeaveOneOutKm": 49.62
+    },
+    {
+      "source": "cmh-defeat-13",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.006127219187711946,
+          -0.0000892096201501404,
+          32.10481183471757
+        ],
+        [
+          0.000015902475696757956,
+          -0.005854646549937741,
+          65.91835376932946
+        ]
+      ],
+      "fitRmseKm": 4.33,
+      "leaveOneOutRmseKm": 9.78,
+      "maxLeaveOneOutKm": 21.45
+    },
+    {
+      "source": "cmh-defeat-16",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.005158524405438923,
+          -0.00010243609126987102,
+          31.25746385425367
+        ],
+        [
+          0.000046721824346472596,
+          -0.0052099295855472585,
+          57.72588860201681
+        ]
+      ],
+      "fitRmseKm": 5.29,
+      "leaveOneOutRmseKm": 7.98,
+      "maxLeaveOneOutKm": 13.19
+    },
+    {
+      "source": "cmh-defeat-23",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.006738649247639585,
+          -0.00016015024057095158,
+          25.894769884207665
+        ],
+        [
+          0.000010929417977936784,
+          -0.0074339886195072605,
+          76.44211194783392
+        ]
+      ],
+      "fitRmseKm": 11.25,
+      "leaveOneOutRmseKm": 19.58,
+      "maxLeaveOneOutKm": 43.8
+    },
+    {
+      "source": "cmh-defeat-25",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.0036386190780936037,
+          0.00003558988049608136,
+          32.97325496792858
+        ],
+        [
+          0.00006845581018788405,
+          -0.003611142625104667,
+          53.033078898007744
+        ]
+      ],
+      "fitRmseKm": 1.77,
+      "leaveOneOutRmseKm": 10.15,
+      "maxLeaveOneOutKm": 18.73
+    },
+    {
+      "source": "cmh-defeat-26",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.006133020009489818,
+          -0.0003720532366987533,
+          27.4157678546541
+        ],
+        [
+          -0.00011769179892909265,
+          -0.006212697274411726,
+          84.42443554661857
+        ]
+      ],
+      "fitRmseKm": 6.16,
+      "leaveOneOutRmseKm": 12.8,
+      "maxLeaveOneOutKm": 26.12
+    },
+    {
+      "source": "cmh-defeat-27",
+      "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+      "matrix": [
+        [
+          0.00885919499085513,
+          0.00006236812139315956,
+          22.28460616597213
+        ],
+        [
+          -0.00012264610986880559,
+          -0.008743820133989118,
+          70.9259829494764
+        ]
+      ],
+      "fitRmseKm": 8.49,
+      "leaveOneOutRmseKm": 12.71,
+      "maxLeaveOneOutKm": 26.31
+    }
+  ],
+  "limitations": [
+    "No occupied-area polygons inferred from front lines.",
+    "January 19 and February 18, 1943 retain detailed source-map coverage but no new geographic military tracing; the older whole-front synthesis mixes earlier dates and is not copied.",
+    "Nine composite-sheet formation labels are earlier source-interval references only, not per-day deployment positions; other ambiguous labels are not mapped.",
+    "Crimea arrows are a completed operation overview, not daily positions.",
+    "Finland trace covers the Karelian Isthmus only; northern Karelia remains available on the original source map.",
+    "The Kiev inset on sheet16 has its own scale and is not transformed by the main-sheet registration.",
+    "Other printed source maps retain full detail in the interactive source-image viewer; they have not all been georeferenced."
+  ]
+}

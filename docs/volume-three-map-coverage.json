@@ -1,0 +1,1137 @@
+{
+  "states": 33,
+  "features": 72,
+  "referencePlaces": 34,
+  "chapters": [
+    {
+      "chapter": 86,
+      "sourceChapter": 1,
+      "title": "The Caucasus Withdrawal",
+      "route": "/articles/volume-three-the-caucasus-withdrawal",
+      "states": [
+        "atlas-1943-44-13-1943-01-19",
+        "atlas-1943-44-13-1943-02-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 87,
+      "sourceChapter": 2,
+      "title": "The Soviet Advance Toward Kharkov",
+      "route": "/articles/volume-three-the-soviet-advance-toward-kharkov",
+      "states": [
+        "atlas-1943-44-13-1943-02-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 88,
+      "sourceChapter": 3,
+      "title": "The German Counterstroke",
+      "route": "/articles/volume-three-the-german-counterstroke",
+      "states": [
+        "atlas-1943-44-13-1943-02-19",
+        "atlas-1943-44-13-1943-03-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 89,
+      "sourceChapter": 4,
+      "title": "Leaving the Rzhev Salient",
+      "route": "/articles/volume-three-leaving-the-rzhev-salient",
+      "states": [
+        "atlas-1943-44-13-1943-03-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 90,
+      "sourceChapter": 5,
+      "title": "Resistance and Repression Behind the Lines",
+      "route": "/articles/volume-three-resistance-and-repression-behind-the-lines",
+      "states": [
+        "atlas-1943-44-13-1943-03-18",
+        "atlas-1943-44-13-1943-04-15",
+        "atlas-1943-44-13-1943-05-10"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 6 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 6
+    },
+    {
+      "chapter": 91,
+      "sourceChapter": 6,
+      "title": "Preparing for the Summer Decision",
+      "route": "/articles/volume-three-preparing-for-the-summer-decision",
+      "states": [
+        "atlas-1943-44-13-1943-04-15"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 92,
+      "sourceChapter": 7,
+      "title": "Citadel Begins",
+      "route": "/articles/volume-three-citadel-begins",
+      "states": [
+        "atlas-1943-44-14-1943-07-05"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 1 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 1
+    },
+    {
+      "chapter": 93,
+      "sourceChapter": 8,
+      "title": "The Northern Face",
+      "route": "/articles/volume-three-the-northern-face",
+      "states": [
+        "atlas-1943-44-14-1943-07-05",
+        "atlas-1943-44-14-1943-07-12"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 94,
+      "sourceChapter": 9,
+      "title": "The Southern Face and Prokhorovka",
+      "route": "/articles/volume-three-the-southern-face-and-prokhorovka",
+      "states": [
+        "atlas-1943-44-14-1943-07-05",
+        "atlas-1943-44-14-1943-07-12"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 95,
+      "sourceChapter": 10,
+      "title": "Operation Kutuzov and the Orel Salient",
+      "route": "/articles/volume-three-operation-kutuzov-and-the-orel-salient",
+      "states": [
+        "atlas-1943-44-14-1943-07-12",
+        "atlas-1943-44-14-1943-08-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 4 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 4
+    },
+    {
+      "chapter": 96,
+      "sourceChapter": 11,
+      "title": "Operation Rumyantsev and Kharkov",
+      "route": "/articles/volume-three-operation-rumyantsev-and-kharkov",
+      "states": [
+        "atlas-1943-44-14-1943-08-03",
+        "atlas-1943-44-14-1943-08-23"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 97,
+      "sourceChapter": 12,
+      "title": "The Mius and the Donbas Front",
+      "route": "/articles/volume-three-the-mius-and-the-donbas-front",
+      "states": [
+        "atlas-1943-44-14-1943-08-03",
+        "atlas-1943-44-14-1943-08-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 98,
+      "sourceChapter": 13,
+      "title": "Smolensk and the Central Front",
+      "route": "/articles/volume-three-smolensk-and-the-central-front",
+      "states": [
+        "atlas-1943-44-15-1943-09-25"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 99,
+      "sourceChapter": 14,
+      "title": "The Southern Retreat to the Dnieper",
+      "route": "/articles/volume-three-the-southern-retreat-to-the-dnieper",
+      "states": [
+        "atlas-1943-44-15-1943-09-25",
+        "atlas-1943-44-15-1943-10-02"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 1 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 1
+    },
+    {
+      "chapter": 100,
+      "sourceChapter": 15,
+      "title": "The River Crossings",
+      "route": "/articles/volume-three-the-river-crossings",
+      "states": [
+        "atlas-1943-44-15-1943-09-25",
+        "atlas-1943-44-15-1943-10-02"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 1 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 1
+    },
+    {
+      "chapter": 101,
+      "sourceChapter": 16,
+      "title": "Kiev Recovered",
+      "route": "/articles/volume-three-kiev-recovered",
+      "states": [
+        "atlas-1943-44-15-1943-11-06"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 1 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 1
+    },
+    {
+      "chapter": 102,
+      "sourceChapter": 17,
+      "title": "The German Counterattacks West of Kiev",
+      "route": "/articles/volume-three-the-german-counterattacks-west-of-kiev",
+      "states": [
+        "atlas-1943-44-15-1943-12-21"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 103,
+      "sourceChapter": 18,
+      "title": "Reconquest and the Next Offensive",
+      "route": "/articles/volume-three-reconquest-and-the-next-offensive",
+      "states": [
+        "atlas-1943-44-15-1943-12-21"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 104,
+      "sourceChapter": 19,
+      "title": "The Leningrad–Novgorod Offensive",
+      "route": "/articles/volume-three-the-leningradnovgorod-offensive",
+      "states": [
+        "atlas-1943-44-16-1944-01-14"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 1 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 1
+    },
+    {
+      "chapter": 105,
+      "sourceChapter": 20,
+      "title": "The Siege Lifted",
+      "route": "/articles/volume-three-the-siege-lifted",
+      "states": [
+        "atlas-1943-44-16-1944-01-14",
+        "atlas-1943-44-16-1944-01-27"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 106,
+      "sourceChapter": 21,
+      "title": "The Battle for Narva",
+      "route": "/articles/volume-three-the-battle-for-narva",
+      "states": [
+        "atlas-1943-44-16-1944-02-02",
+        "atlas-1943-44-16-1944-03-31"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 107,
+      "sourceChapter": 22,
+      "title": "Toward Pskov and the Panther Line",
+      "route": "/articles/volume-three-toward-pskov-and-the-panther-line",
+      "states": [
+        "atlas-1943-44-16-1944-02-02",
+        "atlas-1943-44-16-1944-03-31"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 108,
+      "sourceChapter": 23,
+      "title": "The North After Occupation",
+      "route": "/articles/volume-three-the-north-after-occupation",
+      "states": [
+        "atlas-1943-44-16-1944-01-27",
+        "atlas-1943-44-16-1944-02-02",
+        "atlas-1943-44-16-1944-03-31"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 4 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 4
+    },
+    {
+      "chapter": 109,
+      "sourceChapter": 24,
+      "title": "The Offensive West of Kiev",
+      "route": "/articles/volume-three-the-offensive-west-of-kiev",
+      "states": [
+        "atlas-1943-44-17-1943-12-24"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 110,
+      "sourceChapter": 25,
+      "title": "The Korsun Pocket",
+      "route": "/articles/volume-three-the-korsun-pocket",
+      "states": [
+        "atlas-1943-44-17-1944-02-16"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 111,
+      "sourceChapter": 26,
+      "title": "Nikopol and Krivoi Rog",
+      "route": "/articles/volume-three-nikopol-and-krivoi-rog",
+      "states": [
+        "atlas-1943-44-17-1944-01-10"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 112,
+      "sourceChapter": 27,
+      "title": "Through the Mud Toward the Dniester",
+      "route": "/articles/volume-three-through-the-mud-toward-the-dniester",
+      "states": [
+        "atlas-1943-44-17-1944-03-04"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 113,
+      "sourceChapter": 28,
+      "title": "Odessa and the Approaches to Romania",
+      "route": "/articles/volume-three-odessa-and-the-approaches-to-romania",
+      "states": [
+        "atlas-1943-44-17-1944-03-04",
+        "atlas-1943-44-17-1944-04-10"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; no geographic military trace for these selections; source-image detail and event geography remain available.",
+      "geographicMilitaryFeatureAssociations": 0
+    },
+    {
+      "chapter": 114,
+      "sourceChapter": 29,
+      "title": "Crimea and the Deportation of the Crimean Tatars",
+      "route": "/articles/volume-three-crimea-and-the-deportation-of-the-crimean-tatars",
+      "states": [
+        "atlas-1943-44-17-1944-04-08",
+        "atlas-1943-44-17-1944-05-13",
+        "atlas-1943-44-17-1944-05-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 5 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 5
+    },
+    {
+      "chapter": 115,
+      "sourceChapter": 30,
+      "title": "Preparing the Summer Offensive",
+      "route": "/articles/volume-three-preparing-the-summer-offensive",
+      "states": [
+        "atlas-1943-44-18-1944-06-09",
+        "atlas-1943-44-18-1944-06-22"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 116,
+      "sourceChapter": 31,
+      "title": "The Offensive Against Finland",
+      "route": "/articles/volume-three-the-offensive-against-finland",
+      "states": [
+        "atlas-1943-44-18-1944-06-09",
+        "atlas-1943-44-18-1944-06-28"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 3 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 3
+    },
+    {
+      "chapter": 117,
+      "sourceChapter": 32,
+      "title": "Vitebsk and Orsha",
+      "route": "/articles/volume-three-vitebsk-and-orsha",
+      "states": [
+        "atlas-1943-44-18-1944-06-22",
+        "atlas-1943-44-18-1944-06-28"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 5 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 5
+    },
+    {
+      "chapter": 118,
+      "sourceChapter": 33,
+      "title": "Bobruisk and the Southern Breakthrough",
+      "route": "/articles/volume-three-bobruisk-and-the-southern-breakthrough",
+      "states": [
+        "atlas-1943-44-18-1944-06-24"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 119,
+      "sourceChapter": 34,
+      "title": "Minsk and the Destruction of Army Group Centre",
+      "route": "/articles/volume-three-minsk-and-the-destruction-of-army-group-centre",
+      "states": [
+        "atlas-1943-44-18-1944-07-03"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 2 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 2
+    },
+    {
+      "chapter": 120,
+      "sourceChapter": 35,
+      "title": "The Pursuit Toward Vilnius and Grodno",
+      "route": "/articles/volume-three-the-pursuit-toward-vilnius-and-grodno",
+      "states": [
+        "atlas-1943-44-18-1944-07-18"
+      ],
+      "status": "Full chapter linked to dated events and original source maps; 5 qualified military trace/comparison associations.",
+      "geographicMilitaryFeatureAssociations": 5
+    }
+  ],
+  "plates": [
+    {
+      "id": "cmh-defeat-5",
+      "title": "A Double Thrust at Rostov, December 16, 1942–January 19, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-5.jpg",
+      "imageUrl": "/data/plates/Defeat-5.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-6",
+      "title": "Army Group A, January 19–February 18, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-6.jpg",
+      "imageUrl": "/data/plates/Defeat-6.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-7",
+      "title": "Army Groups B and Don, January 30–February 18, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-7.jpg",
+      "imageUrl": "/data/plates/Defeat-7.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-8",
+      "title": "The Army Group South Counteroffensive, February 19–March 18, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-8.jpg",
+      "imageUrl": "/data/plates/Defeat-8.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-11",
+      "title": "Army Group Center, Winter 1942–43",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-11.jpg",
+      "imageUrl": "/data/plates/Defeat-11.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-12",
+      "title": "Proposed Operations Habicht, Panther and Citadel, March–April 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-12.jpg",
+      "imageUrl": "/data/plates/Defeat-12.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-13",
+      "title": "Operation Citadel and the Withdrawal to the Hagen Position, July 5–August 18, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-13.jpg",
+      "imageUrl": "/data/plates/Defeat-13.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-14",
+      "title": "The Fourth Battle of Kharkov, August 3–27, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-14.jpg",
+      "imageUrl": "/data/plates/Defeat-14.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-15",
+      "title": "The Soviet Advance to the Dnieper, August 18–October 2, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-15.jpg",
+      "imageUrl": "/data/plates/Defeat-15.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-16",
+      "title": "The Battle for the Dnieper Line, October 2–December 21, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-16.jpg",
+      "imageUrl": "/data/plates/Defeat-16.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-17",
+      "title": "The Dnieper Bridgehead, October 1–December 26, 1943",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-17.jpg",
+      "imageUrl": "/data/plates/Defeat-17.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-18",
+      "title": "Breakthrough at Nevel, October 6, 1943–January 18, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-18.jpg",
+      "imageUrl": "/data/plates/Defeat-18.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-19",
+      "title": "The Battle West of Kiev, December 24, 1943–January 31, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-19.jpg",
+      "imageUrl": "/data/plates/Defeat-19.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-20",
+      "title": "Breakout from the Pocket near Cherkassy, February 16, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-20.jpg",
+      "imageUrl": "/data/plates/Defeat-20.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-21",
+      "title": "The Nikopol Bridgehead and Krivoi Rog, January 10–February 29, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-21.jpg",
+      "imageUrl": "/data/plates/Defeat-21.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-22",
+      "title": "Dubno–Lutsk–Kovel, January 6–March 1, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-22.jpg",
+      "imageUrl": "/data/plates/Defeat-22.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-23",
+      "title": "Army Group North, January 14–March 31, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-23.jpg",
+      "imageUrl": "/data/plates/Defeat-23.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-24",
+      "title": "The Soviet Spring Offensive, March 4–April 15, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-24.jpg",
+      "imageUrl": "/data/plates/Defeat-24.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-25",
+      "title": "The Crimea, April 8–May 13, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-25.jpg",
+      "imageUrl": "/data/plates/Defeat-25.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-26",
+      "title": "The Soviet Summer Offensive against Finland, June–July 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-26.jpg",
+      "imageUrl": "/data/plates/Defeat-26.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    },
+    {
+      "id": "cmh-defeat-27",
+      "title": "The Battle for Belorussia, June 22–July 18, 1944",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-27.jpg",
+      "imageUrl": "/data/plates/Defeat-27.jpg",
+      "inspected": "Caption and documentary context checked; remote sheet must be visually checked before adding any coordinate annotation.",
+      "remoteAsset": false
+    }
+  ],
+  "limitations": [
+    "No new front or military-control geometry has been asserted.",
+    "Remote image loading depends on the source host until originals are saved locally.",
+    "No exact deportation route is mapped.",
+    "No exact tactical coordinates for Prokhorovka or the Korsun breakout have been invented; city references locate the wider region."
+  ],
+  "geographicMilitaryFeatures": 27,
+  "sourceImageDetails": 149,
+  "statesDetailed": [
+    {
+      "stateId": "atlas-1943-44-13-1943-01-19",
+      "date": "1943-01-19",
+      "part": 13,
+      "sourcePlates": [
+        "cmh-defeat-5",
+        "cmh-defeat-6"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-13-1943-01-19-rostov-on-don",
+        "atlas-1943-44-13-1943-01-19-bataysk",
+        "atlas-1943-44-13-1943-01-19-krasnodar"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-13-1943-02-18",
+      "date": "1943-02-18",
+      "part": 13,
+      "sourcePlates": [
+        "cmh-defeat-6",
+        "cmh-defeat-7"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-13-1943-02-18-novorossiysk",
+        "atlas-1943-44-13-1943-02-18-kharkov"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-13-1943-02-19",
+      "date": "1943-02-19",
+      "part": 13,
+      "sourcePlates": [
+        "cmh-defeat-8"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-13-1943-02-19-kharkov",
+        "atlas-1943-44-13-1943-02-19-dnepropetrovsk"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-13-1943-03-18",
+      "date": "1943-03-18",
+      "part": 13,
+      "sourcePlates": [
+        "cmh-defeat-8",
+        "cmh-defeat-11"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-13-1943-03-18-kharkov",
+        "atlas-1943-44-13-1943-03-18-rzhev",
+        "atlas-1943-44-13-1943-03-18-vyazma"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-kharkov-18march",
+        "atlas-v3-military-counterstroke-kharkov",
+        "atlas-v3-military-counterstroke-donbas"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-13-1943-04-15",
+      "date": "1943-04-15",
+      "part": 13,
+      "sourcePlates": [
+        "cmh-defeat-12",
+        "cmh-defeat-8"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-13-1943-04-15-kursk",
+        "atlas-1943-44-13-1943-04-15-kharkov",
+        "atlas-1943-44-13-1943-04-15-orel"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-sector-cmh-defeat-8-detail-5",
+        "atlas-v3-military-sector-cmh-defeat-8-detail-6",
+        "atlas-v3-military-sector-cmh-defeat-8-detail-7"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-13-1943-05-10",
+      "date": "1943-05-10",
+      "part": 13,
+      "sourcePlates": [],
+      "eventFeatureIds": [
+        "atlas-1943-44-13-1943-05-10-warsaw"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-14-1943-07-05",
+      "date": "1943-07-05",
+      "part": 14,
+      "sourcePlates": [
+        "cmh-defeat-13"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-14-1943-07-05-kursk",
+        "atlas-1943-44-14-1943-07-05-orel",
+        "atlas-1943-44-14-1943-07-05-belgorod"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-kursk-contact-4july"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-14-1943-07-12",
+      "date": "1943-07-12",
+      "part": 14,
+      "sourcePlates": [
+        "cmh-defeat-13"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-14-1943-07-12-kursk",
+        "atlas-1943-44-14-1943-07-12-orel",
+        "atlas-1943-44-14-1943-07-12-belgorod"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-kursk-contact-4july"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-14-1943-08-03",
+      "date": "1943-08-03",
+      "part": 14,
+      "sourcePlates": [
+        "cmh-defeat-14",
+        "cmh-defeat-15"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-14-1943-08-03-kharkov",
+        "atlas-1943-44-14-1943-08-03-belgorod",
+        "atlas-1943-44-14-1943-08-03-stalino"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-14-1943-08-18",
+      "date": "1943-08-18",
+      "part": 14,
+      "sourcePlates": [
+        "cmh-defeat-13",
+        "cmh-defeat-15"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-14-1943-08-18-orel",
+        "atlas-1943-44-14-1943-08-18-stalino"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-kursk-contact-4july",
+        "atlas-v3-military-hagen-18august",
+        "atlas-v3-military-citadel-north-limit"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-14-1943-08-23",
+      "date": "1943-08-23",
+      "part": 14,
+      "sourcePlates": [
+        "cmh-defeat-14",
+        "cmh-defeat-13"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-14-1943-08-23-kharkov"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-sector-cmh-defeat-13-detail-4",
+        "atlas-v3-military-sector-cmh-defeat-13-detail-6",
+        "atlas-v3-military-sector-cmh-defeat-13-detail-7"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-15-1943-09-25",
+      "date": "1943-09-25",
+      "part": 15,
+      "sourcePlates": [
+        "cmh-defeat-15",
+        "cmh-defeat-17"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-15-1943-09-25-smolensk",
+        "atlas-1943-44-15-1943-09-25-kiev",
+        "atlas-1943-44-15-1943-09-25-dnepropetrovsk"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-15-1943-10-02",
+      "date": "1943-10-02",
+      "part": 15,
+      "sourcePlates": [
+        "cmh-defeat-15",
+        "cmh-defeat-16",
+        "cmh-defeat-17"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-15-1943-10-02-kiev",
+        "atlas-1943-44-15-1943-10-02-dnepropetrovsk"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-dnieper-2october"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-15-1943-11-06",
+      "date": "1943-11-06",
+      "part": 15,
+      "sourcePlates": [
+        "cmh-defeat-16"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-15-1943-11-06-kiev"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-dnieper-2october"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-15-1943-12-21",
+      "date": "1943-12-21",
+      "part": 15,
+      "sourcePlates": [
+        "cmh-defeat-16",
+        "cmh-defeat-17",
+        "cmh-defeat-18"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-15-1943-12-21-kiev",
+        "atlas-1943-44-15-1943-12-21-smolensk"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-dnieper-2october",
+        "atlas-v3-military-dnieper-21december"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-16-1944-01-14",
+      "date": "1944-01-14",
+      "part": 16,
+      "sourcePlates": [
+        "cmh-defeat-23"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-16-1944-01-14-leningrad",
+        "atlas-1943-44-16-1944-01-14-novgorod"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-north-14january"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-16-1944-01-27",
+      "date": "1944-01-27",
+      "part": 16,
+      "sourcePlates": [
+        "cmh-defeat-23"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-16-1944-01-27-leningrad",
+        "atlas-1943-44-16-1944-01-27-novgorod"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-north-14january"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-16-1944-02-02",
+      "date": "1944-02-02",
+      "part": 16,
+      "sourcePlates": [
+        "cmh-defeat-23"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-16-1944-02-02-narva",
+        "atlas-1943-44-16-1944-02-02-pskov"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-north-14january"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-16-1944-03-31",
+      "date": "1944-03-31",
+      "part": 16,
+      "sourcePlates": [
+        "cmh-defeat-23"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-16-1944-03-31-narva",
+        "atlas-1943-44-16-1944-03-31-pskov",
+        "atlas-1943-44-16-1944-03-31-leningrad"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-north-14january",
+        "atlas-v3-military-panther-31march"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1943-12-24",
+      "date": "1943-12-24",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-19"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1943-12-24-kiev"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-01-10",
+      "date": "1944-01-10",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-21"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-01-10-nikopol",
+        "atlas-1943-44-17-1944-01-10-krivoi-rog",
+        "atlas-1943-44-17-1944-01-10-dnepropetrovsk"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-02-16",
+      "date": "1944-02-16",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-20"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-02-16-cherkassy"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-03-04",
+      "date": "1944-03-04",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-22",
+        "cmh-defeat-24"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-03-04-odessa",
+        "atlas-1943-44-17-1944-03-04-kiev"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-04-08",
+      "date": "1944-04-08",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-25"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-04-08-sevastopol",
+        "atlas-1943-44-17-1944-04-08-simferopol"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-04-10",
+      "date": "1944-04-10",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-24"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-04-10-odessa"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-05-13",
+      "date": "1944-05-13",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-25"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-05-13-sevastopol",
+        "atlas-1943-44-17-1944-05-13-simferopol"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-crimea-perekop-advance",
+        "atlas-v3-military-crimea-kerch-advance"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-17-1944-05-18",
+      "date": "1944-05-18",
+      "part": 17,
+      "sourcePlates": [
+        "cmh-defeat-25"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-17-1944-05-18-simferopol"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-sector-cmh-defeat-25-detail-1",
+        "atlas-v3-military-sector-cmh-defeat-25-detail-2",
+        "atlas-v3-military-sector-cmh-defeat-25-detail-6"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-18-1944-06-09",
+      "date": "1944-06-09",
+      "part": 18,
+      "sourcePlates": [
+        "cmh-defeat-26",
+        "cmh-defeat-27"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-18-1944-06-09-viipuri",
+        "atlas-1943-44-18-1944-06-09-petrozavodsk",
+        "atlas-1943-44-18-1944-06-09-minsk"
+      ],
+      "geographicMilitaryFeatureIds": [],
+      "precision": "No geographic military trace is supported in this selection. Consult the original source maps for their documented operational detail; settlement markers do not establish fronts or military control."
+    },
+    {
+      "stateId": "atlas-1943-44-18-1944-06-22",
+      "date": "1944-06-22",
+      "part": 18,
+      "sourcePlates": [
+        "cmh-defeat-27"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-18-1944-06-22-vitebsk",
+        "atlas-1943-44-18-1944-06-22-orsha",
+        "atlas-1943-44-18-1944-06-22-minsk"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-bagration-22june-north",
+        "atlas-v3-military-bagration-22june-centre"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-18-1944-06-24",
+      "date": "1944-06-24",
+      "part": 18,
+      "sourcePlates": [
+        "cmh-defeat-27"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-18-1944-06-24-bobruisk"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-bagration-22june-north",
+        "atlas-v3-military-bagration-22june-centre"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-18-1944-06-28",
+      "date": "1944-06-28",
+      "part": 18,
+      "sourcePlates": [
+        "cmh-defeat-26",
+        "cmh-defeat-27"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-18-1944-06-28-vitebsk",
+        "atlas-1943-44-18-1944-06-28-orsha",
+        "atlas-1943-44-18-1944-06-28-mogilev",
+        "atlas-1943-44-18-1944-06-28-viipuri",
+        "atlas-1943-44-18-1944-06-28-petrozavodsk"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-finland-10june",
+        "atlas-v3-military-bagration-22june-north",
+        "atlas-v3-military-bagration-22june-centre"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-18-1944-07-03",
+      "date": "1944-07-03",
+      "part": 18,
+      "sourcePlates": [
+        "cmh-defeat-27"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-18-1944-07-03-minsk",
+        "atlas-1943-44-18-1944-07-03-bobruisk"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-bagration-22june-north",
+        "atlas-v3-military-bagration-22june-centre"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    },
+    {
+      "stateId": "atlas-1943-44-18-1944-07-18",
+      "date": "1944-07-18",
+      "part": 18,
+      "sourcePlates": [
+        "cmh-defeat-27"
+      ],
+      "eventFeatureIds": [
+        "atlas-1943-44-18-1944-07-18-vilnius",
+        "atlas-1943-44-18-1944-07-18-grodno"
+      ],
+      "geographicMilitaryFeatureIds": [
+        "atlas-v3-military-bagration-22june-north",
+        "atlas-v3-military-bagration-22june-centre",
+        "atlas-v3-military-bagration-18july-north",
+        "atlas-v3-military-bagration-18july-grodno",
+        "atlas-v3-military-bagration-18july-brest"
+      ],
+      "precision": "This selection includes approximate source-traced military features with their own dates. Earlier positions are comparisons; formation labels are source-sector references, not current deployments. Military-control polygons and complete daily positions are not reconstructed."
+    }
+  ]
+}

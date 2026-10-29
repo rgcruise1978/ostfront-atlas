@@ -1,0 +1,3355 @@
+{
+  "sourceAccess": "Original CMH JPEG sheets inspected visually, including the dated legends. Read-only source originals retained outside the website.",
+  "date": "2026-10-28",
+  "featureCount": 27,
+  "registrationPlates": [
+    {
+      "id": "cmh-defeat-8",
+      "number": 8,
+      "sourceOriginalSha256": "173af804d911452ea81428ca7165c6a029d9d250330a0fb5885ee05f58f274db",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-8.jpg",
+      "controls": [
+        {
+          "name": "Kursk",
+          "pixel": [
+            471,
+            264
+          ],
+          "coordinate": [
+            36.18457,
+            51.72689
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-kursk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.89,
+          "leaveOneOutErrorKm": 8.17
+        },
+        {
+          "name": "Kharkov",
+          "pixel": [
+            466,
+            704
+          ],
+          "coordinate": [
+            36.25475,
+            49.98177
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-kharkov",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 7.74,
+          "leaveOneOutErrorKm": 9.16
+        },
+        {
+          "name": "Belgorod",
+          "pixel": [
+            538,
+            545
+          ],
+          "coordinate": [
+            36.58091,
+            50.60343
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-belgorod",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 2.61,
+          "leaveOneOutErrorKm": 3.55
+        },
+        {
+          "name": "Dnepropetrovsk",
+          "pixel": [
+            283,
+            1067
+          ],
+          "coordinate": [
+            35.04066,
+            48.46664
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-dnepropetrovsk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.49,
+          "leaveOneOutErrorKm": 6.53
+        },
+        {
+          "name": "Poltava",
+          "pixel": [
+            214,
+            794
+          ],
+          "coordinate": [
+            34.570282,
+            49.57404
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-ne-poltava",
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 12.0,
+          "leaveOneOutErrorKm": 20.17
+        },
+        {
+          "name": "Mariupol",
+          "pixel": [
+            695,
+            1421
+          ],
+          "coordinate": [
+            37.54131,
+            47.09514
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-701822",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-11"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 15.55,
+          "leaveOneOutErrorKm": 24.97
+        },
+        {
+          "name": "Taganrog",
+          "pixel": [
+            1018,
+            1407
+          ],
+          "coordinate": [
+            38.9053,
+            47.23627
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-484907",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-11",
+            "cmh-decision-31"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 17.28,
+          "leaveOneOutErrorKm": 49.62
+        },
+        {
+          "name": "Izyum",
+          "pixel": [
+            646,
+            898
+          ],
+          "coordinate": [
+            37.27679,
+            49.20697
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-707292",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-11",
+            "cmh-decision-23",
+            "cmh-decision-24",
+            "cmh-decision-26"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 11.65,
+          "leaveOneOutErrorKm": 13.82
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.005557123612386201,
+            -0.00011569648980179134,
+            33.63851433904351
+          ],
+          [
+            0.000336972664291231,
+            -0.006198950128398471,
+            62.08314710485096
+          ]
+        ],
+        "fitRmseKm": 10.69,
+        "leaveOneOutRmseKm": 22.05,
+        "maxLeaveOneOutKm": 49.62
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    },
+    {
+      "id": "cmh-defeat-13",
+      "number": 13,
+      "sourceOriginalSha256": "70d964792dcd970d8f0201efac65b2b2dd18514fa1dbda08bd4fca7ca6f69666",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-13.jpg",
+      "controls": [
+        {
+          "name": "Kursk",
+          "pixel": [
+            682,
+            900
+          ],
+          "coordinate": [
+            36.18457,
+            51.72689
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-kursk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 1.68,
+          "leaveOneOutErrorKm": 2.15
+        },
+        {
+          "name": "Orel",
+          "pixel": [
+            657,
+            553
+          ],
+          "coordinate": [
+            36.0791,
+            52.96879
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-orel",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 0.93,
+          "leaveOneOutErrorKm": 2.97
+        },
+        {
+          "name": "Kharkov",
+          "pixel": [
+            699,
+            1378
+          ],
+          "coordinate": [
+            36.25475,
+            49.98177
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-kharkov",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 1.46,
+          "leaveOneOutErrorKm": 3.49
+        },
+        {
+          "name": "Belgorod",
+          "pixel": [
+            748,
+            1209
+          ],
+          "coordinate": [
+            36.58091,
+            50.60343
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-belgorod",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 0.07,
+          "leaveOneOutErrorKm": 0.1
+        },
+        {
+          "name": "Bryansk",
+          "pixel": [
+            369,
+            492
+          ],
+          "coordinate": [
+            34.32143,
+            53.27096
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-571476",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-12"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 9.15,
+          "leaveOneOutErrorKm": 12.6
+        },
+        {
+          "name": "Roslavl",
+          "pixel": [
+            127,
+            259
+          ],
+          "coordinate": [
+            32.860413,
+            53.950905
+          ],
+          "coordinateFile": "public/data/geography/europe-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "map-natural-earth-physical"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 5.03,
+          "leaveOneOutErrorKm": 21.45
+        },
+        {
+          "name": "Oboyan",
+          "pixel": [
+            690,
+            1036
+          ],
+          "coordinate": [
+            36.27,
+            51.21
+          ],
+          "coordinateFile": "public/data/geography/phase-v-places.geojson",
+          "coordinateFeatureId": "p5-place-oboyan",
+          "coordinateSourceIds": [
+            "p5-map-moscow",
+            "p5-map-south",
+            "p5-map-north"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 4.02,
+          "leaveOneOutErrorKm": 4.97
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.006127219187711946,
+            -8.92096201501404e-05,
+            32.10481183471757
+          ],
+          [
+            1.5902475696757956e-05,
+            -0.005854646549937741,
+            65.91835376932946
+          ]
+        ],
+        "fitRmseKm": 4.33,
+        "leaveOneOutRmseKm": 9.78,
+        "maxLeaveOneOutKm": 21.45
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    },
+    {
+      "id": "cmh-defeat-16",
+      "number": 16,
+      "sourceOriginalSha256": "eb12e2099b28b0657b685f6c55e328559f5aa8c2a80eeb8e8cd1fc7a74c5ff2e",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-16.jpg",
+      "controls": [
+        {
+          "name": "Cherkassy",
+          "pixel": [
+            177,
+            134
+          ],
+          "coordinate": [
+            32.0709,
+            49.43472
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-cherkassy",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 6.22,
+          "leaveOneOutErrorKm": 9.91
+        },
+        {
+          "name": "Kremenchuk",
+          "pixel": [
+            427,
+            257
+          ],
+          "coordinate": [
+            33.429628,
+            49.083527
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 6.47,
+          "leaveOneOutErrorKm": 8.45
+        },
+        {
+          "name": "Dnepropetrovsk",
+          "pixel": [
+            745,
+            419
+          ],
+          "coordinate": [
+            35.04066,
+            48.46664
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-dnepropetrovsk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 1.85,
+          "leaveOneOutErrorKm": 2.65
+        },
+        {
+          "name": "Zaporizhzhya",
+          "pixel": [
+            748,
+            584
+          ],
+          "coordinate": [
+            35.174863,
+            47.859243
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 10.27,
+          "leaveOneOutErrorKm": 13.19
+        },
+        {
+          "name": "Krivoi Rog",
+          "pixel": [
+            415,
+            582
+          ],
+          "coordinate": [
+            33.344983,
+            47.928326
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-krivoi-rog",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 2.92,
+          "leaveOneOutErrorKm": 3.32
+        },
+        {
+          "name": "Nikopol",
+          "pixel": [
+            621,
+            674
+          ],
+          "coordinate": [
+            34.40621,
+            47.566591
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-nikopol",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 2.47,
+          "leaveOneOutErrorKm": 2.81
+        },
+        {
+          "name": "Mykolayiv",
+          "pixel": [
+            149,
+            842
+          ],
+          "coordinate": [
+            31.984342,
+            46.967739
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.56,
+          "leaveOneOutErrorKm": 5.67
+        },
+        {
+          "name": "Kherson",
+          "pixel": [
+            279,
+            929
+          ],
+          "coordinate": [
+            32.600665,
+            46.632537
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 4.38,
+          "leaveOneOutErrorKm": 6.0
+        },
+        {
+          "name": "Simferopol",
+          "pixel": [
+            580,
+            1414
+          ],
+          "coordinate": [
+            34.098735,
+            44.949154
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-simferopol",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.26,
+          "leaveOneOutErrorKm": 5.79
+        },
+        {
+          "name": "Kerch",
+          "pixel": [
+            1051,
+            1304
+          ],
+          "coordinate": [
+            36.47542,
+            45.35675
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-706524",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-22"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 5.79,
+          "leaveOneOutErrorKm": 12.87
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.005158524405438923,
+            -0.00010243609126987102,
+            31.25746385425367
+          ],
+          [
+            4.6721824346472596e-05,
+            -0.0052099295855472585,
+            57.72588860201681
+          ]
+        ],
+        "fitRmseKm": 5.29,
+        "leaveOneOutRmseKm": 7.98,
+        "maxLeaveOneOutKm": 13.19
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    },
+    {
+      "id": "cmh-defeat-23",
+      "number": 23,
+      "sourceOriginalSha256": "8096d0a55621bef70fd31edd307d8e91c5b693a49ad0ed92593e6db15c64b1fc",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-23.jpg",
+      "controls": [
+        {
+          "name": "Leningrad",
+          "pixel": [
+            650,
+            149
+          ],
+          "coordinate": [
+            30.31413,
+            59.93863
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-leningrad",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.55,
+          "leaveOneOutErrorKm": 5.69
+        },
+        {
+          "name": "Narva",
+          "pixel": [
+            379,
+            315
+          ],
+          "coordinate": [
+            28.19028,
+            59.37722
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-narva",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 13.56,
+          "leaveOneOutErrorKm": 20.07
+        },
+        {
+          "name": "Pskov",
+          "pixel": [
+            401,
+            680
+          ],
+          "coordinate": [
+            28.32994,
+            57.829996
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-pskov",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 12.5,
+          "leaveOneOutErrorKm": 15.48
+        },
+        {
+          "name": "Novgorod",
+          "pixel": [
+            797,
+            520
+          ],
+          "coordinate": [
+            31.27104,
+            58.52131
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-novgorod",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 5.33,
+          "leaveOneOutErrorKm": 6.86
+        },
+        {
+          "name": "Vitebsk",
+          "pixel": [
+            634,
+            1348
+          ],
+          "coordinate": [
+            30.18533,
+            55.18871
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-vitebsk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 15.04,
+          "leaveOneOutErrorKm": 21.46
+        },
+        {
+          "name": "Smolensk",
+          "pixel": [
+            993,
+            1444
+          ],
+          "coordinate": [
+            32.05088,
+            54.77826
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-smolensk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 19.62,
+          "leaveOneOutErrorKm": 43.8
+        },
+        {
+          "name": "Daugavpils",
+          "pixel": [
+            110,
+            1180
+          ],
+          "coordinate": [
+            26.509999,
+            55.87996
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 4.01,
+          "leaveOneOutErrorKm": 12.64
+        },
+        {
+          "name": "Kholm",
+          "pixel": [
+            790,
+            858
+          ],
+          "coordinate": [
+            31.18173,
+            57.14893
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-549797",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-10",
+            "cmh-decision-14",
+            "cmh-defeat-9",
+            "cmh-defeat-10",
+            "cmh-decision-5"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 8.08,
+          "leaveOneOutErrorKm": 9.62
+        },
+        {
+          "name": "Staraya Russa",
+          "pixel": [
+            809,
+            666
+          ],
+          "coordinate": [
+            31.36003,
+            57.99618
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-489088",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-10",
+            "cmh-decision-14",
+            "cmh-defeat-9",
+            "cmh-defeat-10",
+            "cmh-decision-5"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 8.06,
+          "leaveOneOutErrorKm": 9.93
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.006738649247639585,
+            -0.00016015024057095158,
+            25.894769884207665
+          ],
+          [
+            1.0929417977936784e-05,
+            -0.0074339886195072605,
+            76.44211194783392
+          ]
+        ],
+        "fitRmseKm": 11.25,
+        "leaveOneOutRmseKm": 19.58,
+        "maxLeaveOneOutKm": 43.8
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    },
+    {
+      "id": "cmh-defeat-25",
+      "number": 25,
+      "sourceOriginalSha256": "da2e95a2dbf45892dbe83d752105f451723939438c13779e374db788c3898465",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-25.jpg",
+      "controls": [
+        {
+          "name": "Perekop",
+          "pixel": [
+            193,
+            247
+          ],
+          "coordinate": [
+            33.69,
+            46.16
+          ],
+          "coordinateFile": "public/data/geography/europe-places.geojson",
+          "coordinateFeatureId": "p3-place-perekop",
+          "coordinateSourceIds": [
+            "p3-map-blau10"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 0.47,
+          "leaveOneOutErrorKm": 10.96
+        },
+        {
+          "name": "Kerch",
+          "pixel": [
+            958,
+            578
+          ],
+          "coordinate": [
+            36.47542,
+            45.35675
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-706524",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-22"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 0.59,
+          "leaveOneOutErrorKm": 18.73
+        },
+        {
+          "name": "Simferopol",
+          "pixel": [
+            304,
+            731
+          ],
+          "coordinate": [
+            34.098735,
+            44.949154
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-simferopol",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 1.15,
+          "leaveOneOutErrorKm": 1.49
+        },
+        {
+          "name": "Yalta",
+          "pixel": [
+            310,
+            908
+          ],
+          "coordinate": [
+            34.159403,
+            44.499311
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 2.53,
+          "leaveOneOutErrorKm": 4.35
+        },
+        {
+          "name": "Sevastopol",
+          "pixel": [
+            148,
+            850
+          ],
+          "coordinate": [
+            33.52134,
+            44.60795
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-sevastopol",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 2.71,
+          "leaveOneOutErrorKm": 4.74
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.0036386190780936037,
+            3.558988049608136e-05,
+            32.97325496792858
+          ],
+          [
+            6.845581018788405e-05,
+            -0.003611142625104667,
+            53.033078898007744
+          ]
+        ],
+        "fitRmseKm": 1.77,
+        "leaveOneOutRmseKm": 10.15,
+        "maxLeaveOneOutKm": 18.73
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    },
+    {
+      "id": "cmh-defeat-26",
+      "number": 26,
+      "sourceOriginalSha256": "aca1f8d9855be425045905c884160f2bfb09c73888bba3e68b19e0aa6b583ee6",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-26.jpg",
+      "controls": [
+        {
+          "name": "Leningrad",
+          "pixel": [
+            575,
+            1450
+          ],
+          "coordinate": [
+            30.31413,
+            59.93863
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-leningrad",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 5.01,
+          "leaveOneOutErrorKm": 6.39
+        },
+        {
+          "name": "Viipuri",
+          "pixel": [
+            290,
+            1210
+          ],
+          "coordinate": [
+            28.74,
+            60.71
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-viipuri",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 1.04,
+          "leaveOneOutErrorKm": 3.37
+        },
+        {
+          "name": "Petrozavodsk",
+          "pixel": [
+            1179,
+            826
+          ],
+          "coordinate": [
+            34.361223,
+            61.781318
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-petrozavodsk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 2.18,
+          "leaveOneOutErrorKm": 26.12
+        },
+        {
+          "name": "Tikhvin",
+          "pixel": [
+            1088,
+            1529
+          ],
+          "coordinate": [
+            33.52555,
+            59.63924
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-483019",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-10",
+            "cmh-decision-14",
+            "cmh-decision-5"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.32,
+          "leaveOneOutErrorKm": 6.26
+        },
+        {
+          "name": "Volkhov",
+          "pixel": [
+            888,
+            1442
+          ],
+          "coordinate": [
+            32.33966,
+            59.92335
+          ],
+          "coordinateFile": "public/data/geography/volume-two-reference-places.geojson",
+          "coordinateFeatureId": "v2-reference-472722",
+          "coordinateSourceIds": [
+            "v2-geonames-localities",
+            "cmh-decision-5"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.34,
+          "leaveOneOutErrorKm": 4.18
+        },
+        {
+          "name": "Novaya Ladoga",
+          "pixel": [
+            893,
+            1427
+          ],
+          "coordinate": [
+            32.31,
+            60.11
+          ],
+          "coordinateFile": "public/data/geography/europe-places.geojson",
+          "coordinateFeatureId": "p3-place-novaya-ladoga",
+          "coordinateSourceIds": [
+            "p3-map-blau10"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 12.7,
+          "leaveOneOutErrorKm": 15.78
+        },
+        {
+          "name": "Gatchina",
+          "pixel": [
+            521,
+            1559
+          ],
+          "coordinate": [
+            30.133344,
+            59.570665
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 7.13,
+          "leaveOneOutErrorKm": 10.35
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.006133020009489818,
+            -0.0003720532366987533,
+            27.4157678546541
+          ],
+          [
+            -0.00011769179892909265,
+            -0.006212697274411726,
+            84.42443554661857
+          ]
+        ],
+        "fitRmseKm": 6.16,
+        "leaveOneOutRmseKm": 12.8,
+        "maxLeaveOneOutKm": 26.12
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    },
+    {
+      "id": "cmh-defeat-27",
+      "number": 27,
+      "sourceOriginalSha256": "bd73281b8f5b65f8832c074ca32500b611267b3fc5a2139b1676875cfeced5d1",
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-EF-Defeat/maps/USA-EF-Defeat-27.jpg",
+      "controls": [
+        {
+          "name": "Minsk",
+          "pixel": [
+            593,
+            751
+          ],
+          "coordinate": [
+            27.564681,
+            53.901923
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-minsk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.1,
+          "leaveOneOutErrorKm": 3.45
+        },
+        {
+          "name": "Orsha",
+          "pixel": [
+            914,
+            626
+          ],
+          "coordinate": [
+            30.421543,
+            54.515315
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-orsha",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.07,
+          "leaveOneOutErrorKm": 4.26
+        },
+        {
+          "name": "Vitebsk",
+          "pixel": [
+            877,
+            496
+          ],
+          "coordinate": [
+            30.18533,
+            55.18871
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-vitebsk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 6.48,
+          "leaveOneOutErrorKm": 10.06
+        },
+        {
+          "name": "Vilnius",
+          "pixel": [
+            351,
+            617
+          ],
+          "coordinate": [
+            25.316635,
+            54.683366
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-vilnius",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 9.65,
+          "leaveOneOutErrorKm": 11.67
+        },
+        {
+          "name": "Grodno",
+          "pixel": [
+            160,
+            794
+          ],
+          "coordinate": [
+            23.83409,
+            53.677872
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-grodno",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 8.5,
+          "leaveOneOutErrorKm": 12.76
+        },
+        {
+          "name": "Bobruisk",
+          "pixel": [
+            748,
+            896
+          ],
+          "coordinate": [
+            29.192781,
+            53.126562
+          ],
+          "coordinateFile": "public/data/geography/volume-three-reference-places.geojson",
+          "coordinateFeatureId": "atlas-v3-ref-bobruisk",
+          "coordinateSourceIds": [
+            "atlas-v3-reference-places"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 15.58,
+          "leaveOneOutErrorKm": 19.09
+        },
+        {
+          "name": "Kaunas",
+          "pixel": [
+            183,
+            555
+          ],
+          "coordinate": [
+            23.880031,
+            54.950404
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 3.87,
+          "leaveOneOutErrorKm": 5.65
+        },
+        {
+          "name": "Daugavpils",
+          "pixel": [
+            478,
+            371
+          ],
+          "coordinate": [
+            26.509999,
+            55.87996
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 4.3,
+          "leaveOneOutErrorKm": 6.61
+        },
+        {
+          "name": "Gomel",
+          "pixel": [
+            999,
+            1038
+          ],
+          "coordinate": [
+            31.000009,
+            52.430016
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 14.18,
+          "leaveOneOutErrorKm": 26.31
+        },
+        {
+          "name": "Pinsk",
+          "pixel": [
+            420,
+            1102
+          ],
+          "coordinate": [
+            26.094055,
+            52.127863
+          ],
+          "coordinateFile": "public/data/geography/barbarossa-reference-places.geojson",
+          "coordinateFeatureId": null,
+          "coordinateSourceIds": [
+            "natural-earth-10m"
+          ],
+          "meaning": "Visible settlement mark read from the source sheet; modern settlement reference, not a battlefield position.",
+          "fitResidualKm": 4.05,
+          "leaveOneOutErrorKm": 7.31
+        }
+      ],
+      "transform": {
+        "method": "Least-squares affine registration from source-image x,y pixels to Web Mercator settlement coordinates, then inverse projection to WGS84 longitude,latitude. This is a display-coordinate registration, not an assertion about the source projection. No rubber-sheeting.",
+        "matrix": [
+          [
+            0.00885919499085513,
+            6.236812139315956e-05,
+            22.28460616597213
+          ],
+          [
+            -0.00012264610986880559,
+            -0.008743820133989118,
+            70.9259829494764
+          ]
+        ],
+        "fitRmseKm": 8.49,
+        "leaveOneOutRmseKm": 12.71,
+        "maxLeaveOneOutKm": 26.31
+      },
+      "uncertainty": "Calibration diagnostics measure fit to modern settlement marks, not battlefield accuracy. Source generalisation, mark footprint, line thickness, projection mismatch and manual pixel reading remain. Regional cartography only."
+    }
+  ],
+  "traces": [
+    {
+      "number": 8,
+      "part": 13,
+      "id": "kharkov-18march",
+      "title": "German contact sector, Belgorod–Izyum, March 18, 1943",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1943-03-18",
+      "endDate": "1943-03-18",
+      "pixels": [
+        [
+          289,
+          479
+        ],
+        [
+          332,
+          512
+        ],
+        [
+          389,
+          506
+        ],
+        [
+          433,
+          515
+        ],
+        [
+          485,
+          541
+        ],
+        [
+          526,
+          545
+        ],
+        [
+          537,
+          562
+        ],
+        [
+          546,
+          601
+        ],
+        [
+          560,
+          640
+        ],
+        [
+          558,
+          680
+        ],
+        [
+          565,
+          705
+        ],
+        [
+          572,
+          720
+        ],
+        [
+          556,
+          739
+        ],
+        [
+          531,
+          752
+        ],
+        [
+          494,
+          771
+        ],
+        [
+          480,
+          790
+        ],
+        [
+          489,
+          815
+        ],
+        [
+          528,
+          831
+        ],
+        [
+          572,
+          853
+        ],
+        [
+          580,
+          886
+        ]
+      ],
+      "note": "Traced only along the inspected March 18 hachured line. The rest of the front is not completed by inference.",
+      "selectedDates": null
+    },
+    {
+      "number": 8,
+      "part": 13,
+      "id": "counterstroke-kharkov",
+      "title": "German counterstroke towards Kharkov: schematic operation direction",
+      "category": "attack",
+      "actor": "Germany",
+      "startDate": "1943-02-19",
+      "endDate": "1943-03-18",
+      "pixels": [
+        [
+          347,
+          1068
+        ],
+        [
+          361,
+          1009
+        ],
+        [
+          391,
+          951
+        ],
+        [
+          429,
+          850
+        ]
+      ],
+      "note": "Source direction arrow, shown only after the complete captioned campaign interval; it does not trace a road or daily movement.",
+      "selectedDates": null
+    },
+    {
+      "number": 8,
+      "part": 13,
+      "id": "counterstroke-donbas",
+      "title": "German counterstroke against the advanced Soviet grouping in the Donbas",
+      "category": "attack",
+      "actor": "Germany",
+      "startDate": "1943-02-19",
+      "endDate": "1943-03-18",
+      "pixels": [
+        [
+          691,
+          1106
+        ],
+        [
+          657,
+          1145
+        ],
+        [
+          615,
+          1160
+        ],
+        [
+          581,
+          1139
+        ],
+        [
+          574,
+          1084
+        ],
+        [
+          607,
+          1047
+        ]
+      ],
+      "note": "Schematic source arrow around the exposed mobile grouping. Its entire campaign interval is the date range, not a reconstructed timetable.",
+      "selectedDates": null
+    },
+    {
+      "number": 13,
+      "part": 14,
+      "id": "kursk-contact-4july",
+      "title": "Approximate pre-Citadel contact, Orel–Kursk–Belgorod sectors, July 4, 1943",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1943-07-04",
+      "endDate": "1943-07-04",
+      "pixels": [
+        [
+          447,
+          302
+        ],
+        [
+          518,
+          323
+        ],
+        [
+          572,
+          311
+        ],
+        [
+          620,
+          330
+        ],
+        [
+          672,
+          351
+        ],
+        [
+          687,
+          391
+        ],
+        [
+          734,
+          424
+        ],
+        [
+          780,
+          507
+        ],
+        [
+          795,
+          554
+        ],
+        [
+          762,
+          614
+        ],
+        [
+          732,
+          650
+        ],
+        [
+          711,
+          705
+        ],
+        [
+          685,
+          727
+        ],
+        [
+          611,
+          700
+        ],
+        [
+          554,
+          728
+        ],
+        [
+          491,
+          745
+        ],
+        [
+          435,
+          770
+        ],
+        [
+          398,
+          809
+        ],
+        [
+          417,
+          862
+        ],
+        [
+          446,
+          923
+        ],
+        [
+          427,
+          949
+        ],
+        [
+          433,
+          982
+        ],
+        [
+          445,
+          1004
+        ],
+        [
+          442,
+          1050
+        ],
+        [
+          435,
+          1094
+        ],
+        [
+          452,
+          1125
+        ],
+        [
+          488,
+          1149
+        ],
+        [
+          517,
+          1168
+        ],
+        [
+          568,
+          1190
+        ],
+        [
+          625,
+          1197
+        ],
+        [
+          655,
+          1194
+        ],
+        [
+          686,
+          1182
+        ],
+        [
+          718,
+          1187
+        ],
+        [
+          748,
+          1214
+        ],
+        [
+          756,
+          1239
+        ],
+        [
+          779,
+          1277
+        ],
+        [
+          795,
+          1318
+        ],
+        [
+          801,
+          1357
+        ],
+        [
+          805,
+          1399
+        ]
+      ],
+      "note": "The source legend dates this contact line July 4. On later selections it is an explicitly dated earlier comparison, not a claimed unchanged current front.",
+      "selectedDates": null
+    },
+    {
+      "number": 13,
+      "part": 14,
+      "id": "hagen-18august",
+      "title": "Fourth and Ninth Army contact at the Hagen position, August 18, 1943",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1943-08-18",
+      "endDate": "1943-08-18",
+      "pixels": [
+        [
+          236,
+          29
+        ],
+        [
+          239,
+          85
+        ],
+        [
+          263,
+          141
+        ],
+        [
+          286,
+          204
+        ],
+        [
+          303,
+          246
+        ],
+        [
+          321,
+          260
+        ],
+        [
+          355,
+          269
+        ],
+        [
+          368,
+          288
+        ],
+        [
+          390,
+          309
+        ],
+        [
+          410,
+          345
+        ],
+        [
+          405,
+          391
+        ],
+        [
+          419,
+          438
+        ],
+        [
+          431,
+          484
+        ],
+        [
+          430,
+          516
+        ],
+        [
+          419,
+          552
+        ],
+        [
+          442,
+          580
+        ],
+        [
+          460,
+          608
+        ],
+        [
+          478,
+          642
+        ],
+        [
+          479,
+          672
+        ],
+        [
+          465,
+          693
+        ],
+        [
+          447,
+          717
+        ],
+        [
+          425,
+          740
+        ],
+        [
+          412,
+          761
+        ],
+        [
+          398,
+          785
+        ],
+        [
+          397,
+          819
+        ]
+      ],
+      "note": "Traced from the source’s separately keyed August 18 front. The line stops where this source trace ceases; no connecting front is invented.",
+      "selectedDates": null
+    },
+    {
+      "number": 13,
+      "part": 14,
+      "id": "citadel-north-limit",
+      "title": "Northern limit of Citadel’s penetration, July 14, 1943",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1943-07-14",
+      "endDate": "1943-07-14",
+      "pixels": [
+        [
+          641,
+          707
+        ],
+        [
+          627,
+          718
+        ],
+        [
+          622,
+          732
+        ],
+        [
+          639,
+          750
+        ],
+        [
+          662,
+          769
+        ],
+        [
+          686,
+          770
+        ],
+        [
+          711,
+          764
+        ],
+        [
+          723,
+          752
+        ],
+        [
+          722,
+          725
+        ],
+        [
+          719,
+          705
+        ]
+      ],
+      "note": "Dotted source boundary records the farthest penetration, not an encirclement polygon or a control boundary. Displayed only on a later source-linked selection.",
+      "selectedDates": null
+    },
+    {
+      "number": 16,
+      "part": 15,
+      "id": "dnieper-2october",
+      "title": "German contact along the Dnieper and lower front, October 2, 1943",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1943-10-02",
+      "endDate": "1943-10-02",
+      "pixels": [
+        [
+          43,
+          33
+        ],
+        [
+          91,
+          89
+        ],
+        [
+          141,
+          115
+        ],
+        [
+          174,
+          138
+        ],
+        [
+          226,
+          171
+        ],
+        [
+          281,
+          201
+        ],
+        [
+          347,
+          218
+        ],
+        [
+          404,
+          246
+        ],
+        [
+          445,
+          267
+        ],
+        [
+          498,
+          294
+        ],
+        [
+          546,
+          327
+        ],
+        [
+          581,
+          352
+        ],
+        [
+          611,
+          386
+        ],
+        [
+          663,
+          407
+        ],
+        [
+          715,
+          416
+        ],
+        [
+          745,
+          425
+        ],
+        [
+          754,
+          468
+        ],
+        [
+          766,
+          493
+        ],
+        [
+          747,
+          517
+        ],
+        [
+          747,
+          546
+        ],
+        [
+          791,
+          544
+        ],
+        [
+          809,
+          574
+        ],
+        [
+          806,
+          619
+        ],
+        [
+          834,
+          670
+        ],
+        [
+          838,
+          719
+        ],
+        [
+          844,
+          773
+        ],
+        [
+          832,
+          815
+        ],
+        [
+          820,
+          849
+        ],
+        [
+          813,
+          892
+        ],
+        [
+          804,
+          933
+        ],
+        [
+          814,
+          977
+        ],
+        [
+          811,
+          1001
+        ]
+      ],
+      "note": "Regional source contact, traced from the October 2 legend. River geography and front geometry remain distinct; no precise control shading is inferred.",
+      "selectedDates": null
+    },
+    {
+      "number": 16,
+      "part": 15,
+      "id": "dnieper-21december",
+      "title": "German contact after the Dnieper battles, December 21, 1943",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1943-12-21",
+      "endDate": "1943-12-21",
+      "pixels": [
+        [
+          42,
+          32
+        ],
+        [
+          96,
+          84
+        ],
+        [
+          133,
+          110
+        ],
+        [
+          100,
+          161
+        ],
+        [
+          126,
+          176
+        ],
+        [
+          177,
+          182
+        ],
+        [
+          231,
+          207
+        ],
+        [
+          254,
+          240
+        ],
+        [
+          240,
+          279
+        ],
+        [
+          201,
+          288
+        ],
+        [
+          184,
+          270
+        ],
+        [
+          162,
+          305
+        ],
+        [
+          186,
+          345
+        ],
+        [
+          215,
+          364
+        ],
+        [
+          248,
+          354
+        ],
+        [
+          281,
+          380
+        ],
+        [
+          283,
+          431
+        ],
+        [
+          337,
+          459
+        ],
+        [
+          406,
+          495
+        ],
+        [
+          438,
+          518
+        ],
+        [
+          472,
+          523
+        ],
+        [
+          514,
+          528
+        ],
+        [
+          549,
+          548
+        ],
+        [
+          594,
+          555
+        ],
+        [
+          625,
+          575
+        ],
+        [
+          674,
+          561
+        ],
+        [
+          733,
+          548
+        ],
+        [
+          747,
+          573
+        ],
+        [
+          731,
+          596
+        ],
+        [
+          755,
+          636
+        ],
+        [
+          736,
+          653
+        ],
+        [
+          680,
+          658
+        ],
+        [
+          645,
+          671
+        ],
+        [
+          653,
+          694
+        ],
+        [
+          690,
+          714
+        ],
+        [
+          689,
+          734
+        ],
+        [
+          652,
+          761
+        ],
+        [
+          608,
+          786
+        ],
+        [
+          562,
+          797
+        ],
+        [
+          521,
+          805
+        ],
+        [
+          483,
+          802
+        ],
+        [
+          460,
+          829
+        ],
+        [
+          451,
+          859
+        ],
+        [
+          431,
+          884
+        ],
+        [
+          382,
+          887
+        ],
+        [
+          330,
+          905
+        ],
+        [
+          290,
+          927
+        ]
+      ],
+      "note": "Separate December 21 source contact in the main map; the Kiev inset is not transformed by this registration and is not copied into this line.",
+      "selectedDates": null
+    },
+    {
+      "number": 23,
+      "part": 16,
+      "id": "north-14january",
+      "title": "Army Group North contact before the offensive, January 14, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-01-14",
+      "endDate": "1944-01-14",
+      "pixels": [
+        [
+          459,
+          194
+        ],
+        [
+          500,
+          199
+        ],
+        [
+          551,
+          208
+        ],
+        [
+          586,
+          188
+        ],
+        [
+          627,
+          184
+        ],
+        [
+          651,
+          194
+        ],
+        [
+          686,
+          207
+        ],
+        [
+          726,
+          195
+        ],
+        [
+          771,
+          188
+        ],
+        [
+          790,
+          214
+        ],
+        [
+          806,
+          254
+        ],
+        [
+          823,
+          296
+        ],
+        [
+          846,
+          338
+        ],
+        [
+          860,
+          361
+        ],
+        [
+          849,
+          390
+        ],
+        [
+          824,
+          413
+        ],
+        [
+          814,
+          459
+        ],
+        [
+          806,
+          506
+        ],
+        [
+          780,
+          541
+        ],
+        [
+          778,
+          569
+        ],
+        [
+          747,
+          592
+        ],
+        [
+          788,
+          620
+        ],
+        [
+          805,
+          656
+        ],
+        [
+          811,
+          700
+        ],
+        [
+          795,
+          741
+        ],
+        [
+          776,
+          771
+        ],
+        [
+          764,
+          812
+        ],
+        [
+          783,
+          853
+        ],
+        [
+          788,
+          874
+        ],
+        [
+          760,
+          881
+        ],
+        [
+          751,
+          907
+        ],
+        [
+          720,
+          932
+        ],
+        [
+          688,
+          932
+        ],
+        [
+          671,
+          971
+        ],
+        [
+          636,
+          997
+        ],
+        [
+          659,
+          1018
+        ],
+        [
+          659,
+          1046
+        ],
+        [
+          645,
+          1078
+        ],
+        [
+          605,
+          1074
+        ],
+        [
+          565,
+          1064
+        ],
+        [
+          522,
+          1079
+        ],
+        [
+          490,
+          1097
+        ],
+        [
+          482,
+          1120
+        ],
+        [
+          491,
+          1145
+        ],
+        [
+          484,
+          1174
+        ],
+        [
+          471,
+          1202
+        ],
+        [
+          477,
+          1220
+        ],
+        [
+          504,
+          1255
+        ],
+        [
+          542,
+          1283
+        ],
+        [
+          571,
+          1321
+        ],
+        [
+          589,
+          1334
+        ],
+        [
+          615,
+          1318
+        ],
+        [
+          637,
+          1314
+        ],
+        [
+          660,
+          1343
+        ],
+        [
+          675,
+          1373
+        ],
+        [
+          674,
+          1398
+        ],
+        [
+          653,
+          1418
+        ],
+        [
+          669,
+          1443
+        ],
+        [
+          682,
+          1466
+        ],
+        [
+          691,
+          1503
+        ]
+      ],
+      "note": "Source’s January 14 contact. No city, country or sovereignty boundary is inferred from its position.",
+      "selectedDates": null
+    },
+    {
+      "number": 23,
+      "part": 16,
+      "id": "panther-31march",
+      "title": "Army Group North contact at the Panther position, March 31, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-03-31",
+      "endDate": "1944-03-31",
+      "pixels": [
+        [
+          347,
+          258
+        ],
+        [
+          361,
+          277
+        ],
+        [
+          366,
+          300
+        ],
+        [
+          343,
+          305
+        ],
+        [
+          326,
+          327
+        ],
+        [
+          319,
+          362
+        ],
+        [
+          306,
+          379
+        ],
+        [
+          268,
+          377
+        ],
+        [
+          239,
+          388
+        ],
+        [
+          208,
+          412
+        ],
+        [
+          211,
+          438
+        ],
+        [
+          231,
+          463
+        ],
+        [
+          243,
+          501
+        ],
+        [
+          242,
+          535
+        ],
+        [
+          255,
+          566
+        ],
+        [
+          266,
+          605
+        ],
+        [
+          286,
+          645
+        ],
+        [
+          305,
+          650
+        ],
+        [
+          311,
+          636
+        ],
+        [
+          336,
+          657
+        ],
+        [
+          374,
+          669
+        ],
+        [
+          400,
+          683
+        ],
+        [
+          396,
+          716
+        ],
+        [
+          408,
+          758
+        ],
+        [
+          418,
+          801
+        ],
+        [
+          443,
+          841
+        ],
+        [
+          449,
+          871
+        ],
+        [
+          465,
+          897
+        ],
+        [
+          493,
+          903
+        ],
+        [
+          519,
+          905
+        ],
+        [
+          537,
+          923
+        ],
+        [
+          533,
+          950
+        ],
+        [
+          531,
+          989
+        ],
+        [
+          541,
+          1020
+        ],
+        [
+          536,
+          1054
+        ],
+        [
+          522,
+          1088
+        ],
+        [
+          494,
+          1114
+        ],
+        [
+          482,
+          1143
+        ],
+        [
+          477,
+          1175
+        ],
+        [
+          472,
+          1206
+        ],
+        [
+          469,
+          1228
+        ]
+      ],
+      "note": "The dashed March 31 line is source-dated separately from January 14. The southern endpoint stops at the inspected source segment; it is not extended across a gap.",
+      "selectedDates": null
+    },
+    {
+      "number": 25,
+      "part": 17,
+      "id": "crimea-perekop-advance",
+      "title": "Crimean offensive: schematic advance from the northern isthmuses",
+      "category": "attack",
+      "actor": "Soviet Union",
+      "startDate": "1944-04-08",
+      "endDate": "1944-05-13",
+      "pixels": [
+        [
+          250,
+          298
+        ],
+        [
+          312,
+          369
+        ],
+        [
+          327,
+          457
+        ],
+        [
+          323,
+          573
+        ],
+        [
+          313,
+          661
+        ],
+        [
+          295,
+          718
+        ],
+        [
+          223,
+          797
+        ],
+        [
+          170,
+          853
+        ]
+      ],
+      "note": "The source arrow summarises the captioned April 8–May 13 operation. Displayed only at the completed source-map endpoint; intermediate daily positions are not reconstructed.",
+      "selectedDates": null
+    },
+    {
+      "number": 25,
+      "part": 17,
+      "id": "crimea-kerch-advance",
+      "title": "Crimean offensive: schematic advance from the Kerch Peninsula",
+      "category": "attack",
+      "actor": "Soviet Union",
+      "startDate": "1944-04-08",
+      "endDate": "1944-05-13",
+      "pixels": [
+        [
+          950,
+          561
+        ],
+        [
+          839,
+          579
+        ],
+        [
+          695,
+          622
+        ],
+        [
+          561,
+          666
+        ],
+        [
+          431,
+          702
+        ],
+        [
+          330,
+          730
+        ]
+      ],
+      "note": "Generalised source arrow, not a verified unit route. The captioned campaign interval supplies the extent of the overview, not the departure day of every formation.",
+      "selectedDates": null
+    },
+    {
+      "number": 26,
+      "part": 18,
+      "id": "finland-10june",
+      "title": "Karelian Isthmus contact at the opening ground offensive, June 10, 1944",
+      "category": "front",
+      "actor": "Finland",
+      "startDate": "1944-06-10",
+      "endDate": "1944-06-10",
+      "pixels": [
+        [
+          509,
+          1388
+        ],
+        [
+          526,
+          1372
+        ],
+        [
+          542,
+          1346
+        ],
+        [
+          555,
+          1322
+        ],
+        [
+          582,
+          1309
+        ],
+        [
+          609,
+          1290
+        ],
+        [
+          633,
+          1272
+        ]
+      ],
+      "note": "Only the source’s June 10 contact segment on the Karelian Isthmus is traced. June 9 air/artillery preparation is not assigned this later ground-front geometry. Northern Karelia is outside this trace’s geographic control envelope.",
+      "selectedDates": null
+    },
+    {
+      "number": 27,
+      "part": 18,
+      "id": "bagration-22june-north",
+      "title": "Contact from Ostrov towards Vitebsk, June 22, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-06-22",
+      "endDate": "1944-06-22",
+      "pixels": [
+        [
+          668,
+          24
+        ],
+        [
+          687,
+          91
+        ],
+        [
+          722,
+          139
+        ],
+        [
+          776,
+          155
+        ],
+        [
+          790,
+          205
+        ],
+        [
+          783,
+          254
+        ],
+        [
+          762,
+          291
+        ],
+        [
+          749,
+          336
+        ],
+        [
+          747,
+          380
+        ],
+        [
+          758,
+          418
+        ],
+        [
+          784,
+          446
+        ],
+        [
+          813,
+          469
+        ],
+        [
+          850,
+          481
+        ],
+        [
+          895,
+          488
+        ]
+      ],
+      "note": "Printed June 22 contact, northern segment. The source is a later U.S. Army reconstruction; this is not a contemporary surveyed line.",
+      "selectedDates": null
+    },
+    {
+      "number": 27,
+      "part": 18,
+      "id": "bagration-22june-centre",
+      "title": "Contact through the Orsha–Mogilev–Bobruisk sectors, June 22, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-06-22",
+      "endDate": "1944-06-22",
+      "pixels": [
+        [
+          895,
+          488
+        ],
+        [
+          906,
+          522
+        ],
+        [
+          915,
+          557
+        ],
+        [
+          933,
+          590
+        ],
+        [
+          967,
+          614
+        ],
+        [
+          982,
+          650
+        ],
+        [
+          991,
+          685
+        ],
+        [
+          991,
+          731
+        ],
+        [
+          976,
+          772
+        ],
+        [
+          948,
+          797
+        ],
+        [
+          917,
+          819
+        ],
+        [
+          892,
+          839
+        ],
+        [
+          867,
+          849
+        ],
+        [
+          874,
+          887
+        ],
+        [
+          899,
+          922
+        ],
+        [
+          897,
+          944
+        ],
+        [
+          880,
+          966
+        ],
+        [
+          864,
+          979
+        ],
+        [
+          836,
+          995
+        ],
+        [
+          822,
+          1026
+        ],
+        [
+          793,
+          1053
+        ],
+        [
+          772,
+          1084
+        ],
+        [
+          749,
+          1091
+        ],
+        [
+          714,
+          1099
+        ],
+        [
+          672,
+          1106
+        ],
+        [
+          636,
+          1110
+        ],
+        [
+          596,
+          1115
+        ],
+        [
+          555,
+          1116
+        ],
+        [
+          512,
+          1121
+        ],
+        [
+          481,
+          1136
+        ]
+      ],
+      "note": "Printed June 22 contact only. Connecting vertices follow the drawn source line; no administrative or military-held-area polygon is derived.",
+      "selectedDates": null
+    },
+    {
+      "number": 27,
+      "part": 18,
+      "id": "bagration-18july-north",
+      "title": "Contact from Dvinsk towards Vilnius, July 18, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-07-18",
+      "endDate": "1944-07-18",
+      "pixels": [
+        [
+          656,
+          27
+        ],
+        [
+          655,
+          80
+        ],
+        [
+          644,
+          128
+        ],
+        [
+          627,
+          168
+        ],
+        [
+          616,
+          214
+        ],
+        [
+          607,
+          259
+        ],
+        [
+          593,
+          298
+        ],
+        [
+          570,
+          334
+        ],
+        [
+          549,
+          354
+        ],
+        [
+          550,
+          378
+        ],
+        [
+          529,
+          399
+        ],
+        [
+          492,
+          413
+        ],
+        [
+          452,
+          427
+        ],
+        [
+          420,
+          420
+        ],
+        [
+          383,
+          405
+        ],
+        [
+          359,
+          390
+        ],
+        [
+          334,
+          430
+        ],
+        [
+          326,
+          463
+        ],
+        [
+          301,
+          489
+        ],
+        [
+          269,
+          504
+        ],
+        [
+          240,
+          523
+        ],
+        [
+          225,
+          550
+        ],
+        [
+          205,
+          571
+        ],
+        [
+          183,
+          594
+        ],
+        [
+          173,
+          622
+        ]
+      ],
+      "note": "Printed July 18 front, northern segment. It is not shown on June selections or as a supposed July 3 front.",
+      "selectedDates": null
+    },
+    {
+      "number": 27,
+      "part": 18,
+      "id": "bagration-18july-grodno",
+      "title": "Contact through the Vilnius–Grodno approaches, July 18, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-07-18",
+      "endDate": "1944-07-18",
+      "pixels": [
+        [
+          173,
+          622
+        ],
+        [
+          185,
+          649
+        ],
+        [
+          173,
+          679
+        ],
+        [
+          176,
+          710
+        ],
+        [
+          145,
+          740
+        ],
+        [
+          122,
+          752
+        ],
+        [
+          132,
+          769
+        ],
+        [
+          159,
+          780
+        ],
+        [
+          168,
+          803
+        ],
+        [
+          187,
+          821
+        ],
+        [
+          173,
+          846
+        ],
+        [
+          160,
+          867
+        ],
+        [
+          161,
+          902
+        ],
+        [
+          166,
+          934
+        ],
+        [
+          157,
+          955
+        ],
+        [
+          144,
+          978
+        ]
+      ],
+      "note": "Source-dated pursuit endpoint. The line’s generalisation does not settle local resistance, the security of every road, or political authority.",
+      "selectedDates": null
+    },
+    {
+      "number": 27,
+      "part": 18,
+      "id": "bagration-18july-brest",
+      "title": "Contact north of Brest, July 18, 1944",
+      "category": "front",
+      "actor": "Germany",
+      "startDate": "1944-07-18",
+      "endDate": "1944-07-18",
+      "pixels": [
+        [
+          147,
+          1006
+        ],
+        [
+          166,
+          1038
+        ],
+        [
+          199,
+          1061
+        ],
+        [
+          216,
+          1087
+        ],
+        [
+          195,
+          1113
+        ],
+        [
+          193,
+          1150
+        ],
+        [
+          197,
+          1183
+        ],
+        [
+          194,
+          1216
+        ],
+        [
+          190,
+          1254
+        ],
+        [
+          183,
+          1290
+        ],
+        [
+          184,
+          1325
+        ],
+        [
+          180,
+          1363
+        ],
+        [
+          178,
+          1400
+        ]
+      ],
+      "note": "Southern continuation of the July 18 source front, shown as regional context only. No later July offensive is imported from other source sheets.",
+      "selectedDates": null
+    },
+    {
+      "number": 8,
+      "part": 13,
+      "id": "sector-cmh-defeat-8-detail-5",
+      "title": "Earlier source label: Fourth Panzer Army",
+      "category": "formation",
+      "actor": "Germany",
+      "startDate": "1943-02-19",
+      "endDate": "1943-03-18",
+      "pixels": [
+        184,
+        1032
+      ],
+      "note": "The dashed German army box appears on the Dnieper approaches. A formation label describes an operational grouping, not a headquarters building. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1943-04-15"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-8-detail-5",
+      "formationName": "Fourth Panzer Army",
+      "echelon": "army"
+    },
+    {
+      "number": 8,
+      "part": 13,
+      "id": "sector-cmh-defeat-8-detail-6",
+      "title": "Earlier source label: Popov mobile group",
+      "category": "formation",
+      "actor": "Soviet Union",
+      "startDate": "1943-02-19",
+      "endDate": "1943-03-18",
+      "pixels": [
+        624,
+        1104
+      ],
+      "note": "The Soviet group is labelled \"POPOV\" inside the southern counteroffensive area. Its printed position is a regional source-map reference. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1943-04-15"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-8-detail-6",
+      "formationName": "Popov mobile group",
+      "echelon": "sector"
+    },
+    {
+      "number": 8,
+      "part": 13,
+      "id": "sector-cmh-defeat-8-detail-7",
+      "title": "Earlier source label: First Panzer Army",
+      "category": "formation",
+      "actor": "Germany",
+      "startDate": "1943-02-19",
+      "endDate": "1943-03-18",
+      "pixels": [
+        726,
+        1073
+      ],
+      "note": "The German army label lies by the Donbas sector and the counterstroke arrows. The arrowed area represents the operation over its stated interval. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1943-04-15"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-8-detail-7",
+      "formationName": "First Panzer Army",
+      "echelon": "army"
+    },
+    {
+      "number": 13,
+      "part": 14,
+      "id": "sector-cmh-defeat-13-detail-4",
+      "title": "Earlier source label: German Ninth Army",
+      "category": "formation",
+      "actor": "Germany",
+      "startDate": "1943-07-05",
+      "endDate": "1943-08-18",
+      "pixels": [
+        647,
+        614
+      ],
+      "note": "The NINTH label sits at the northern face of the Kursk salient, below the Orel sector. Labels locate army sectors at this regional scale. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1943-08-23"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-13-detail-4",
+      "formationName": "German Ninth Army",
+      "echelon": "army"
+    },
+    {
+      "number": 13,
+      "part": 14,
+      "id": "sector-cmh-defeat-13-detail-6",
+      "title": "Earlier source label: Steppe reserve grouping",
+      "category": "formation",
+      "actor": "Soviet Union",
+      "startDate": "1943-07-05",
+      "endDate": "1943-08-18",
+      "pixels": [
+        894,
+        880
+      ],
+      "note": "The dashed reserve area prints the Twenty-Seventh, Fifty-Third and Fifth Guards formations. A reserve grouping is distinct from the first assault line. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1943-08-23"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-13-detail-6",
+      "formationName": "Steppe reserve grouping",
+      "echelon": "sector"
+    },
+    {
+      "number": 13,
+      "part": 14,
+      "id": "sector-cmh-defeat-13-detail-7",
+      "title": "Earlier source label: SS Panzer corps sector",
+      "category": "formation",
+      "actor": "Germany",
+      "startDate": "1943-07-05",
+      "endDate": "1943-08-18",
+      "pixels": [
+        730,
+        1118
+      ],
+      "note": "The German SS Pz label appears in the southern attack area. The regional sheet does not resolve individual tank positions around Prokhorovka. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1943-08-23"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-13-detail-7",
+      "formationName": "SS Panzer corps sector",
+      "echelon": "corps"
+    },
+    {
+      "number": 25,
+      "part": 17,
+      "id": "sector-cmh-defeat-25-detail-1",
+      "title": "Earlier source label: Second Guards Army",
+      "category": "formation",
+      "actor": "Soviet Union",
+      "startDate": "1944-04-08",
+      "endDate": "1944-05-13",
+      "pixels": [
+        136,
+        177
+      ],
+      "note": "The solid-outline Soviet Second Guards Army box stands at the northern approaches to Perekop. It identifies a source-map operational sector. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1944-05-18"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-25-detail-1",
+      "formationName": "Second Guards Army",
+      "echelon": "army"
+    },
+    {
+      "number": 25,
+      "part": 17,
+      "id": "sector-cmh-defeat-25-detail-2",
+      "title": "Earlier source label: Fifty-first Army",
+      "category": "formation",
+      "actor": "Soviet Union",
+      "startDate": "1944-04-08",
+      "endDate": "1944-05-13",
+      "pixels": [
+        347,
+        173
+      ],
+      "note": "The source labels the Soviet Fifty-first Army at the northern Crimean approaches, separate from Second Guards Army. The label is not a headquarters address. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1944-05-18"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-25-detail-2",
+      "formationName": "Fifty-first Army",
+      "echelon": "army"
+    },
+    {
+      "number": 25,
+      "part": 17,
+      "id": "sector-cmh-defeat-25-detail-6",
+      "title": "Earlier source label: German Seventeenth Army",
+      "category": "formation",
+      "actor": "Germany",
+      "startDate": "1944-04-08",
+      "endDate": "1944-05-13",
+      "pixels": [
+        370,
+        539
+      ],
+      "note": "The broken-outline Seventeenth Army box identifies the German command on the peninsula. It does not show the exact perimeter occupied by every subordinate unit. This point georeferences the printed sector label, not a current deployment, headquarters or unit footprint. Its caption interval does not prove unchanged occupation of this point. The selected date is later than the source interval.",
+      "selectedDates": [
+        "1944-05-18"
+      ],
+      "sourceIntervalSector": true,
+      "sourceAnnotationId": "cmh-defeat-25-detail-6",
+      "formationName": "German Seventeenth Army",
+      "echelon": "army"
+    }
+  ],
+  "limitations": [
+    "Later U.S. Army reconstruction, not contemporary unit plotting.",
+    "Registration fit does not measure battlefield accuracy.",
+    "No interpolation, control polygons, unverified per-day formation positions or exact unit routes. Nine source-label sector references are shown only after their captioned intervals, as earlier comparisons."
+  ]
+}

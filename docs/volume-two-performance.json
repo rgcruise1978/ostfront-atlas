@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {
+      "build": "volumeOne",
+      "entryBytes": 3391702,
+      "entryGzipBytes": 823216
+    },
+    {
+      "build": "combined",
+      "entryBytes": 3826755,
+      "entryGzipBytes": 894532
+    }
+  ],
+  "initialEagerCombinedGzipBytes": 1348750,
+  "lazyCombinedNewChapterGzipRange": "About 13\u201324 KB per chapter, loaded only when opened.",
+  "limits": "Local build sizes; not a controlled slow-device or network benchmark."
+}

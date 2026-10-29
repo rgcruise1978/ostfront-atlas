@@ -1,0 +1,663 @@
+{
+  "newDates": [
+    {
+      "part": 7,
+      "date": "1941-12-15",
+      "title": "Moscow: the first counteroffensive phase",
+      "sourcePlateIds": [
+        "cmh-decision-6"
+      ],
+      "articleSlugs": [
+        "moscow-counterstroke-beyond-december-five",
+        "moscow-counterstroke-the-northern-approaches-to-moscow",
+        "moscow-counterstroke-from-tula-towards-kaluga"
+      ]
+    },
+    {
+      "part": 7,
+      "date": "1942-01-01",
+      "title": "Moscow: the second-phase limit",
+      "sourcePlateIds": [
+        "cmh-decision-7"
+      ],
+      "articleSlugs": [
+        "moscow-counterstroke-the-northern-approaches-to-moscow",
+        "moscow-counterstroke-from-tula-towards-kaluga",
+        "moscow-counterstroke-retreat-and-the-german-command-crisis"
+      ]
+    },
+    {
+      "part": 8,
+      "date": "1942-01-14",
+      "title": "Rzhev–Vyazma penetrations",
+      "sourcePlateIds": [
+        "cmh-decision-9"
+      ],
+      "articleSlugs": [
+        "winter-offensive-rzhev-and-vyazma"
+      ]
+    },
+    {
+      "part": 8,
+      "date": "1942-02-01",
+      "title": "The Barvenkovo salient",
+      "sourcePlateIds": [
+        "cmh-decision-11"
+      ],
+      "articleSlugs": [
+        "winter-offensive-the-barvenkovo-salient"
+      ]
+    },
+    {
+      "part": 8,
+      "date": "1942-02-22",
+      "title": "Kholm, Demyansk and Lyuban",
+      "sourcePlateIds": [
+        "cmh-decision-10"
+      ],
+      "articleSlugs": [
+        "winter-offensive-toropets-and-the-kholm-pocket",
+        "winter-offensive-demyansk-and-the-limits-of-encirclement",
+        "winter-offensive-the-lyuban-offensive-and-2nd-shock-army"
+      ]
+    },
+    {
+      "part": 8,
+      "date": "1942-05-08",
+      "title": "Relief connections and the Lyuban salient",
+      "sourcePlateIds": [
+        "cmh-decision-14"
+      ],
+      "articleSlugs": [
+        "winter-offensive-toropets-and-the-kholm-pocket",
+        "winter-offensive-demyansk-and-the-limits-of-encirclement",
+        "winter-offensive-the-lyuban-offensive-and-2nd-shock-army"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-05-17",
+      "title": "Kharkov: gains and counteroffensive",
+      "sourcePlateIds": [
+        "cmh-decision-23",
+        "cmh-decision-24"
+      ],
+      "articleSlugs": [
+        "spring-disasters-the-second-battle-of-kharkov"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-05-19",
+      "title": "Kerch: the offensive interval ends",
+      "sourcePlateIds": [
+        "cmh-decision-22",
+        "cmh-decision-23"
+      ],
+      "articleSlugs": [
+        "spring-disasters-the-kerch-peninsula-defeat",
+        "spring-disasters-the-second-battle-of-kharkov"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-05-24",
+      "title": "Kharkov: encirclement",
+      "sourcePlateIds": [
+        "cmh-decision-24"
+      ],
+      "articleSlugs": [
+        "spring-disasters-the-second-battle-of-kharkov"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-05-26",
+      "title": "Kharkov: the shrinking pocket",
+      "sourcePlateIds": [
+        "cmh-decision-24"
+      ],
+      "articleSlugs": [
+        "spring-disasters-the-second-battle-of-kharkov"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-05-28",
+      "title": "Kharkov: the counteroffensive ends",
+      "sourcePlateIds": [
+        "cmh-decision-24"
+      ],
+      "articleSlugs": [
+        "spring-disasters-the-second-battle-of-kharkov"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-06-07",
+      "title": "Sevastopol: assault opens",
+      "sourcePlateIds": [
+        "cmh-decision-27"
+      ],
+      "articleSlugs": [
+        "spring-disasters-sevastopol-falls"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-06-27",
+      "title": "Sevastopol: the defenses contract",
+      "sourcePlateIds": [
+        "cmh-decision-27"
+      ],
+      "articleSlugs": [
+        "spring-disasters-sevastopol-falls"
+      ]
+    },
+    {
+      "part": 9,
+      "date": "1942-07-04",
+      "title": "Sevastopol: resistance beyond the city",
+      "sourcePlateIds": [
+        "cmh-decision-27"
+      ],
+      "articleSlugs": [
+        "spring-disasters-sevastopol-falls"
+      ]
+    },
+    {
+      "part": 10,
+      "date": "1942-07-11",
+      "title": "Case Blue: the first phase ends",
+      "sourcePlateIds": [
+        "cmh-decision-30"
+      ],
+      "articleSlugs": [
+        "case-blue-case-blue-opens",
+        "case-blue-the-battle-for-voronezh"
+      ]
+    },
+    {
+      "part": 10,
+      "date": "1942-07-14",
+      "title": "Case Blue: the advance south resumes",
+      "sourcePlateIds": [
+        "cmh-decision-31"
+      ],
+      "articleSlugs": [
+        "case-blue-retreat-across-the-don-country",
+        "case-blue-one-offensive-becomes-two"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-08-19",
+      "title": "The Don bend and Caucasus approaches",
+      "sourcePlateIds": [
+        "cmh-decision-32",
+        "cmh-decision-33"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-into-the-caucasus",
+        "caucasus-stalingrad-the-approaches-to-stalingrad"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-09-03",
+      "title": "Stalingrad: approach to the city",
+      "sourcePlateIds": [
+        "cmh-decision-33"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-the-approaches-to-stalingrad",
+        "caucasus-stalingrad-the-volga-reached"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-09-13",
+      "title": "Stalingrad: the urban battle",
+      "sourcePlateIds": [
+        "cmh-decision-34"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-the-volga-reached",
+        "caucasus-stalingrad-the-battle-for-the-factories"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-09-25",
+      "title": "Sinyavino: penetration and counterattack",
+      "sourcePlateIds": [
+        "cmh-decision-38"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-the-other-fronts-keep-fighting"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-09-26",
+      "title": "Stalingrad: city-center positions",
+      "sourcePlateIds": [
+        "cmh-decision-34"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-the-volga-reached",
+        "caucasus-stalingrad-the-battle-for-the-factories"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-10-06",
+      "title": "Stalingrad: the shrinking bridgeheads",
+      "sourcePlateIds": [
+        "cmh-decision-34"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-the-volga-reached",
+        "caucasus-stalingrad-the-battle-for-the-factories"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-10-10",
+      "title": "Caucasus: Tuapse and the Terek",
+      "sourcePlateIds": [
+        "cmh-decision-32"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-into-the-caucasus"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-10-25",
+      "title": "The Nalchik offensive opens",
+      "sourcePlateIds": [
+        "cmh-decision-40"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-into-the-caucasus"
+      ]
+    },
+    {
+      "part": 11,
+      "date": "1942-11-09",
+      "title": "The advance stalls near Gizel",
+      "sourcePlateIds": [
+        "cmh-decision-40"
+      ],
+      "articleSlugs": [
+        "caucasus-stalingrad-into-the-caucasus"
+      ]
+    },
+    {
+      "part": 12,
+      "date": "1942-12-20",
+      "title": "Mars: directions and limits",
+      "sourcePlateIds": [
+        "cmh-defeat-9"
+      ],
+      "articleSlugs": [
+        "winter-reversal-mars-and-velikiye-luki"
+      ]
+    },
+    {
+      "part": 12,
+      "date": "1943-01-12",
+      "title": "Ring: the first contraction",
+      "sourcePlateIds": [
+        "cmh-decision-44"
+      ],
+      "articleSlugs": [
+        "winter-reversal-the-stalingrad-pocket-destroyed"
+      ]
+    },
+    {
+      "part": 12,
+      "date": "1943-01-17",
+      "title": "Ring and the end at Velikiye Luki",
+      "sourcePlateIds": [
+        "cmh-decision-44",
+        "cmh-defeat-9"
+      ],
+      "articleSlugs": [
+        "winter-reversal-mars-and-velikiye-luki",
+        "winter-reversal-the-stalingrad-pocket-destroyed"
+      ]
+    },
+    {
+      "part": 12,
+      "date": "1943-01-19",
+      "title": "The lower Don advance and the Ladoga corridor",
+      "sourcePlateIds": [
+        "cmh-decision-43",
+        "cmh-defeat-10"
+      ],
+      "articleSlugs": [
+        "winter-reversal-winter-storm-and-little-saturn",
+        "winter-reversal-operation-iskra-and-the-northern-winter"
+      ]
+    },
+    {
+      "part": 12,
+      "date": "1943-01-26",
+      "title": "The Stalingrad pocket divides",
+      "sourcePlateIds": [
+        "cmh-decision-44"
+      ],
+      "articleSlugs": [
+        "winter-reversal-the-stalingrad-pocket-destroyed"
+      ]
+    }
+  ],
+  "newViews": {
+    "7": [
+      {
+        "id": "moscow",
+        "label": "Moscow and the winter advance",
+        "bounds": [
+          [
+            31,
+            51.5
+          ],
+          [
+            41,
+            58
+          ]
+        ]
+      },
+      {
+        "id": "tikhvin",
+        "label": "Tikhvin–Volkhov–Leningrad",
+        "bounds": [
+          [
+            28,
+            58
+          ],
+          [
+            35.5,
+            61.6
+          ]
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "north-center",
+        "label": "Winter campaigns: north and center",
+        "bounds": [
+          [
+            27,
+            52.5
+          ],
+          [
+            39,
+            61.5
+          ]
+        ]
+      },
+      {
+        "id": "rzhev",
+        "label": "Rzhev–Vyazma and the western penetrations",
+        "bounds": [
+          [
+            29,
+            52.5
+          ],
+          [
+            39,
+            58
+          ]
+        ]
+      },
+      {
+        "id": "north",
+        "label": "Toropets–Kholm–Demyansk–Lyuban",
+        "bounds": [
+          [
+            27.5,
+            55.5
+          ],
+          [
+            34.5,
+            61.5
+          ]
+        ]
+      },
+      {
+        "id": "barvenkovo",
+        "label": "Barvenkovo and the Donets",
+        "bounds": [
+          [
+            34.5,
+            46
+          ],
+          [
+            40,
+            51
+          ]
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "kharkov",
+        "label": "Kharkov–Barvenkovo",
+        "bounds": [
+          [
+            34.6,
+            48
+          ],
+          [
+            38.8,
+            51
+          ]
+        ]
+      },
+      {
+        "id": "kerch",
+        "label": "Kerch Peninsula and the strait",
+        "bounds": [
+          [
+            35,
+            44.8
+          ],
+          [
+            37.5,
+            45.7
+          ]
+        ]
+      },
+      {
+        "id": "sevastopol",
+        "label": "Sevastopol and southwestern Crimea",
+        "bounds": [
+          [
+            33.2,
+            44.3
+          ],
+          [
+            34,
+            44.9
+          ]
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "don",
+        "label": "Voronezh–Don–Rostov",
+        "bounds": [
+          [
+            34,
+            46
+          ],
+          [
+            45.5,
+            53
+          ]
+        ]
+      },
+      {
+        "id": "lower-don",
+        "label": "Lower Don and Rostov",
+        "bounds": [
+          [
+            38,
+            46
+          ],
+          [
+            44,
+            49.5
+          ]
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "caucasus",
+        "label": "Caucasus and the southern approaches",
+        "bounds": [
+          [
+            36.5,
+            40.5
+          ],
+          [
+            48.5,
+            46.5
+          ]
+        ]
+      },
+      {
+        "id": "stalingrad",
+        "label": "Don bend and Stalingrad approaches",
+        "bounds": [
+          [
+            39.5,
+            47
+          ],
+          [
+            45.5,
+            50.5
+          ]
+        ]
+      },
+      {
+        "id": "city",
+        "label": "Stalingrad: use the historical detail plates",
+        "bounds": [
+          [
+            44.15,
+            48.45
+          ],
+          [
+            44.85,
+            49
+          ]
+        ]
+      },
+      {
+        "id": "nalchik",
+        "label": "Nalchik–Terek–Ordzhonikidze",
+        "bounds": [
+          [
+            43,
+            42.7
+          ],
+          [
+            45.1,
+            44
+          ]
+        ]
+      },
+      {
+        "id": "sinyavino",
+        "label": "Sinyavino–Mga–Lake Ladoga",
+        "bounds": [
+          [
+            30.7,
+            59.55
+          ],
+          [
+            31.6,
+            60.1
+          ]
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "stalingrad",
+        "label": "Stalingrad, airfields and relief approaches",
+        "bounds": [
+          [
+            41.5,
+            47
+          ],
+          [
+            45.8,
+            50.3
+          ]
+        ]
+      },
+      {
+        "id": "don",
+        "label": "Little Saturn and the southern theater",
+        "bounds": [
+          [
+            36,
+            43
+          ],
+          [
+            46,
+            51
+          ]
+        ]
+      },
+      {
+        "id": "rzhev",
+        "label": "Mars and Velikiye Luki",
+        "bounds": [
+          [
+            29,
+            54
+          ],
+          [
+            35.8,
+            57.5
+          ]
+        ]
+      },
+      {
+        "id": "ladoga",
+        "label": "Iskra and Lake Ladoga",
+        "bounds": [
+          [
+            30,
+            59.4
+          ],
+          [
+            32,
+            60.5
+          ]
+        ]
+      }
+    ]
+  },
+  "layers": [
+    "Dated fronts, source-supported pockets and operation directions",
+    "Formation sector labels (not headquarters or exact frontages)",
+    "Source-map railways and approximate airfield areas",
+    "Source-map terrain and rivers",
+    "Optional operational plans"
+  ],
+  "historicalSourcePlates": {
+    "inspected": 27,
+    "reproduced": 26,
+    "registered": 23
+  }
+}

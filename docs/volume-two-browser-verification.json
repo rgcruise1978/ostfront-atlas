@@ -1,0 +1,94 @@
+{
+  "allStudies": {
+    "base": "http://127.0.0.1:5212",
+    "internalLinks": 595,
+    "errors": [],
+    "missing": [],
+    "views": 196
+  },
+  "newMaps": {
+    "views": 74,
+    "errors": [],
+    "referenceLocalitiesOnly": true,
+    "exports": 6
+  },
+  "oldMaps": {
+    "base": "http://127.0.0.1:5212",
+    "errors": [],
+    "views": 98
+  },
+  "finalInteractions": {
+    "boundaries": [
+      5,
+      13,
+      22,
+      31,
+      41,
+      49,
+      55,
+      61,
+      66,
+      72,
+      79
+    ],
+    "newStudyMapLinks": 36,
+    "mapReturns": 6,
+    "finalChapterEnds": true,
+    "keyboard": true,
+    "filteredReturn": true,
+    "errors": [],
+    "views": 7
+  },
+  "print": [
+    {
+      "chapter": 85,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    },
+    {
+      "chapter": 67,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    },
+    {
+      "chapter": 73,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    },
+    {
+      "chapter": 62,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    },
+    {
+      "chapter": 80,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    },
+    {
+      "chapter": 50,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    },
+    {
+      "chapter": 56,
+      "lastEvidenceNotePrinted": true,
+      "skipLinkHidden": true
+    }
+  ],
+  "visualReview": "Captured desktop and phone headers and asides for every new study and all six new collection layouts inspected; seven tablet note views and print first pages sampled. Full browser and manuscript checks are recorded separately.",
+  "limitations": "Local checks only. Historical one-off validators retain pre-harmonization baselines or require an absent archive; see review report. Not a full external-link, historical-fact or page-by-page print audit.",
+  "allPartBoundaries": [
+    5,
+    13,
+    22,
+    31,
+    41,
+    49,
+    55,
+    61,
+    66,
+    72,
+    79
+  ]
+}

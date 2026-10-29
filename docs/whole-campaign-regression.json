@@ -1,0 +1,29 @@
+{
+  "states": 67,
+  "nonCrossingFronts": 67,
+  "validNonOverlappingCoverage": 67,
+  "caucasusLocalityChecks": 4,
+  "isolatedPockets": [
+    {
+      "date": "1942-02-22",
+      "region": "demyansk-22feb",
+      "isolated": true
+    },
+    {
+      "date": "1942-05-24",
+      "region": "kharkov-pocket",
+      "isolated": true
+    },
+    {
+      "date": "1942-12-12",
+      "region": "stalingrad-pocket",
+      "isolated": true
+    },
+    {
+      "date": "1943-01-17",
+      "region": "stalingrad-pocket",
+      "isolated": true
+    }
+  ],
+  "limitations": "Geometry and selected source-supported regressions; not a comprehensive historical fact audit. Dated regional context is not a daily tactical observation."
+}

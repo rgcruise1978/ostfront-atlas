@@ -1,0 +1,1369 @@
+{
+  "checkedAt": "2026-10-24T04:27:55.864Z",
+  "result": "pass",
+  "scope": "Engine/UI verification. Historical data review is recorded separately; no claim of complete historical verification.",
+  "browser": {
+    "scope": "22 cases on desktop (1440×1000) and phone (390×844) before final removal of uncertain source traces; engine unchanged afterward. Five targeted desktop cases repeated successfully against final 407-feature data.",
+    "results": [
+      {
+        "width": 1440,
+        "id": "moscow-counterstroke",
+        "date": "1941-12-15",
+        "sourceFeatures": 31,
+        "formationFeatures": 20,
+        "sourceActors": [
+          "Opposing forces",
+          "Soviet Union",
+          "Neutral",
+          "Germany"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 10,
+        "earlierFeatures": 1,
+        "zoom": 5.174442664671218,
+        "overflow": false,
+        "exportedFilteredFeatures": 20,
+        "pngBytes": 1684292
+      },
+      {
+        "width": 1440,
+        "id": "winter-offensive",
+        "date": "1942-02-22",
+        "sourceFeatures": 26,
+        "formationFeatures": 15,
+        "sourceActors": [
+          "Opposing forces",
+          "Germany",
+          "Soviet Union",
+          "Neutral"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 11,
+        "earlierFeatures": 2,
+        "zoom": 5.14611197820569,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "id": "spring-disasters",
+        "date": "1942-05-24",
+        "sourceFeatures": 6,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Neutral",
+          "Opposing forces"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 5,
+        "earlierFeatures": 4,
+        "zoom": 6.463468696760918,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "id": "case-blue",
+        "date": "1942-07-31",
+        "sourceFeatures": 22,
+        "formationFeatures": 17,
+        "sourceActors": [
+          "Opposing forces",
+          "Hungary",
+          "Germany",
+          "Italy",
+          "Romania",
+          "Soviet Union"
+        ],
+        "referencePlaces": 93,
+        "renderedLabels": 14,
+        "earlierFeatures": 1,
+        "zoom": 5.238325020545941,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "id": "caucasus-stalingrad",
+        "date": "1942-08-09",
+        "sourceFeatures": 8,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Opposing forces",
+          "Neutral"
+        ],
+        "referencePlaces": 94,
+        "renderedLabels": 7,
+        "earlierFeatures": 1,
+        "zoom": 5.621747569683138,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "id": "winter-reversal",
+        "date": "1942-12-24",
+        "sourceFeatures": 7,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Neutral",
+          "Opposing forces"
+        ],
+        "referencePlaces": 94,
+        "renderedLabels": 5,
+        "earlierFeatures": 3,
+        "zoom": 6.350554726565803,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "id": "spring-disasters",
+        "date": "1942-06-27",
+        "sourceFeatures": 0,
+        "formationFeatures": 0,
+        "sourceActors": [],
+        "referencePlaces": 95,
+        "renderedLabels": 0,
+        "earlierFeatures": 0,
+        "zoom": 8.918710288293981,
+        "overflow": false,
+        "sourcePlateMarkers": 16
+      },
+      {
+        "width": 1440,
+        "id": "caucasus-stalingrad",
+        "date": "1942-09-13",
+        "sourceFeatures": 1,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Opposing forces"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 1,
+        "earlierFeatures": 1,
+        "zoom": 8.934063465598506,
+        "overflow": false,
+        "sourcePlateMarkers": 27
+      },
+      {
+        "width": 1440,
+        "id": "winter-reversal",
+        "date": "1943-01-12",
+        "sourceFeatures": 4,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Neutral",
+          "Opposing forces"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 2,
+        "earlierFeatures": 1,
+        "zoom": 6.350554726565803,
+        "overflow": false,
+        "sourcePlateMarkers": 23
+      },
+      {
+        "width": 1440,
+        "id": "winter-reversal",
+        "date": "1943-01-18",
+        "sourceFeatures": 0,
+        "formationFeatures": 0,
+        "sourceActors": [],
+        "referencePlaces": 92,
+        "renderedLabels": 0,
+        "earlierFeatures": 0,
+        "zoom": 7.536282515783239,
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "id": "barbarossa-1941",
+        "date": "1941-12-05",
+        "sourceFeatures": 0,
+        "formationFeatures": 0,
+        "sourceActors": [],
+        "referencePlaces": 1030,
+        "renderedLabels": 0,
+        "earlierFeatures": 0,
+        "zoom": 3.2283155668905223,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "moscow-counterstroke",
+        "date": "1941-12-15",
+        "sourceFeatures": 31,
+        "formationFeatures": 20,
+        "sourceActors": [
+          "Opposing forces",
+          "Soviet Union",
+          "Neutral",
+          "Germany"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 7,
+        "earlierFeatures": 1,
+        "zoom": 4.369597346278676,
+        "overflow": false,
+        "exportedFilteredFeatures": 13
+      },
+      {
+        "width": 390,
+        "id": "winter-offensive",
+        "date": "1942-02-22",
+        "sourceFeatures": 26,
+        "formationFeatures": 15,
+        "sourceActors": [
+          "Opposing forces",
+          "Germany",
+          "Soviet Union",
+          "Neutral"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 9,
+        "earlierFeatures": 2,
+        "zoom": 4.7799840794077895,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "spring-disasters",
+        "date": "1942-05-24",
+        "sourceFeatures": 6,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Neutral",
+          "Opposing forces"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 4,
+        "earlierFeatures": 4,
+        "zoom": 5.621136113274638,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "case-blue",
+        "date": "1942-07-31",
+        "sourceFeatures": 22,
+        "formationFeatures": 17,
+        "sourceActors": [
+          "Opposing forces",
+          "Hungary",
+          "Germany",
+          "Italy",
+          "Romania",
+          "Soviet Union"
+        ],
+        "referencePlaces": 93,
+        "renderedLabels": 8,
+        "earlierFeatures": 1,
+        "zoom": 4.167963485109026,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "caucasus-stalingrad",
+        "date": "1942-08-09",
+        "sourceFeatures": 8,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Opposing forces",
+          "Neutral"
+        ],
+        "referencePlaces": 94,
+        "renderedLabels": 4,
+        "earlierFeatures": 1,
+        "zoom": 4.106562940444883,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "winter-reversal",
+        "date": "1942-12-24",
+        "sourceFeatures": 7,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Neutral",
+          "Opposing forces"
+        ],
+        "referencePlaces": 94,
+        "renderedLabels": 4,
+        "earlierFeatures": 3,
+        "zoom": 5.58718878135131,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "spring-disasters",
+        "date": "1942-06-27",
+        "sourceFeatures": 0,
+        "formationFeatures": 0,
+        "sourceActors": [],
+        "referencePlaces": 95,
+        "renderedLabels": 0,
+        "earlierFeatures": 0,
+        "zoom": 8.013453536053426,
+        "overflow": false,
+        "sourcePlateMarkers": 16
+      },
+      {
+        "width": 390,
+        "id": "caucasus-stalingrad",
+        "date": "1942-09-13",
+        "sourceFeatures": 1,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Opposing forces"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 1,
+        "earlierFeatures": 1,
+        "zoom": 8.206098613995806,
+        "overflow": false,
+        "sourcePlateMarkers": 27
+      },
+      {
+        "width": 390,
+        "id": "winter-reversal",
+        "date": "1943-01-12",
+        "sourceFeatures": 4,
+        "formationFeatures": 0,
+        "sourceActors": [
+          "Neutral",
+          "Opposing forces"
+        ],
+        "referencePlaces": 95,
+        "renderedLabels": 2,
+        "earlierFeatures": 1,
+        "zoom": 5.58718878135131,
+        "overflow": false,
+        "sourcePlateMarkers": 23
+      },
+      {
+        "width": 390,
+        "id": "winter-reversal",
+        "date": "1943-01-18",
+        "sourceFeatures": 0,
+        "formationFeatures": 0,
+        "sourceActors": [],
+        "referencePlaces": 92,
+        "renderedLabels": 0,
+        "earlierFeatures": 0,
+        "zoom": 6.691525441166043,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "id": "barbarossa-1941",
+        "date": "1941-12-05",
+        "sourceFeatures": 0,
+        "formationFeatures": 0,
+        "sourceActors": [],
+        "referencePlaces": 1030,
+        "renderedLabels": 0,
+        "earlierFeatures": 0,
+        "zoom": 2.3877446929889343,
+        "overflow": false
+      }
+    ],
+    "errors": [],
+    "finalDatasetDesktop": [
+      {
+        "id": "moscow-counterstroke",
+        "date": "1941-12-15",
+        "width": 1440,
+        "sourceFeatures": 27,
+        "renderedLabels": 11
+      },
+      {
+        "id": "winter-offensive",
+        "date": "1942-02-22",
+        "width": 1440,
+        "sourceFeatures": 25,
+        "renderedLabels": 9
+      },
+      {
+        "id": "spring-disasters",
+        "date": "1942-05-24",
+        "width": 1440,
+        "sourceFeatures": 6,
+        "renderedLabels": 5
+      },
+      {
+        "id": "case-blue",
+        "date": "1942-07-31",
+        "width": 1440,
+        "sourceFeatures": 22,
+        "renderedLabels": 14
+      },
+      {
+        "id": "caucasus-stalingrad",
+        "date": "1942-08-09",
+        "width": 1440,
+        "sourceFeatures": 6,
+        "renderedLabels": 5
+      }
+    ],
+    "checks": [
+      "Map initializes; no page errors, map errors, or horizontal overflow",
+      "Formation finder counts match source inventory; selected features expose source links",
+      "Earlier comparison switch removes rendered earlier features",
+      "JSON evidence excludes disabled fronts and earlier references, retains date, actor and source IDs",
+      "PNG contains embedded selected-date evidence",
+      "Available detailed source maps open, load, select numbered annotations and switch source resolution",
+      "V1 December 5 map initializes with original 1,030 reference-place rendering"
+    ]
+  },
+  "finalDataset": {
+    "features": 407,
+    "dates": 67,
+    "sourceFiles": {
+      "public/data/history/atlas-moscow-counterstroke.geojson": "e4c1e9749320cf90bb65f07ff9a5477514f491ff4dbfc7dd8a357654cd42e8ca",
+      "public/data/history/atlas-winter-offensive.geojson": "2bdbfef5cf6a3fac51e67f8a0d1b0b0537abb5551f907d341082f8a553c57565",
+      "public/data/history/atlas-spring-disasters.geojson": "b03604fa5f27e709af4c3fd22a8e262ddb6a4e6a2c55f291af151a994d9cc496",
+      "public/data/history/atlas-case-blue.geojson": "617b785da701828ab4d6176759f2aacb4a141978b2b069002afbb704cf951961",
+      "public/data/history/atlas-caucasus-stalingrad.geojson": "ab7d669e74b7372db11dbce3c947402f7bd4d01005f22dd0f28763c970bde888",
+      "public/data/history/atlas-winter-reversal.geojson": "bc07f45e3c7f5ada9e9e13a8f1a6ca3b972c74a2b7508fd6125e79438fba3af4",
+      "src/map/AtlasMap.jsx": "18d43c728882b9415dc271f30245e195a482e3cf5179654f7a6510f5b08bd748",
+      "src/map/reconstruction.js": "ab8aa9a366927c6d52576be4bbf9551fba8efa57337114072f8c4cb93f634389",
+      "src/pages/Atlas.jsx": "837bd03c196976d9bacc507331b897c32c3bcfba6745c03a3534dc248e0fe04a",
+      "src/map/mapEvidence.js": "2e20109cc770e042354a423250087967861478126073fd0a1ce401ec635c082e",
+      "src/map/mapStyle.js": "580dd60e674777cf1f63dce639d4685c9b6a92bfcf3f4527df415bab38827917",
+      "src/map-workstation.css": "bc6b9020e8f9b38ff0b6a56abf685e56bf738ee10029949f304a79a4908e3a8d"
+    },
+    "states": [
+      {
+        "campaign": "moscow-counterstroke",
+        "date": "1941-12-06",
+        "total": 4,
+        "earlier": 0,
+        "groups": {
+          "front": 1,
+          "logistics": 1,
+          "formation": 2
+        },
+        "plates": [
+          "cmh-decision-6"
+        ]
+      },
+      {
+        "campaign": "moscow-counterstroke",
+        "date": "1941-12-09",
+        "total": 11,
+        "earlier": 9,
+        "groups": {
+          "front": 2,
+          "logistics": 1,
+          "terrain": 1,
+          "formation": 7
+        },
+        "plates": [
+          "cmh-decision-5"
+        ]
+      },
+      {
+        "campaign": "moscow-counterstroke",
+        "date": "1941-12-15",
+        "total": 27,
+        "earlier": 1,
+        "groups": {
+          "front": 3,
+          "operation": 3,
+          "logistics": 1,
+          "formation": 20
+        },
+        "plates": [
+          "cmh-decision-6"
+        ]
+      },
+      {
+        "campaign": "moscow-counterstroke",
+        "date": "1941-12-16",
+        "total": 2,
+        "earlier": 1,
+        "groups": {
+          "logistics": 1,
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-7",
+          "cmh-decision-6"
+        ]
+      },
+      {
+        "campaign": "moscow-counterstroke",
+        "date": "1941-12-30",
+        "total": 2,
+        "earlier": 2,
+        "groups": {
+          "logistics": 1,
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-7",
+          "cmh-decision-6"
+        ]
+      },
+      {
+        "campaign": "moscow-counterstroke",
+        "date": "1942-01-01",
+        "total": 32,
+        "earlier": 2,
+        "groups": {
+          "logistics": 1,
+          "front": 5,
+          "operation": 5,
+          "formation": 21
+        },
+        "plates": [
+          "cmh-decision-7",
+          "cmh-decision-6"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-01-08",
+        "total": 4,
+        "earlier": 3,
+        "groups": {
+          "front": 3,
+          "logistics": 1
+        },
+        "plates": [
+          "cmh-decision-9",
+          "cmh-decision-10"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-01-14",
+        "total": 25,
+        "earlier": 1,
+        "groups": {
+          "front": 5,
+          "operation": 1,
+          "formation": 19
+        },
+        "plates": [
+          "cmh-decision-9"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-01-18",
+        "total": 2,
+        "earlier": 1,
+        "groups": {
+          "front": 1,
+          "logistics": 1
+        },
+        "plates": [
+          "cmh-decision-11"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-01-21",
+        "total": 3,
+        "earlier": 2,
+        "groups": {
+          "front": 2,
+          "logistics": 1
+        },
+        "plates": [
+          "cmh-decision-10"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-02-01",
+        "total": 21,
+        "earlier": 1,
+        "groups": {
+          "front": 4,
+          "operation": 2,
+          "logistics": 1,
+          "formation": 14
+        },
+        "plates": [
+          "cmh-decision-11"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-02-18",
+        "total": 21,
+        "earlier": 2,
+        "groups": {
+          "logistics": 1,
+          "front": 6,
+          "formation": 14
+        },
+        "plates": [
+          "cmh-decision-10",
+          "cmh-decision-12",
+          "cmh-decision-11"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-02-22",
+        "total": 25,
+        "earlier": 2,
+        "groups": {
+          "front": 5,
+          "operation": 4,
+          "logistics": 1,
+          "formation": 15
+        },
+        "plates": [
+          "cmh-decision-10"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-03-21",
+        "total": 4,
+        "earlier": 4,
+        "groups": {
+          "front": 4
+        },
+        "plates": [
+          "cmh-decision-14",
+          "cmh-decision-10"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-05-05",
+        "total": 4,
+        "earlier": 4,
+        "groups": {
+          "front": 4
+        },
+        "plates": [
+          "cmh-decision-14",
+          "cmh-decision-10"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-05-08",
+        "total": 17,
+        "earlier": 1,
+        "groups": {
+          "front": 4,
+          "formation": 13
+        },
+        "plates": [
+          "cmh-decision-14"
+        ]
+      },
+      {
+        "campaign": "winter-offensive",
+        "date": "1942-06-28",
+        "total": 15,
+        "earlier": 15,
+        "groups": {
+          "front": 2,
+          "formation": 13
+        },
+        "plates": [
+          "cmh-decision-14"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-08",
+        "total": 4,
+        "earlier": 0,
+        "groups": {
+          "front": 4
+        },
+        "plates": [
+          "cmh-decision-22"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-12",
+        "total": 2,
+        "earlier": 0,
+        "groups": {
+          "front": 1,
+          "logistics": 1
+        },
+        "plates": [
+          "cmh-decision-23"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-17",
+        "total": 5,
+        "earlier": 1,
+        "groups": {
+          "front": 4,
+          "logistics": 1
+        },
+        "plates": [
+          "cmh-decision-23",
+          "cmh-decision-24"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-19",
+        "total": 27,
+        "earlier": 4,
+        "groups": {
+          "front": 4,
+          "operation": 6,
+          "formation": 17
+        },
+        "plates": [
+          "cmh-decision-22",
+          "cmh-decision-23"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-22",
+        "total": 5,
+        "earlier": 4,
+        "groups": {
+          "logistics": 1,
+          "front": 4
+        },
+        "plates": [
+          "cmh-decision-24",
+          "cmh-decision-23"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-24",
+        "total": 6,
+        "earlier": 4,
+        "groups": {
+          "logistics": 1,
+          "front": 5
+        },
+        "plates": [
+          "cmh-decision-24",
+          "cmh-decision-23"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-26",
+        "total": 5,
+        "earlier": 3,
+        "groups": {
+          "logistics": 1,
+          "front": 4
+        },
+        "plates": [
+          "cmh-decision-24",
+          "cmh-decision-23"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-05-28",
+        "total": 20,
+        "earlier": 3,
+        "groups": {
+          "logistics": 1,
+          "front": 3,
+          "operation": 4,
+          "formation": 12
+        },
+        "plates": [
+          "cmh-decision-24",
+          "cmh-decision-23"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-06-07",
+        "total": 0,
+        "earlier": 0,
+        "groups": {},
+        "plates": [
+          "cmh-decision-27"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-06-27",
+        "total": 0,
+        "earlier": 0,
+        "groups": {},
+        "plates": [
+          "cmh-decision-27"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-07-01",
+        "total": 0,
+        "earlier": 0,
+        "groups": {},
+        "plates": [
+          "cmh-decision-27"
+        ]
+      },
+      {
+        "campaign": "spring-disasters",
+        "date": "1942-07-04",
+        "total": 0,
+        "earlier": 0,
+        "groups": {},
+        "plates": [
+          "cmh-decision-27"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-04-05",
+        "total": 4,
+        "earlier": 0,
+        "groups": {
+          "operation": 4
+        },
+        "plates": [
+          "cmh-decision-26"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-06-28",
+        "total": 3,
+        "earlier": 0,
+        "groups": {
+          "front": 1,
+          "formation": 2
+        },
+        "plates": [
+          "cmh-decision-30"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-07-07",
+        "total": 1,
+        "earlier": 1,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-30"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-07-11",
+        "total": 18,
+        "earlier": 1,
+        "groups": {
+          "front": 4,
+          "operation": 2,
+          "formation": 12
+        },
+        "plates": [
+          "cmh-decision-30"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-07-14",
+        "total": 1,
+        "earlier": 0,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-31"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-07-24",
+        "total": 1,
+        "earlier": 1,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-31"
+        ]
+      },
+      {
+        "campaign": "case-blue",
+        "date": "1942-07-31",
+        "total": 22,
+        "earlier": 1,
+        "groups": {
+          "front": 5,
+          "formation": 17
+        },
+        "plates": [
+          "cmh-decision-31"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-08-09",
+        "total": 6,
+        "earlier": 0,
+        "groups": {
+          "front": 4,
+          "logistics": 1,
+          "terrain": 1
+        },
+        "plates": [
+          "cmh-decision-32"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-08-19",
+        "total": 8,
+        "earlier": 1,
+        "groups": {
+          "front": 5,
+          "logistics": 1,
+          "terrain": 1,
+          "operation": 1
+        },
+        "plates": [
+          "cmh-decision-32",
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-08-22",
+        "total": 2,
+        "earlier": 0,
+        "groups": {
+          "logistics": 1,
+          "terrain": 1
+        },
+        "plates": [
+          "cmh-decision-32"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-08-23",
+        "total": 3,
+        "earlier": 3,
+        "groups": {
+          "front": 3
+        },
+        "plates": [
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-08-27",
+        "total": 1,
+        "earlier": 0,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-38"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-09-03",
+        "total": 16,
+        "earlier": 0,
+        "groups": {
+          "front": 1,
+          "operation": 1,
+          "formation": 14
+        },
+        "plates": [
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-09-13",
+        "total": 1,
+        "earlier": 1,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-34",
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-09-25",
+        "total": 13,
+        "earlier": 1,
+        "groups": {
+          "front": 2,
+          "operation": 3,
+          "formation": 8
+        },
+        "plates": [
+          "cmh-decision-38"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-09-26",
+        "total": 1,
+        "earlier": 1,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-34",
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-10-06",
+        "total": 1,
+        "earlier": 1,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-34",
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-10-10",
+        "total": 19,
+        "earlier": 0,
+        "groups": {
+          "front": 4,
+          "logistics": 1,
+          "terrain": 1,
+          "formation": 13
+        },
+        "plates": [
+          "cmh-decision-32"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-10-14",
+        "total": 1,
+        "earlier": 1,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-41",
+          "cmh-decision-33"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-10-25",
+        "total": 1,
+        "earlier": 0,
+        "groups": {
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-40"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-11-09",
+        "total": 14,
+        "earlier": 1,
+        "groups": {
+          "front": 3,
+          "operation": 3,
+          "formation": 8
+        },
+        "plates": [
+          "cmh-decision-40"
+        ]
+      },
+      {
+        "campaign": "caucasus-stalingrad",
+        "date": "1942-11-18",
+        "total": 11,
+        "earlier": 11,
+        "groups": {
+          "front": 3,
+          "formation": 8
+        },
+        "plates": [
+          "cmh-decision-40",
+          "cmh-decision-41"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-11-19",
+        "total": 21,
+        "earlier": 0,
+        "groups": {
+          "front": 2,
+          "formation": 18,
+          "terrain": 1
+        },
+        "plates": [
+          "cmh-decision-42",
+          "cmh-decision-41"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-11-20",
+        "total": 18,
+        "earlier": 17,
+        "groups": {
+          "front": 2,
+          "terrain": 1,
+          "formation": 15
+        },
+        "plates": [
+          "cmh-decision-42"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-11-23",
+        "total": 21,
+        "earlier": 17,
+        "groups": {
+          "front": 2,
+          "operation": 3,
+          "terrain": 1,
+          "formation": 15
+        },
+        "plates": [
+          "cmh-decision-42"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-11-25",
+        "total": 22,
+        "earlier": 22,
+        "groups": {
+          "front": 2,
+          "operation": 1,
+          "formation": 19
+        },
+        "plates": [
+          "cmh-defeat-9"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-12-12",
+        "total": 5,
+        "earlier": 0,
+        "groups": {
+          "terrain": 1,
+          "front": 2,
+          "logistics": 2
+        },
+        "plates": [
+          "cmh-defeat-4",
+          "cmh-decision-42"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-12-16",
+        "total": 7,
+        "earlier": 2,
+        "groups": {
+          "terrain": 1,
+          "front": 3,
+          "logistics": 2,
+          "formation": 1
+        },
+        "plates": [
+          "cmh-decision-43",
+          "cmh-defeat-4",
+          "cmh-decision-42"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-12-20",
+        "total": 25,
+        "earlier": 22,
+        "groups": {
+          "front": 2,
+          "operation": 4,
+          "formation": 19
+        },
+        "plates": [
+          "cmh-defeat-9"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1942-12-24",
+        "total": 7,
+        "earlier": 3,
+        "groups": {
+          "terrain": 1,
+          "front": 4,
+          "logistics": 2
+        },
+        "plates": [
+          "cmh-decision-43",
+          "cmh-defeat-4",
+          "cmh-decision-42"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-10",
+        "total": 4,
+        "earlier": 1,
+        "groups": {
+          "terrain": 1,
+          "front": 1,
+          "logistics": 2
+        },
+        "plates": [
+          "cmh-decision-44",
+          "cmh-defeat-4",
+          "cmh-decision-42"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-12",
+        "total": 4,
+        "earlier": 1,
+        "groups": {
+          "terrain": 1,
+          "front": 1,
+          "logistics": 2
+        },
+        "plates": [
+          "cmh-decision-44",
+          "cmh-decision-42",
+          "cmh-defeat-4"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-17",
+        "total": 24,
+        "earlier": 22,
+        "groups": {
+          "terrain": 1,
+          "front": 2,
+          "logistics": 1,
+          "operation": 1,
+          "formation": 19
+        },
+        "plates": [
+          "cmh-decision-44",
+          "cmh-defeat-9",
+          "cmh-decision-42",
+          "cmh-defeat-4"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-18",
+        "total": 0,
+        "earlier": 0,
+        "groups": {},
+        "plates": [
+          "cmh-defeat-10"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-19",
+        "total": 6,
+        "earlier": 1,
+        "groups": {
+          "front": 3,
+          "operation": 3
+        },
+        "plates": [
+          "cmh-decision-43",
+          "cmh-defeat-10"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-26",
+        "total": 2,
+        "earlier": 1,
+        "groups": {
+          "terrain": 1,
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-44",
+          "cmh-decision-42",
+          "cmh-defeat-4"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-01-31",
+        "total": 2,
+        "earlier": 1,
+        "groups": {
+          "terrain": 1,
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-44",
+          "cmh-decision-42",
+          "cmh-defeat-4"
+        ]
+      },
+      {
+        "campaign": "winter-reversal",
+        "date": "1943-02-02",
+        "total": 2,
+        "earlier": 1,
+        "groups": {
+          "terrain": 1,
+          "front": 1
+        },
+        "plates": [
+          "cmh-decision-44",
+          "cmh-decision-42",
+          "cmh-defeat-4"
+        ]
+      }
+    ],
+    "checks": [
+      "Explicit date membership matches all 67 catalog states exactly",
+      "Source derivation does not mutate historical GeoJSON",
+      "Unique inventory IDs; every feature classified once",
+      "Current-versus-earlier flag follows each feature’s actual interval",
+      "Explicit formation echelons render correct symbols; known actors use established V1 colors",
+      "All historical source IDs and source-plate references resolve"
+    ]
+  },
+  "limitations": [
+    "January 18, 1943 (Iskra): regional event localities and geographic reference only. Defeat map 10 is linked, not reproduced or annotated; its January 19 zone is not carried backward to January 18.",
+    "Regional source maps with insufficient control points remain detailed source-pixel views; their cartography is not falsely georeferenced.",
+    "The 22-case run is representative, not a visual review of all 67 dates; final all-date checks are data/engine checks."
+  ]
+}

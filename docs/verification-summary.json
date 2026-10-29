@@ -1,0 +1,91 @@
+{
+  "date": "October 28, 2026",
+  "status": "Implemented source review candidate; not published",
+  "build": {
+    "result": "passed",
+    "routes": 156,
+    "indexing": "Preview blocked from indexing",
+    "note": "Available workspace dependencies used; a fresh locked npm installation was not tested."
+  },
+  "checks": [
+    {
+      "name": "data",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "prior_atlas",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "manuscript",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "events",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "military",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "source_images",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "index",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "navigation",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "privacy",
+      "result": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "reading_links",
+      "result": "passed",
+      "exitCode": 0
+    }
+  ],
+  "content": {
+    "newChapters": 35,
+    "totalNumberedChapters": 120,
+    "parts": 18,
+    "sections": 6,
+    "newNativeNotes": 368,
+    "originalAsideReviews": 217
+  },
+  "maps": {
+    "newSelections": 33,
+    "newEventLocalities": 72,
+    "newOriginalSourceSheets": 18,
+    "newSourceImageDetails": 149,
+    "geographicMilitaryFeatures": 27,
+    "registeredSheets": 7,
+    "fullGisParity": "Incomplete; explicit gaps in geometry catalogue"
+  },
+  "analytics": "Removed at the user's request; consent prompt and persistent control absent",
+  "notVerified": [
+    "Live browser interaction and MapLibre rendering",
+    "Phone and desktop layout, 200% zoom and actual keyboard/touch behaviour",
+    "Live map tile/asset requests",
+    "Every cited historical original independently",
+    "Fresh installation using the preserved dependency lockfile"
+  ],
+  "blocked": {
+    "preview": "Workspace denied local listening ports; browser security policy rejected a local HTML proof because that protocol is not allowed."
+  },
+  "production": "Unchanged; no deployment or GitHub push performed"
+}

@@ -1,0 +1,2151 @@
+[
+  {
+    "note": 48,
+    "chapter": 3,
+    "oldSourceIds": [
+      "frus-paris-sept17-morning",
+      "ipn-september-aggression"
+    ],
+    "sourceIds": [
+      "frus-soviet-note",
+      "ipn-september-aggression"
+    ]
+  },
+  {
+    "note": 144,
+    "chapter": 7,
+    "oldSourceIds": [
+      "churchill-22",
+      "frus-welles-23"
+    ],
+    "sourceIds": [
+      "ushmm-lwow-pogrom"
+    ]
+  },
+  {
+    "note": 154,
+    "chapter": 8,
+    "oldSourceIds": [
+      "sbd-34-019",
+      "sbd-34-029"
+    ],
+    "sourceIds": [
+      "sbd-34-029"
+    ]
+  },
+  {
+    "note": 517,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 518,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p3-ushmm-babyn"
+    ],
+    "sourceIds": [
+      "p3-ushmm-babyn",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 519,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 520,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 522,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 523,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 525,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4v-sbd20",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd20",
+      "p4v-sbd43",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 527,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 528,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 529,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p3-frus786"
+    ],
+    "sourceIds": [
+      "p3-frus786",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 533,
+    "chapter": 32,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p3-frus786"
+    ],
+    "sourceIds": [
+      "p3-frus786",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 534,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 535,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 537,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4v-sbd20"
+    ],
+    "sourceIds": [
+      "p4v-sbd20",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 538,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd43",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 539,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 540,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-typhoon",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-stahel-typhoon",
+      "p4v-sbd43",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 548,
+    "chapter": 33,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 549,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 553,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 554,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-review-terrain"
+    ],
+    "sourceIds": [
+      "p4-review-terrain",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 558,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 559,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "ushmm-pow-treatment",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 560,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd43",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 563,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 564,
+    "chapter": 34,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-ushmm-ordinary"
+    ],
+    "sourceIds": [
+      "p4-ushmm-ordinary",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 565,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 566,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd43",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 567,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-stahel-typhoon",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "p4-stahel-typhoon",
+      "p4-kirchubel-barbarossa",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 568,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 571,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-review-terrain"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-review-terrain",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 572,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 574,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 576,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-stahel-typhoon"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-stahel-typhoon",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 578,
+    "chapter": 35,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-frus864"
+    ],
+    "sourceIds": [
+      "p4-frus864",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 580,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-frus865",
+      "p4-gko801"
+    ],
+    "sourceIds": [
+      "p4-frus865",
+      "p4-gko801",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 581,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-frus647"
+    ],
+    "sourceIds": [
+      "p4-frus647",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 588,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-edele-loyalty",
+      "p4-frus647"
+    ],
+    "sourceIds": [
+      "p4-edele-loyalty",
+      "p4-frus647",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 590,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-gko801"
+    ],
+    "sourceIds": [
+      "p4-gko801",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 591,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd43",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 592,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-stahel-typhoon",
+      "p4-gko801"
+    ],
+    "sourceIds": [
+      "p4-stahel-typhoon",
+      "p4-gko801",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 595,
+    "chapter": 36,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-frus647",
+      "p4-gko801"
+    ],
+    "sourceIds": [
+      "p4-frus647",
+      "p4-gko801",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 596,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-gko813-translation",
+      "p4-gko801",
+      "p4-gko813"
+    ],
+    "sourceIds": [
+      "p4-gko813-translation",
+      "p4-gko801",
+      "p4-gko813",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 597,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-gko813-translation"
+    ],
+    "sourceIds": [
+      "p4-gko813-translation",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 600,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-edele-loyalty",
+      "p4-frus647",
+      "p4-gko813-translation"
+    ],
+    "sourceIds": [
+      "p4-edele-loyalty",
+      "p4-frus647",
+      "p4-gko813-translation",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 601,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-frus647",
+      "p4-gko813-translation"
+    ],
+    "sourceIds": [
+      "p4-frus647",
+      "p4-gko813-translation",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 603,
+    "chapter": 37,
+    "oldSourceIds": [
+      "p4-gko813-translation"
+    ],
+    "sourceIds": [
+      "p4-frus647",
+      "p4-gko813-translation"
+    ]
+  },
+  {
+    "note": 604,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-gko813-translation",
+      "p4-gko801"
+    ],
+    "sourceIds": [
+      "p4-gko813-translation",
+      "p4-gko801",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 606,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 610,
+    "chapter": 37,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-frus647",
+      "p4-gko813-translation",
+      "p4-gko813"
+    ],
+    "sourceIds": [
+      "p4-frus647",
+      "p4-gko813-translation",
+      "p4-gko813",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 612,
+    "chapter": 38,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kirchubel-barbarossa",
+      "p4-judaica-kharkov"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kirchubel-barbarossa",
+      "p4-judaica-kharkov",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 613,
+    "chapter": 38,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "p4v-sbd42"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "p4v-sbd42",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 615,
+    "chapter": 38,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-kirchubel-barbarossa",
+      "p4-judaica-kharkov"
+    ],
+    "sourceIds": [
+      "p4-kirchubel-barbarossa",
+      "p4-judaica-kharkov",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 617,
+    "chapter": 38,
+    "oldSourceIds": [
+      "p4-harrison-industry",
+      "p4-judaica-kharkov"
+    ],
+    "sourceIds": [
+      "p4-harrison-industry"
+    ]
+  },
+  {
+    "note": 618,
+    "chapter": 38,
+    "oldSourceIds": [
+      "p4-harrison-industry",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "p4-kharkiv-tractor",
+      "p4-harrison-industry"
+    ]
+  },
+  {
+    "note": 623,
+    "chapter": 38,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kharkiv-tractor"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kharkiv-tractor",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 624,
+    "chapter": 38,
+    "oldSourceIds": [
+      "blau-planning",
+      "p4-ushmm-odessa"
+    ],
+    "sourceIds": [
+      "blau-planning"
+    ]
+  },
+  {
+    "note": 625,
+    "chapter": 38,
+    "oldSourceIds": [
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-kirchubel-barbarossa"
+    ]
+  },
+  {
+    "note": 626,
+    "chapter": 38,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-harrison-industry",
+      "p4-kirchubel-barbarossa",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 628,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4v-sbd43",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 629,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 630,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 632,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 634,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4v-sbd43",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 636,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-harrison-industry"
+    ],
+    "sourceIds": [
+      "p4-harrison-industry",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 637,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ],
+    "sourceIds": [
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 640,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "p4-kirchubel-barbarossa",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 641,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 643,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 644,
+    "chapter": 39,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-frus799",
+      "p4-frus803"
+    ],
+    "sourceIds": [
+      "p4-frus799",
+      "p4-frus803",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 645,
+    "chapter": 40,
+    "oldSourceIds": [
+      "p4-enstad-chronology",
+      "p4-tikhvin-history"
+    ],
+    "sourceIds": [
+      "p4-enstad-chronology",
+      "p4-tikhvin-history",
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 646,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-kirchubel-barbarossa",
+      "p4-tikhvin-history"
+    ],
+    "sourceIds": [
+      "p4-kirchubel-barbarossa",
+      "p4-tikhvin-history",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 647,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p4-kirchubel-barbarossa",
+      "p4-tikhvin-history"
+    ],
+    "sourceIds": [
+      "p4-kirchubel-barbarossa",
+      "p4-tikhvin-history",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 649,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4v-sbd32"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 650,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "p4-kirchubel-barbarossa",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 651,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p3-ladoga-library"
+    ],
+    "sourceIds": [
+      "p3-ladoga-library",
+      "cmh-blitz",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 652,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p4-tikhvin-history",
+      "p3-ladoga-library"
+    ],
+    "sourceIds": [
+      "p4-tikhvin-history",
+      "p3-ladoga-library",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 654,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad"
+    ],
+    "sourceIds": [
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 655,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4v-sbd32"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 656,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4v-sbd32"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 657,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p4v-sbd32"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 658,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "ushmm-eastern-front"
+    ],
+    "sourceIds": [
+      "ushmm-eastern-front",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 659,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p3-leningrad-food"
+    ],
+    "sourceIds": [
+      "p3-leningrad-food",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 660,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "p4-kirchubel-barbarossa",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 661,
+    "chapter": 40,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-cmh-leningrad",
+      "p4v-sbd32",
+      "p3-ladoga-library"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p3-ladoga-library",
+      "p4-cmh-moscow",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 662,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4v-halder-vii"
+    ],
+    "sourceIds": [
+      "p4v-halder-vii",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 663,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "p4-enstad-chronology",
+      "p4-tikhvin-history"
+    ],
+    "sourceIds": [
+      "p4-enstad-chronology",
+      "p4-tikhvin-history",
+      "cmh-blitz",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 664,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning",
+      "p4-kirchubel-barbarossa"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-kirchubel-barbarossa",
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 665,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 667,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 668,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 669,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd43",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 672,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 673,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow"
+    ],
+    "sourceIds": [
+      "p4-cmh-moscow"
+    ]
+  },
+  {
+    "note": 674,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning",
+      "p4v-sbd21"
+    ],
+    "sourceIds": [
+      "p4v-sbd21"
+    ]
+  },
+  {
+    "note": 675,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "blau-planning",
+      "p4v-sbd21"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4v-sbd21",
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 677,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-leningrad",
+      "blau-planning",
+      "p4-review-reichenau",
+      "p4v-halder-vii",
+      "ushmm-pow-treatment",
+      "ushmm-eastern-front"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-review-reichenau",
+      "p4v-halder-vii",
+      "ushmm-pow-treatment",
+      "ushmm-eastern-front",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 679,
+    "chapter": 41,
+    "oldSourceIds": [
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-cmh-leningrad",
+      "blau-planning",
+      "p4-review-rations",
+      "p4-tikhvin-history",
+      "ushmm-pow-treatment"
+    ],
+    "sourceIds": [
+      "blau-planning",
+      "p4-review-rations",
+      "p4-tikhvin-history",
+      "ushmm-pow-treatment",
+      "cmh-blitz",
+      "p4-cmh-moscow",
+      "p4-cmh-leningrad"
+    ]
+  },
+  {
+    "note": 680,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 682,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 683,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 684,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "cmh-blitz"
+    ]
+  },
+  {
+    "note": 685,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p4v-sbd43"
+    ],
+    "sourceIds": [
+      "p4v-sbd43",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 687,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p4v-sbd32"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 689,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p4v-sbd21"
+    ],
+    "sourceIds": [
+      "p4v-sbd21",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 691,
+    "chapter": 42,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p4-harrison-industry"
+    ],
+    "sourceIds": [
+      "p4-harrison-industry",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 697,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-tula-library"
+    ],
+    "sourceIds": [
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 698,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-tula-library"
+    ],
+    "sourceIds": [
+      "p5-tula-library",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 701,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-guderian-flanks"
+    ],
+    "sourceIds": [
+      "p5-guderian-flanks",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 707,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-guderian-flanks"
+    ],
+    "sourceIds": [
+      "p5-guderian-flanks",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 709,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-pravda-guards"
+    ],
+    "sourceIds": [
+      "p5-pravda-guards",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 712,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-guderian-flanks"
+    ],
+    "sourceIds": [
+      "p5-guderian-flanks",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 714,
+    "chapter": 43,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-tula-library"
+    ],
+    "sourceIds": [
+      "p5-tula-library",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 715,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-cmh-counteroffensive",
+      "p5-winkler-rostov"
+    ],
+    "sourceIds": [
+      "p5-winkler-rostov",
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 716,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 717,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-review-bundesarchiv-units"
+    ],
+    "sourceIds": [
+      "p5-review-bundesarchiv-units",
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 718,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5vi-sbd23"
+    ],
+    "sourceIds": [
+      "p5vi-sbd23",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 719,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-rostov-museum",
+      "p5vi-sbd23"
+    ],
+    "sourceIds": [
+      "p5-rostov-museum",
+      "p5vi-sbd23",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 720,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-rostov-museum"
+    ],
+    "sourceIds": [
+      "p5-rostov-museum",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 721,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 722,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 723,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 724,
+    "chapter": 44,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-sbd23"
+    ],
+    "sourceIds": [
+      "p5vi-sbd23",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 732,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5vi-halder-vii"
+    ],
+    "sourceIds": [
+      "p5-klin-museum",
+      "p5-klin-history",
+      "p5vi-halder-vii",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 733,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 734,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 735,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-pravda-guards",
+      "p5-istra-museum"
+    ],
+    "sourceIds": [
+      "p5-pravda-guards",
+      "p5-istra-museum",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 737,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 738,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 741,
+    "chapter": 45,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-stavka0428"
+    ],
+    "sourceIds": [
+      "p5-stavka0428",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 745,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-canal-report28"
+    ],
+    "sourceIds": [
+      "p5-canal-report28",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 746,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-canal-musienko",
+      "p5-canal-report28",
+      "p5-dmitlag"
+    ],
+    "sourceIds": [
+      "p5-canal-musienko",
+      "p5-canal-report28",
+      "p5-dmitlag",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 748,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-canal-report28"
+    ],
+    "sourceIds": [
+      "p5-canal-report28",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 749,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-canal-report28"
+    ],
+    "sourceIds": [
+      "p5-canal-report28",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 751,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-canal-report28",
+      "p5vi-first-shock-journal"
+    ],
+    "sourceIds": [
+      "p5-canal-report28",
+      "p5vi-first-shock-journal",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 752,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov",
+      "p5vi-first-shock-journal",
+      "p5vi-halder-vii"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5vi-first-shock-journal",
+      "p5vi-halder-vii",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 754,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-canal-musienko",
+      "p5-canal-report28",
+      "p5vi-first-shock-journal"
+    ],
+    "sourceIds": [
+      "p5-canal-musienko",
+      "p5-canal-report28",
+      "p5vi-first-shock-journal",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 755,
+    "chapter": 46,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-canal-musienko"
+    ],
+    "sourceIds": [
+      "p5-canal-musienko",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 760,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-cmh-counteroffensive",
+      "p5-winkler-rostov"
+    ],
+    "sourceIds": [
+      "p5-winkler-rostov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 761,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-rostov-museum",
+      "p5vi-sbd23"
+    ],
+    "sourceIds": [
+      "p5-rostov-museum",
+      "p5vi-sbd23",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 762,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-rostov-museum"
+    ],
+    "sourceIds": [
+      "p5-rostov-museum",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 763,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-rostov-museum",
+      "p5-review-bundesarchiv-units",
+      "p5vi-sbd23"
+    ],
+    "sourceIds": [
+      "p5-rostov-museum",
+      "p5-review-bundesarchiv-units",
+      "p5vi-sbd23",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 764,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-radio-intelligence"
+    ],
+    "sourceIds": [
+      "p5-radio-intelligence",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 765,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-radio-intelligence",
+      "p5vi-halder-vii"
+    ],
+    "sourceIds": [
+      "p5-radio-intelligence",
+      "p5vi-halder-vii",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 772,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-cmh-counteroffensive",
+      "p5-winkler-rostov"
+    ],
+    "sourceIds": [
+      "p5-winkler-rostov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 773,
+    "chapter": 47,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5vi-sbd23"
+    ],
+    "sourceIds": [
+      "p5vi-sbd23",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 777,
+    "chapter": 48,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-sbd17"
+    ],
+    "sourceIds": [
+      "p5vi-sbd17",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 779,
+    "chapter": 48,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-guderian-flanks"
+    ],
+    "sourceIds": [
+      "p5-guderian-flanks",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 781,
+    "chapter": 48,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-guderian-flanks"
+    ],
+    "sourceIds": [
+      "p5-guderian-flanks",
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 783,
+    "chapter": 48,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-guderian-flanks",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5-guderian-flanks",
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 784,
+    "chapter": 48,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 787,
+    "chapter": 48,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p4-harrison-industry"
+    ],
+    "sourceIds": [
+      "p4-harrison-industry",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 790,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-cmh-crimea",
+      "p4-harrison-industry"
+    ],
+    "sourceIds": [
+      "p4-harrison-industry",
+      "p5-cmh-moscow",
+      "p5-cmh-crimea"
+    ]
+  },
+  {
+    "note": 791,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5vi-gurov",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 793,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-cmh-counteroffensive",
+      "p4v-sbd32"
+    ],
+    "sourceIds": [
+      "p4v-sbd32",
+      "p5-cmh-moscow",
+      "p5-cmh-counteroffensive"
+    ]
+  },
+  {
+    "note": 797,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea",
+      "p4-tikhvin-history"
+    ],
+    "sourceIds": [
+      "p4-tikhvin-history",
+      "p5-cmh-counteroffensive",
+      "p5-cmh-crimea"
+    ]
+  },
+  {
+    "note": 798,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz",
+      "p5-stahel-intro",
+      "p5-guderian-flanks",
+      "p5vi-gurov"
+    ],
+    "sourceIds": [
+      "p5-stahel-intro",
+      "p5-guderian-flanks",
+      "p5vi-gurov",
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 800,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "p5-cmh-counteroffensive"
+    ],
+    "sourceIds": [
+      "p5-cmh-moscow"
+    ]
+  },
+  {
+    "note": 801,
+    "chapter": 49,
+    "oldSourceIds": [
+      "p5-cmh-moscow",
+      "cmh-blitz"
+    ],
+    "sourceIds": [
+      "cmh-blitz",
+      "p5-cmh-moscow"
+    ]
+  }
+]

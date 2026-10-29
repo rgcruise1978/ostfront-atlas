@@ -1,0 +1,494 @@
+{
+  "substantiveFeatureChanges": [
+    {
+      "file": "public/data/history/military-operations.geojson",
+      "id": "p3-1941-09-16-hiiumaa-bridgehead",
+      "before": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-16-hiiumaa-bridgehead",
+          "title": "Hiiumaa · reported bridgehead 16 September",
+          "name": "Hiiumaa · reported bridgehead 16 September",
+          "label": "Hiiumaa · reported bridgehead 16 September",
+          "actor": "Germany",
+          "snapshots": [
+            "1941-09-16"
+          ],
+          "startDate": "1941-09-16",
+          "endDate": "1941-09-16",
+          "observationDate": "1941-09-16",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p3-map-islands": [
+              "September chronology: 13 September–5 October Baltic island entry"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+          "note": "The naval chronology reports a bridgehead on 16 September, not control of the whole island. Broad island locality only.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "bridgehead"
+        }
+      },
+      "after": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-16-hiiumaa-bridgehead",
+          "title": "Hiiumaa · Soviet-held; October landings",
+          "name": "Hiiumaa · Soviet-held; October landings",
+          "label": "Hiiumaa · Soviet-held; October landings",
+          "actor": "Soviet Union",
+          "snapshots": [
+            "1941-09-16"
+          ],
+          "startDate": "1941-09-16",
+          "endDate": "1941-09-16",
+          "observationDate": "1941-09-16",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p4-estonian-islands",
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p4-estonian-islands": [
+              "Ain Tähiste, Hiiumaa sõjasündmused oktoobris 1941, entry for 12 October: first landings and bridgehead tasks"
+            ],
+            "p3-map-islands": [
+              "13 September–5 October entry contains a conflicting 16 September Dagö bridgehead statement; not used to plot a September beachhead"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Broad island locality only. The inconsistent September naval entry is not independently resolved here. The October local landing chronology is followed; no September beachhead perimeter is inferred.",
+          "note": "Hiiumaa remains Soviet-held in this regional reconstruction. The local chronology dates the German landings to 12 October. The naval summary instead reports a 16 September bridgehead on Dagö; that conflicting entry is retained as a source limitation rather than plotted as an established beachhead.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "continued-resistance"
+        }
+      },
+      "reason": "The two sources were re-inspected: September naval summary conflicts with local 12 October landing chronology. Retain ID and island locality, replace asserted September German beachhead with qualified continued Soviet resistance."
+    },
+    {
+      "file": "public/data/history/military-operations.geojson",
+      "id": "p3-1941-09-19-hiiumaa-bridgehead",
+      "before": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-19-hiiumaa-bridgehead",
+          "title": "Hiiumaa · reported bridgehead 16 September",
+          "name": "Hiiumaa · reported bridgehead 16 September",
+          "label": "Hiiumaa · reported bridgehead 16 September",
+          "actor": "Germany",
+          "snapshots": [
+            "1941-09-19"
+          ],
+          "startDate": "1941-09-19",
+          "endDate": "1941-09-19",
+          "observationDate": "1941-09-16",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p3-map-islands": [
+              "September chronology: 13 September–5 October Baltic island entry"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+          "note": "The naval chronology reports a bridgehead on 16 September, not control of the whole island. Broad island locality only.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "bridgehead"
+        }
+      },
+      "after": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-19-hiiumaa-bridgehead",
+          "title": "Hiiumaa · Soviet-held; October landings",
+          "name": "Hiiumaa · Soviet-held; October landings",
+          "label": "Hiiumaa · Soviet-held; October landings",
+          "actor": "Soviet Union",
+          "snapshots": [
+            "1941-09-19"
+          ],
+          "startDate": "1941-09-19",
+          "endDate": "1941-09-19",
+          "observationDate": "1941-09-19",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p4-estonian-islands",
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p4-estonian-islands": [
+              "Ain Tähiste, Hiiumaa sõjasündmused oktoobris 1941, entry for 12 October: first landings and bridgehead tasks"
+            ],
+            "p3-map-islands": [
+              "13 September–5 October entry contains a conflicting 16 September Dagö bridgehead statement; not used to plot a September beachhead"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Broad island locality only. The inconsistent September naval entry is not independently resolved here. The October local landing chronology is followed; no September beachhead perimeter is inferred.",
+          "note": "Hiiumaa remains Soviet-held in this regional reconstruction. The local chronology dates the German landings to 12 October. The naval summary instead reports a 16 September bridgehead on Dagö; that conflicting entry is retained as a source limitation rather than plotted as an established beachhead.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "continued-resistance"
+        }
+      },
+      "reason": "The two sources were re-inspected: September naval summary conflicts with local 12 October landing chronology. Retain ID and island locality, replace asserted September German beachhead with qualified continued Soviet resistance."
+    },
+    {
+      "file": "public/data/history/military-operations.geojson",
+      "id": "p3-1941-09-26-hiiumaa-bridgehead",
+      "before": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-26-hiiumaa-bridgehead",
+          "title": "Hiiumaa · reported bridgehead 16 September",
+          "name": "Hiiumaa · reported bridgehead 16 September",
+          "label": "Hiiumaa · reported bridgehead 16 September",
+          "actor": "Germany",
+          "snapshots": [
+            "1941-09-26"
+          ],
+          "startDate": "1941-09-26",
+          "endDate": "1941-09-26",
+          "observationDate": "1941-09-16",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p3-map-islands": [
+              "September chronology: 13 September–5 October Baltic island entry"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+          "note": "The naval chronology reports a bridgehead on 16 September, not control of the whole island. Broad island locality only.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "bridgehead"
+        }
+      },
+      "after": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-26-hiiumaa-bridgehead",
+          "title": "Hiiumaa · Soviet-held; October landings",
+          "name": "Hiiumaa · Soviet-held; October landings",
+          "label": "Hiiumaa · Soviet-held; October landings",
+          "actor": "Soviet Union",
+          "snapshots": [
+            "1941-09-26"
+          ],
+          "startDate": "1941-09-26",
+          "endDate": "1941-09-26",
+          "observationDate": "1941-09-26",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p4-estonian-islands",
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p4-estonian-islands": [
+              "Ain Tähiste, Hiiumaa sõjasündmused oktoobris 1941, entry for 12 October: first landings and bridgehead tasks"
+            ],
+            "p3-map-islands": [
+              "13 September–5 October entry contains a conflicting 16 September Dagö bridgehead statement; not used to plot a September beachhead"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Broad island locality only. The inconsistent September naval entry is not independently resolved here. The October local landing chronology is followed; no September beachhead perimeter is inferred.",
+          "note": "Hiiumaa remains Soviet-held in this regional reconstruction. The local chronology dates the German landings to 12 October. The naval summary instead reports a 16 September bridgehead on Dagö; that conflicting entry is retained as a source limitation rather than plotted as an established beachhead.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "continued-resistance"
+        }
+      },
+      "reason": "The two sources were re-inspected: September naval summary conflicts with local 12 October landing chronology. Retain ID and island locality, replace asserted September German beachhead with qualified continued Soviet resistance."
+    },
+    {
+      "file": "public/data/history/military-operations.geojson",
+      "id": "p3-1941-09-29-hiiumaa-bridgehead",
+      "before": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-29-hiiumaa-bridgehead",
+          "title": "Hiiumaa · reported bridgehead 16 September",
+          "name": "Hiiumaa · reported bridgehead 16 September",
+          "label": "Hiiumaa · reported bridgehead 16 September",
+          "actor": "Germany",
+          "snapshots": [
+            "1941-09-29"
+          ],
+          "startDate": "1941-09-29",
+          "endDate": "1941-09-29",
+          "observationDate": "1941-09-16",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p3-map-islands": [
+              "September chronology: 13 September–5 October Baltic island entry"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Original regional interpretation anchored to named localities. The point denotes a sector, not headquarters coordinates or a full formation footprint; route bends are schematic. Component reporting times differ.",
+          "note": "The naval chronology reports a bridgehead on 16 September, not control of the whole island. Broad island locality only.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "bridgehead"
+        }
+      },
+      "after": {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.9,
+            58.8
+          ]
+        },
+        "properties": {
+          "id": "p3-1941-09-29-hiiumaa-bridgehead",
+          "title": "Hiiumaa · Soviet-held; October landings",
+          "name": "Hiiumaa · Soviet-held; October landings",
+          "label": "Hiiumaa · Soviet-held; October landings",
+          "actor": "Soviet Union",
+          "snapshots": [
+            "1941-09-29"
+          ],
+          "startDate": "1941-09-29",
+          "endDate": "1941-09-29",
+          "observationDate": "1941-09-29",
+          "reportingTime": "Dated synthesis; consult individual reference locators",
+          "operationalContext": true,
+          "sourceIds": [
+            "p4-estonian-islands",
+            "p3-map-islands"
+          ],
+          "sourceLocators": {
+            "p4-estonian-islands": [
+              "Ain Tähiste, Hiiumaa sõjasündmused oktoobris 1941, entry for 12 October: first landings and bridgehead tasks"
+            ],
+            "p3-map-islands": [
+              "13 September–5 October entry contains a conflicting 16 September Dagö bridgehead statement; not used to plot a September beachhead"
+            ]
+          },
+          "accuracy": "Regional interpretation; not a surveyed tactical position",
+          "uncertainty": "Broad island locality only. The inconsistent September naval entry is not independently resolved here. The October local landing chronology is followed; no September beachhead perimeter is inferred.",
+          "note": "Hiiumaa remains Soviet-held in this regional reconstruction. The local chronology dates the German landings to 12 October. The naval summary instead reports a 16 September bridgehead on Dagö; that conflicting entry is retained as a source limitation rather than plotted as an established beachhead.",
+          "evidenceStatus": "reported / interpreted",
+          "locationType": "regional interpretation",
+          "category": "engagement",
+          "eventKind": "continued-resistance"
+        }
+      },
+      "reason": "The two sources were re-inspected: September naval summary conflicts with local 12 October landing chronology. Retain ID and island locality, replace asserted September German beachhead with qualified continued Soviet resistance."
+    }
+  ],
+  "newCivilianFeatures": [
+    {
+      "id": "civilian-kaunas-1941-06-25",
+      "title": "Kaunas / Kovno · anti-Jewish pogrom begins",
+      "actor": "German occupation / Lithuanian perpetrators",
+      "eventStart": "1941-06-25",
+      "eventEnd": "1941-06-26",
+      "note": "Anti-Jewish violence escalated under German occupation. The museum account dates the Slobodka pogrom to 25–26 June. This snapshot marks its beginning; it does not project the full two-day outcome backwards onto 25 June.",
+      "name": "Kaunas / Kovno · anti-Jewish pogrom begins",
+      "category": "civilian",
+      "domain": "civilian",
+      "eventKind": "persecution-context",
+      "snapshots": [
+        "1941-06-25"
+      ],
+      "startDate": "1941-06-25",
+      "endDate": "1941-06-25",
+      "observationDate": "1941-06-25",
+      "articleSlug": "barbarossa-the-first-counterattacks-1941-06-25",
+      "articleSections": [
+        "conquest-and-murder-in-kaunas"
+      ],
+      "sourceIds": [
+        "phase-i-ushmm-kovno",
+        "natural-earth-10m"
+      ],
+      "sourceLocators": {
+        "phase-i-ushmm-kovno": [
+          "Pogroms and Mass Arrests of Jews: June 25–June 30, 1941; Slobodka pogrom of 25–26 June"
+        ]
+      },
+      "locationType": "Broad city locality; not the exact atrocity site",
+      "accuracy": "Existing gazetteer settlement point; no street-level reconstruction",
+      "uncertainty": "The point identifies the city, not a specific building, route or perimeter. The event interval and selected map date are stated separately. No victim total or route is inferred.",
+      "temporalScope": "Event interval: 1941-06-25–1941-06-26. Displayed as civilian context on 1941-06-25.",
+      "label": "Kaunas / Kovno · anti-Jewish pogrom begins",
+      "geometrySource": "natural-earth-10m",
+      "historicalSource": "phase-i-ushmm-kovno",
+      "reconstructionMethod": "Existing settlement reference point; no exact crime site inferred.",
+      "verificationStatus": "Historical source and current harmonized section independently checked for this update.",
+      "rights": "Natural Earth settlement coordinates: public domain. Historical reference text paraphrased; no source photographs reproduced."
+    },
+    {
+      "id": "civilian-bialystok-1941-06-28",
+      "title": "Białystok · 27 June murder of Jewish residents",
+      "actor": "German Order Police Battalion 309",
+      "eventStart": "1941-06-27",
+      "eventEnd": "1941-06-27",
+      "note": "The USHMM family record identifies German Police Battalion 309’s murder of Jewish residents on 27 June, including people locked inside the Great Synagogue and burned alive. This is the preceding day’s civilian context for the 28 June military snapshot. No aggregate victim total is assigned to the marker.",
+      "name": "Białystok · 27 June murder of Jewish residents",
+      "category": "civilian",
+      "domain": "civilian",
+      "eventKind": "persecution-context",
+      "snapshots": [
+        "1941-06-28"
+      ],
+      "startDate": "1941-06-28",
+      "endDate": "1941-06-28",
+      "observationDate": "1941-06-27",
+      "articleSlug": "barbarossa-the-encirclement-of-minsk-1941-06-28",
+      "articleSections": [
+        "the-human-meaning-of-the-german-rear"
+      ],
+      "sourceIds": [
+        "ushmm-bialystok-27",
+        "natural-earth-10m"
+      ],
+      "sourceLocators": {
+        "ushmm-bialystok-27": [
+          "Kracowski family archival caption: Battalion 309, 27 June 1941 and the burning of the Great Synagogue"
+        ]
+      },
+      "locationType": "Broad city locality; not the exact atrocity site",
+      "accuracy": "Existing gazetteer settlement point; no street-level reconstruction",
+      "uncertainty": "The point identifies the city, not a specific building, route or perimeter. The event interval and selected map date are stated separately. No victim total or route is inferred.",
+      "temporalScope": "Event interval: 1941-06-27–1941-06-27. Displayed as civilian context on 1941-06-28.",
+      "label": "Białystok · 27 June murder of Jewish residents",
+      "geometrySource": "natural-earth-10m",
+      "historicalSource": "ushmm-bialystok-27",
+      "reconstructionMethod": "Existing settlement reference point; no exact crime site inferred.",
+      "verificationStatus": "Historical source and current harmonized section independently checked for this update.",
+      "rights": "Natural Earth settlement coordinates: public domain. Historical reference text paraphrased; no source photographs reproduced."
+    },
+    {
+      "id": "civilian-iasi-1941-07-03",
+      "title": "Iași · pogrom and deportation context",
+      "actor": "Romanian authorities, military and police; German participation",
+      "eventStart": "1941-06-28",
+      "eventEnd": "1941-06-30",
+      "note": "The commission describes late-June mass violence against Jews in Iași, involving Romanian state institutions and German participants, followed by lethal deportation trains. This is retrospective context for the 3 July Prut operations. The city marker supplies no invented train route or combined victim total.",
+      "name": "Iași · pogrom and deportation context",
+      "category": "civilian",
+      "domain": "civilian",
+      "eventKind": "persecution-context",
+      "snapshots": [
+        "1941-07-03"
+      ],
+      "startDate": "1941-07-03",
+      "endDate": "1941-07-03",
+      "observationDate": "1941-06-28",
+      "articleSlug": "barbarossa-the-soviet-union-responds-1941-07-03",
+      "articleSections": [
+        "the-violence-behind-the-southern-front"
+      ],
+      "sourceIds": [
+        "romania-commission-iasi",
+        "natural-earth-10m"
+      ],
+      "sourceLocators": {
+        "romania-commission-iasi": [
+          "Final Report, section The Iasi Pogrom, PDF pp. 16–23; chronology of late June and the deportation trains"
+        ]
+      },
+      "locationType": "Broad city locality; not the exact atrocity site",
+      "accuracy": "Existing gazetteer settlement point; no street-level reconstruction",
+      "uncertainty": "The point identifies the city, not a specific building, route or perimeter. The event interval and selected map date are stated separately. No victim total or route is inferred.",
+      "temporalScope": "Event interval: 1941-06-28–1941-06-30. Displayed as civilian context on 1941-07-03.",
+      "label": "Iași · pogrom and deportation context",
+      "geometrySource": "natural-earth-10m",
+      "historicalSource": "romania-commission-iasi",
+      "reconstructionMethod": "Existing settlement reference point; no exact crime site inferred.",
+      "verificationStatus": "Historical source and current harmonized section independently checked for this update.",
+      "rights": "Natural Earth settlement coordinates: public domain. Historical reference text paraphrased; no source photographs reproduced."
+    }
+  ],
+  "sharedImprovements": [
+    "All 49 states read study context directly from their current harmonized article, including passage-linked native note evidence.",
+    "PNG exports retain full selected-date evidence and restore the previous camera after a north-up export.",
+    "Search includes existing dated front features, not only formations and operations.",
+    "Postwar Volgodonsk, Zheleznogorsk and the Dubna gazetteer point are suppressed across the entire pre-1943 period; no older village location is substituted.",
+    "Existing label collision improvements are applied to countries and high-level formations.",
+    "Stalino replaces the western Donetsk modern label for all Volume One dates, extending the existing Phase V rule. Source: Internet Encyclopedia of Ukraine, Donetsk oblast, cities section (Stalino, 1929–1961)."
+  ],
+  "preserved": "All chapter bodies, native-note text, asides, tables and article IDs remain byte-identical to the verified combined baseline."
+}

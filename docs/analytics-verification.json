@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-28",
+  "status": "Google Analytics removed at user request",
+  "checked": [
+    "No tracking runtime, measurement ID or tag loader in application code",
+    "No consent prompt or persistent analytics button",
+    "Former privacy URL retained as a plain removal notice"
+  ],
+  "productionStatus": "Working source only; no production deployment performed"
+}

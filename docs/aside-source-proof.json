@@ -1,0 +1,2142 @@
+{
+  "sourceFiles": {
+    "1": {
+      "file": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7"
+    },
+    "2": {
+      "file": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801"
+    }
+  },
+  "asides": [
+    {
+      "route": "/articles/molotov-ribbentrop-pact-1939-08-23",
+      "anchor": "aside-a-nonaggression-treaty",
+      "title": "Neighbours called away",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "7097ed8f15d0d11c7bf5b01bc931c352780853448027c09d988e87212e186d87",
+        "37d26b0c95c12c7a5f78e484caa93ae734d0cc1d6fbb4e6a2ee908679c2f5d1b"
+      ],
+      "sourceNoteIds": [
+        "20"
+      ],
+      "sourceNotes": {
+        "20": {
+          "sourceId": "aside-v1-reference-20",
+          "textSha256": "5916cde7c542107d75e5bbe289469efcbbdf4ad0ae1bc5f7128a109f59472bca",
+          "rawTextSha256": "5f997c07bbbf08f47761f0409000aa5d02dae629f695ce64e8a36541b12b2959"
+        }
+      }
+    },
+    {
+      "route": "/articles/german-invasion-poland-1939-09-01",
+      "anchor": "aside-lipski",
+      "title": "The proposals Lipski had never received",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "2f6e42f71c4659441959a52bb79d34c41edad27b79be09ffe862df2c0ba2bc23",
+        "2c1953ad4e00b5dd8481a9f267077257635e15ed1daec106acc98d74ebad3fd3"
+      ],
+      "sourceNoteIds": [
+        "25"
+      ],
+      "sourceNotes": {
+        "25": {
+          "sourceId": "aside-v1-reference-25",
+          "textSha256": "a65d051a50af0211bbe3d074971c2b9a041e174486d4f78fc2bd75fef1d18f06",
+          "rawTextSha256": "810c7ee8bdbd09837bbc7bc6a206fcb0d2ceaa7c7cc43ed391f25fdfd5499771"
+        }
+      }
+    },
+    {
+      "route": "/articles/soviet-invasion-poland-1939-09-17",
+      "anchor": "aside-three-kilometres-from-a-battle",
+      "title": "Three kilometres from a battle",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "e1f6f1560d6fb1056bf0a3df19508fe845d83b387752155a0023be7f37ff7e5c",
+        "a6af0872293bcc682e0e4c8fc4204b89d879d05435583ab01aa78fd92e008d91",
+        "7cd1c5e2ee011a306c13e0019391dec8a01a0e4a24d3e7a0658f6f67c7a6a158"
+      ],
+      "sourceNoteIds": [
+        "56"
+      ],
+      "sourceNotes": {
+        "56": {
+          "sourceId": "aside-v1-reference-56",
+          "textSha256": "a4e4af803f6cf78f44c526746c0353ca21f764739caa8e96b5fe3a3b0180cc68",
+          "rawTextSha256": "18e0d3a59b590b86ba7e7b4731467998c1f54ddae4d9ea2cc1b3b76cca672caf"
+        }
+      }
+    },
+    {
+      "route": "/articles/soviet-invasion-poland-1939-09-17",
+      "anchor": "aside-simonov-s-remembered-reaction",
+      "title": "Simonov hears two invasions differently",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "c5e8abdc4dbc876444dfd253efb1ecc82158d3422c4cd96b19d3bdcae931a9fd",
+        "290b9f6f9a9552e17ff7821ad8636bd1756e1ddb5fb770919388cb2ad42769b7",
+        "8b88f6c34e5a2c7fe11c8d3e5058a786f014dcf1599592a3091c34f09e360a74"
+      ],
+      "sourceNoteIds": [
+        "61"
+      ],
+      "sourceNotes": {
+        "61": {
+          "sourceId": "aside-v1-reference-61",
+          "textSha256": "1678d6469ac9895d4ca18787367f313c14acc33bbac37819f295ff7a45d24e92",
+          "rawTextSha256": "9ef50e0b105a0283d9469bf3ea0dcebc2658e0a898a29053a2c1c438f82b2ac7"
+        }
+      }
+    },
+    {
+      "route": "/articles/german-soviet-boundary-treaty-1939-09-28",
+      "anchor": "aside-a-treaty-dated-before-its-signing",
+      "title": "Five hours for two cabbages",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "3e05843a2120b3355d3772592986fcaf31f0c26ae60c6da42ea59154f1cffb28",
+        "ee95d06230efd0dadf3a5489e2b637e52a503887c5f76abfdbbdfe8203efc322"
+      ],
+      "sourceNoteIds": [
+        "91"
+      ],
+      "sourceNotes": {
+        "91": {
+          "sourceId": "aside-v1-reference-91",
+          "textSha256": "44b35549fafc6dc521c12d5bbbd3008cabcccae95335155cb84769d2ffabba26",
+          "rawTextSha256": "e133254d91c7d492a8a5194526d7ce70b366557a83a6cbf95c8808f957b5cf12"
+        }
+      }
+    },
+    {
+      "route": "/articles/german-occupation-administration-1939-10-26",
+      "anchor": "occupation-changeover",
+      "title": "The certificates a doctor feared to issue",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "4d2b7248a1883bda086f6a4eb07419d0446bec0b0de01f25bfdd5e68e5f8200f",
+        "e4091e2004a1ce149013950a0c2b8143caefd7afdf1f04ef0962d0a1d4bebcea",
+        "c581b9db8f321fb047092e64d3ad8df7e1d6da40a8052123d180d8e4b7b494d8"
+      ],
+      "sourceNoteIds": [
+        "104"
+      ],
+      "sourceNotes": {
+        "104": {
+          "sourceId": "aside-v1-reference-104",
+          "textSha256": "d6fb69228e9b02fcf34a525f9d51ad6e7ca9859049f804510a0bbf2ac238d207",
+          "rawTextSha256": "f77fe03eea55c282de9b30b9db932cd46ca8b1a9cc4812eb04f6880f86831315"
+        }
+      }
+    },
+    {
+      "route": "/articles/german-occupation-administration-1939-10-26",
+      "anchor": "aside-covering-the-windows-in-gdynia",
+      "title": "Covering the windows in Gdynia",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "c220610bbb22b58e946f38fa2299e83a12f6a3d85c27e9692b16ac451b8cf883",
+        "44525269edc096ae5c53d4aa83421dcee87e26fffab16cb75fad2a0129caebbe"
+      ],
+      "sourceNoteIds": [
+        "107"
+      ],
+      "sourceNotes": {
+        "107": {
+          "sourceId": "aside-v1-reference-107",
+          "textSha256": "aa446ef4ecf528f413c7494e081bc26d14c8a028f5bafb8c6fc431fe6f917a69",
+          "rawTextSha256": "ab60252cf9adfeb4b03b4f9413187be70f90d29db83a5658251a3ec581bee250"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-before-the-storm-1941-06-21",
+      "anchor": "aside-stalin-was-powerful-before-he-held-every-wartime-title",
+      "title": "Two songs before the invasion",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "de4c191c9ec48a946b2e6afe322912e0b94837c27ca385b4387aff1b351b47e0",
+        "a9f2a033eb911b8189ec17d8d3bebcfcc5b7c7819de5e050d30a609285696647",
+        "e1d18656b4fb7db53494b4f0a0085ab491551fc1947fea7fb39b60b51e2f8001"
+      ],
+      "sourceNoteIds": [
+        "132"
+      ],
+      "sourceNotes": {
+        "132": {
+          "sourceId": "aside-v1-reference-132",
+          "textSha256": "09972119b1dc0eab2fc4d73ec3624136a3ed826b1ce09ed726f7f4f16cfada55",
+          "rawTextSha256": "ad1807522a9f1c5c7da6df5dde097cc541d0b2485ee08098f2fab5bbf151f067"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-begins-1941-06-22",
+      "anchor": "aside-rovno-rivne-and-the-same-road-junction",
+      "title": "No sand in the flat",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "c20901421bbb1351e55509b2b0fe085ae4824efdf1c0464b47c31af4740c028c",
+        "2e5844a1d7d77cd51389e8521f53f83336b0b0428c78520a9e2fddb4e71a65d3",
+        "e92356df9189d55e219478ff13061cd946c4f52ca6ff1fb4af499642605cdc7f"
+      ],
+      "sourceNoteIds": [
+        "147"
+      ],
+      "sourceNotes": {
+        "147": {
+          "sourceId": "aside-v1-reference-147",
+          "textSha256": "eb9a88d70ec2a7ed5bf45003e562eae6ec1c4c598dde2f4c7b2c93c4f41ce60b",
+          "rawTextSha256": "212500f3744033fb2730581df4a217489dfd04414ab5b59a06948c155dc02940"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-first-counterattacks-1941-06-25",
+      "anchor": "aside-one-tank-and-the-scale-of-a-claim",
+      "title": "The crew on the Raseiniai road",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "1985ed56b02c602948af5fbb6c3450de728cff675e49d19c7de162fe0107fd38",
+        "c0b417ac4e81a5a435f1764e7594d2f62ad6a6f31d14ff04a0b063e7c8b3bbfa",
+        "6d4e72e8aed5a4e65b8426462eb0a8fe22717fe19f950b4ae6a8da21c4c024d5"
+      ],
+      "sourceNoteIds": [
+        "154"
+      ],
+      "sourceNotes": {
+        "154": {
+          "sourceId": "aside-v1-reference-154",
+          "textSha256": "4a4bb39bebcade2ec92493eb1fda4e803acebba2ecd79c3bcb11352a36db7a09",
+          "rawTextSha256": "06b09431c2bede01cfe7c92e163f0157af8ed8df144280a16b436528261d5f07"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-war-moves-east-1941-07-01",
+      "anchor": "aside-why-familiar-totals-can-mislead",
+      "title": "Kurt Lewin at the prison",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "c3f809096724d9fd4c10ed45d91fe6c20089e67f6458024bd9c485af25498afa",
+        "c18fc8ab1832fdd3a351a202e926ac3e220d1647010d9fb318d9b1e90970f745",
+        "6c8b91560f1c4ced887a037c23f7b33c4a3a15ecd96c0aa3d093a864f4ecdfc9"
+      ],
+      "sourceNoteIds": [
+        "188"
+      ],
+      "sourceNotes": {
+        "188": {
+          "sourceId": "aside-v1-reference-188",
+          "textSha256": "f9a96cab968f3388088df14c096550c453f76879b956128508ff76dfaf8dc8be",
+          "rawTextSha256": "5725e3d1f75ebd40d77d2cdb69879074197f30b63215ac0da3802c46fc4a0aee"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-soviet-union-responds-1941-07-03",
+      "anchor": "aside-an-order-with-conflicting-dates",
+      "title": "The refugees did not laugh",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "7fa7b23d9671e37c45ce30021d21df72743bf0f0dcefd75004998aa829f9d84c",
+        "444f6eea171b38629501f1b8ad75a8c9d9e318efcae9bd6e420898fa9b7333b6",
+        "9b668838a3bb5dd86420b11705fdd741b45ed4a23373fad2c8e91388f7dc9df3"
+      ],
+      "sourceNoteIds": [
+        "193"
+      ],
+      "sourceNotes": {
+        "193": {
+          "sourceId": "aside-v1-reference-193",
+          "textSha256": "aea592ca10a57b8fc03727c5fea5b1305cb548e4a27ce79846990f559b1f4aac",
+          "rawTextSha256": "bdbc822fcb08a07608868b149ee555fa5e16625696679d2aedafea5941883971"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-beyond-the-dnieper-1941-07-10",
+      "anchor": "vitebsk-missing-testimony",
+      "title": "The witness at the hospital",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "3d6c9968fb62f8bc4f4d8fa6eac2e9b3e02a77bd1312bd4f1f1fce0d661eee4e",
+        "6c3a22aed92e2e8b7667e0985e3e6c29c781d20b8abeb724bab1163041edd36f"
+      ],
+      "sourceNoteIds": [
+        "253"
+      ],
+      "sourceNotes": {
+        "253": {
+          "sourceId": "aside-v1-reference-253",
+          "textSha256": "54d480a6cfe8c765325cecd15793597fbccb4955af2ddc94177426e1b332d456",
+          "rawTextSha256": "4f7e5fed4db13ca68942aacea412188095b0fcb98e725eef8188761f0df6c913"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-smolensk-under-assault-1941-07-16",
+      "anchor": "ponomarev-tin",
+      "title": "Ponomarev’s mess tin",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "03480d8b62e7d4135a21084f31b5b6862d9172724bad71cb8993abaa90469711",
+        "0bed5a8d98094e54706a11da3cd55609a53db13629a778807d689e941bbfad5c",
+        "f2cb896cfde5fd74b8be4f5191c6c6c25d2cfa52ea5c796e7e50cb5130585cf5"
+      ],
+      "sourceNoteIds": [
+        "265"
+      ],
+      "sourceNotes": {
+        "265": {
+          "sourceId": "aside-v1-reference-265",
+          "textSha256": "0fa5e8520d854eabcee6399ff19a760a736559cb8d67353fe7a991da19a2737b",
+          "rawTextSha256": "ab4cb54fc0cd020b2b988a36f90a3d20e47e3b064fb941747498a2f0041854fb"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-red-army-strikes-back-1941-07-23",
+      "anchor": "aside-a-witness-whose-date-remains-uncertain",
+      "title": "A truck seen from a field",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "7977775c976ae8f74f15cb6fc3f4b966550eddc6e443879dbd6084314213a007",
+        "0b0cab536f0c5c1cbbee572598066ffb0e9cf5ecd9c8efaa4110b2d5f7c6dde0"
+      ],
+      "sourceNoteIds": [
+        "283"
+      ],
+      "sourceNotes": {
+        "283": {
+          "sourceId": "aside-v1-reference-283",
+          "textSha256": "5e405e0e07f1cf9c52a457cab885b8dc2f6e0f6ab28e51c55c37feadb4fef7a2",
+          "rawTextSha256": "a1c8e4c7a4461d9e1ea7d5494b733b88677cd8bfb12c446fbec1a70d3ffa338f"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-a-strategy-under-strain-1941-07-30",
+      "anchor": "aside-a-family-history-beyond-the-signature",
+      "title": "Two children in the family papers",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "a1bb3483d24869f45962e42134c25f94b98248cb36d752048a9b1a1d2503c8ec",
+        "d71fd6fd6aed771f2accdfdd24b8d0f2d4c8b885189d2e28638d598af9d775f3",
+        "a59329537e8f2f80a79d4127d18b203931a7d85ef9e4bfc92664521c2da5f0e0"
+      ],
+      "sourceNoteIds": [
+        "296"
+      ],
+      "sourceNotes": {
+        "296": {
+          "sourceId": "aside-v1-reference-296",
+          "textSha256": "0d06606a828b5d3b27c40b430e8ac81285b7923b7f327515daa4a8494ea642cf",
+          "rawTextSha256": "12eb8d39842f15480f9417bceb3d28f411dbaf2428026088792a0c83d64b5a8c"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-uman-encirclement-1941-08-06",
+      "anchor": "aside-buzia-leibovych-s-later-escape",
+      "title": "Buzia’s later refuge",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "48305a96775c4f1accb3be16e2fc3f565f2058eba859a30bafaf4c9095c956aa",
+        "e0cf90a3c25dbb8c33d0293fb636c10218c4459aa32b25f75688cde96b6923e5",
+        "c1e0e835c6a81fa68f3a9607d9ce0bd064f81eb7a40792da5e1ac000f193de19"
+      ],
+      "sourceNoteIds": [
+        "314"
+      ],
+      "sourceNotes": {
+        "314": {
+          "sourceId": "aside-v1-reference-314",
+          "textSha256": "108ba7f848e3a2719c8ad1c47b589ec4fab8f9b0afafd09ee654c96f5c27a315",
+          "rawTextSha256": "819ef38d216798de89b7aab2ef5323970afac81e8e505afee5493bff26c80ebb"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-fight-for-gomel-1941-08-19",
+      "anchor": "lipkina-hospital",
+      "title": "Blood carried back to a school",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "feb8a611fb8216e142cbf02efd7752f8c0438835a996c67fb02d04776b814af4",
+        "b33a38dd220bfc013a519e8cd9bc06b5f16083752d245a03d461d1f5ada9b975",
+        "30e6ff16f9dd1120d9b54a5ab27428a2fc05734ce1c872b53cd9ad0223b416be"
+      ],
+      "sourceNoteIds": [
+        "348"
+      ],
+      "sourceNotes": {
+        "348": {
+          "sourceId": "aside-v1-reference-348",
+          "textSha256": "424ee18f82067bc43a15d8d43b56a5ba6307fdd29517842bc947b40fbf4dcf07",
+          "rawTextSha256": "0354de2cbeb3dd1cbede4e7a570fe1508fc9b58d68366af7350162fdc86c6f81"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-decision-to-turn-south-1941-08-21",
+      "anchor": "aside-schoolbooks-on-an-evacuation-train",
+      "title": "Schoolbooks on an evacuation train",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "086be57b8d17828fd97f11801fefaec3585ec544787e1ba954f46228e5c6d718",
+        "b375fd29e6add5c125285277b70549e981ce4bf15b6537bb20d8738ac250d0a4",
+        "446c1afc1476356857e8ab9809d27021049ded9f5b6570e02393383437f5fda7"
+      ],
+      "sourceNoteIds": [
+        "363"
+      ],
+      "sourceNotes": {
+        "363": {
+          "sourceId": "aside-v1-reference-363",
+          "textSha256": "26d79bb4c1b7e2af1ab69b970dc5979342a1612e9574ebbbd84420c64ada9cab",
+          "rawTextSha256": "888642e51130083f5e020759ade255d8901ff99e5a0af939710c401abbaa791e"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-a-front-divided-1941-08-25",
+      "anchor": "mukhina-labour",
+      "title": "Hours on the barge and at the canal",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "a52b73ac26daa2f88aad2362ba2e7c6f29625d83cfdcb7afef2635cd0fa14046",
+        "72e9b8104705d9c87f308a8129be2c3ab80abb870db2133875be36b2e258efa0",
+        "2f8e5279e5906b70d3ef818bff8d07ae223b0fecfb9d17392bbdaaed501aa78d"
+      ],
+      "sourceNoteIds": [
+        "375"
+      ],
+      "sourceNotes": {
+        "375": {
+          "sourceId": "aside-v1-reference-375",
+          "textSha256": "6e7ae2b4fe65fc08d7b57c999b2e9647c9cd595aaa7f0a96097af7e35ecea5c0",
+          "rawTextSha256": "6f6c5e926113557e70011dd3ee0e22fdc5d4fd1b5f556fa61b22b8f20d4e650c"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "aside-a-minefield-on-the-wrong-side-of-the-report",
+      "title": "Three tanks in a Soviet minefield",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "259db8c6087cfd7882637cf079c8767180e5c0c79f3a2abab82f95c298f2de78",
+        "26b9fc8b0d50df3f021268cebdbb3675d8361da84f7c41ee145ff7ed668a9371"
+      ],
+      "sourceNoteIds": [
+        "390"
+      ],
+      "sourceNotes": {
+        "390": {
+          "sourceId": "aside-v1-reference-390",
+          "textSha256": "d0395b36a7a39db7a86c2987ff61ec43b6511814bb7f60929b75af65ffebad3d",
+          "rawTextSha256": "0da6beab26946fb9b9e5c346aa74a7cd212f9f826a3da7725c78143d2ae06fc9"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "aside-grossman-s-road-out-of-the-retreat",
+      "title": "Waiting beside a retreating column",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "d462c38990f3e195443f080d3a29b1fdde63088bbb54d7be2219aab0b103c052",
+        "babfdd71c626f22a39e200e3d5118f7c785a96aff81f835764ea8471bc3741ab",
+        "058fe5a200aaecb3e074c86b9a9befae65f5b5bbcd29877f5ecbd210443f0206"
+      ],
+      "sourceNoteIds": [
+        "393"
+      ],
+      "sourceNotes": {
+        "393": {
+          "sourceId": "aside-v1-reference-393",
+          "textSha256": "047212e876d007f99a71f076412c7e0e34e5f1482159f26f99bb7bcc1691d944",
+          "rawTextSha256": "8ea235c3c4242b14a1eb5dcd7c768248989cad7300fe2da7446a26ab5ee0fe88"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-southward-offensive-1941-08-26",
+      "anchor": "aside-children-beyond-the-operational-map",
+      "title": "A train carrying children",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "691378ead4a105d3e7483f9e7517ceea953ef9c099564c319d3871fcbdc44107",
+        "9faab86b84ec3680cd112b6f89e511747b9f6e25100ce8eeca94631aff7bd7d0",
+        "8ac464aaaebb919a18b452de8b2427957770af36a1ff32532292756391514a52"
+      ],
+      "sourceNoteIds": [
+        "395"
+      ],
+      "sourceNotes": {
+        "395": {
+          "sourceId": "aside-v1-reference-395",
+          "textSha256": "d68764c5b4987a891ca826d946eaf6ef1aaefc114016783904386087f2f72ea0",
+          "rawTextSha256": "e82e9f6e1dd73f5b56716926bc1af4a4a126978191cf5fed27a34bc98ced9665"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "aside-a-departure-that-did-not-mean-consent",
+      "title": "The anthem as the shore receded",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "0b85ed76f19943f3c8f7bcf3ed7b8d9e70103e3a20494f51286bfa987466359c",
+        "f03ce0716608a722642f38fce968450c2787e9ecad1a5e44a48b192dbb9b1946",
+        "88f64f532cdfbad5a91a7b57d7bcc750cfc4e4fe481f6d591b520edfcb1b1b97"
+      ],
+      "sourceNoteIds": [
+        "402"
+      ],
+      "sourceNotes": {
+        "402": {
+          "sourceId": "aside-v1-reference-402",
+          "textSha256": "32760c00e5af9d259a52e7e85ae9cc4562b73ac2ef5462779215547f96a0e02d",
+          "rawTextSha256": "36fa6e78ada97e96af6f3a2004734945fefef65146a8222f3a7faba1b0cd6230"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-baltic-withdrawal-1941-08-29",
+      "anchor": "aside-heino-niidas-and-the-work-of-staying-afloat",
+      "title": "A rope held between his teeth",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "ac3acaa52eaabea996b84adb232cc63e6765f9a843752b965a15fb27ff880a29",
+        "d6f8fec84b6c4f719aa3965a6e7cd7da79183b7b25e6027d5493e9905c26c4b7",
+        "908e0a07ca7b3e876c06ae463ff7718aa7fc2abe4e4b7f7bbdfd4c253d1d3c96"
+      ],
+      "sourceNoteIds": [
+        "408"
+      ],
+      "sourceNotes": {
+        "408": {
+          "sourceId": "aside-v1-reference-408",
+          "textSha256": "0932ecac49cf863e16329e7e54aadeddbcd0a276ecdfcfd094f009851a1751d0",
+          "rawTextSha256": "b9abf7cece2eb3bcde74baa0966d308df35ccf3ac8dd44f4d71d6f3ee9d040bd"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-soviet-counterstroke-1941-09-03",
+      "anchor": "aside-the-earlier-battle-remembered",
+      "title": "Finding the scouts behind the misprinted names",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "089f2e7811b544d5470816ef8984f6482d6e60fc01a9f6a49bf49a21c9384df0",
+        "688c264f8f340b8ee7e637f99cfa8ef6defa71528a52b24821b699d4b85fa6eb",
+        "195ad3a8b6d721bebddea9716b9be3ac34d6f7571c3fc13c2e903fdd98cc1728"
+      ],
+      "sourceNoteIds": [
+        "427"
+      ],
+      "sourceNotes": {
+        "427": {
+          "sourceId": "aside-v1-reference-427",
+          "textSha256": "35bc13b20f07a251dbb4e9ea29714dc98d691da2a6d84902df5a7a8204fcb4e6",
+          "rawTextSha256": "fd716998060b8a85e63c7a2d1d44e19cc7a250abf41da3db870a835fee7ce106"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-leningrad-cut-off-1941-09-08",
+      "anchor": "aside-carrying-a-sleeping-child-downstairs",
+      "title": "Carrying a sleeping child downstairs",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "be7cafdd9826873c616be26b6cd47de599e50f3679e3537369fad70bbc98649c",
+        "d331086d4fdaf6518078ceade852a00dafe542c63803eec1ef9d6d19e636f252",
+        "c9174f8f860f5dc0281d36019590571cffb1b7e00713295c6a407c99380f1d0a"
+      ],
+      "sourceNoteIds": [
+        "438"
+      ],
+      "sourceNotes": {
+        "438": {
+          "sourceId": "aside-v1-reference-438",
+          "textSha256": "a15373dceb5efad5f4b7146bbb34e48653c19de1dc363cd06023b00521f7e81d",
+          "rawTextSha256": "dcb8c9a982f07aaf1cbda30a0843950db5169009f123c194e129fdc70f73c22a"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-kiev-trap-1941-09-12",
+      "anchor": "aside-new-tanks-unfamiliar-crews",
+      "title": "Crews meeting their new tanks",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "4db9c796de9b97c783bcc33f548196faa4b0cf6835125cff2dc4d027e6bc9299",
+        "ff39ce617e7d3d42b855a932777260adcf356eea96bcc6cb77a10c4f82580866",
+        "a9feb3dbf46906b3fbe796db86d9149f36dbfed03a77dfeae7482d5ea8e2c778"
+      ],
+      "sourceNoteIds": [
+        "448"
+      ],
+      "sourceNotes": {
+        "448": {
+          "sourceId": "aside-v1-reference-448",
+          "textSha256": "6d968913a1978462e83fbaf58164e7cdae4c92d5221d0bd3c5eb232e24eb74f7",
+          "rawTextSha256": "e7826c1ff46ca2467b4eca760a952ab48610c67d4f855623a8244d98ccc84525"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "aside-a-soldier-sheltered-on-andriivskyi-descent",
+      "title": "Bread and civilian clothes on the stairs",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "7600fc100ae71d4f3d33f4f1dc5cf49c403ef2bcef07654c2c5707a61d73d22c",
+        "a2a5c624b9c7d49d3a4982268e382298763b131561169eeb5e0b940125a5dfb7",
+        "353a23f6bc89bca6798b05c62575b1ce5239316a5129c4efb3ae4cff48979020"
+      ],
+      "sourceNoteIds": [
+        "475"
+      ],
+      "sourceNotes": {
+        "475": {
+          "sourceId": "aside-v1-reference-475",
+          "textSha256": "ac320cf9840a6110a0c2b94c7123e3eb7c236ec63c09d8464a6828637f9da2e6",
+          "rawTextSha256": "5366bdd4ddcebd6a8428a9c6e2d7d1f8ca5adbe199983896344e5ed4581c2110"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-fall-of-kiev-1941-09-19",
+      "anchor": "aside-protecting-the-windows-with-bedding",
+      "title": "Bedding against the window glass",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "960caf0cf46126cb17db4bd9003f49522606eba5567ae5f368db6953e64b96e6",
+        "0a067dcd4cab173e8e82e1608a10bdb39a2bf6f6f3e85e20b2eed88179616e7f",
+        "0f1f216b056804f4fae29a54b410ad9c2cdc1c874f51a947b1f0fc38caec1b18"
+      ],
+      "sourceNoteIds": [
+        "478"
+      ],
+      "sourceNotes": {
+        "478": {
+          "sourceId": "aside-v1-reference-478",
+          "textSha256": "16fd13b140624ffbe1f750537e67c30386bc28f15b53ba9134aa5b25ce3d69ca",
+          "rawTextSha256": "965f28d9294426d8f7faffa936f2678150966e14264659dec47a0bb9ebdf8e36"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-drive-on-moscow-1941-10-02",
+      "anchor": "aside-ammunition-through-orel",
+      "title": "Steinhardt and Cripps leave the room",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "30983ba47e50c0660db2839f0e6e6d41e2e4b92a80e48da4fa6ec59e81c11634",
+        "fef625dfdd4b7809dc497db7a9783415d11457f51a17fa05431dd6303c025fbf",
+        "8c9a54891ad50c8e106f1ea52f5cdf688dc13dd3fafc0d3cbdb0282d9bdb679c"
+      ],
+      "sourceNoteIds": [
+        "533"
+      ],
+      "sourceNotes": {
+        "533": {
+          "sourceId": "aside-v1-reference-533",
+          "textSha256": "1c4d14ae019133ffc2fda32be7430d509c2d19e47d15ba545311566f2a3ab188",
+          "rawTextSha256": "e255195163aef8c1fa812f72aefa7d6073af361baa33825f75f4bed1cb15e8c7"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-moscow-under-siege-1941-10-19",
+      "anchor": "aside-when-infantry-overtook-tanks",
+      "title": "Tank crews considered for the march",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "7ef129ce46f8021f160076da9398b956db02bcfd21a05ca18f04bd96859d5ff1",
+        "a80f61719563664e4472afdf4767cd9e3fbea69f07032492cd341974430a1912"
+      ],
+      "sourceNoteIds": [
+        "589"
+      ],
+      "sourceNotes": {
+        "589": {
+          "sourceId": "aside-v1-reference-589",
+          "textSha256": "bbe4856c18482c8966c0addc760346628c6f49d5b3f99e8b02d9eb8218e5af20",
+          "rawTextSha256": "c406e9fba0508c7275875463a7954b473c37c2db3dbe833c58171965dfcb1fa0"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-southern-advance-1941-10-24",
+      "anchor": "aside-a-factory-travels-with-its-workforce",
+      "title": "Nikolai Krivda’s work goes east",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "1c246e30d6001cab39c5781df01d122f61feb1eec280e11ee1808bc0c78cf2bc",
+        "680c440bda5b9a3b8b31ecaa1d1521b023c467a079b95c4ecca870b2b083e006",
+        "83dbdd478f1daea1d24bf8ba88c446d344e9f2f8cd97deee61c00ad60d8cca4b"
+      ],
+      "sourceNoteIds": [
+        "602"
+      ],
+      "sourceNotes": {
+        "602": {
+          "sourceId": "aside-v1-reference-602",
+          "textSha256": "05f1f2665d5ae3c22366e0cda2900dee849ade78b43a24eea3e3945e080db87e",
+          "rawTextSha256": "1fd123694f01bdb8e254f7edf7e5d40d943d5d33906f55fbef24f5f41bf5e236"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "anchor": "aside-an-attack-ordered-again",
+      "title": "Barabanov’s detachment after the failed attack",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "677d3a93ca55567386ed42b6bb8abc8a8191542eeaddd572ea8a47530871cedf",
+        "66944812b49374e74d92e4d89c3c8eefaaf2d1ca47d960b2f2488ac4c422b57a",
+        "2ef7d2c35d1c4a4c590e48de2de3241e0d4101e280b31138f36aaf9835ab7531"
+      ],
+      "sourceNoteIds": [
+        "635"
+      ],
+      "sourceNotes": {
+        "635": {
+          "sourceId": "aside-v1-reference-635",
+          "textSha256": "a84d094e76ecde4066be50c4ae6c437421c09ed33e62098a227d0833f1c86c8e",
+          "rawTextSha256": "a1cc5c82ae69def17404c88cc1b4e98bc0a38b0f7554c925cec4a6b27d7fe42b"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-battle-for-tikhvin-1941-11-09",
+      "anchor": "aside-lena-mukhina-s-earlier-service",
+      "title": "Irina Zelenskaya and the dinner passes",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "d1f295415c634b5401810ee792aec48870d3487d3fd98c23e172d8f2c7a68cca",
+        "56d372fa3efa8e292d07af47753de36a46e5ed2db151d6def4e6b212d4229df1",
+        "38d83a70f9186d35053244514e6f670fc7ddd1dbdf71715e8a4f7ca19fee8f8d"
+      ],
+      "sourceNoteIds": [
+        "640"
+      ],
+      "sourceNotes": {
+        "640": {
+          "sourceId": "aside-v1-reference-640",
+          "textSha256": "b23de6d7fed98ab9e29b7ac4870b2e1be71f66409067bf2066498ecd52bd0867",
+          "rawTextSha256": "3d68d0dd8b6f753ac6d08af3950c748121794c0d77a3b2b56f471fd8211b4504"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-edge-of-winter-1941-11-14",
+      "anchor": "aside-an-unmade-peace-offer",
+      "title": "Fromm’s suggestion to Brauchitsch",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "69feb3c0766a967d2b7cab4a680a2c6669c285381c9b33f3e73699d2c15d5428",
+        "717b17a1096513c789cda7d45c99a25b877d6f68cdb3b8bfcd0069f8d34d22bd",
+        "5bb48f9cf1ae5cfef8cd8d54e500381616ddc5c89b42ac6361357e710850d035"
+      ],
+      "sourceNoteIds": [
+        "652"
+      ],
+      "sourceNotes": {
+        "652": {
+          "sourceId": "aside-v1-reference-652",
+          "textSha256": "d69b70a0648c19bf655a1cb459f9b74b180da9df71d3ebaf5173ce26a6fa19b6",
+          "rawTextSha256": "d69b70a0648c19bf655a1cb459f9b74b180da9df71d3ebaf5173ce26a6fa19b6"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-edge-of-winter-1941-11-14",
+      "anchor": "aside-learning-to-support-the-tanks",
+      "title": "The guns that did not reach Kuzovlevo",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "d5df27a4fc8faa9025d5d60cd27620d8a2758c9e5e0b0becfaa09b17124581ae",
+        "5c2438c97dc544f2b71d901b6212de8eb5d777b5a5b3daa53644905cd7a8f991",
+        "b6673d003a8d1e0f84a143d18d155213c633856d02448c88dbdaf2a01cca97a2"
+      ],
+      "sourceNoteIds": [
+        "658"
+      ],
+      "sourceNotes": {
+        "658": {
+          "sourceId": "aside-v1-reference-658",
+          "textSha256": "f04231f36d0752494dbd7ecfae6f3bfcb0f0ecf3645c00cdc9f38d743ccf4f34",
+          "rawTextSha256": "11ae8427fd5b43b98f92161d00adfa9f6bf5764149bc1c1dbd0cf9013b4212bf"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-final-offensive-1941-11-15",
+      "anchor": "aside-a-name-recovered-after-seventy-one-years",
+      "title": "Sergei’s name survives in the capsule",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "90d41fdfb1c52d3ca5558725189f447cb01a238521fd6a7ed242d63ee1af8bbf",
+        "89ed60febdbe4c0a0c52b81f194fc40ec40bc50774ea2dee850078051e9d2f84",
+        "206b7d838e8eec3ab7bedd999b2df031c8a7763ad365f11bf8ed8f21bc3e714c"
+      ],
+      "sourceNoteIds": [
+        "675"
+      ],
+      "sourceNotes": {
+        "675": {
+          "sourceId": "aside-v1-reference-675",
+          "textSha256": "417e6147b4aec759f59c575e37e495427ba6bfec06300f0624ac111ba2382a43",
+          "rawTextSha256": "8b8a7483b738729d3656ddf9fee7e9d684358886b73d97c4b50cb776ce38ea25"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-southern-pincer-1941-11-18",
+      "anchor": "aside-a-workers-regiment-begins-with-a-decision",
+      "title": "Civilian jobs in the workers’ regiment",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "703b440854aa703db720b5f6280206017f1bd89ffee57c4cc17a8ade0d723ec1",
+        "1ee0d2b4b3a2466d5a02b49b50c6d73d13cbab002c385faad474a81e6b1a832a",
+        "4a3d7bf5fe9c88ac97e358f9c4ca34d2d079afab07a1bcb0f4e9c920ec4e3ae1"
+      ],
+      "sourceNoteIds": [
+        "680"
+      ],
+      "sourceNotes": {
+        "680": {
+          "sourceId": "aside-v1-reference-680",
+          "textSha256": "e9e49c4383b6b9dc6c580051eb7e213bd0540a6f5a31add9dc0af66172bfdb67",
+          "rawTextSha256": "56397dabbbe34f17594ad1ba54894e803c209eba848a877849b10d0907d9b925"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-rostov-falls-1941-11-21",
+      "anchor": "aside-rostov-in-an-ambassador-s-proposal",
+      "title": "Cripps criticizes London’s decision",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "711c88687fecdeded43c599b56518e6c6dc44cc7e8218426d75342c90b9370cf",
+        "d326a2e6a0f199938dba53069a6604be832ee376072c8c601d5a9c7f648e6880",
+        "60e5b3d85403a2d87db9dc39be790296ff84732e65cae011483423e9226ae614"
+      ],
+      "sourceNoteIds": [
+        "709"
+      ],
+      "sourceNotes": {
+        "709": {
+          "sourceId": "aside-v1-reference-709",
+          "textSha256": "c9c3cd07458b91b298625d7d53149d00a743d12f29a9db024958545b2f3acc45",
+          "rawTextSha256": "4a66ee134fc05fef64d4e3b00c59686c3092d32ddf20986de8a10a5e8a2f6e4b"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-the-northern-pincer-1941-11-24",
+      "anchor": "aside-the-employees-who-remained",
+      "title": "Four employees at Tchaikovsky’s house",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "d2a41f6aa1852b70b7ba466897e063f3c804f048fda7886a1b4d1d6f94cb3d81",
+        "6b517045abc6e6625f1e6d0e8be3812a48947ef9ee032e34066192fe3ce8d811",
+        "2c4d645ba187e7711d9d2cb42284ef9f9b4928c6b0c324c385598baae6bb2614"
+      ],
+      "sourceNoteIds": [
+        "721"
+      ],
+      "sourceNotes": {
+        "721": {
+          "sourceId": "aside-v1-reference-721",
+          "textSha256": "45606f16aab14025ab1214bb0e6afd00cc93518af79273828f9bd937f263cdd1",
+          "rawTextSha256": "5b11852b9ebec9feb72cb607f520e9041dd2f955f1442039b62fd0bce88f69f0"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-at-the-moscow-volga-canal-1941-11-28",
+      "anchor": "aside-food-after-the-demolitions",
+      "title": "Musienko brings food back",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "205202f973a2e12985981e04b360c1c5ef298d3132672b6e0fd522ee8dd320af",
+        "711ecca2b87af757ed06fb904026f3e1b24a3edea5f12edc28e6542c36018b36",
+        "0ee465a0da90397857d11f4794e363738f28044df898b8323b9d31bd9c8d7058"
+      ],
+      "sourceNoteIds": [
+        "738"
+      ],
+      "sourceNotes": {
+        "738": {
+          "sourceId": "aside-v1-reference-738",
+          "textSha256": "dcdf3f5125743db64d809283538f92da6b1bffe0488091d189c744ec6ef2596a",
+          "rawTextSha256": "d36ce3bcfa5dcf7669e610586612b92a00729a25b3f94415765cd84f0dd79a28"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-rostov-retaken-1941-11-29",
+      "anchor": "aside-a-family-in-the-testimony",
+      "title": "The Magals in their neighbours’ account",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "5ae1db7bb52d47f21b3d25d27df98ab182ce073b673e42b5dcf0a137a9f0c598",
+        "2d77564fbc3d6e198c4018c0b64e72c4f9c71c74418101682e004839b1ad9107",
+        "1e31fbccb70c859ae81653af3c926ef80c0757eac073726f2dd07a0e11370e51"
+      ],
+      "sourceNoteIds": [
+        "752"
+      ],
+      "sourceNotes": {
+        "752": {
+          "sourceId": "aside-v1-reference-752",
+          "textSha256": "ab0854f38310cd43444adceb3439e7a612f2d182956288997dba04f49a75c94f",
+          "rawTextSha256": "22443f1e803bc072c7bfe740f6ffff0e0ccaa36b88a6d6ee6b964591715b252b"
+        }
+      }
+    },
+    {
+      "route": "/articles/barbarossa-exhausted-1941-12-05",
+      "anchor": "aside-a-birthday-measured-in-food",
+      "title": "Lena counts the birthday sweets",
+      "sourceFile": "01_Ostkrieg_Volume_One_v1_1_0.docx",
+      "sourceSha256": "f05f5f98036a1c56f1a20a1d7ffb515f85c42952d1427803d93f691b6d8a00e7",
+      "paragraphTextSha256": [
+        "419940f6fecb9013e50b279ab113a241e3356bdaa1ec26c9f81f867d2171d133",
+        "d2b7f4e8fbe88dedef98d5e178beef1829712c690c8d325713651184b9425d85",
+        "e6162867289dab574d6ccdab5adbab1b0f11f5f2a0ef6bb0c287524877c06806"
+      ],
+      "sourceNoteIds": [
+        "777"
+      ],
+      "sourceNotes": {
+        "777": {
+          "sourceId": "aside-v1-reference-777",
+          "textSha256": "adda237f1286705d1f6b97306865ee56da28f8e44954a8d9ab4d38b2a938dce3",
+          "rawTextSha256": "718db15f4bff2fcccc61d81da44717630ec5ebd328f91d2aa1fbac1a59d47677"
+        }
+      }
+    },
+    {
+      "route": "/articles/moscow-counterstroke-tikhvin-and-the-lifeline-to-leningrad",
+      "anchor": "aside-bread-for-tomorrow",
+      "title": "Bread saved for tomorrow",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "73bafc539901ecc418c86361a9f3a9a63e83d1669281618d6612c204a71d4a20"
+      ],
+      "sourceNoteIds": [
+        "46"
+      ],
+      "sourceNotes": {
+        "46": {
+          "sourceId": "aside-v2-reference-46",
+          "textSha256": "2c246a20dd5fb19f1bc1d0cf41cd53a1f57f05aa324cab510e20d60541bfb608",
+          "rawTextSha256": "9aff33c88534c4cdbfbb978ebd83dd29f128838e62fda525d9aaa80e836091a1"
+        }
+      }
+    },
+    {
+      "route": "/articles/moscow-counterstroke-tikhvin-and-the-lifeline-to-leningrad",
+      "anchor": "aside-the-buses-that-failed-to-reach-ladoga",
+      "title": "Children stranded on the Ladoga route",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "ab194fff82c7f66308bd84a1ce53517e8418acd0ce665c0ba51aa2815cb92b7a"
+      ],
+      "sourceNoteIds": [
+        "54"
+      ],
+      "sourceNotes": {
+        "54": {
+          "sourceId": "aside-v2-reference-54",
+          "textSha256": "02e5a74bdb43cc2f8d088c04b933ffc2fd6729139bbde3b9366b6d898f7b5415",
+          "rawTextSha256": "02e5a74bdb43cc2f8d088c04b933ffc2fd6729139bbde3b9366b6d898f7b5415"
+        }
+      }
+    },
+    {
+      "route": "/articles/moscow-counterstroke-the-ground-recovered",
+      "anchor": "aside-concealing-uncle-misha",
+      "title": "A dress for Uncle Misha",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e78f181904cbc0e95373581ee12e33865febabdcd9748c363a984c5b8ec676b4"
+      ],
+      "sourceNoteIds": [
+        "77"
+      ],
+      "sourceNotes": {
+        "77": {
+          "sourceId": "aside-v2-reference-77",
+          "textSha256": "28dba17a9c04ed2d23b855c0b505e31cab26ef87f6887b916b504c866531cfd6",
+          "rawTextSha256": "509ba2bf3a889a4df4c9e17f854f441c5acb25f28b4973379d2fff5a2d818a68"
+        }
+      }
+    },
+    {
+      "route": "/articles/moscow-counterstroke-the-ground-recovered",
+      "anchor": "aside-eden-s-visit-to-klin",
+      "title": "Rittikh records the damage at Klin",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "d4280703b8f6fa1f4dddc61f440ad14e331916349b4a8ecb18a4d6153afee45e"
+      ],
+      "sourceNoteIds": [
+        "83"
+      ],
+      "sourceNotes": {
+        "83": {
+          "sourceId": "aside-v2-reference-83",
+          "textSha256": "93e825c1a3d32a5582afd61082ec207fe9d7a116bfa8fe4373990a39070092f4",
+          "rawTextSha256": "8a4ec6940eb61f408c57f11d2f4dc0ba14c512ffec765b98f117d94440dd822e"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-rzhev-and-vyazma",
+      "anchor": "aside-karnaukhov-s-scattered-battalion",
+      "title": "Karnaukhov assembles his battalion",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e969a13e82101eb651e5daefe7f0d922548923064f83c64c9948f132addf425f"
+      ],
+      "sourceNoteIds": [
+        "106"
+      ],
+      "sourceNotes": {
+        "106": {
+          "sourceId": "aside-v2-reference-106",
+          "textSha256": "4cf7c159ecf129106d6117d0ced949cf197616590489d722eadf9404c345d761",
+          "rawTextSha256": "28bb8e3ef98ced04f5e5a7075db1493bb39767c2d5f6d78271740dd47f918c7d"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-rzhev-and-vyazma",
+      "anchor": "aside-landing-an-aircraft-behind-the-front",
+      "title": "Soldatov’s troops arrive by airlanding",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "3f5d4c12a0a2e3347216261f6832f6dfef562731fd4451439c4c734413cbdd5b"
+      ],
+      "sourceNoteIds": [
+        "108"
+      ],
+      "sourceNotes": {
+        "108": {
+          "sourceId": "aside-v2-reference-108",
+          "textSha256": "86c9e740ae2b6364978a8229d3f054f868cab6318936ead4a3d1680ba9f51a07",
+          "rawTextSha256": "86c9e740ae2b6364978a8229d3f054f868cab6318936ead4a3d1680ba9f51a07"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-rzhev-and-vyazma",
+      "anchor": "aside-the-wounded-in-zhorov-s-care",
+      "title": "Zhorov’s column of wounded men",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "244a32ac8e71bc1a10ee451dd822b36ec40033a3e1df6ae41075408fc7325c86"
+      ],
+      "sourceNoteIds": [
+        "118"
+      ],
+      "sourceNotes": {
+        "118": {
+          "sourceId": "aside-v2-reference-118",
+          "textSha256": "ad307bce7ec8067ecdbf7cbfad4e446de9e73d521923fc88539ac2dda548aa1c",
+          "rawTextSha256": "a9cc6f068adb10684e64e3f2ae7e219cb5dea31a3de0f8ec625cb0736ed39fbb"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-toropets-and-the-kholm-pocket",
+      "anchor": "aside-possessions-buried-at-kholm",
+      "title": "Belov’s neighbours bury their possessions",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "8378aed64380b1f2eda12b84aa0480a38d5d08a49fc7075a25c088cc79d7a863"
+      ],
+      "sourceNoteIds": [
+        "133"
+      ],
+      "sourceNotes": {
+        "133": {
+          "sourceId": "aside-v2-reference-133",
+          "textSha256": "556544735eb746324984f40c597431e7d9fcc92609ecf1eddf57d0d9cc3e7ad8",
+          "rawTextSha256": "556544735eb746324984f40c597431e7d9fcc92609ecf1eddf57d0d9cc3e7ad8"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-demyansk-and-the-limits-of-encirclement",
+      "anchor": "aside-clearing-a-transport-airfield",
+      "title": "Room to unload at Demyansk",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "00288b90ee75e86086d78e195dfdce56bc6d69437d14fd52fc240bfa9089f350"
+      ],
+      "sourceNoteIds": [
+        "145"
+      ],
+      "sourceNotes": {
+        "145": {
+          "sourceId": "aside-v2-reference-145",
+          "textSha256": "e383188b3cbe40025d5736cf8091c8a062cf6ca8eb9f5035facfb361b7b247d9",
+          "rawTextSha256": "e383188b3cbe40025d5736cf8091c8a062cf6ca8eb9f5035facfb361b7b247d9"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-demyansk-and-the-limits-of-encirclement",
+      "anchor": "aside-fighters-without-their-ground-crews",
+      "title": "Borrowed mechanics for the 33rd Fighter Regiment",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "1efce5dc1ea911a9567a4b511c8e61677e400f10996edfbdd3f3f8091549124b"
+      ],
+      "sourceNoteIds": [
+        "149"
+      ],
+      "sourceNotes": {
+        "149": {
+          "sourceId": "aside-v2-reference-149",
+          "textSha256": "e82a919b117c0a5c4aba323cadc99587e6bb41182cefef66d1fc68dbb4b396fe",
+          "rawTextSha256": "e82a919b117c0a5c4aba323cadc99587e6bb41182cefef66d1fc68dbb4b396fe"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-the-lyuban-offensive-and-2nd-shock-army",
+      "anchor": "aside-the-journey-to-the-aid-post",
+      "title": "Vakhonin’s plywood sledge",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "110de3a6fb410dc4316f562acd030672111257d940d72e2cbb7fb66d98b80ca2"
+      ],
+      "sourceNoteIds": [
+        "180"
+      ],
+      "sourceNotes": {
+        "180": {
+          "sourceId": "aside-v2-reference-180",
+          "textSha256": "9e2f284ad60c203fb84fc16dcf19e3a7a39ea5a5cd5d0b3ddb7866904355b4a2",
+          "rawTextSha256": "9e2f284ad60c203fb84fc16dcf19e3a7a39ea5a5cd5d0b3ddb7866904355b4a2"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-the-lyuban-offensive-and-2nd-shock-army",
+      "anchor": "aside-afanasyev-s-return-to-service",
+      "title": "Afanasyev reaches the partisans",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "883fa6f1edf7bc1fbac10d310fb03b2851af502e93aa6bbd309ca4e171b6adff"
+      ],
+      "sourceNoteIds": [
+        "185"
+      ],
+      "sourceNotes": {
+        "185": {
+          "sourceId": "aside-v2-reference-185",
+          "textSha256": "dfb98ba2f9589ca3c17a69e02330d34e9071127343346147ce870bc61179fe4c",
+          "rawTextSha256": "dfb98ba2f9589ca3c17a69e02330d34e9071127343346147ce870bc61179fe4c"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-offensive-the-barvenkovo-salient",
+      "anchor": "aside-food-for-prisoners-at-lozovaya",
+      "title": "Food withheld from prisoners at Lozovaya",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "7e8503d1c657aeb9453ae6389c90e681e7f65f2f9a6743f26723001f0fe3938e"
+      ],
+      "sourceNoteIds": [
+        "200"
+      ],
+      "sourceNotes": {
+        "200": {
+          "sourceId": "aside-v2-reference-200",
+          "textSha256": "4c36b68820d804b50f526b9f60328d29523d220e90c5ce79718cfbb5f80e7235",
+          "rawTextSha256": "4c36b68820d804b50f526b9f60328d29523d220e90c5ce79718cfbb5f80e7235"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-occupation-becomes-a-system",
+      "anchor": "aside-out-of-the-shirokaya-street-camp",
+      "title": "Wasyl B.’s unfinished apprenticeship",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "7f4429c56c5be76f00badbfbf7754897bb70cbc87ebeba8f3e56ccafa857b8d6"
+      ],
+      "sourceNoteIds": [
+        "234"
+      ],
+      "sourceNotes": {
+        "234": {
+          "sourceId": "aside-v2-reference-234",
+          "textSha256": "388ee59f6808f72d0b83374c4856ff99f090116cf9a997ac247476fe5331afcc",
+          "rawTextSha256": "8aa381e5edba6c8d46088139333324550d2849ffbe99eadbe618b831b05241c2"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-occupation-becomes-a-system",
+      "anchor": "aside-stuckart-s-proposal-for-compulsory-sterilization",
+      "title": "Stuckart’s proposed solution",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "47a86c2cbbb65aebdc0bb021e08c7e6720208ea39d1d8269b7b6fe24e5ebbf29"
+      ],
+      "sourceNoteIds": [
+        "238"
+      ],
+      "sourceNotes": {
+        "238": {
+          "sourceId": "aside-v2-reference-238",
+          "textSha256": "bbdab9e93a67b6edb493b77e4c97955ec451b2ae5ce662247b343b4e78e8f953",
+          "rawTextSha256": "bbdab9e93a67b6edb493b77e4c97955ec451b2ae5ce662247b343b4e78e8f953"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-occupation-becomes-a-system",
+      "anchor": "aside-whose-household-would-be-protected",
+      "title": "Tanya Lifshitz waits for the truck",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "2642ea622409827516a6cb91640a5f95c8eb1782f6c5a5fd0f65c21dfaef3e6c"
+      ],
+      "sourceNoteIds": [
+        "243"
+      ],
+      "sourceNotes": {
+        "243": {
+          "sourceId": "aside-v2-reference-243",
+          "textSha256": "cf0fd09164cb89d4119fd9fd4c5286dae97e69482a323ddc7cba43ec949d1146",
+          "rawTextSha256": "94cf0075973edd7176f3b0dbf3c02cd853d4481d446b3a3b441033c7a6b583a9"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-the-second-battle-of-kharkov",
+      "anchor": "aside-bock-above-the-pocket",
+      "title": "Bock watches from above Lozovenka",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "5f9c83b968c06fc2a92ed219523f81d49659a062ab687c52b32f1a21c16f160c"
+      ],
+      "sourceNoteIds": [
+        "266"
+      ],
+      "sourceNotes": {
+        "266": {
+          "sourceId": "aside-v2-reference-266",
+          "textSha256": "9905d0c4870b3cf00d59c90137d17b8a38941b6e7e8c9647521ba35238ec39d4",
+          "rawTextSha256": "9905d0c4870b3cf00d59c90137d17b8a38941b6e7e8c9647521ba35238ec39d4"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-sevastopol-falls",
+      "anchor": "aside-the-names-of-sevastopol-s-forts",
+      "title": "Sevastopol’s forts on German maps",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "035b6ec961e75192f7e77b7871ff209eb5c6683ef5020948f95f53eda2faa8ea"
+      ],
+      "sourceNoteIds": [
+        "288"
+      ],
+      "sourceNotes": {
+        "288": {
+          "sourceId": "aside-v2-reference-288",
+          "textSha256": "3c1e4945898a310fcb26e8545f252998d40c6158a09855d6173303b9e1df4bd3",
+          "rawTextSha256": "3c1e4945898a310fcb26e8545f252998d40c6158a09855d6173303b9e1df4bd3"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-sevastopol-falls",
+      "anchor": "aside-dora-and-the-work-behind-a-heavy-gun",
+      "title": "Dora’s work beyond the gun crew",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "d2ab300171ac4ae69ad916283578b94baebb2ff534eb9bf6e0d94d5f5b566c70"
+      ],
+      "sourceNoteIds": [
+        "290"
+      ],
+      "sourceNotes": {
+        "290": {
+          "sourceId": "aside-v2-reference-290",
+          "textSha256": "9967fdaa9d6a5d579e494b46eea68bd4f65397601f034254870fa51395b0de51",
+          "rawTextSha256": "9967fdaa9d6a5d579e494b46eea68bd4f65397601f034254870fa51395b0de51"
+        }
+      }
+    },
+    {
+      "route": "/articles/spring-disasters-sevastopol-falls",
+      "anchor": "aside-saving-the-panorama",
+      "title": "Cutting Roubaud’s panorama free",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "0c5f4c8bd0a82016365a6f92ccba31ec66c4c9537ecbdf8b623d1c2249aa9e58"
+      ],
+      "sourceNoteIds": [
+        "296"
+      ],
+      "sourceNotes": {
+        "296": {
+          "sourceId": "aside-v2-reference-296",
+          "textSha256": "307934ccc5ec2b33076ab48581f22ac58f1ac5659e353cab527c349addf54c7f",
+          "rawTextSha256": "e1517580929f248f297e479fd435344126ffe79152e7b328f02f765388a5832e"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-case-blue-opens",
+      "anchor": "aside-stalin-s-comparison-of-tank-strength",
+      "title": "The tanks Stalin counted for Golikov",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "9afa0379b4d715022a2efd430b7d31256bca41b8e4542d2288960453a8308c23"
+      ],
+      "sourceNoteIds": [
+        "337"
+      ],
+      "sourceNotes": {
+        "337": {
+          "sourceId": "aside-v2-reference-337",
+          "textSha256": "9805fdf477a3cf82df8b4497fa8bd5f48b61325dce04080afc650cf0391e877d",
+          "rawTextSha256": "9805fdf477a3cf82df8b4497fa8bd5f48b61325dce04080afc650cf0391e877d"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-case-blue-opens",
+      "anchor": "aside-bock-s-journey-stopped-in-mud",
+      "title": "Bock cannot reach the forward troops",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "7746f2146d93a1b3e6c64f22ad0792de663543b974a99876445765cb7d5c1c13"
+      ],
+      "sourceNoteIds": [
+        "343"
+      ],
+      "sourceNotes": {
+        "343": {
+          "sourceId": "aside-v2-reference-343",
+          "textSha256": "8f7490d5bf284f07ba89dbde3a3da51446bfbf220d6542c4e4575a1453de8a29",
+          "rawTextSha256": "8f7490d5bf284f07ba89dbde3a3da51446bfbf220d6542c4e4575a1453de8a29"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-case-blue-opens",
+      "anchor": "aside-what-left-ladomirovka-and-what-stayed",
+      "title": "Rye distributed at Ladomirovka",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "8673a157ed9ce728d10363876805e4e3de1e2e1bd458ea6d7cac2e1ee2d86661"
+      ],
+      "sourceNoteIds": [
+        "346"
+      ],
+      "sourceNotes": {
+        "346": {
+          "sourceId": "aside-v2-reference-346",
+          "textSha256": "0913976e0e313aaf010ba80ebabb2e8fb178b771e709f5ccb9739939c28b0935",
+          "rawTextSha256": "0913976e0e313aaf010ba80ebabb2e8fb178b771e709f5ccb9739939c28b0935"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-the-battle-for-voronezh",
+      "anchor": "aside-antiaircraft-guns-against-tanks",
+      "title": "Flak crews fire at armour",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "21a02138d065c411b33ab6567d3830e7f00dab526f013b1b395eafdd8a10f2a7"
+      ],
+      "sourceNoteIds": [
+        "361"
+      ],
+      "sourceNotes": {
+        "361": {
+          "sourceId": "aside-v2-reference-361",
+          "textSha256": "432593c9815090dac99ac8d3bf59078d5a9344418c567ed0d1fbe69943f09b39",
+          "rawTextSha256": "432593c9815090dac99ac8d3bf59078d5a9344418c567ed0d1fbe69943f09b39"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-the-battle-for-voronezh",
+      "anchor": "aside-ordering-evacuated-workers-back",
+      "title": "A hundred workers ordered back",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e71d73bd3ffae56d4f365ba7549a67202becf142a8823207980015bf999834a6"
+      ],
+      "sourceNoteIds": [
+        "369"
+      ],
+      "sourceNotes": {
+        "369": {
+          "sourceId": "aside-v2-reference-369",
+          "textSha256": "f7feb4ae8c3327c61c1fbd228e5f646365cc9739d923a4a20b8f76114902ebc2",
+          "rawTextSha256": "f7feb4ae8c3327c61c1fbd228e5f646365cc9739d923a4a20b8f76114902ebc2"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-retreat-across-the-don-country",
+      "anchor": "aside-chuikov-visits-a-mobile-headquarters",
+      "title": "Chuikov finds headquarters in vehicles",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "f63015b3b94bb10509b1b919ac5fe6512f87abc10b1790283f447e9733f6af4c"
+      ],
+      "sourceNoteIds": [
+        "391"
+      ],
+      "sourceNotes": {
+        "391": {
+          "sourceId": "aside-v2-reference-391",
+          "textSha256": "1509745144add25a1f089d39c7e5d6fde6a8249c60f9403ea3d6fa920f8fe17c",
+          "rawTextSha256": "1509745144add25a1f089d39c7e5d6fde6a8249c60f9403ea3d6fa920f8fe17c"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-retreat-across-the-don-country",
+      "anchor": "aside-hiding-cattle-from-evacuation-officials",
+      "title": "Cattle hidden in houses and sheds",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "cf6000e15b368af7165198976cc96df8aba0d56391fa87344a6d49a0072fbc51"
+      ],
+      "sourceNoteIds": [
+        "394"
+      ],
+      "sourceNotes": {
+        "394": {
+          "sourceId": "aside-v2-reference-394",
+          "textSha256": "3e19ecf2dded3d61fa12a75d15fc628e33907179aa6b504a0580bd1e4cdbe466",
+          "rawTextSha256": "3e19ecf2dded3d61fa12a75d15fc628e33907179aa6b504a0580bd1e4cdbe466"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-rostov-and-the-gateway-to-the-caucasus",
+      "anchor": "aside-remaining-with-relatives-in-rostov",
+      "title": "The Okun family remains together",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e2c4ede1f2063eec67e5f9f51a4bae806f5b01bdc97be9beb58a705e620eebe6"
+      ],
+      "sourceNoteIds": [
+        "426"
+      ],
+      "sourceNotes": {
+        "426": {
+          "sourceId": "aside-v2-reference-426",
+          "textSha256": "70f3ca91b739d552daad48573eacc3b4c3d6d5dd9968713f501acd4cc84bc276",
+          "rawTextSha256": "1f035210906a4a4af2b96934f17d09065ed587914b13cbca6f9715cf1b9028f1"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-one-offensive-becomes-two",
+      "anchor": "aside-sharing-airfields-and-ground-services",
+      "title": "Preparing the next airfield",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "ebf25081ab3b0d95fbf01e592f265e703b206afadb766f6da83afe1ba5c2403f"
+      ],
+      "sourceNoteIds": [
+        "441"
+      ],
+      "sourceNotes": {
+        "441": {
+          "sourceId": "aside-v2-reference-441",
+          "textSha256": "3fb1c4f7103be6a82fdfb86d0ab240620ddffbdf05a6ec2e6f39ebb7ab21b9e6",
+          "rawTextSha256": "3fb1c4f7103be6a82fdfb86d0ab240620ddffbdf05a6ec2e6f39ebb7ab21b9e6"
+        }
+      }
+    },
+    {
+      "route": "/articles/case-blue-one-offensive-becomes-two",
+      "anchor": "aside-a-work-party-at-voronezh-s-power-station",
+      "title": "Dismantling Voronezh’s electrical equipment",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "47e06bfe3bf159b697b277799f5acaedd4768d2171838031d3e2d560d650a4d3"
+      ],
+      "sourceNoteIds": [
+        "451"
+      ],
+      "sourceNotes": {
+        "451": {
+          "sourceId": "aside-v2-reference-451",
+          "textSha256": "0412c62e5ffceffacaf0f60e484a9034dd70624158cb5ec56437f47e98f8fc45",
+          "rawTextSha256": "0412c62e5ffceffacaf0f60e484a9034dd70624158cb5ec56437f47e98f8fc45"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-into-the-caucasus",
+      "anchor": "aside-the-flag-on-elbrus",
+      "title": "The flag on Elbrus",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "57d820337b2f179737ae03f1d07866fd44a8ddf54637e335b687dbd0db5a5bc2"
+      ],
+      "sourceNoteIds": [
+        "461"
+      ],
+      "sourceNotes": {
+        "461": {
+          "sourceId": "aside-v2-reference-461",
+          "textSha256": "7c02cde6e50ce47c2efab76d57de9348733ee91bf8719355919b4490227cad23",
+          "rawTextSha256": "7c02cde6e50ce47c2efab76d57de9348733ee91bf8719355919b4490227cad23"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-approaches-to-stalingrad",
+      "anchor": "aside-bringing-new-air-regiments-into-action",
+      "title": "An air regiment needs its ground organization",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "9b97c0e25220bca1f989ec9de04236074d6c439d73b97621c037125bbe0a5368"
+      ],
+      "sourceNoteIds": [
+        "484"
+      ],
+      "sourceNotes": {
+        "484": {
+          "sourceId": "aside-v2-reference-484",
+          "textSha256": "d1e32d454787d45d3c6d367d8d78526cd9b5087a60b14bebe8ade5066f8e7bbe",
+          "rawTextSha256": "d1e32d454787d45d3c6d367d8d78526cd9b5087a60b14bebe8ade5066f8e7bbe"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-approaches-to-stalingrad",
+      "anchor": "aside-a-radio-operator-at-the-don-crossing",
+      "title": "Shirts torn into dressings",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "fc93422ed201ee347003583521e8b0a2b9a6f5cb37cae7bf91fa2add4004b6f2"
+      ],
+      "sourceNoteIds": [
+        "490"
+      ],
+      "sourceNotes": {
+        "490": {
+          "sourceId": "aside-v2-reference-490",
+          "textSha256": "1b066b0bb3e0d6657b5d56a743abfcd5875984b7d6544304164a6285531c8f1d",
+          "rawTextSha256": "ffe91b4f300872d4ff0a5e2140dd589ed7ae6bb3d1cdc6983817ceae7f468379"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-volga-reached",
+      "anchor": "aside-the-bombing-of-august-23",
+      "title": "Boris Kryzhanovsky’s vanished house",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "07b391a463425509ef96baac10e449c4eae4306888499796d27d06e347943db0"
+      ],
+      "sourceNoteIds": [
+        "503"
+      ],
+      "sourceNotes": {
+        "503": {
+          "sourceId": "aside-v2-reference-503",
+          "textSha256": "60e853dfadd44320bb6e43791bba7659cbf1e9f260e6901811053dd19ee858b7",
+          "rawTextSha256": "eaa020f4535047d352cf6b7cea74d7af39677e3f022f1bc50251d73ae764078f"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-volga-reached",
+      "anchor": "aside-what-the-height-allowed-observers-to-see",
+      "title": "What Mamayev Kurgan did not reveal",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "f8e9c78b7e1f4c206aa38b175be07eaf2a127717a4985e8b4f3e0422b9ba03d2"
+      ],
+      "sourceNoteIds": [
+        "506"
+      ],
+      "sourceNotes": {
+        "506": {
+          "sourceId": "aside-v2-reference-506",
+          "textSha256": "1a219c6c0f82c2c915186b09da876835300dd306202f67b095cd3a7373dcba27",
+          "rawTextSha256": "1a219c6c0f82c2c915186b09da876835300dd306202f67b095cd3a7373dcba27"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-battle-for-the-factories",
+      "anchor": "aside-m-nch-recalls-fighting-on-different-floors",
+      "title": "Münch’s men under their own dive-bombers",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "51cd56e33d4033aad4b0637050439744ca8067bb3a35cdbb3d56dc21e00f8140"
+      ],
+      "sourceNoteIds": [
+        "517"
+      ],
+      "sourceNotes": {
+        "517": {
+          "sourceId": "aside-v2-reference-517",
+          "textSha256": "332dc88346713f23f73c98f9abea68a73592cbbfe9252b00f53a0080772c4781",
+          "rawTextSha256": "332dc88346713f23f73c98f9abea68a73592cbbfe9252b00f53a0080772c4781"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-battle-for-the-factories",
+      "anchor": "aside-engineers-and-infantry-at-the-factory-approaches",
+      "title": "Pioneer Battalion 305 at the factories",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "21c10980502e07498f07014d3085d17e851cde6358e4b116439d4787c4ecead8"
+      ],
+      "sourceNoteIds": [
+        "530"
+      ],
+      "sourceNotes": {
+        "530": {
+          "sourceId": "aside-v2-reference-530",
+          "textSha256": "a32a5fdab9e0147e59ae1ce4a1cde4a4fd751574a39d727b812c5568a3624950",
+          "rawTextSha256": "a32a5fdab9e0147e59ae1ce4a1cde4a4fd751574a39d727b812c5568a3624950"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-battle-for-the-factories",
+      "anchor": "aside-lighters-and-flints-for-the-return-journey",
+      "title": "Lighters for Huhn to bring back",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e2003774f13372b8c605fe0e7e807eaa889df7d4c7e1b057512e517f653b4b8c"
+      ],
+      "sourceNoteIds": [
+        "537"
+      ],
+      "sourceNotes": {
+        "537": {
+          "sourceId": "aside-v2-reference-537",
+          "textSha256": "141f56ab6ab8d8a874f6eda75ccb6cfc8fb8f816b1f5b81e7b5eb537d15d82a1",
+          "rawTextSha256": "141f56ab6ab8d8a874f6eda75ccb6cfc8fb8f816b1f5b81e7b5eb537d15d82a1"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-the-other-fronts-keep-fighting",
+      "anchor": "aside-fuel-and-electricity-beneath-lake-ladoga",
+      "title": "Shinberg’s route beneath Ladoga",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "bc2071f5cb57150d69ca30693a6dbfb35dadc5f7f217253d32e818b73e86b20b"
+      ],
+      "sourceNoteIds": [
+        "576"
+      ],
+      "sourceNotes": {
+        "576": {
+          "sourceId": "aside-v2-reference-576",
+          "textSha256": "5bbf38ae61834c6256a2e9b8eea5947aea8711405aa7c2c1f3446bc445e00d41",
+          "rawTextSha256": "b5575b1c160e58ae056b5cef30a356a7d6749170da951a3d621c6fd506649921"
+        }
+      }
+    },
+    {
+      "route": "/articles/caucasus-stalingrad-preparing-uranus",
+      "anchor": "aside-reconnaissance-that-could-give-the-plan-away",
+      "title": "Reconnaissance without marking the main attack",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "57592307a52f9339fc47b536bcf91229ceb3d91e56feff87a6c0892d1a12b8aa"
+      ],
+      "sourceNoteIds": [
+        "584"
+      ],
+      "sourceNotes": {
+        "584": {
+          "sourceId": "aside-v2-reference-584",
+          "textSha256": "67f303d6db752df398b3b8c4266a201e2bb9650fcb010e16a3ff32f4416949de",
+          "rawTextSha256": "67f303d6db752df398b3b8c4266a201e2bb9650fcb010e16a3ff32f4416949de"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-operation-uranus-closes-the-ring",
+      "anchor": "aside-punishing-ferdinand-heim",
+      "title": "Ferdinand Heim takes the blame",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "1ba5de04a0855adcbae985b370278a993e018b953d1cc91146568d2468807170"
+      ],
+      "sourceNoteIds": [
+        "600"
+      ],
+      "sourceNotes": {
+        "600": {
+          "sourceId": "aside-v2-reference-600",
+          "textSha256": "2ce3ffc990b452ed810fe1bda1a2a8b84573757a43b60e6e10ca187678179751",
+          "rawTextSha256": "2ce3ffc990b452ed810fe1bda1a2a8b84573757a43b60e6e10ca187678179751"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-the-airlift-and-the-decision-to-remain",
+      "anchor": "aside-how-many-arrivals-would-750-tons-require",
+      "title": "The arithmetic of 375 arrivals",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e1c0fa182699e80dd3990361dd8f145587d370b4e5727538e187717365e69095"
+      ],
+      "sourceNoteIds": [
+        "622"
+      ],
+      "sourceNotes": {
+        "622": {
+          "sourceId": "aside-v2-reference-622",
+          "textSha256": "50fcbb501947ff2c610d4c3c225aaeadf9ceba00c7387b7d360a0fd24dcf6abe",
+          "rawTextSha256": "50fcbb501947ff2c610d4c3c225aaeadf9ceba00c7387b7d360a0fd24dcf6abe"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-the-airlift-and-the-decision-to-remain",
+      "anchor": "aside-larger-aircraft-additional-problems",
+      "title": "Another aircraft type brings another burden",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "504aa891352f9ff5a9f8fcc243c67327ebd39e0d6fb21fc2e0764d10d2ad0305"
+      ],
+      "sourceNoteIds": [
+        "625"
+      ],
+      "sourceNotes": {
+        "625": {
+          "sourceId": "aside-v2-reference-625",
+          "textSha256": "5278f8a0819dde5d86bb23a29c0d7e2e38c86cc797db431850ba30cca4970001",
+          "rawTextSha256": "5278f8a0819dde5d86bb23a29c0d7e2e38c86cc797db431850ba30cca4970001"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-the-airlift-and-the-decision-to-remain",
+      "anchor": "aside-totals-intervals-and-daily-averages",
+      "title": "Reuber’s charcoal drawing",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "e41117b563ae9b58f8e1f9831b60f9511e84e1db90edfb31fe5eb52f80093ae4"
+      ],
+      "sourceNoteIds": [
+        "633"
+      ],
+      "sourceNotes": {
+        "633": {
+          "sourceId": "aside-v2-reference-633",
+          "textSha256": "161f35f5066fd10c57be5cc0aec5ec68588a48fbf93352521fec06c427f1f0fb",
+          "rawTextSha256": "fe9228491d2212ff968588c17b5dcb7354b2179e0cfb6b409c948bf1615c0bdd"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-the-airlift-and-the-decision-to-remain",
+      "anchor": "aside-kollak-s-letter-home",
+      "title": "Gerhard Kollak’s letter to Luzia",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "5bf81c944bdf188a0357f65c0d29edf149fb34bfbe771abbc0ec62ab1e0bd7b4"
+      ],
+      "sourceNoteIds": [
+        "636"
+      ],
+      "sourceNotes": {
+        "636": {
+          "sourceId": "aside-v2-reference-636",
+          "textSha256": "6777e963330f02aeef36018d7473de24eab1f2df476033513ff42be25bd10ed4",
+          "rawTextSha256": "b891d448af9fa0c95de66fe80144f83e54fd4fd681977f39a27f374f48fe402d"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-mars-and-velikiye-luki",
+      "anchor": "aside-preparing-men-as-well-as-equipment",
+      "title": "Warm food before Operation Mars",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "cbfa93b46f45fad54924bd79b4d8afbbebae1e3a671e406a98dc81ef9ff26c53"
+      ],
+      "sourceNoteIds": [
+        "641"
+      ],
+      "sourceNotes": {
+        "641": {
+          "sourceId": "aside-v2-reference-641",
+          "textSha256": "a94998a68aa635a924d3ad855e51527da712696a572ac6af8140172522c9978f",
+          "rawTextSha256": "a94998a68aa635a924d3ad855e51527da712696a572ac6af8140172522c9978f"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-mars-and-velikiye-luki",
+      "anchor": "aside-the-wounded-in-the-citadel",
+      "title": "Five hundred wounded in the citadel",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "8804c409e50a6ecde285333e81168bce29ae45c564974ee42d2e66dc9a04f908"
+      ],
+      "sourceNoteIds": [
+        "657"
+      ],
+      "sourceNotes": {
+        "657": {
+          "sourceId": "aside-v2-reference-657",
+          "textSha256": "65be635184fd375bfcf3803434fee59bb54769c6768dadfc6b720168d25a40fe",
+          "rawTextSha256": "65be635184fd375bfcf3803434fee59bb54769c6768dadfc6b720168d25a40fe"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-winter-storm-and-little-saturn",
+      "anchor": "aside-the-aircraft-that-escaped-tatsinskaya",
+      "title": "Aircraft escape from Tatsinskaya",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "549164613e8d20b3d4e688f5be77115443f186abf504b2c21e8b083c05d1a769"
+      ],
+      "sourceNoteIds": [
+        "682"
+      ],
+      "sourceNotes": {
+        "682": {
+          "sourceId": "aside-v2-reference-682",
+          "textSha256": "8963c35edd158d72d7b10b0b85ca9c4ef6b00688a95f47ff3905293fc100ec81",
+          "rawTextSha256": "8963c35edd158d72d7b10b0b85ca9c4ef6b00688a95f47ff3905293fc100ec81"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-winter-storm-and-little-saturn",
+      "anchor": "aside-huhn-returns-outside-the-ring",
+      "title": "Huhn remains outside the ring",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "c219f2344c3c3fa162a22a15c669e04292950c4a5abaa2ed0171dd742d928a2f"
+      ],
+      "sourceNoteIds": [
+        "686"
+      ],
+      "sourceNotes": {
+        "686": {
+          "sourceId": "aside-v2-reference-686",
+          "textSha256": "524ecaa4b223ff85fc772afd8db479caefb14aa5d2e42c5f76431266e5a4357b",
+          "rawTextSha256": "524ecaa4b223ff85fc772afd8db479caefb14aa5d2e42c5f76431266e5a4357b"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-operation-iskra-and-the-northern-winter",
+      "anchor": "aside-children-s-canteens-before-iskra",
+      "title": "Additional meals for Leningrad’s children",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "3fac81df33e58f791512f68000cab65f28ac21fed9b0adfe3cb30e6f2113bb04"
+      ],
+      "sourceNoteIds": [
+        "691"
+      ],
+      "sourceNotes": {
+        "691": {
+          "sourceId": "aside-v2-reference-691",
+          "textSha256": "41ae9dcd8a191ca0dd2ecf2414c86f0891a56615f620d48b699900aef6ea5370",
+          "rawTextSha256": "41ae9dcd8a191ca0dd2ecf2414c86f0891a56615f620d48b699900aef6ea5370"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-operation-iskra-and-the-northern-winter",
+      "anchor": "aside-ostrovskaya-hears-the-announcement",
+      "title": "Ostrovskaya listens through the night",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "1c4b444064a5bcc724ec9d085682c2ee9117d08412ccee3fe67a3f57d80e6ecd"
+      ],
+      "sourceNoteIds": [
+        "704"
+      ],
+      "sourceNotes": {
+        "704": {
+          "sourceId": "aside-v2-reference-704",
+          "textSha256": "da09cb1010c475a301c052e4119c5d21ec155f9ac3b79e67b40c101eef28738d",
+          "rawTextSha256": "da09cb1010c475a301c052e4119c5d21ec155f9ac3b79e67b40c101eef28738d"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-operation-iskra-and-the-northern-winter",
+      "anchor": "aside-designing-a-railway-while-building-it",
+      "title": "Zubkov’s teams design while construction begins",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "62820e020ecac52c97af70cc681a5c49ace0f00412acaec500e96f2b2930b6aa"
+      ],
+      "sourceNoteIds": [
+        "706"
+      ],
+      "sourceNotes": {
+        "706": {
+          "sourceId": "aside-v2-reference-706",
+          "textSha256": "4161d4eb06b747c0403178da064b5cea52b045fa314f617dc72b4faa3a551626",
+          "rawTextSha256": "4161d4eb06b747c0403178da064b5cea52b045fa314f617dc72b4faa3a551626"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-the-stalingrad-pocket-destroyed",
+      "anchor": "aside-delivering-the-surrender-demand",
+      "title": "Two attempts to deliver the surrender terms",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "1168a6f7889c12c6a0f25bb026fa18cf04245971a596e7548bf7764718b388ea"
+      ],
+      "sourceNoteIds": [
+        "711"
+      ],
+      "sourceNotes": {
+        "711": {
+          "sourceId": "aside-v2-reference-711",
+          "textSha256": "9df06a44c01ebc3950d15c86795f926e878f6dab0bf861ed0a7fa08d50c60cd6",
+          "rawTextSha256": "9df06a44c01ebc3950d15c86795f926e878f6dab0bf861ed0a7fa08d50c60cd6"
+        }
+      }
+    },
+    {
+      "route": "/articles/winter-reversal-the-stalingrad-pocket-destroyed",
+      "anchor": "aside-food-in-the-department-store-basement",
+      "title": "Hindenlang’s stores in the basement",
+      "sourceFile": "02_Ostkrieg_Volume_Two_v1_1_0.docx",
+      "sourceSha256": "80bb5443b2962437a5b5843e8d4afbef74650ae9ed9d9dfac42f985df0249801",
+      "paragraphTextSha256": [
+        "7379cea2a27b0c5023905eaba2a24494062fe464ccd01521027ae593ea5b7322"
+      ],
+      "sourceNoteIds": [
+        "724"
+      ],
+      "sourceNotes": {
+        "724": {
+          "sourceId": "aside-v2-reference-724",
+          "textSha256": "ffdb5349009b2de1e586d44d0e8b2a0192ac0fd9c774f79e457b3410fcc8a594",
+          "rawTextSha256": "ffdb5349009b2de1e586d44d0e8b2a0192ac0fd9c774f79e457b3410fcc8a594"
+        }
+      }
+    }
+  ],
+  "unchangedNarrative": {
+    "barbarossa-the-decision-to-turn-south-1941-08-21": "c2a16323fbefd94872b4c9486beeebae2b23e9be671c81a8cb9c0d312e86f931",
+    "barbarossa-the-baltic-withdrawal-1941-08-29": "7e207a8c51221ad616ebc4603b12e6dd461577c66965addbde1f79ab0c6fc98d",
+    "winter-reversal-the-stalingrad-pocket-destroyed": "7f85e79be30d40d9bd147f87c9ef2f3d25f2854551cc9b78d09959da7c0c1464",
+    "winter-offensive-demyansk-and-the-limits-of-encirclement": "f26920ab7ed6dd5c05801ad2bbc6e8bea59f12969ee627037f46daa898cf9453",
+    "barbarossa-the-war-moves-east-1941-07-01": "184f48057c2a705cdd1ae23553c71e747de4520c018199d44e83b46f6237c38b",
+    "barbarossa-the-drive-on-moscow-1941-10-02": "0cc2ed99936e1be80a8e0a97ddba48f13dfcbbc7ef8ccd13b933132131581c79",
+    "barbarossa-leningrad-cut-off-1941-09-08": "6aeb3bd5e116d8792f836b7bf97fc78da135673aba90cd4b4fd586fcf129e13e",
+    "winter-reversal-operation-iskra-and-the-northern-winter": "0934e1d003cee930f6e61f0d048c6f0bc3403c4f4756a814f35d4edf754eaacf",
+    "moscow-counterstroke-beyond-december-five": "f3a91d868762b1ae3b3a0039b5d9bbecec84caa9bd07bfa9944ca752cbbd0e9e",
+    "barbarossa-the-war-widens-1941-08-12": "6c94db7f8c94599149daa3757290f8c2fab09dd82522d829b3a29d1d83fcd75e",
+    "barbarossa-the-first-counterattacks-1941-06-25": "05575f081d863084d5934ef9a3b1c1df19932f2d0d0b2589b94456a350bee4a6",
+    "barbarossa-the-battle-beyond-minsk-1941-07-06": "fc9ee2836dfdad431cf6047edc75bb136a196dc9452c8800254429589b5b998e",
+    "case-blue-one-offensive-becomes-two": "bee62770b9a9e94f7566ba7d034387483c013621c7e231269041a69ca5fdd65e",
+    "barbarossa-the-road-to-moscow-1941-10-13": "b2e52ad0837bf66bd9404fc12ad92fd712bce3483f40767beeab16caf014ff49",
+    "caucasus-stalingrad-the-volga-reached": "3913e6ccb85f029d467d54da0a7fa40b0aa4da5e42e71463bed3cfc24603e85d",
+    "barbarossa-a-strategy-under-strain-1941-07-30": "59b62a95aa5adb09531e5216bc14d7a22909f0ca6b2e12573168b0cf8ecbb0eb",
+    "winter-reversal-the-airlift-and-the-decision-to-remain": "7725db04b0ace6f1c0461010b2b86c2c67720564c2f3aab949a3b96e7aebb31b",
+    "case-blue-rostov-and-the-gateway-to-the-caucasus": "0ff1c88c22a75e4a5ca795c995492db0c98c78af36405f8f13e3f0b8e5fe6afd",
+    "spring-disasters-the-kerch-peninsula-defeat": "4c6657c337a72d5e156f73ed274cba3fba2e0a0d361da309e016b12d5634ab0b",
+    "barbarossa-the-soviet-counterstroke-1941-09-03": "37830f305db26e3fe86edf2fa1fc630021439b45740f4a0e245317cd711e571a",
+    "winter-reversal-operation-uranus-closes-the-ring": "e49ca2a39682ec23b8da90f06f2419b133e1ed91449aea57a016e1a5b15d5648",
+    "barbarossa-rostov-falls-1941-11-21": "da4c113a114ccf4df6edada4d9e55f16e745994bb91847453669ff40020c37b8",
+    "winter-offensive-rzhev-and-vyazma": "0a2260766a1be67e92ac8d3fa61cdacde329b9f7fbb99da86a60a6f5b8a8c09a",
+    "case-blue-retreat-across-the-don-country": "1641e8340c3e2175dde35ee5ea23c123ff4de59353f2cafcd345ef3c3ffe9cfe",
+    "barbarossa-the-southern-advance-1941-10-24": "151335d791560d69f29973ad0d508bf3a00674d0ef4589b25bdf37ed25d50ff6",
+    "barbarossa-exhausted-1941-12-05": "ccd3a120fb3440e5acb2fce2904b65a602a0c3546f3618bff73c8307654233b7",
+    "case-blue-case-blue-opens": "a6ac5ef90877f38fb112e8535157f26e1e0f22f0d07aed3db5ea55d833c5d758",
+    "barbarossa-moscow-under-siege-1941-10-19": "288913605b2378919161f71396a32fc65b8e52b9e9852956d15835d704793d12",
+    "barbarossa-the-final-offensive-1941-11-15": "7cf588bcc7b5984e514e07f7890d20a5c8d970cf834c57fd91de90d33897634b",
+    "caucasus-stalingrad-civilian-life-in-the-southern-war": "9f85cde4ea0d239ef74c60c51512a383a712ac526707c19adf347ca2089e7bb7",
+    "barbarossa-rostov-retaken-1941-11-29": "aeee38e480ce66776b34a142727d92504b0a6d65dbab6432d8ac7f67b2cb609b",
+    "barbarossa-the-battle-for-tikhvin-1941-11-09": "1ca386e293340d0d7a664c1aee81ecdc5e8cfc4aafc7567ea0dfc7a17034bafe",
+    "german-invasion-poland-1939-09-01": "5f430393c92e2cfd905bc489a47f97823b3f207e64c339134fbf42c0324da190",
+    "winter-offensive-toropets-and-the-kholm-pocket": "3ae5e7bf03ec67052e69a5b13c31aa81bdbb6dec80d671bd5f7980216378a9d6",
+    "spring-disasters-rebuilding-the-armies": "f3ed737e222142ee66ac33cd31769e5e10181cc6b76233904718e75f4572404b",
+    "moscow-counterstroke-tikhvin-and-the-lifeline-to-leningrad": "452a2adef65bc3f5c73f9325af39e5406f67dc470602afe9560a011280f26dab",
+    "moscow-counterstroke-the-northern-approaches-to-moscow": "5f4fe980e85c89fad8167d32bbf896a678343efacdbffc4add3a6acd19240289",
+    "molotov-ribbentrop-pact-1939-08-23": "4bc92ff8068d0b8bc677976e744251dca4d846594572a683b68316af1b83efd2",
+    "moscow-counterstroke-from-tula-towards-kaluga": "7d301f7e6d5b93e985d47b243f36718e8eaa5312696a4189c35080a321571605",
+    "barbarossa-eighteen-days-of-war-1941-07-09": "17d7532b7ebd5783ac86c02f5305856bca514fe00134979daa184406daece585",
+    "barbarossa-crisis-at-the-capital-1941-10-16": "d9b17ad02a197e8be1bbbe3e80c0f9b86d760632a0e302cb9d4109d1f2167ab9",
+    "winter-reversal-winter-storm-and-little-saturn": "561aec7fdecc02e0ce98a1fb65bc06657eb0fbe1498997420fdb42a320ff0fa6",
+    "soviet-invasion-poland-1939-09-17": "aed05b6f2d1436ff13c9d17b8fe088ad8b7e361b6faff41ef732db2af1c4a5cb",
+    "barbarossa-the-southern-pincer-1941-11-18": "f7091bfed5e65a283e312cd02a7f2e3a41cac2d6b78d84bd85dff6fd05d16708",
+    "winter-offensive-stalin-widens-the-offensive": "d4ce2786cbf72badb94fee4b54c4ba5fd799dc056386ee49d53a04d304baa028",
+    "barbarossa-the-red-army-strikes-back-1941-07-23": "019a3ea72fa7c956338fdec55f3ccee64b1ac8605433517b516b9bcb8c8021cf",
+    "spring-disasters-occupation-becomes-a-system": "17710668bdf53c262d351a08177e978c71cbf7ac5c4597af1450b062ec1b7c92",
+    "barbarossa-before-the-storm-1941-06-21": "41ad2ba3f84c673dd4f5abf3f74067c0dd1d62242c48a9cc54a4a8c0228aaa06",
+    "barbarossa-armies-in-the-trap-1941-10-07": "f099664d5d683a4f8009f7f12f38c127fd404c979b3acdc1097e1997ba246096",
+    "spring-disasters-the-second-battle-of-kharkov": "afd5bfa7e3fc09b1544e7882c26d1f15d3640c118ad4aa00eed4458f27404b1a",
+    "caucasus-stalingrad-the-other-fronts-keep-fighting": "c2572442ef8f43fa120a41a5bc43499a92c37b84c3fd2ba4a58e3b2e6d01dacc",
+    "german-soviet-boundary-treaty-1939-09-28": "f0a26f169f4003d7e5cfe0a76d6b197d3dfa32af16081bb14f46dd841cd0ea31",
+    "german-occupation-administration-1939-10-26": "b0f2ec0a71874342f3c093a243c4fd25794705f31918cfc111e8bc52511c9386",
+    "moscow-counterstroke-retreat-and-the-german-command-crisis": "52d0fa26dd3a246d3213aa16105cc64093aab836d9b42852498f92dfc0472f3c",
+    "winter-offensive-the-barvenkovo-salient": "8164fcd4768efe1e2642a2c6ebc8c3f74be9f70c92148e492a4186bde8eb2e37",
+    "barbarossa-the-kiev-trap-1941-09-12": "60058cd538e8337b640234100a5ce19c7fce36379aa432dffc07a22d3d7f1c3b",
+    "caucasus-stalingrad-into-the-caucasus": "8e81fd26601fb3b571233257b8a727251a6ba53939d6c6b46c1e72b4d6471a62",
+    "barbarossa-the-encirclement-closes-1941-09-16": "fa2d13fbc63a983709b1b1573e60a08a3082ac63dd8524ce2688112db8a52f83",
+    "barbarossa-a-front-divided-1941-08-25": "7c8311d8db9ed3171975cfb8d349524510e057b0b1017950c33d947b2ad412d9",
+    "barbarossa-at-the-moscow-volga-canal-1941-11-28": "ed1a8ee0fe65385aac4f2782f27e34935c658d995d4b1fd194cf1590eca6b6ec",
+    "barbarossa-the-destruction-of-the-pocket-1941-09-26": "51899b302317fb73caea2ae340211ce09babd9238c79426fe13dfbdf739adc2d",
+    "barbarossa-the-limits-of-the-advance-1941-12-02": "78bd8766b972ab1218c0578094e6a7994da56355f4c5978851a859680743c082",
+    "spring-disasters-sevastopol-falls": "84c2a0812a0dd09f6b4ecb525d6cc30d0a99a38369a086f392a825f361777460",
+    "barbarossa-begins-1941-06-22": "c0ca300f3523d028fa34f45f5b7cd2cd430811a2a85ea6fd074ade7f1d3ac7f3",
+    "barbarossa-the-fight-for-gomel-1941-08-19": "e1ab905add701d16885129f5a22cd9481a1eaa85e6b1ba5115e960a259dd8a71",
+    "moscow-counterstroke-the-ground-recovered": "28b9a13b8bfd814afdf1e4b53a72fae73cf6c6484507cb4bd4c5c32aa7ea1e42",
+    "barbarossa-the-offensive-slows-1941-11-02": "c46e1e2fb0c7dc8ba744f6028e546da2f9241d7a7ad783b20f51146c1bdac59c",
+    "barbarossa-the-uman-encirclement-1941-08-06": "e83633d93713a0da5845918a5c9342a424eeb716837033bbf00e0473de5d8b99",
+    "barbarossa-the-edge-of-winter-1941-11-14": "f01a55f0e7d2abf8a62c5b38e382f301c4aac3c5a96a1f5d26e55f3a1dafb692",
+    "barbarossa-smolensk-under-assault-1941-07-16": "6fd3a89f00383f7c6309265859b0b981bcb3ea4f5f019431113a519422871d33",
+    "winter-offensive-the-lyuban-offensive-and-2nd-shock-army": "09999323d0f9f608e755111e111d32e1ea5b4ee6b6cb5bac252ca1c6e694edbc",
+    "barbarossa-victory-and-catastrophe-1941-09-29": "8a3f0576c852d1c5e3de56e7550f94e099b935c801a2309b64fe350cba2fb093",
+    "case-blue-the-battle-for-voronezh": "4b3c1b1b33130380e9ae00d2ef829a4fcfd74e02187ecf4ba2b7ccc6697b3359",
+    "case-blue-the-decision-for-oil-and-the-south": "5df2c8d61316817566f6e4de45fc24f0676c3e89c3f7df33a21ccc03e7ec624f",
+    "caucasus-stalingrad-the-battle-for-the-factories": "1de434010e9a09a688f7526d153c5773ffc1216889a4065d3262592ddd203667",
+    "barbarossa-the-offensive-begins-1941-09-30": "5581b97bdf6b17766fdbe093359d954838069f1774652db89f63d75d79a3f223",
+    "barbarossa-beyond-the-dnieper-1941-07-10": "1f054427ec7009ae842bb5e603692c1b61f905ca56cddee5a92dd536888866fc",
+    "poland-1939-introduction": "965100d3b0cefcdeb136d752018f4b27679c0993ff73297612c320bff88a5012",
+    "winter-reversal-mars-and-velikiye-luki": "0e7c7f8d81f95be3bd475491dc7910aec852cd000aeac020294302ce9208309e",
+    "caucasus-stalingrad-preparing-uranus": "6a54b777f02a81da4d65b9c53485efb325a9a1f0ce10cb00ff8f06e3be3462ee",
+    "barbarossa-the-northern-pincer-1941-11-24": "9e83e1e423148160b7aa43ffc5604c1fd0afd6b5a07481c7fc1241dad570e4e0",
+    "barbarossa-the-fall-of-kiev-1941-09-19": "7760b4be2802ef9e921dafd47701591b8f3c2a6959fb4efe46b963ae6915655f",
+    "barbarossa-the-encirclement-of-minsk-1941-06-28": "a93cdb9346ca4a368b3ab706263d7642ff5113f8e56a85e234249f61850dbd37",
+    "barbarossa-the-southward-offensive-1941-08-26": "70eef6b91bf74c89a18ab109f514ad921143c42fcf833411b9d5363e3f6781c2",
+    "caucasus-stalingrad-the-approaches-to-stalingrad": "fa9f11eecd28150dbcb5b0872ae026f9480794ff2bc69bbda26af2c4c933321c",
+    "barbarossa-the-soviet-union-responds-1941-07-03": "efd35ad78568d5ab5b902b1fbac9c71c6373c4382894d09e47ec7c16018323b5"
+  }
+}
